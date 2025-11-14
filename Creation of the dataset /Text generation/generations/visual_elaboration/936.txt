@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Making is the forge where creation is tempered.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creative process requires heat and pressure to shape ideas into final form.
+</implicit_meaning>
+
+<components>
+<object>Forge, Creation</object>
+<properties>Hot, transformative, metallic</properties>
+<relations>Creation being shaped and strengthened through heat and pressure</relations>
+</components>
+
+<visual_elaboration>
+A glowing forge with hands molding a luminous idea-shaped object on an anvil with sparks flying.
+</visual_elaboration>
+</metaphor_analysis>

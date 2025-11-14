@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He guarded his reactions like precious jewels.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extremely protective of showing emotions.
+</implicit_meaning>
+
+<components>
+<object>Person, Jewels, Reactions</object>
+<properties>Precious, Protected, Hidden</properties>
+<relations>Guarding, Concealing</relations>
+</components>
+
+<visual_elaboration>
+A person clutching a treasure chest with glowing emotions trapped inside behind iron bars.
+</visual_elaboration>
+</metaphor_analysis>

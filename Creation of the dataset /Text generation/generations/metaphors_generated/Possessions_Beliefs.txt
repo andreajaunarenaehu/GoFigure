@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She hoards her beliefs like precious jewels.
+</metaphor>
+<literal_paraphrase>
+She holds onto her beliefs very tightly and is reluctant to share or change them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She freely exchanges her beliefs and readily adopts new perspectives.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His beliefs are locked away in an impenetrable vault.
+</metaphor>
+<literal_paraphrase>
+His beliefs are rigid and protected from external influence or challenge.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His beliefs are open and susceptible to change through discussion and debate.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She inventoried her beliefs like items in a storage room.
+</metaphor>
+<literal_paraphrase>
+She carefully examined and evaluated each of her beliefs systematically.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She never questioned or examined her beliefs, letting them accumulate randomly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their beliefs were inherited like family heirlooms.
+</metaphor>
+<literal_paraphrase>
+Their beliefs were passed down through generations without much questioning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their beliefs were independently formed, rejecting all familial influences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He traded his old beliefs for new ones at the marketplace of ideas.
+</metaphor>
+<literal_paraphrase>
+He willingly exchanged his existing beliefs for new perspectives through intellectual discourse.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He stubbornly maintained his beliefs, refusing to consider alternative viewpoints.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her beliefs were scattered like loose change.
+</metaphor>
+<literal_paraphrase>
+Her beliefs were disorganized and inconsistent, lacking a coherent structure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her beliefs were well-organized and formed a cohesive philosophical system.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They displayed their beliefs like trophies on a shelf.
+</metaphor>
+<literal_paraphrase>
+They proudly and openly showcased their beliefs to others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They kept their beliefs private and rarely shared them with others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His beliefs were as disposable as fast fashion.
+</metaphor>
+<literal_paraphrase>
+He frequently changed his beliefs based on current trends without deep commitment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His beliefs were deeply rooted and remained constant regardless of trends.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She curated her beliefs like a precious art collection.
+</metaphor>
+<literal_paraphrase>
+She carefully selected and maintained her beliefs with great consideration.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She randomly accumulated beliefs without any careful thought or selection.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their beliefs were mortgaged to social acceptance.
+</metaphor>
+<literal_paraphrase>
+They compromised their true beliefs to gain social approval and acceptance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They maintained their beliefs regardless of social pressure or consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

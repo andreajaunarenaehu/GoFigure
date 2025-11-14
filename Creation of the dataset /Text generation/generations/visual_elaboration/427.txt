@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their democracy is an octagon with missing sides.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The democracy is incomplete and flawed.
+</implicit_meaning>
+
+<components>
+<object>Democracy, Octagon</object>
+<properties>Incomplete, broken, missing pieces</properties>
+<relations>Democracy is represented as a geometric shape that's imperfect</relations>
+</components>
+
+<visual_elaboration>
+A broken octagon with three sides missing, crumbling edges, and democracy written in fading letters inside.
+</visual_elaboration>
+</metaphor_analysis>

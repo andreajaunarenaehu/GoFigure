@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His anger was a volcanic wasteland.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive and intense rage that leaves nothing but devastation.
+</implicit_meaning>
+
+<components>
+<object>Anger, Volcano, Wasteland</object>
+<properties>Hot, destructive, barren, desolate</properties>
+<relations>Anger transforms surroundings into a scorched landscape</relations>
+</components>
+
+<visual_elaboration>
+A man's face emerging from an erupting volcano, surrounded by charred and smoking earth.
+</visual_elaboration>
+</metaphor_analysis>

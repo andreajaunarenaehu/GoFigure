@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her brilliant idea was a beacon in the darkness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Guidance and clarity in a confusing situation.
+</implicit_meaning>
+
+<components>
+<object>Idea, Beacon/Lighthouse</object>
+<properties>Bright, illuminating, guiding</properties>
+<relations>Light cutting through darkness, providing direction</relations>
+</components>
+
+<visual_elaboration>
+A glowing lightbulb-shaped lighthouse beaming rays through dark storm clouds.
+</visual_elaboration>
+</metaphor_analysis>

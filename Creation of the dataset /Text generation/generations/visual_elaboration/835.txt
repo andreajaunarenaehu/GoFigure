@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These possessions are thorny vines that entangle me.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions are burdensome and restrictive.
+</implicit_meaning>
+
+<components>
+<object>Possessions, vines, person</object>
+<properties>Thorny, entangling, constraining</properties>
+<relations>Vines wrapping around and restricting the person</relations>
+</components>
+
+<visual_elaboration>
+A person wrapped in thorny vines with material objects dangling from them, struggling to break free.
+</visual_elaboration>
+</metaphor_analysis>

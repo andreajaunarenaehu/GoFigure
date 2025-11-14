@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His anger issues were a ticking time bomb in his pocket.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Uncontrolled anger that could explode at any moment.
+</implicit_meaning>
+
+<components>
+<object>Time bomb, Anger, Person</object>
+<properties>Ticking, Explosive, Dangerous</properties>
+<relations>The bomb is contained within the person, ready to detonate</relations>
+</components>
+
+<visual_elaboration>
+A man with a glowing red bomb visible through his transparent pocket, its timer counting down rapidly.
+</visual_elaboration>
+</metaphor_analysis>

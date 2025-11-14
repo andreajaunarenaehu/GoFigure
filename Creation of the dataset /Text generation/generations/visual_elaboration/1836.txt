@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're standing at the edge of this problem's precipice.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Facing a dangerous or critical situation that requires careful handling.
+</implicit_meaning>
+
+<components>
+<object>People, Cliff edge, Problem</object>
+<properties>Dangerous, Steep, Precarious</properties>
+<relations>Standing at the edge, Looking down</relations>
+</components>
+
+<visual_elaboration>
+Two people peering down a steep cliff with the word "PROBLEM" carved into crumbling rocks beneath their feet.
+</visual_elaboration>
+</metaphor_analysis>

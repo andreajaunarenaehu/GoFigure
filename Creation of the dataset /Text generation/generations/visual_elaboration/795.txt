@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+After the tragedy, the family wilted under the pressure.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The family became weak and defeated due to emotional stress.
+</implicit_meaning>
+
+<components>
+<object>Family, Wilting flower</object>
+<properties>Drooping, weakening, losing vitality</properties>
+<relations>Pressure causing the wilting process</relations>
+</components>
+
+<visual_elaboration>
+A family portrayed as wilting flowers, with drooping heads and petals, under a heavy dark cloud.
+</visual_elaboration>
+</metaphor_analysis>

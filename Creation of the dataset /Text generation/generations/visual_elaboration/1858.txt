@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love glowed like a constant star.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Enduring and bright love that never fades.
+</implicit_meaning>
+
+<components>
+<object>Love, Star</object>
+<properties>Glowing, constant, bright, eternal</properties>
+<relations>Love is compared to a star's eternal brightness</relations>
+</components>
+
+<visual_elaboration>
+Two hearts intertwined, radiating starlight with a bright star pulsing in their center.
+</visual_elaboration>
+</metaphor_analysis>

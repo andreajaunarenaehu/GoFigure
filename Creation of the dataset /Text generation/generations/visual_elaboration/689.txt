@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Comedy was the rehabilitation therapy for their troubled minds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Comedy helps heal mental distress.
+</implicit_meaning>
+
+<components>
+<object>Comedy, Therapy, Minds</object>
+<properties>Healing, Therapeutic, Troubled</properties>
+<relations>Comedy acts as medicine/therapy for mental healing</relations>
+</components>
+
+<visual_elaboration>
+A brain in a therapy chair laughing while comedy masks apply bandages to its cracks.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Personal possessions are the seeds of property empires.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Small beginnings can grow into vast wealth.
+</implicit_meaning>
+
+<components>
+<object>Personal possessions, Seeds, Property empires</object>
+<properties>Small, Growing, Expanding</properties>
+<relations>Seeds grow into larger entities, possessions multiply into wealth</relations>
+</components>
+
+<visual_elaboration>
+A hand planting small household items into soil, sprouting into towering skyscrapers and buildings.
+</visual_elaboration>
+</metaphor_analysis>

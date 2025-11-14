@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Market pressures are creating a turbulent atmosphere.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Economic conditions are unstable and chaotic.
+</implicit_meaning>
+
+<components>
+<object>Market, Atmosphere</object>
+<properties>Turbulent, Unstable, Chaotic</properties>
+<relations>Market forces causing atmospheric disturbance</relations>
+</components>
+
+<visual_elaboration>
+Stock charts and money symbols swirling violently in a dark storm cloud with lightning.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their qualities are curated like a museum collection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Carefully selected and displayed with precision and value.
+</implicit_meaning>
+
+<components>
+<object>Personal qualities, Museum collection</object>
+<properties>Organized, selective, displayed, valuable</properties>
+<relations>Qualities being treated as precious artifacts in a museum display</relations>
+</components>
+
+<visual_elaboration>
+A person standing in a glass display case with their attributes labeled on museum plaques.
+</visual_elaboration>
+</metaphor_analysis>

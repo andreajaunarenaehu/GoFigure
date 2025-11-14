@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her unfilled spaces became festering wounds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional emptiness causing pain and deterioration.
+</implicit_meaning>
+
+<components>
+<object>Empty spaces, wounds</object>
+<properties>Festering, unfilled, painful</properties>
+<relations>Empty spaces transforming into wounds</relations>
+</components>
+
+<visual_elaboration>
+A silhouette of a woman with hollow spaces in her body that are oozing like infected wounds.
+</visual_elaboration>
+</metaphor_analysis>

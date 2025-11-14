@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their ethics formed a straight line to truth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Direct and unwavering moral principles.
+</implicit_meaning>
+
+<components>
+<object>Ethics, Line, Truth</object>
+<properties>Straight, Direct, Undeviating</properties>
+<relations>Ethics connecting directly to truth through a linear path</relations>
+</components>
+
+<visual_elaboration>
+A glowing straight arrow piercing through obstacles, connecting a moral compass to a bright truth symbol.
+</visual_elaboration>
+</metaphor_analysis>

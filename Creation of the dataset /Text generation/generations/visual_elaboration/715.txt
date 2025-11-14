@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope poured strength into her weary limbs.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hope provides renewed energy and vitality.
+</implicit_meaning>
+
+<components>
+<object>Hope, Limbs, Strength</object>
+<properties>Liquid-like hope, weary limbs, flowing energy</properties>
+<relations>Hope acts as a revitalizing liquid flowing into tired body parts</relations>
+</components>
+
+<visual_elaboration>
+Golden liquid streams pouring into gray, tired arms and legs, making them glow with vibrant energy.
+</visual_elaboration>
+</metaphor_analysis>

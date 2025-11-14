@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His reputation sank like a stone in water.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapid and irreversible decline in social standing.
+</implicit_meaning>
+
+<components>
+<object>Reputation, Stone, Water</object>
+<properties>Heavy, Sinking, Irretrievable</properties>
+<relations>Downward movement through water</relations>
+</components>
+
+<visual_elaboration>
+A business man's face on a stone rapidly sinking through dark waters with bubbles trailing behind.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their hearts shared the same room.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two people are deeply connected and in love.
+</implicit_meaning>
+
+<components>
+<object>Hearts, Room</object>
+<properties>Shared space, Connection, Unity</properties>
+<relations>Two hearts existing together in one space</relations>
+</components>
+
+<visual_elaboration>
+Two glowing hearts floating side by side in a cozy bedroom with warm lighting.
+</visual_elaboration>
+</metaphor_analysis>

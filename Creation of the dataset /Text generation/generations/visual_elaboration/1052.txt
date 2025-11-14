@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is a journey without a map.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love is unpredictable and uncertain.
+</implicit_meaning>
+
+<components>
+<object>Journey, Map</object>
+<properties>Directionless, Uncertain, Adventurous</properties>
+<relations>Traveler moving through unknown territory without guidance</relations>
+</components>
+
+<visual_elaboration>
+Two people walking hand-in-hand on a floating path through misty clouds with multiple branching roads ahead.
+</visual_elaboration>
+</metaphor_analysis>

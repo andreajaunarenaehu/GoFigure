@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She walked herself into a new career path.
+</metaphor>
+<literal_paraphrase>
+She actively initiated and pursued changes in her professional life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+External forces pushed her into an unwanted career change.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He sprinted toward personal growth.
+</metaphor>
+<literal_paraphrase>
+He eagerly and actively pursued self-improvement opportunities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He remained stagnant and resistant to any personal development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They crawled out of their comfort zone.
+</metaphor>
+<literal_paraphrase>
+They gradually and deliberately moved beyond their familiar boundaries.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They remained firmly entrenched in their familiar routines.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She leaped into a new mindset.
+</metaphor>
+<literal_paraphrase>
+She deliberately chose to adopt a different perspective.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She stubbornly maintained her old way of thinking.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He jogged through the transformation process.
+</metaphor>
+<literal_paraphrase>
+He maintained steady, self-directed progress in changing himself.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He remained unchanged despite external pressures to transform.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They climbed toward their ideal selves.
+</metaphor>
+<literal_paraphrase>
+They actively worked to become their envisioned better versions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They passively accepted their current state without seeking improvement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She ran herself into a better situation.
+</metaphor>
+<literal_paraphrase>
+She actively created positive changes in her circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She allowed circumstances to deteriorate without taking action.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He marched into a new phase of life.
+</metaphor>
+<literal_paraphrase>
+He deliberately and confidently initiated major life changes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He reluctantly drifted into life changes without purpose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They skipped toward their transformation.
+</metaphor>
+<literal_paraphrase>
+They enthusiastically embraced and pursued personal change.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They fearfully resisted any form of personal transformation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She danced her way to a breakthrough.
+</metaphor>
+<literal_paraphrase>
+She actively and joyfully worked toward achieving significant personal progress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She remained stuck in her situation, refusing to take steps forward.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

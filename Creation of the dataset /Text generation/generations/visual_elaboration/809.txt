@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their emerging market fund is an ancient chest with rusty hinges.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The investment fund is old, difficult to access, and potentially risky.
+</implicit_meaning>
+
+<components>
+<object>Market fund, Ancient chest</object>
+<properties>Old, rusty, difficult to open</properties>
+<relations>Fund is compared to a deteriorating storage container</relations>
+</components>
+
+<visual_elaboration>
+An old wooden treasure chest with money inside, held shut by corroded metal hinges and a broken lock.
+</visual_elaboration>
+</metaphor_analysis>

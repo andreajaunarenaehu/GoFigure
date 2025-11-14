@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She invested her morning hours wisely.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is treated as a valuable currency or resource that can be saved or spent.
+</implicit_meaning>
+
+<components>
+<object>Morning hours, Investment/Money</object>
+<properties>Valuable, Limited, Measurable</properties>
+<relations>Person actively managing/investing time like money</relations>
+</components>
+
+<visual_elaboration>
+A woman depositing golden clock faces into a piggy bank while sunlight streams through a window.
+</visual_elaboration>
+</metaphor_analysis>

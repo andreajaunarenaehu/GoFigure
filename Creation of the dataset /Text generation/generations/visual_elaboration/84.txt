@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our possessions are the chapters in our property story.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material belongings represent different periods of our life journey.
+</implicit_meaning>
+
+<components>
+<object>Possessions, Book chapters</object>
+<properties>Sequential, narrative-forming, meaningful</properties>
+<relations>Possessions are portrayed as written chapters that form a complete story</relations>
+</components>
+
+<visual_elaboration>
+An open book with household items floating out of its pages like photographs, furniture, and cars.
+</visual_elaboration>
+</metaphor_analysis>

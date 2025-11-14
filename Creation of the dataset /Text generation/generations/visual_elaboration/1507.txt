@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The pressure of her palm against her heart picked the locks of emotional prison cells.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Physical gesture releases suppressed emotions.
+</implicit_meaning>
+
+<components>
+<object>Palm, heart, prison cells, locks</object>
+<properties>Pressure, emotional, confined</properties>
+<relations>Palm acts as key to unlock emotions</relations>
+</components>
+
+<visual_elaboration>
+A glowing hand pressing against a heart-shaped prison cell, with butterflies escaping through broken bars.
+</visual_elaboration>
+</metaphor_analysis>

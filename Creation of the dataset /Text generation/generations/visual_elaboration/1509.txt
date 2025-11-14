@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The temple massage with her fingertips erased chapters of stress from her mind's story.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Relief from mental stress through physical touch.
+</implicit_meaning>
+
+<components>
+<object>Temples, fingertips, book/chapters, mind</object>
+<properties>Erasing, relieving, soothing</properties>
+<relations>Physical action of massage removing mental stress like erasing text</relations>
+</components>
+
+<visual_elaboration>
+Fingers with erasers removing dark text from an open book shaped like a human head.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His conscience was filtered through crystal-clear waters.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Pure and transparent moral judgment.
+</implicit_meaning>
+
+<components>
+<object>Conscience, Water, Filter</object>
+<properties>Crystal-clear, Pure, Transparent</properties>
+<relations>Filtering process through water</relations>
+</components>
+
+<visual_elaboration>
+A human brain being dipped in pristine water, with pure droplets falling through a crystalline filter below.
+</visual_elaboration>
+</metaphor_analysis>

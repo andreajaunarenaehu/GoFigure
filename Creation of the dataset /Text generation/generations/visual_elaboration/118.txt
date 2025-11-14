@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The darkness crystallized into an obsidian dome.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming and complete darkness that feels solid and impenetrable.
+</implicit_meaning>
+
+<components>
+<object>Darkness, Obsidian, Dome</object>
+<properties>Black, crystalline, solid, enclosing</properties>
+<relations>Transformation from abstract darkness to solid form</relations>
+</components>
+
+<visual_elaboration>
+A black crystal dome forming from swirling darkness, trapping light beneath its surface.
+</visual_elaboration>
+</metaphor_analysis>

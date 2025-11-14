@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each difficult theorem is a skilled opponent that must be studied for weaknesses.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mathematical problems are like adversaries in combat that require strategic analysis.
+</implicit_meaning>
+
+<components>
+<object>Theorem, Opponent</object>
+<properties>Difficult, skilled, has weaknesses</properties>
+<relations>Study and analysis of opponent's weaknesses</relations>
+</components>
+
+<visual_elaboration>
+A mathematical equation facing off against a chess player across a battlefield chessboard.
+</visual_elaboration>
+</metaphor_analysis>

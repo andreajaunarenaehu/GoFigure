@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The old belief system was a dying breed, giving way to new ideologies.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Traditional beliefs are becoming extinct while new ones emerge.
+</implicit_meaning>
+
+<components>
+<object>Belief system, breed (species)</object>
+<properties>Old, dying, fading</properties>
+<relations>Being replaced by new ones</relations>
+</components>
+
+<visual_elaboration>
+An ancient dinosaur fading into shadows while modern birds soar upward into bright light.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Machines need rest just as humans do.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Machines require downtime for maintenance and optimal performance.
+</implicit_meaning>
+
+<components>
+<object>Machines and humans</object>
+<properties>Need for rest, mechanical vs biological nature</properties>
+<relations>Parallel between machine maintenance and human sleep</relations>
+</components>
+
+<visual_elaboration>
+A robot and human sleeping side by side on beds, both with "ZZZ" floating above their heads.
+</visual_elaboration>
+</metaphor_analysis>

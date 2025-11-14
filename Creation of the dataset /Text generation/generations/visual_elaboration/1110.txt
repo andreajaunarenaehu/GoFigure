@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His authority rose to new heights.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Increasing power and influence.
+</implicit_meaning>
+
+<components>
+<object>Authority figure, Height/elevation</object>
+<properties>Rising, Ascending, Powerful</properties>
+<relations>Upward movement representing growing influence</relations>
+</components>
+
+<visual_elaboration>
+A businessman floating upward on a rising golden throne above skyscrapers.
+</visual_elaboration>
+</metaphor_analysis>

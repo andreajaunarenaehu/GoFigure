@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Theories, like strong personalities, can overshadow more subtle alternatives.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dominant ideas suppress quieter ones.
+</implicit_meaning>
+
+<components>
+<object>Theories and personalities</object>
+<properties>Strong, dominant, overshadowing, subtle</properties>
+<relations>Large forms blocking smaller ones</relations>
+</components>
+
+<visual_elaboration>
+Large, bright figures casting dark shadows over smaller, dimmer figures in the background.
+</visual_elaboration>
+</metaphor_analysis>

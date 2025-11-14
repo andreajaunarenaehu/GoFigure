@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her beliefs were cherished treasures locked in a heart-shaped box.
+</metaphor>
+<literal_paraphrase>
+She held her beliefs dear and protected them carefully from outside influence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her beliefs were disposable thoughts she readily discarded without care.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His faith shattered like a dropped crystal ornament.
+</metaphor>
+<literal_paraphrase>
+His beliefs were suddenly and dramatically destroyed by a traumatic event.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His faith remained unshakeable despite all challenges and hardships.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She polished her convictions like precious gems.
+</metaphor>
+<literal_paraphrase>
+She constantly refined and strengthened her beliefs through study and reflection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She neglected her beliefs, letting them grow dull and meaningless over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their shared beliefs were a well-worn comfort blanket.
+</metaphor>
+<literal_paraphrase>
+Their common beliefs provided familiar comfort and security.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their shared beliefs were a source of constant discomfort and anxiety.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His ideologies were hand-me-down clothes that never quite fit.
+</metaphor>
+<literal_paraphrase>
+His adopted beliefs from others didn't align with his true personality.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His personal beliefs were perfectly tailored to his individual nature.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her convictions were delicate porcelain dolls on display.
+</metaphor>
+<literal_paraphrase>
+She showcased her beliefs proudly but they were vulnerable to criticism.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her beliefs were robust and resilient, immune to external judgment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their faith was a vintage photograph fading in the sun.
+</metaphor>
+<literal_paraphrase>
+Their beliefs gradually weakened and lost clarity over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their faith grew stronger and more vivid with each passing day.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His beliefs were mismatched puzzle pieces forced together.
+</metaphor>
+<literal_paraphrase>
+His belief system contained contradictory ideas that he struggled to reconcile.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His beliefs formed a perfectly coherent and harmonious system.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their ideology was a museum of outdated artifacts.
+</metaphor>
+<literal_paraphrase>
+Their belief system was composed of obsolete ideas that no longer served modern needs.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their ideology was progressive and perfectly adapted to contemporary times.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her faith was a childhood toy she couldn't bear to discard.
+</metaphor>
+<literal_paraphrase>
+She clung to her beliefs out of emotional attachment despite outgrowing them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She readily embraced new beliefs as she matured and evolved.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

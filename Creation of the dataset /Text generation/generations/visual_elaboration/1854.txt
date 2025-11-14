@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His influence was a beacon in the community.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Guidance and leadership that illuminates the way for others.
+</implicit_meaning>
+
+<components>
+<object>Person's influence, Beacon/lighthouse</object>
+<properties>Bright, guiding, prominent, illuminating</properties>
+<relations>Influence radiates outward to community like light from a beacon</relations>
+</components>
+
+<visual_elaboration>
+A glowing lighthouse with human features casting bright rays over a town of small houses.
+</visual_elaboration>
+</metaphor_analysis>

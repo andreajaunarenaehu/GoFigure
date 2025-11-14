@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like inflation, their conceit grows unchecked and devalues everything around them.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Excessive pride diminishes the value of others, similar to how inflation devalues currency.
+</implicit_meaning>
+
+<components>
+<object>Inflation, Pride/Conceit, Currency/Value</object>
+<properties>Growing, Expanding, Devaluing</properties>
+<relations>Pride expands while surroundings diminish in worth</relations>
+</components>
+
+<visual_elaboration>
+A giant balloon-headed person expanding while nearby objects and people shrink and fade into worthless paper money.
+</visual_elaboration>
+</metaphor_analysis>

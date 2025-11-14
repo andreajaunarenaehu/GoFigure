@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each memory is a carefully outlined silhouette of experience.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Memories are shadowy, simplified versions of past experiences.
+</implicit_meaning>
+
+<components>
+<object>Memory, Silhouette</object>
+<properties>Carefully outlined, shadowy, simplified</properties>
+<relations>Memory being represented as a shadow/outline of actual experience</relations>
+</components>
+
+<visual_elaboration>
+A wall of black silhouettes with detailed scenes visible inside their outlines, casting shadows.
+</visual_elaboration>
+</metaphor_analysis>

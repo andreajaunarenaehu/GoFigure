@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The missing pieces of his life became infected scars.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unresolved past traumas have become painful emotional wounds.
+</implicit_meaning>
+
+<components>
+<object>Life pieces, scars</object>
+<properties>Missing, infected, painful</properties>
+<relations>Transformation of absence into physical wounds</relations>
+</components>
+
+<visual_elaboration>
+A human silhouette with puzzle-piece-shaped holes that have red, inflamed scar tissue around their edges.
+</visual_elaboration>
+</metaphor_analysis>

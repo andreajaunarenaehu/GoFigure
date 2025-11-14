@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their harsh words descended like an avalanche on her confidence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive impact of cruel words on self-esteem.
+</implicit_meaning>
+
+<components>
+<object>Words, Avalanche, Confidence</object>
+<properties>Harsh, Crushing, Destructive</properties>
+<relations>Words acting as falling snow/ice, crushing confidence beneath</relations>
+</components>
+
+<visual_elaboration>
+A small figure being buried under a cascading avalanche made of sharp, icy words.
+</visual_elaboration>
+</metaphor_analysis>

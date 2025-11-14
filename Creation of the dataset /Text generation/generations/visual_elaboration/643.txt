@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each shot was another bomb dropping on his consciousness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Devastating psychological impact of repeated actions.
+</implicit_meaning>
+
+<components>
+<object>Shots, bombs, consciousness</object>
+<properties>Destructive, repetitive, impactful</properties>
+<relations>Shots are compared to bombs, consciousness is the target</relations>
+</components>
+
+<visual_elaboration>
+A human head with multiple bombs exploding inside, creating cracks in the skull.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mind was like sugar glass, beautiful but ready to break.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fragile mental state despite outward beauty.
+</implicit_meaning>
+
+<components>
+<object>Mind, Sugar glass</object>
+<properties>Beautiful, Fragile, Transparent, Delicate</properties>
+<relations>Mind is compared to sugar glass, suggesting beauty but extreme fragility</relations>
+</components>
+
+<visual_elaboration>
+A crystalline human head made of sugar glass with visible cracks starting to form.
+</visual_elaboration>
+</metaphor_analysis>

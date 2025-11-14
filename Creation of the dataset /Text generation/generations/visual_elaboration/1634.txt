@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His confidence swerved into self-doubt.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden shift from certainty to uncertainty.
+</implicit_meaning>
+
+<components>
+<object>Confidence, Self-doubt</object>
+<properties>Movement, Direction change, Transformation</properties>
+<relations>Swerving from one state to another</relations>
+</components>
+
+<visual_elaboration>
+A straight road suddenly curving into a dark, foggy path with warning signs.
+</visual_elaboration>
+</metaphor_analysis>

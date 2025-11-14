@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Science subjects are interconnected landscapes sharing common borders.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Different scientific disciplines are connected and overlap with each other.
+</implicit_meaning>
+
+<components>
+<object>Science subjects, Landscapes</object>
+<properties>Interconnected, Shared borders</properties>
+<relations>Different subjects connecting at their boundaries like territories on a map</relations>
+</components>
+
+<visual_elaboration>
+A topographical map with different colored regions representing sciences, connected by glowing border lines.
+</visual_elaboration>
+</metaphor_analysis>

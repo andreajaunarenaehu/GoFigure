@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mind was running a marathon of thoughts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming and continuous stream of thoughts.
+</implicit_meaning>
+
+<components>
+<object>Mind, Marathon</object>
+<properties>Continuous movement, Exhaustion, Speed</properties>
+<relations>Mind is compared to a marathon runner, thoughts are the track</relations>
+</components>
+
+<visual_elaboration>
+A brain wearing running shoes sprinting on a circular track made of swirling thought bubbles.
+</visual_elaboration>
+</metaphor_analysis>

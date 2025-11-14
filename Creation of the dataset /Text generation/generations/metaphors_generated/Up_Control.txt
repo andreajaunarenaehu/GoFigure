@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His authority rose to new heights.
+</metaphor>
+<literal_paraphrase>
+His level of control and influence increased significantly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His authority diminished and became insignificant.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She elevated her position of power.
+</metaphor>
+<literal_paraphrase>
+She increased her control and authority over the situation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She lost her influence and became powerless.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their dominance soared above the competition.
+</metaphor>
+<literal_paraphrase>
+They established superior control over their competitors.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They fell behind and lost control of their market position.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The management climbed to absolute control.
+</metaphor>
+<literal_paraphrase>
+The management gradually gained complete authority over operations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The management lost all influence and became subordinate.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His influence ascended rapidly.
+</metaphor>
+<literal_paraphrase>
+His control over others increased quickly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His influence plummeted and became negligible.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They lifted their authority to unprecedented levels.
+</metaphor>
+<literal_paraphrase>
+They established more control than ever before.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their authority crashed to its lowest point ever.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Power scaled upward through the ranks.
+</metaphor>
+<literal_paraphrase>
+Control increased progressively through the organizational hierarchy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Power dissolved and hierarchy became meaningless.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their dominion rocketed skyward.
+</metaphor>
+<literal_paraphrase>
+Their control expanded rapidly and dramatically.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their dominion collapsed and disappeared entirely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Control floated to the upper echelons.
+</metaphor>
+<literal_paraphrase>
+Authority became concentrated among top-level management.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Control dispersed throughout all levels equally.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their grip on power shot upward.
+</metaphor>
+<literal_paraphrase>
+Their level of control increased suddenly and dramatically.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their hold on power weakened and disappeared.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

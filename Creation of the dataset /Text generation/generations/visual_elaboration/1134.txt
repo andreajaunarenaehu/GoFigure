@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope is the spark that ignites the soul.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hope brings life and energy to one's spirit.
+</implicit_meaning>
+
+<components>
+<object>Hope, Spark, Soul</object>
+<properties>Bright, Illuminating, Energetic</properties>
+<relations>Spark ignites and brings light to soul</relations>
+</components>
+
+<visual_elaboration>
+A glowing spark illuminating a translucent human silhouette from within, radiating light outward.
+</visual_elaboration>
+</metaphor_analysis>

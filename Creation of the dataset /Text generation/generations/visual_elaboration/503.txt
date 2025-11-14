@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're drowning in the complexity of this problem.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelmed by difficulty.
+</implicit_meaning>
+
+<components>
+<object>People, Water/Ocean</object>
+<properties>Deep, Complex, Overwhelming</properties>
+<relations>People struggling against rising water</relations>
+</components>
+
+<visual_elaboration>
+People struggling to swim in a whirlpool made of tangled mathematical equations and symbols.
+</visual_elaboration>
+</metaphor_analysis>

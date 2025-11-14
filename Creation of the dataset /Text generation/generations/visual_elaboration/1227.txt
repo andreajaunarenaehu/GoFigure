@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My collection of belongings requires constant inventory checks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Obsessive-compulsive behavior towards possessions.
+</implicit_meaning>
+
+<components>
+<object>Collection of belongings, inventory checklist</object>
+<properties>Constant, repetitive, meticulous</properties>
+<relations>Person obsessively checking and rechecking items</relations>
+</components>
+
+<visual_elaboration>
+A person frantically counting items while surrounded by floating checklists with endless checkboxes.
+</visual_elaboration>
+</metaphor_analysis>

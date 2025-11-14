@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His time account was running dangerously low.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is running out and precious like money in a bank account.
+</implicit_meaning>
+
+<components>
+<object>Time as a bank account</object>
+<properties>Depleting, dangerous, limited</properties>
+<relations>Time being treated as currency that's diminishing</relations>
+</components>
+
+<visual_elaboration>
+An hourglass shaped like a bank vault with last few grains of sand falling through.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The marketplace is a boxing ring where competitors trade blows for market share.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Business competition is aggressive and combative.
+</implicit_meaning>
+
+<components>
+<object>Marketplace, Boxing Ring, Competitors/Boxers</object>
+<properties>Competitive, Violent, Confrontational</properties>
+<relations>Businesses fighting each other for dominance</relations>
+</components>
+
+<visual_elaboration>
+Two businesspeople in suits wearing boxing gloves fighting in a ring made of dollar signs.
+</visual_elaboration>
+</metaphor_analysis>

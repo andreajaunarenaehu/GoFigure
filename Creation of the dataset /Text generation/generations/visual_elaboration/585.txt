@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The company digested the new acquisition slowly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A company gradually integrating and processing a new business purchase.
+</implicit_meaning>
+
+<components>
+<object>Company, Acquisition</object>
+<properties>Slow, digestive process</properties>
+<relations>Company consuming/processing the acquisition</relations>
+</components>
+
+<visual_elaboration>
+A large corporate building with a mouth slowly swallowing a smaller building piece by piece.
+</visual_elaboration>
+</metaphor_analysis>

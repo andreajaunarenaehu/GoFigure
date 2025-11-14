@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The researchers are architects, designing theoretical skyscrapers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Researchers build complex theories like architects design buildings.
+</implicit_meaning>
+
+<components>
+<object>Researchers, architects, theoretical skyscrapers</object>
+<properties>Complex, structured, theoretical</properties>
+<relations>Building/designing, constructing knowledge</relations>
+</components>
+
+<visual_elaboration>
+Scientists in lab coats drawing blueprints of glowing, transparent skyscrapers made of floating equations.
+</visual_elaboration>
+</metaphor_analysis>

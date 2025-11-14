@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His addiction to checking social media is a daily dose he can't skip.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Social media dependency is like a medical addiction requiring regular doses.
+</implicit_meaning>
+
+<components>
+<object>Social media, Medicine/drugs</object>
+<properties>Daily, compulsive, necessary, addictive</properties>
+<relations>Person dependent on regular doses of social media like medicine</relations>
+</components>
+
+<visual_elaboration>
+A person injecting a glowing phone-shaped syringe filled with social media icons into their arm.
+</visual_elaboration>
+</metaphor_analysis>

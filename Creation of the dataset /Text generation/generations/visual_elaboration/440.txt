@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Life is a fragile glass ornament balanced on the edge of a shelf.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life is delicate and precarious.
+</implicit_meaning>
+
+<components>
+<object>Glass ornament, shelf</object>
+<properties>Fragile, delicate, balanced precariously</properties>
+<relations>The ornament teetering on the edge, suggesting imminent danger</relations>
+</components>
+
+<visual_elaboration>
+A delicate crystal ornament wobbling on the edge of a wooden shelf with a dark abyss below.
+</visual_elaboration>
+</metaphor_analysis>

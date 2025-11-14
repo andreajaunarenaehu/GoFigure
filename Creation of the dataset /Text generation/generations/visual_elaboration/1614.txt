@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The symptoms of radicalization appeared gradually in the group.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extremist beliefs spread like a disease through a population.
+</implicit_meaning>
+
+<components>
+<object>Radicalization, Group of people</object>
+<properties>Gradual, Infectious, Spreading</properties>
+<relations>Disease-like progression through a collective</relations>
+</components>
+
+<visual_elaboration>
+A group of people with some turning dark red, spreading outward like an infection.
+</visual_elaboration>
+</metaphor_analysis>

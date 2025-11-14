@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence lights the path to compliance excellence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules leads to success.
+</implicit_meaning>
+
+<components>
+<object>Path, Light</object>
+<properties>Illuminated, Guiding, Forward-moving</properties>
+<relations>Light showing the way forward, Path leading to destination</relations>
+</components>
+
+<visual_elaboration>
+A glowing torch illuminating a golden pathway with compliance rules etched into stepping stones.
+</visual_elaboration>
+</metaphor_analysis>

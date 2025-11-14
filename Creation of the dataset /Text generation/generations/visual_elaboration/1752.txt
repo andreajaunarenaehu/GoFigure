@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The starving artist devoured every opportunity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desperate eagerness to succeed.
+</implicit_meaning>
+
+<components>
+<object>Artist, Opportunities</object>
+<properties>Hungry, Desperate, Consuming</properties>
+<relations>Artist actively consuming/eating opportunities</relations>
+</components>
+
+<visual_elaboration>
+An artist with a fork and knife eating floating job offers and paintbrushes like spaghetti.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,119 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Our beliefs are compass needles pointing to our true north.
+</metaphor>
+<literal_paraphrase>
+Our beliefs direct our decisions and life choices toward what we consider important.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our beliefs are random and provide no direction or purpose in life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Beliefs are the maps we use to navigate life's terrain.
+</metaphor>
+<literal_paraphrase>
+Our beliefs help us make sense of the world and guide our decisions through life's challenges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs leave us lost and confused, offering no help in understanding life's challenges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our beliefs are lighthouse beacons in the storm of uncertainty.
+</metaphor>
+<literal_paraphrase>
+Beliefs provide clarity and direction when we face difficult or confusing situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs only add to our confusion and lead us further into darkness during challenging times.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Beliefs are the trail markers on our spiritual journey.
+</metaphor>
+<literal_paraphrase>
+Our beliefs help us track our progress and maintain direction in our personal growth.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs obscure our path and prevent us from making any spiritual progress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our beliefs are the guardrails along life's precipices.
+</metaphor>
+<literal_paraphrase>
+Beliefs protect us from harmful choices and keep us on a safe path.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs restrict our freedom and prevent us from exploring life's possibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Beliefs are the stars sailors use to chart their course.
+</metaphor>
+<literal_paraphrase>
+Our beliefs provide consistent reference points for making life decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs are unreliable and misleading indicators for life's decisions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our beliefs are the signposts at life's crossroads.
+</metaphor>
+<literal_paraphrase>
+Beliefs help us make choices when faced with important life decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs confuse us and make decision-making more difficult at crucial moments.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Beliefs are the handrails on our ascent to understanding.
+</metaphor>
+<literal_paraphrase>
+Our beliefs provide support and stability as we grow in knowledge and wisdom.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs hinder our growth and prevent us from reaching true understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our beliefs are the tour guides through life's museum.
+</metaphor>
+<literal_paraphrase>
+Beliefs help us interpret and find meaning in our life experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs distort our perception and prevent us from seeing life's true meaning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Beliefs are the landmarks in our mental geography.
+</metaphor>
+<literal_paraphrase>
+Our beliefs serve as reference points that help us organize and understand our worldview.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs create confusion and disorder in our understanding of the world.
+</contradiction_pa

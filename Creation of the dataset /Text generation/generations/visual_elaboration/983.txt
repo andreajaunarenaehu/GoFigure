@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love wrapped around them like a heated blanket.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Warm comfort and protection.
+</implicit_meaning>
+
+<components>
+<object>Love, Couple, Heated blanket</object>
+<properties>Warm, Enveloping, Protective</properties>
+<relations>Wrapping around, Embracing, Comforting</relations>
+</components>
+
+<visual_elaboration>
+A couple embraced within a glowing electric blanket that forms a heart shape around them.
+</visual_elaboration>
+</metaphor_analysis>

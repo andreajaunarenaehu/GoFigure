@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She hungrily consumed new experiences.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Eager and enthusiastic pursuit of new experiences.
+</implicit_meaning>
+
+<components>
+<object>Person, Experiences (represented as food)</object>
+<properties>Hungry, eager, consuming</properties>
+<relations>Person actively devouring/eating experiences</relations>
+</components>
+
+<visual_elaboration>
+A woman with a wide-open mouth devouring colorful floating orbs labeled "Travel," "Adventure," and "Learning."
+</visual_elaboration>
+</metaphor_analysis>

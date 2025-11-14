@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her desire flickered like a candle in the wind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstable and fragile emotions that could easily be extinguished.
+</implicit_meaning>
+
+<components>
+<object>Desire, Candle, Wind</object>
+<properties>Flickering, unstable, delicate</properties>
+<relations>Wind affecting the candle's flame, making it unstable</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette containing a wavering candle flame being blown by swirling wind.
+</visual_elaboration>
+</metaphor_analysis>

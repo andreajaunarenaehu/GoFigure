@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their beliefs evolved and adapted like organisms in a changing environment.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas change and develop over time to survive new circumstances.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Organisms</object>
+<properties>Evolving, Adapting, Changing</properties>
+<relations>Beliefs are compared to living organisms adapting to survive</relations>
+</components>
+
+<visual_elaboration>
+DNA strands morphing into thought bubbles with different shapes and colors in a shifting landscape.
+</visual_elaboration>
+</metaphor_analysis>

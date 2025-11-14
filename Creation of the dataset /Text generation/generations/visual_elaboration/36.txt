@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He clutched the destiny of the team.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Control and responsibility over the team's future.
+</implicit_meaning>
+
+<components>
+<object>Person, destiny (abstract concept)</object>
+<properties>Gripping, holding tight, controlling</properties>
+<relations>Person physically holding/controlling an abstract concept (destiny)</relations>
+</components>
+
+<visual_elaboration>
+A person tightly gripping a glowing orb with team members' silhouettes swirling inside it.
+</visual_elaboration>
+</metaphor_analysis>

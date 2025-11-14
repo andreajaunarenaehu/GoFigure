@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Old ideas, like last season's fashions, get tucked away in the back of our mental closets.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Outdated thoughts are stored and forgotten like old clothes.
+</implicit_meaning>
+
+<components>
+<object>Mental closet, old clothes, ideas</object>
+<properties>Outdated, forgotten, stored away</properties>
+<relations>Ideas being stored like clothes in a closet</relations>
+</components>
+
+<visual_elaboration>
+A brain-shaped closet with dusty lightbulbs hanging on clothes hangers pushed to the back.
+</visual_elaboration>
+</metaphor_analysis>

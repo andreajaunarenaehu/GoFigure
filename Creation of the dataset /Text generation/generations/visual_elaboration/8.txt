@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His sanity hung by threads as delicate as spun glass.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental state is extremely fragile and close to breaking.
+</implicit_meaning>
+
+<components>
+<object>Sanity, threads, spun glass</object>
+<properties>Delicate, fragile, hanging, tenuous</properties>
+<relations>Sanity is suspended by extremely fragile threads that could break at any moment</relations>
+</components>
+
+<visual_elaboration>
+A glass human head dangling from thin glass threads that show visible cracks.
+</visual_elaboration>
+</metaphor_analysis>

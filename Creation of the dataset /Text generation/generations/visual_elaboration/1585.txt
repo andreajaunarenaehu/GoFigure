@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Peripheral vision forms a containing envelope around central sight.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Peripheral vision acts as a protective boundary around focused vision.
+</implicit_meaning>
+
+<components>
+<object>Vision (both peripheral and central)</object>
+<properties>Envelope-like, containing, surrounding</properties>
+<relations>Peripheral vision enclosing central vision like an envelope</relations>
+</components>
+
+<visual_elaboration>
+A clear eye in the center surrounded by a translucent envelope-shaped border with blurred edges.
+</visual_elaboration>
+</metaphor_analysis>

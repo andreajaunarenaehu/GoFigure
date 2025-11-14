@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She catalogued her choices in neat compartments.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Organizing thoughts systematically and methodically.
+</implicit_meaning>
+
+<components>
+<object>Mental choices, compartments/filing system</object>
+<properties>Neat, organized, systematic</properties>
+<relations>Person actively sorting and organizing thoughts</relations>
+</components>
+
+<visual_elaboration>
+A woman arranging glowing thought bubbles into labeled filing cabinet drawers.
+</visual_elaboration>
+</metaphor_analysis>

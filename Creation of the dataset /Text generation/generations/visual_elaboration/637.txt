@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The scandal was a concussion to the organization's integrity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden, severe damage to reputation and trustworthiness.
+</implicit_meaning>
+
+<components>
+<object>Organization, Concussion (brain injury)</object>
+<properties>Damaged, bruised, impaired function</properties>
+<relations>Scandal causing severe damage to organizational integrity</relations>
+</components>
+
+<visual_elaboration>
+A corporate building with a large bruise and stars spinning around its top floor.
+</visual_elaboration>
+</metaphor_analysis>

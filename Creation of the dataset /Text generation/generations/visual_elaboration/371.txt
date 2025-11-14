@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+A drought of resources has parched the business landscape.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Severe scarcity of business resources and opportunities.
+</implicit_meaning>
+
+<components>
+<object>Business landscape, drought</object>
+<properties>Dry, barren, scarce</properties>
+<relations>Drought causing depletion of resources</relations>
+</components>
+
+<visual_elaboration>
+A cracked desert landscape with withered office buildings sinking into dry earth.
+</visual_elaboration>
+</metaphor_analysis>

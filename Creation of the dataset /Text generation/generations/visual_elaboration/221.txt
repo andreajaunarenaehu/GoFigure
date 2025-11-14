@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The riddle stands before us like a padlocked chest.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A challenging puzzle that needs to be solved to reveal hidden contents.
+</implicit_meaning>
+
+<components>
+<object>Riddle, Padlocked chest</object>
+<properties>Mysterious, locked, containing secrets</properties>
+<relations>Standing before observers, waiting to be unlocked</relations>
+</components>
+
+<visual_elaboration>
+A glowing question mark emerging from an ancient treasure chest with multiple locks and chains.
+</visual_elaboration>
+</metaphor_analysis>

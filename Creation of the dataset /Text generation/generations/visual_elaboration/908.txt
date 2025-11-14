@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The heat of their dispute melted away their friendship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Conflict destroyed a relationship.
+</implicit_meaning>
+
+<components>
+<object>Friendship, Heat, Dispute</object>
+<properties>Melting, Dissolving, Heat-induced destruction</properties>
+<relations>Heat (from dispute) causes friendship to melt and disappear</relations>
+</components>
+
+<visual_elaboration>
+Two ice sculptures of people holding hands melting apart under intense red flames.
+</visual_elaboration>
+</metaphor_analysis>

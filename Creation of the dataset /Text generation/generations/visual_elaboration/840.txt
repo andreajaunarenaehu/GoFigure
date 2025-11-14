@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some people are like rechargeable batteries, bouncing back after every drain.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Resilience and ability to recover from exhaustion.
+</implicit_meaning>
+
+<components>
+<object>Person, Battery</object>
+<properties>Rechargeable, Resilient, Energetic</properties>
+<relations>Draining and recharging cycle, Recovery process</relations>
+</components>
+
+<visual_elaboration>
+A smiling person with battery indicators on their chest, cycling from empty to full repeatedly.
+</visual_elaboration>
+</metaphor_analysis>

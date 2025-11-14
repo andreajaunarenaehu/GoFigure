@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His system was running on automatic, bypassing all controls.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Operating without conscious thought or restraint.
+</implicit_meaning>
+
+<components>
+<object>Human mind/body system</object>
+<properties>Automatic, uncontrolled, mechanical</properties>
+<relations>Bypassing normal control mechanisms</relations>
+</components>
+
+<visual_elaboration>
+A human silhouette with exposed mechanical gears spinning wildly, broken control switches dangling beside it.
+</visual_elaboration>
+</metaphor_analysis>

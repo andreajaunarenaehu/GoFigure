@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their friendship curved into romance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual transformation from platonic to romantic relationship.
+</implicit_meaning>
+
+<components>
+<object>Friendship and Romance</object>
+<properties>Curved, transformative, gradual</properties>
+<relations>One state morphing into another</relations>
+</components>
+
+<visual_elaboration>
+A straight line labeled "friendship" gracefully curves and transforms into a red heart shape.
+</visual_elaboration>
+</metaphor_analysis>

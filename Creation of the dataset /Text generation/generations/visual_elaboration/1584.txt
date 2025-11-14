@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The visual field is a bowl collecting light and shadow.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Vision captures and contains all visual experiences like a container.
+</implicit_meaning>
+
+<components>
+<object>Visual field, Bowl</object>
+<properties>Concave, containing, collecting</properties>
+<relations>Bowl acts as a container for light and shadow</relations>
+</components>
+
+<visual_elaboration>
+A curved glass bowl filled halfway with swirling black and white liquid, creating a yin-yang pattern.
+</visual_elaboration>
+</metaphor_analysis>

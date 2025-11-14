@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That secret was a corroding battery acid in his heart.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The secret is causing emotional damage and pain.
+</implicit_meaning>
+
+<components>
+<object>Secret, Battery acid, Heart</object>
+<properties>Corrosive, Damaging, Painful</properties>
+<relations>The secret acts like acid eating away at the heart</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart being eaten away by green acid, revealing dark holes and rust.
+</visual_elaboration>
+</metaphor_analysis>

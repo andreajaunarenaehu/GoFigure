@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The criticism jammed the gears of his creative process.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Negative feedback disrupting creative flow.
+</implicit_meaning>
+
+<components>
+<object>Gears, Creative process</object>
+<properties>Jammed, Stuck, Mechanical</properties>
+<relations>Criticism acting as foreign object stopping movement</relations>
+</components>
+
+<visual_elaboration>
+A set of rusty gears with words of criticism wedged between them, stopping their rotation.
+</visual_elaboration>
+</metaphor_analysis>

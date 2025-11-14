@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The young artist's talent needed pruning and guidance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Raw talent requires careful cultivation and direction to reach its full potential.
+</implicit_meaning>
+
+<components>
+<object>Young artist, Plant/Tree</object>
+<properties>Unrefined, Growing, Wild</properties>
+<relations>Needs shaping and direction like a growing plant needs pruning</relations>
+</components>
+
+<visual_elaboration>
+A wild sapling with paintbrushes as branches being carefully trimmed by garden shears.
+</visual_elaboration>
+</metaphor_analysis>

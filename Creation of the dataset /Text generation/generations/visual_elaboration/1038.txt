@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The project's actions were gravitating toward failure.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Inevitable downward movement towards disaster.
+</implicit_meaning>
+
+<components>
+<object>Project, Black hole of failure</object>
+<properties>Downward pull, Inevitable movement</properties>
+<relations>Project being pulled into failure like gravity pulls objects</relations>
+</components>
+
+<visual_elaboration>
+A stack of papers and folders spiraling down into a dark vortex labeled "FAILURE."
+</visual_elaboration>
+</metaphor_analysis>

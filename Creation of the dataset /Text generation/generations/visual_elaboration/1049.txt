@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mind's reception committee welcomes sensory delegates.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The brain processes incoming sensory information like a formal meeting.
+</implicit_meaning>
+
+<components>
+<object>Mind, sensory inputs</object>
+<properties>Formal, organized, welcoming</properties>
+<relations>Reception and processing of sensory information</relations>
+</components>
+
+<visual_elaboration>
+Brain-shaped conference room with neurons in suits greeting colorful sensory signals at a reception desk.
+</visual_elaboration>
+</metaphor_analysis>

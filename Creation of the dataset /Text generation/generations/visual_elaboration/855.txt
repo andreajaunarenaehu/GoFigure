@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Theoretical coverings can wear thin at the edges of discovery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Scientific theories become less reliable when pushed to explain new discoveries.
+</implicit_meaning>
+
+<components>
+<object>Theoretical coverings (represented as fabric/cloth), Edges (boundaries)</object>
+<properties>Worn, thin, fraying</properties>
+<relations>The fabric wearing thin at its edges represents theories breaking down at their limits</relations>
+</components>
+
+<visual_elaboration>
+A worn fabric map of scientific formulas with frayed, transparent edges revealing new discoveries beneath.
+</visual_elaboration>
+</metaphor_analysis>

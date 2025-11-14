@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Joy was a blinding firework in her heart.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense, explosive happiness.
+</implicit_meaning>
+
+<components>
+<object>Heart, Firework</object>
+<properties>Bright, explosive, blinding</properties>
+<relations>Firework exploding within heart</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart with colorful fireworks bursting from its center, radiating bright light outward.
+</visual_elaboration>
+</metaphor_analysis>

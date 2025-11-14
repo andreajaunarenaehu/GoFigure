@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Making is the foundation that creation builds upon.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Basic skills and practice are necessary before achieving creative mastery.
+</implicit_meaning>
+
+<components>
+<object>Foundation, Building</object>
+<properties>Solid, Structural, Layered</properties>
+<relations>Building upon, Supporting, Growing upward</relations>
+</components>
+
+<visual_elaboration>
+A concrete foundation with simple tools embedded, supporting a colorful crystal tower growing upwards.
+</visual_elaboration>
+</metaphor_analysis>

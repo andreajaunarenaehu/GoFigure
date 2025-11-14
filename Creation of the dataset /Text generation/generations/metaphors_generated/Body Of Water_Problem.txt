@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The problem is a deep ocean, hiding its true depth beneath the surface.
+</metaphor>
+<literal_paraphrase>
+The problem is more complex and extensive than it initially appears.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is completely straightforward and has no hidden complexities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a stagnant pond, breeding complications over time.
+</metaphor>
+<literal_paraphrase>
+The problem becomes worse and generates additional issues when left unaddressed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem resolves itself naturally without any intervention needed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The waves of this problem keep crashing against our efforts.
+</metaphor>
+<literal_paraphrase>
+The problem repeatedly challenges our attempts to solve it.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem yields easily to our first attempt at solving it.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're drowning in the complexity of this problem.
+</metaphor>
+<literal_paraphrase>
+We're overwhelmed by the problem's many difficult aspects.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We're completely in control of the problem's simple nature.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a whirlpool, pulling in resources and energy.
+</metaphor>
+<literal_paraphrase>
+The problem consumes excessive time, money, and effort to address.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem requires minimal resources and effort to solve.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The solution lies beneath these turbulent waters.
+</metaphor>
+<literal_paraphrase>
+The answer exists but is hidden by the problem's challenging aspects.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The solution is clearly visible and easily accessible.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We need to navigate through these murky waters carefully.
+</metaphor>
+<literal_paraphrase>
+We must approach this unclear problem situation with caution and strategy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We can rush through this clear-cut situation without any planning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a rising tide that threatens to overwhelm us.
+</metaphor>
+<literal_paraphrase>
+The problem is gradually becoming more serious and potentially unmanageable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is diminishing and becoming more manageable over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're just seeing the tip of this iceberg problem.
+</metaphor>
+<literal_paraphrase>
+We're only aware of a small portion of the total problem.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We can see the entire scope of the problem clearly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem has created a delta of interconnected issues.
+</metaphor>
+<literal_paraphrase>
+The main problem has branched out into multiple related challenges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem remains isolated and hasn't created any additional issues.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

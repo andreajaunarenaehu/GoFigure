@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Opportunities are fragile porcelain vases waiting to be handled.
+</metaphor>
+<literal_paraphrase>
+Opportunities require careful attention and delicate handling to avoid losing them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities are indestructible and require no special care or attention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each opportunity is a key searching for its perfect lock.
+</metaphor>
+<literal_paraphrase>
+Opportunities need to be matched with the right person or situation to be successful.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities work universally and don't need to be matched to specific situations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Opportunities are scattered puzzle pieces waiting to be assembled.
+</metaphor>
+<literal_paraphrase>
+Opportunities often need to be recognized and combined with other elements to create success.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities are complete and self-contained, requiring no additional elements.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like mirrors, opportunities reflect what you present to them.
+</metaphor>
+<literal_paraphrase>
+The outcome of opportunities depends on the effort and attitude you bring to them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities yield the same results regardless of your input or attitude.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Opportunities are doors with temporary hinges.
+</metaphor>
+<literal_paraphrase>
+Opportunities are available for limited periods and must be acted upon before they disappear.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities are permanent and will always be available whenever you want them.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each opportunity is a compass pointing to different destinations.
+</metaphor>
+<literal_paraphrase>
+Different opportunities can lead to various outcomes and life directions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All opportunities lead to the same outcome regardless of which you choose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Opportunities are lightbulbs that need the right current to shine.
+</metaphor>
+<literal_paraphrase>
+Opportunities require proper resources and conditions to be successful.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities succeed regardless of available resources or conditions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like magnets, opportunities attract those who are properly aligned.
+</metaphor>
+<literal_paraphrase>
+Opportunities come to those who are prepared and positioned to receive them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities appear randomly with no relation to preparation or positioning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Opportunities are seeds requiring fertile soil and care.
+</metaphor>
+<literal_paraphrase>
+Opportunities need nurturing and favorable conditions to grow into success.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities succeed automatically without any cultivation or favorable conditions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each opportunity is a blank canvas awaiting its artist.
+</metaphor>
+<literal_paraphrase>
+Opportunities provide potential that must be shaped by individual effort and creativity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities come pre-determined and require no personal input or creativity.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

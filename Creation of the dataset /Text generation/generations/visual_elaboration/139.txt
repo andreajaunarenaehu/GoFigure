@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Every action cashes in on future consequences.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Actions have future payoffs or penalties, like financial transactions.
+</implicit_meaning>
+
+<components>
+<object>Actions, Money/Cash, Time</object>
+<properties>Transactional, Future-oriented, Consequential</properties>
+<relations>Actions are depicted as currency being exchanged for future outcomes</relations>
+</components>
+
+<visual_elaboration>
+A hand depositing coins labeled "Actions" into a piggy bank that's transparent, showing either gold or dark clouds forming inside.
+</visual_elaboration>
+</metaphor_analysis>

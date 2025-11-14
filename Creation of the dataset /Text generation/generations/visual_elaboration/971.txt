@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His spirits were floating on cloud nine.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extreme happiness and elation.
+</implicit_meaning>
+
+<components>
+<object>Spirits (person's emotional state), clouds</object>
+<properties>Floating, elevated, light, ethereal</properties>
+<relations>Person's spirit floating above clouds in a state of bliss</relations>
+</components>
+
+<visual_elaboration>
+A smiling person floating cross-legged above fluffy clouds with rays of sunshine surrounding them.
+</visual_elaboration>
+</metaphor_analysis>

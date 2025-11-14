@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The marketplace is a boxing ring where competitors trade blows for market share.
+</metaphor>
+<literal_paraphrase>
+Business competition involves direct confrontation between companies fighting for customers and market dominance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The marketplace is a peaceful environment where businesses cooperate without any conflict or rivalry.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their sales pitch was a knockout punch to the competition.
+</metaphor>
+<literal_paraphrase>
+Their sales strategy was so effective it completely defeated their competitors.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their sales pitch was ineffective and had no impact on their market position.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The startup ducked and weaved through the market challenges.
+</metaphor>
+<literal_paraphrase>
+The new company skillfully navigated various business obstacles and competitive pressures.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The startup faced challenges head-on without any strategic maneuvering.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their marketing campaign landed a series of quick jabs in the industry.
+</metaphor>
+<literal_paraphrase>
+Their marketing strategy made several swift, effective impacts in the market.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their marketing campaign was slow and made no impression on the market.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The two brands grappled for control of the consumer base.
+</metaphor>
+<literal_paraphrase>
+The two companies struggled intensely to win over and maintain customer loyalty.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The two brands peacefully shared the consumer base without any competition.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their business strategy was all defense, no offense.
+</metaphor>
+<literal_paraphrase>
+The company focused solely on protecting their market position rather than expanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their business strategy was aggressive and expansion-focused without concern for protection.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The market leader threw its weight around in the industry.
+</metaphor>
+<literal_paraphrase>
+The dominant company used its size and influence to control market conditions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The market leader remained humble and avoided using its influence over others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The rival companies circled each other like fighters in a ring.
+</metaphor>
+<literal_paraphrase>
+The competing businesses carefully observed and analyzed each other before making strategic moves.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The rival companies ignored each other's presence and actions in the market.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their product launch was a haymaker that missed the target.
+</metaphor>
+<literal_paraphrase>
+Their ambitious product introduction failed to achieve its intended market impact.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their product launch was precisely calculated and achieved exactly what they planned.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The small business had to roll with the punches of market fluctuations.
+</metaphor>
+<literal_paraphrase>
+The small company needed to adapt and survive through various market challenges and changes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The small business remained rigid and inflexible despite market changes.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaph

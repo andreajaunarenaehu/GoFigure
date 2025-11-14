@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The manager passed the decision-making power to his team.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Transfer of authority and responsibility.
+</implicit_meaning>
+
+<components>
+<object>Manager, team, decision-making power</object>
+<properties>Transferable, shared, movable</properties>
+<relations>Passing from one entity to another, like handing over a physical object</relations>
+</components>
+
+<visual_elaboration>
+A manager hands a glowing torch to a circle of team members with outstretched hands.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Causal chains forge the links of logical reasoning.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Logical thinking is constructed through connected cause-and-effect relationships.
+</implicit_meaning>
+
+<components>
+<object>Chain links, Forge/blacksmith tools</object>
+<properties>Connected, Sequential, Metal, Heat</properties>
+<relations>Forging process creating connections between thoughts</relations>
+</components>
+
+<visual_elaboration>
+A glowing chain being hammered on an anvil, with each link morphing into floating brain symbols.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love's straitjacket binds logic in silk.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love constrains rational thinking in a deceptively pleasant way.
+</implicit_meaning>
+
+<components>
+<object>Straitjacket, Logic, Silk</object>
+<properties>Binding, Constraining, Soft, Elegant</properties>
+<relations>Love restrains logic through a beautiful but restrictive force</relations>
+</components>
+
+<visual_elaboration>
+A brain wrapped in flowing silk ribbons shaped like a straitjacket with floating hearts around it.
+</visual_elaboration>
+</metaphor_analysis>

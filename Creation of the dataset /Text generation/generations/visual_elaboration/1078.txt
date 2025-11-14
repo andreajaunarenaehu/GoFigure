@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their reputation remained unsullied by scandal.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Pure and clean, untouched by negative influences.
+</implicit_meaning>
+
+<components>
+<object>Reputation (abstract concept)</object>
+<properties>Clean, pure, untarnished</properties>
+<relations>Resistance to stains/dirt (scandals)</relations>
+</components>
+
+<visual_elaboration>
+A pristine white cloth floating above muddy waters, remaining spotless and bright.
+</visual_elaboration>
+</metaphor_analysis>

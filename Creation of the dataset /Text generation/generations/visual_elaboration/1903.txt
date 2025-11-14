@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their determination walked through every obstacle.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstoppable persistence against challenges.
+</implicit_meaning>
+
+<components>
+<object>Determination personified as a walking figure</object>
+<properties>Strong, unstoppable, persistent</properties>
+<relations>Moving through/breaking physical barriers</relations>
+</components>
+
+<visual_elaboration>
+A glowing figure walking straight through brick walls, leaving person-shaped holes behind.
+</visual_elaboration>
+</metaphor_analysis>

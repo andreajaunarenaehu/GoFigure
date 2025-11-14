@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Cultural traditions are society's DNA.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Cultural traditions form the fundamental building blocks and unique identity of a society.
+</implicit_meaning>
+
+<components>
+<object>Cultural traditions, DNA structure</object>
+<properties>Fundamental, hereditary, unique patterns</properties>
+<relations>Traditions structuring society like DNA structures life</relations>
+</components>
+
+<visual_elaboration>
+A DNA double helix made of cultural symbols, traditional artifacts, and rituals spiraling upward.
+</visual_elaboration>
+</metaphor_analysis>

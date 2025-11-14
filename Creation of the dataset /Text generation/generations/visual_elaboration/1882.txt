@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's overdosing on retail therapy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Excessive and unhealthy shopping behavior.
+</implicit_meaning>
+
+<components>
+<object>Shopping bags, pills, person</object>
+<properties>Overwhelming quantity, medical/addiction imagery</properties>
+<relations>Person consuming/surrounded by shopping items like medicine</relations>
+</components>
+
+<visual_elaboration>
+A woman swallowing shopping bags like pills while surrounded by scattered receipts and credit cards.
+</visual_elaboration>
+</metaphor_analysis>

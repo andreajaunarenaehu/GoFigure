@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His gaze climbed the towering building.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Looking upward gradually from bottom to top.
+</implicit_meaning>
+
+<components>
+<object>Gaze (eyes), Building</object>
+<properties>Vertical movement, Height, Gradual ascent</properties>
+<relations>Eyes moving upward along building's surface</relations>
+</components>
+
+<visual_elaboration>
+A pair of floating eyes following a dotted line that spirals up a skyscraper.
+</visual_elaboration>
+</metaphor_analysis>

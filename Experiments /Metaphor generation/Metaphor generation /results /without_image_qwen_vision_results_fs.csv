@@ -1,0 +1,1767 @@
+,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,image_path,true_metaphor,predicted_metaphor,extracted_metaphor
+0,0,0,0,0,/data/ajaunarena/our_dataset/images/46_3.jpg,Her sobriety crumbled under the heavy load of cocktails.,"<metaphor>
+cocktails clouded her judgment.
+</metaphor>",cocktails clouded her judgment.
+1,1,1,1,1,/data/ajaunarena/our_dataset/images/1349_1.jpg,"Like a path's gradient, the scale rises steadily upward.","<metaphor>
+the scale climbs steadily upward.
+</metaphor>",the scale climbs steadily upward.
+2,2,2,2,2,/data/ajaunarena/our_dataset/images/1026_3.jpg,Ovals are cradles of curved harmony.,"<metaphor>
+curved lines harmonize to form an oval.
+</metaphor>",curved lines harmonize to form an oval.
+3,3,3,3,3,/data/ajaunarena/our_dataset/images/382_0.jpg,His heart was spun from the finest glass.,"<metaphor>
+he was a delicate flower easily bruised by life's blows.
+</metaphor>",he was a delicate flower easily bruised by life's blows.
+4,4,4,4,4,/data/ajaunarena/our_dataset/images/1240_2.jpg,The light poured through the window like a gentle stream.,"<metaphor>
+the light seeped in like a gentle whisper.
+</metaphor>",the light seeped in like a gentle whisper.
+5,5,5,5,5,/data/ajaunarena/our_dataset/images/914_2.jpg,Their vision has reached its home.,"<metaphor>
+they carved their dreams into reality.
+</metaphor>",they carved their dreams into reality.
+6,6,6,6,6,/data/ajaunarena/our_dataset/images/1281_2.jpg,Each idea is a seed that needs fertile soil to grow.,"<metaphor>
+idea seeds bloom under nurturing care.
+</metaphor>",idea seeds bloom under nurturing care.
+7,7,7,7,7,/data/ajaunarena/our_dataset/images/1018_1.jpg,Their arms encircle vast resources.,"<metaphor>
+they are the kings of their kingdom of resources.
+</metaphor>",they are the kings of their kingdom of resources.
+8,8,8,8,8,/data/ajaunarena/our_dataset/images/552_2.jpg,The new theory is a direct descendant of classical mechanics.,"<metaphor>
+new theory inherits and expands classical mechanics' foundation.
+</metaphor>",new theory inherits and expands classical mechanics' foundation.
+9,9,9,9,9,/data/ajaunarena/our_dataset/images/1802_0.jpg,Time is a precious mineral being mined away.,"<metaphor>
+time is a river, each drop a moment lost.
+</metaphor>","time is a river, each drop a moment lost."
+10,10,10,10,10,/data/ajaunarena/our_dataset/images/1069_3.jpg,The supervisor shifted responsibility to the team leads.,"<metaphor>
+delegate tasks, lead the way.
+</metaphor>","delegate tasks, lead the way."
+11,11,11,11,11,/data/ajaunarena/our_dataset/images/1271_1.jpg,We're just gathering supplies for the long expedition ahead.,"<metaphor>
+gathering seeds for a future harvest.
+</metaphor>",gathering seeds for a future harvest.
+12,12,12,12,12,/data/ajaunarena/our_dataset/images/1472_0.jpg,They guided the economy toward recovery.,"<metaphor>
+they paved their way to prosperity.
+</metaphor>",they paved their way to prosperity.
+13,13,13,13,13,/data/ajaunarena/our_dataset/images/42_1.jpg,The load of inebriation dragged him down with each step.,"<metaphor>
+he stumbled through his day like a drunk.
+</metaphor>",he stumbled through his day like a drunk.
+14,14,14,14,14,/data/ajaunarena/our_dataset/images/309_0.jpg,Her time portfolio was diversified across multiple activities.,"<metaphor>
+she juggled her life like a master chef.
+</metaphor>",she juggled her life like a master chef.
+15,15,15,15,15,/data/ajaunarena/our_dataset/images/906_0.jpg,Her fury radiated like a desert sun.,"<metaphor>
+her anger was a blazing fire.
+</metaphor>",her anger was a blazing fire.
+16,16,16,16,16,/data/ajaunarena/our_dataset/images/1712_3.jpg,The bridge across troubled waters led to their transformation.,"<metaphor>
+structured path led them through the storm.
+</metaphor>",structured path led them through the storm.
+17,17,17,17,17,/data/ajaunarena/our_dataset/images/295_0.jpg,The checkout counter of commitment awaits our final choices.,"<metaphor>
+making choices leads to commitment.
+</metaphor>",making choices leads to commitment.
+18,18,18,18,18,/data/ajaunarena/our_dataset/images/1417_0.jpg,Their support was a balm that soothed her anxiety.,"<metaphor>
+her worries melted away like ice under the sun.
+</metaphor>",her worries melted away like ice under the sun.
+19,19,19,19,19,/data/ajaunarena/our_dataset/images/1949_0.jpg,Their research and development was an arms race for innovation.,"<metaphor>
+rivals raced to claim the lead in innovation.
+</metaphor>",rivals raced to claim the lead in innovation.
+20,20,20,20,20,/data/ajaunarena/our_dataset/images/690_0.jpg,Here is the anchor of being.,"<metaphor>
+the present moment is the heart of life's rhythm.</metaphor>",the present moment is the heart of life's rhythm.
+21,21,21,21,21,/data/ajaunarena/our_dataset/images/47_1.jpg,The burden of beer weighed down his eyelids.,"<metaphor>
+alcohol turned him into a sleepy zombie.
+</metaphor>",alcohol turned him into a sleepy zombie.
+22,22,22,22,22,/data/ajaunarena/our_dataset/images/86_3.jpg,Our possessions are the keys to property doors.,"<metaphor>
+belt tightening leads to wealth expansion.
+</metaphor>",belt tightening leads to wealth expansion.
+23,23,23,23,23,/data/ajaunarena/our_dataset/images/1866_1.jpg,She ran herself into a better situation.,"<metaphor>
+she carved her path to success with her own hands.
+</metaphor>",she carved her path to success with her own hands.
+24,24,24,24,24,/data/ajaunarena/our_dataset/images/761_2.jpg,Her missing pieces became poisoned arrows.,"<metaphor>
+her lack caused her pain, like a heavy burden.
+</metaphor>","her lack caused her pain, like a heavy burden."
+25,25,25,25,25,/data/ajaunarena/our_dataset/images/1117_3.jpg,Their dominion rocketed skyward.,"<metaphor>
+their influence spread like wildfire.
+</metaphor>",their influence spread like wildfire.
+26,26,26,26,26,/data/ajaunarena/our_dataset/images/166_3.jpg,Her eyes embraced the entire scene.,"<metaphor>
+she saw the big picture all at once.
+</metaphor>",she saw the big picture all at once.
+27,27,27,27,27,/data/ajaunarena/our_dataset/images/1919_0.jpg,Each crossroad is a gateway to new adventures.,"<metaphor>
+life's crossroads lead to new horizons.
+</metaphor>",life's crossroads lead to new horizons.
+28,28,28,28,28,/data/ajaunarena/our_dataset/images/1248_2.jpg,The street lamps' glow pooled beneath each post.,"<metaphor>
+street lamps cast circular shadows like lanterns.
+</metaphor>",street lamps cast circular shadows like lanterns.
+29,29,29,29,29,/data/ajaunarena/our_dataset/images/134_2.jpg,Good habits are deposits in the bank of success.,"<metaphor>
+habitual actions lead to a successful life.
+</metaphor>",habitual actions lead to a successful life.
+30,30,30,30,30,/data/ajaunarena/our_dataset/images/1008_2.jpg,Their laughter catalyzed a chain reaction of joy.,"<metaphor>
+their laughter spread joy like sunlight.
+</metaphor>",their laughter spread joy like sunlight.
+31,31,31,31,31,/data/ajaunarena/our_dataset/images/1356_3.jpg,Being paints itself on the canvas of space.,"<metaphor>
+""existence carves its path through the fabric of space.""
+</metaphor>","""existence carves its path through the fabric of space."""
+32,32,32,32,32,/data/ajaunarena/our_dataset/images/842_1.jpg,"She's like a battery in power-saving mode, conserving her energy for important moments.","<metaphor>
+she conserves her energy like a miser saves gold.
+</metaphor>",she conserves her energy like a miser saves gold.
+33,33,33,33,33,/data/ajaunarena/our_dataset/images/913_1.jpg,The design journeyed into existence.,"<metaphor>
+progress unfolds like a woven tapestry.
+</metaphor>",progress unfolds like a woven tapestry.
+34,34,34,34,34,/data/ajaunarena/our_dataset/images/1322_2.jpg,Their shared qualities are traded like valuable commodities.,"<metaphor>
+characters swap traits like goods at market.
+</metaphor>",characters swap traits like goods at market.
+35,35,35,35,35,/data/ajaunarena/our_dataset/images/1111_1.jpg,She elevated her position of power.,"<metaphor>
+she took charge and turned the tide.
+</metaphor>",she took charge and turned the tide.
+36,36,36,36,36,/data/ajaunarena/our_dataset/images/335_0.jpg,The mind's operating system needs occasional rebooting through sleep.,"<metaphor>
+the brain sleeps to recharge its circuits.
+</metaphor>",the brain sleeps to recharge its circuits.
+37,37,37,37,37,/data/ajaunarena/our_dataset/images/1338_3.jpg,Each researcher adds their pieces to the collective knowledge puzzle.,"<metaphor>
+building blocks of knowledge grow taller together.
+</metaphor>",building blocks of knowledge grow taller together.
+38,38,38,38,38,/data/ajaunarena/our_dataset/images/1426_2.jpg,Her hopes subsided into the depths of despair.,"<metaphor>
+her dreams shattered like glass.
+</metaphor>",her dreams shattered like glass.
+39,39,39,39,39,/data/ajaunarena/our_dataset/images/1449_0.jpg,The temperature between them reached fever pitch.,"<metaphor>
+their passion ignited like a wildfire.
+</metaphor>",their passion ignited like a wildfire.
+40,40,40,40,40,/data/ajaunarena/our_dataset/images/1410_0.jpg,The poison of his words seeped into her resolve.,"<metaphor>
+her confidence shattered like glass under his criticism.
+</metaphor>",her confidence shattered like glass under his criticism.
+41,41,41,41,41,/data/ajaunarena/our_dataset/images/18_0.jpg,The financial crisis created a tsunami of debt.,"<metaphor>
+economic system drowned in debt.
+</metaphor>",economic system drowned in debt.
+42,42,42,42,42,/data/ajaunarena/our_dataset/images/1243_0.jpg,Light cascaded down the crystal chandelier.,"<metaphor>
+chandelier beams dance downward, illuminating shadows.
+</metaphor>","chandelier beams dance downward, illuminating shadows."
+43,43,43,43,43,/data/ajaunarena/our_dataset/images/67_1.jpg,Our deadlines are spinning like a top.,"<metaphor>
+the schedule is a tangled web of appointments.
+</metaphor>",the schedule is a tangled web of appointments.
+44,44,44,44,44,/data/ajaunarena/our_dataset/images/1935_0.jpg,She's the inherited heirloom I'll cherish forever.,"<metaphor>
+our bond is a treasure i'll cherish forever.
+</metaphor>",our bond is a treasure i'll cherish forever.
+45,45,45,45,45,/data/ajaunarena/our_dataset/images/1303_1.jpg,The composer offered melodies to the silence.,"<metaphor>
+silent notes danced into symphony.
+</metaphor>",silent notes danced into symphony.
+46,46,46,46,46,/data/ajaunarena/our_dataset/images/1445_3.jpg,Their passion boiled over in an instant.,"<metaphor>
+tension boiled over like a pot of boiling water.
+</metaphor>",tension boiled over like a pot of boiling water.
+47,47,47,47,47,/data/ajaunarena/our_dataset/images/408_3.jpg,Her inner orchestra conducts her diverse talents.,"<metaphor>
+her inner orchestra plays in perfect harmony.
+</metaphor>",her inner orchestra plays in perfect harmony.
+48,48,48,48,48,/data/ajaunarena/our_dataset/images/726_1.jpg,Their proposal is weighing heavily on my mental scales.,"<metaphor>
+i'm weighing their proposal like gold.
+</metaphor>",i'm weighing their proposal like gold.
+49,49,49,49,49,/data/ajaunarena/our_dataset/images/17_0.jpg,Fresh capital irrigated the startup ecosystem.,"<metaphor>
+money bloomed into thriving startups.
+</metaphor>",money bloomed into thriving startups.
+50,50,50,50,50,/data/ajaunarena/our_dataset/images/179_0.jpg,She's surrounded by poisonous words.,"<metaphor>
+harmful communication poisons the atmosphere.
+</metaphor>",harmful communication poisons the atmosphere.
+51,51,51,51,51,/data/ajaunarena/our_dataset/images/522_2.jpg,His words were a nauseating pill of disgust.,"<metaphor>
+his words elicited a visceral gag reflex.
+</metaphor>",his words elicited a visceral gag reflex.
+52,52,52,52,52,/data/ajaunarena/our_dataset/images/821_0.jpg,The finish line beckons all competitors forward.,"<metaphor>
+winning drives them to excel.
+</metaphor>",winning drives them to excel.
+53,53,53,53,53,/data/ajaunarena/our_dataset/images/1140_2.jpg,Her mind was running on low battery.,"<metaphor>
+she drained her mental reservoir for rest.
+</metaphor>",she drained her mental reservoir for rest.
+54,54,54,54,54,/data/ajaunarena/our_dataset/images/488_1.jpg,Time is the silent revolutionist.,"<metaphor>
+time whispers, yet changes all.
+</metaphor>","time whispers, yet changes all."
+55,55,55,55,55,/data/ajaunarena/our_dataset/images/1623_3.jpg,Literature is a fertile valley where ideas grow abundantly.,"<metaphor>
+literature is a garden of endless possibilities.
+</metaphor>",literature is a garden of endless possibilities.
+56,56,56,56,56,/data/ajaunarena/our_dataset/images/1221_3.jpg,Each new possession is another key to maintain in life's growing keychain.,"<metaphor>
+adding responsibilities weighs down the mind like a heavy load.
+</metaphor>",adding responsibilities weighs down the mind like a heavy load.
+57,57,57,57,57,/data/ajaunarena/our_dataset/images/683_2.jpg,Laughter was their first aid kit in times of crisis.,"<metaphor>
+humor was a quicksilver balm for pain.
+</metaphor>",humor was a quicksilver balm for pain.
+58,58,58,58,58,/data/ajaunarena/our_dataset/images/915_2.jpg,The project has touched down.,"<metaphor>
+project blossomed into completion.
+</metaphor>",project blossomed into completion.
+59,59,59,59,59,/data/ajaunarena/our_dataset/images/1014_0.jpg,She embraces power with both arms.,"<metaphor>
+she stands tall, unyielding, and firm.
+</metaphor>","she stands tall, unyielding, and firm."
+60,60,60,60,60,/data/ajaunarena/our_dataset/images/846_3.jpg,"She's running on backup power, pushing through despite exhaustion.","<metaphor>
+she powered through exhaustion like a sprinter.
+</metaphor>",she powered through exhaustion like a sprinter.
+61,61,61,61,61,/data/ajaunarena/our_dataset/images/514_1.jpg,Her career took a sharp turn after the promotion.,"<metaphor>
+{{her career took a quantum leap upward.}}
+</metaphor>",{{her career took a quantum leap upward.}}
+62,62,62,62,62,/data/ajaunarena/our_dataset/images/987_1.jpg,She nurtured love like a greenhouse cultivates warmth.,"<metaphor>
+she wove love into her life's fabric.
+</metaphor>",she wove love into her life's fabric.
+63,63,63,63,63,/data/ajaunarena/our_dataset/images/287_0.jpg,That insight is an oasis in a desert of confusion.,"<metaphor>
+clarity emerges from the fog of uncertainty.</metaphor>",clarity emerges from the fog of uncertainty.
+64,64,64,64,64,/data/ajaunarena/our_dataset/images/1622_0.jpg,Mathematics is a mountainous region with multiple peaks to conquer.,"<metaphor>
+mathematics is a labyrinth of puzzles, each solved by a step closer to understanding.
+</metaphor>","mathematics is a labyrinth of puzzles, each solved by a step closer to understanding."
+65,65,65,65,65,/data/ajaunarena/our_dataset/images/605_1.jpg,He maintains a steady grip on his emotions.,"<metaphor>
+he tamed his emotions like a wild horse.
+</metaphor>",he tamed his emotions like a wild horse.
+66,66,66,66,66,/data/ajaunarena/our_dataset/images/178_1.jpg,They're standing on the edge of a cliff.,"<metaphor>
+they're in a perilous predicament.
+</metaphor>",they're in a perilous predicament.
+67,67,67,67,67,/data/ajaunarena/our_dataset/images/1054_0.jpg,Love is a long-distance trek with shared footsteps.,"<metaphor>
+two hearts beat as one, forever intertwined.
+</metaphor>","two hearts beat as one, forever intertwined."
+68,68,68,68,68,/data/ajaunarena/our_dataset/images/1335_3.jpg,The image becomes clearer as more pieces of evidence fall into place.,"<metaphor>
+data fuels the fire of understanding.
+</metaphor>",data fuels the fire of understanding.
+69,69,69,69,69,/data/ajaunarena/our_dataset/images/1015_1.jpg,Their hands are full of opportunities.,"<metaphor>
+they have an open door to endless opportunities.
+</metaphor>",they have an open door to endless opportunities.
+70,70,70,70,70,/data/ajaunarena/our_dataset/images/1153_3.jpg,Fellow travelers on this road of change become our mirrors and guides.,"<metaphor>
+learning from others' journeys aids our own transformation.
+</metaphor>",learning from others' journeys aids our own transformation.
+71,71,71,71,71,/data/ajaunarena/our_dataset/images/1012_1.jpg,Their fingers are intertwined with success.,"<metaphor>
+they climbed to the top of their field of dreams.
+</metaphor>",they climbed to the top of their field of dreams.
+72,72,72,72,72,/data/ajaunarena/our_dataset/images/1864_3.jpg,He jogged through the transformation process.,"<metaphor>
+he charted his own course toward self-improvement.
+</metaphor>",he charted his own course toward self-improvement.
+73,73,73,73,73,/data/ajaunarena/our_dataset/images/1453_3.jpg,Their shared beliefs were a well-worn comfort blanket.,"<metaphor>
+common beliefs are a warm blanket of security.
+</metaphor>",common beliefs are a warm blanket of security.
+74,74,74,74,74,/data/ajaunarena/our_dataset/images/354_3.jpg,She's a lighthouse standing steady in emotional tempests.,"<metaphor>
+she is the calm anchor in stormy seas.
+</metaphor>",she is the calm anchor in stormy seas.
+75,75,75,75,75,/data/ajaunarena/our_dataset/images/1855_1.jpg,The truth came into focus like an adjusting lens.,"<metaphor>
+the fog lifted, revealing clarity.
+</metaphor>","the fog lifted, revealing clarity."
+76,76,76,76,76,/data/ajaunarena/our_dataset/images/257_3.jpg,Their chemistry was an arsenal waiting to be deployed.,"<metaphor>
+their passion simmered like unexploded fireworks.
+</metaphor>",their passion simmered like unexploded fireworks.
+77,77,77,77,77,/data/ajaunarena/our_dataset/images/1486_0.jpg,Time is an avalanche cascading down the mountain of existence.,"<metaphor>
+time's arrow never stops.
+</metaphor>",time's arrow never stops.
+78,78,78,78,78,/data/ajaunarena/our_dataset/images/774_3.jpg,"Time is an unwavering shadow, following our every move.","<metaphor>
+time is the constant companion, shaping our paths.
+</metaphor>","time is the constant companion, shaping our paths."
+79,79,79,79,79,/data/ajaunarena/our_dataset/images/172_0.jpg,They're trapped in quicksand of toxic relationships.,"<metaphor>
+caught in a web of self-destruction.
+</metaphor>",caught in a web of self-destruction.
+80,80,80,80,80,/data/ajaunarena/our_dataset/images/734_2.jpg,Some beliefs are like fast fashion - cheaply made and quickly discarded.,"<metaphor>
+shallow roots, quick desertion.
+</metaphor>","shallow roots, quick desertion."
+81,81,81,81,81,/data/ajaunarena/our_dataset/images/644_1.jpg,The vodka razed his rational thoughts to the ground.,"<metaphor>
+alcohol clouded his judgment like fog obscures vision.
+</metaphor>",alcohol clouded his judgment like fog obscures vision.
+82,82,82,82,82,/data/ajaunarena/our_dataset/images/487_1.jpg,Time is an eternal chameleon.,"<metaphor>
+time weaves through change like a tapestry.
+</metaphor>",time weaves through change like a tapestry.
+83,83,83,83,83,/data/ajaunarena/our_dataset/images/984_2.jpg,Her heart was a thermal spring of endless affection.,"<metaphor>
+her love was a never-ending fountain.
+</metaphor>",her love was a never-ending fountain.
+84,84,84,84,84,/data/ajaunarena/our_dataset/images/422_3.jpg,The state's economy is a square peg in a round hole.,"<metaphor>
+economic policies clash with market currents.
+</metaphor>",economic policies clash with market currents.
+85,85,85,85,85,/data/ajaunarena/our_dataset/images/144_0.jpg,Her mind was running a marathon of thoughts.,"<metaphor>
+she delved deep into her thoughts.
+</metaphor>",she delved deep into her thoughts.
+86,86,86,86,86,/data/ajaunarena/our_dataset/images/165_0.jpg,His eyes danced across the pages of the book.,"<metaphor>
+he devoured the book with eagerness.
+</metaphor>",he devoured the book with eagerness.
+87,87,87,87,87,/data/ajaunarena/our_dataset/images/1079_2.jpg,She polished her moral compass daily.,"<metaphor>
+she stood firm on her moral compass.</metaphor>",she stood firm on her moral compass.
+88,88,88,88,88,/data/ajaunarena/our_dataset/images/1318_0.jpg,The heat of their argument left scorch marks on their friendship.,"<metaphor>
+their argument shattered their friendship like glass.
+</metaphor>",their argument shattered their friendship like glass.
+89,89,89,89,89,/data/ajaunarena/our_dataset/images/104_3.jpg,Lightning signed its jagged line across the sky.,"<metaphor>
+lightning cut through the stormy sky.
+</metaphor>",lightning cut through the stormy sky.
+90,90,90,90,90,/data/ajaunarena/our_dataset/images/454_0.jpg,Love is two rivers merging into one mighty stream.,"<metaphor>
+two hearts become one, stronger together.
+</metaphor>","two hearts become one, stronger together."
+91,91,91,91,91,/data/ajaunarena/our_dataset/images/1668_1.jpg,Their beliefs are scattered like distant islands in vast seas.,"<metaphor>
+their beliefs are a scattered puzzle without a clear picture.
+</metaphor>",their beliefs are a scattered puzzle without a clear picture.
+92,92,92,92,92,/data/ajaunarena/our_dataset/images/1375_1.jpg,The chill of fear numbed his ability to respond.,"<metaphor>
+he froze like a statue in fear.
+</metaphor>",he froze like a statue in fear.
+93,93,93,93,93,/data/ajaunarena/our_dataset/images/572_0.jpg,"The winds of change scatter some seeds on fertile soil, while others land on barren rock.","<metaphor>
+unequal winds blow some up, others down.</metaphor>","unequal winds blow some up, others down."
+94,94,94,94,94,/data/ajaunarena/our_dataset/images/1194_2.jpg,The orchestra of self plays different tunes simultaneously.,"<metaphor>
+{{my personality is a kaleidoscope.}}
+</metaphor>",{{my personality is a kaleidoscope.}}
+95,95,95,95,95,/data/ajaunarena/our_dataset/images/120_3.jpg,Ideas are seeds that need careful cultivation to bloom into creation.,"<metaphor>
+illuminating seeds bloom into masterpieces.
+</metaphor>",illuminating seeds bloom into masterpieces.
+96,96,96,96,96,/data/ajaunarena/our_dataset/images/504_0.jpg,"This problem is a whirlpool, pulling in resources and energy.","<metaphor>
+time, money, and effort sink into a bottomless pit.
+</metaphor>","time, money, and effort sink into a bottomless pit."
+97,97,97,97,97,/data/ajaunarena/our_dataset/images/1289_3.jpg,Revolutionary ideas are earthquakes shaking old foundations.,"<metaphor>
+revolutionary ideas shake the status quo.
+</metaphor>",revolutionary ideas shake the status quo.
+98,98,98,98,98,/data/ajaunarena/our_dataset/images/975_0.jpg,His happiness rocketed through the atmosphere.,"<metaphor>
+his joy surged like a tidal wave.
+</metaphor>",his joy surged like a tidal wave.
+99,99,99,99,99,/data/ajaunarena/our_dataset/images/98_0.jpg,Their argument escalated into verbal nuclear warfare.,"<metaphor>
+communication became a toxic volcano erupting in chaos.
+</metaphor>",communication became a toxic volcano erupting in chaos.
+100,100,100,100,100,/data/ajaunarena/our_dataset/images/117_0.jpg,Night's steel grip held the world motionless.,"<metaphor>
+the darkness swallowed all movement.
+</metaphor>",the darkness swallowed all movement.
+101,101,101,101,101,/data/ajaunarena/our_dataset/images/1196_1.jpg,The actors in my mind perform different roles.,"<metaphor>
+{{my personality shifts like colors in a kaleidoscope.}}
+</metaphor>",{{my personality shifts like colors in a kaleidoscope.}}
+102,102,102,102,102,/data/ajaunarena/our_dataset/images/1357_2.jpg,The world crystallizes into distinct shapes.,"<metaphor>
+reality emerges from the shadows like a clear sky after rain.
+</metaphor>",reality emerges from the shadows like a clear sky after rain.
+103,103,103,103,103,/data/ajaunarena/our_dataset/images/1038_1.jpg,The project's actions were gravitating toward failure.,"<metaphor>
+the project was on a downward spiral towards failure.
+</metaphor>",the project was on a downward spiral towards failure.
+104,104,104,104,104,/data/ajaunarena/our_dataset/images/670_1.jpg,The footsteps of time leave causal footprints behind.,"<metaphor>
+early seeds sow future harvests.
+</metaphor>",early seeds sow future harvests.
+105,105,105,105,105,/data/ajaunarena/our_dataset/images/1577_0.jpg,Their moral obligations accelerated like objects in free fall.,"<metaphor>
+their duties piled up like mountains.
+</metaphor>",their duties piled up like mountains.
+106,106,106,106,106,/data/ajaunarena/our_dataset/images/1302_0.jpg,Nature presents new life to the earth each spring.,"<metaphor>
+spring brings forth new life and growth.
+</metaphor>",spring brings forth new life and growth.
+107,107,107,107,107,/data/ajaunarena/our_dataset/images/1177_2.jpg,Their ideas are sparks in the night sky.,"<metaphor>
+illuminating sparks light up the minds of others.
+</metaphor>",illuminating sparks light up the minds of others.
+108,108,108,108,108,/data/ajaunarena/our_dataset/images/1295_0.jpg,Hope is a buoyant force keeping us afloat in troubled waters.,"<metaphor>
+hope anchors us through stormy seas.
+</metaphor>",hope anchors us through stormy seas.
+109,109,109,109,109,/data/ajaunarena/our_dataset/images/901_1.jpg,The heat of her fury scorched everyone in the room.,"<metaphor>
+her rage spread like wildfire.
+</metaphor>",her rage spread like wildfire.
+110,110,110,110,110,/data/ajaunarena/our_dataset/images/176_3.jpg,She's walking through a storm of negativity.,"<metaphor>
+she endures the storm to find her way.
+</metaphor>",she endures the storm to find her way.
+111,111,111,111,111,/data/ajaunarena/our_dataset/images/1329_1.jpg,Their qualities are curated like a museum collection.,"<metaphor>
+people curate their traits like museums.
+</metaphor>",people curate their traits like museums.
+112,112,112,112,112,/data/ajaunarena/our_dataset/images/285_0.jpg,The solution lies in an underground cavern of possibilities.,"<metaphor>
+unveiling secrets through deeper exploration.
+</metaphor>",unveiling secrets through deeper exploration.
+113,113,113,113,113,/data/ajaunarena/our_dataset/images/281_0.jpg,Her mind is a bustling metropolis of interconnected thoughts.,"<metaphor>
+her mind buzzes like a busy hive.
+</metaphor>",her mind buzzes like a busy hive.
+114,114,114,114,114,/data/ajaunarena/our_dataset/images/1279_2.jpg,"We've reached base camp, but the summit still towers above.","<metaphor>
+we've climbed halfway up, but the summit demands more ascent.
+</metaphor>","we've climbed halfway up, but the summit demands more ascent."
+115,115,115,115,115,/data/ajaunarena/our_dataset/images/756_0.jpg,The theory flourished in the scientific community.,"<metaphor>
+theory took root and flourished among scientists.
+</metaphor>",theory took root and flourished among scientists.
+116,116,116,116,116,/data/ajaunarena/our_dataset/images/811_1.jpg,Life breathes color into existence's empty rooms.,"<metaphor>
+lived experiences paint life's canvas.
+</metaphor>",lived experiences paint life's canvas.
+117,117,117,117,117,/data/ajaunarena/our_dataset/images/146_1.jpg,Her mind needed proper nutrition through reading.,"<metaphor>
+reading fuels her mind like a fire.
+</metaphor>",reading fuels her mind like a fire.
+118,118,118,118,118,/data/ajaunarena/our_dataset/images/1090_0.jpg,Her ideas were a feast for the mind.,"<metaphor>
+her ideas fed her mind like a gourmet meal.
+</metaphor>",her ideas fed her mind like a gourmet meal.
+119,119,119,119,119,/data/ajaunarena/our_dataset/images/1184_0.jpg,Properties are thermal conductors of wealth.,"<metaphor>
+wealth flows like water through properties.
+</metaphor>",wealth flows like water through properties.
+120,120,120,120,120,/data/ajaunarena/our_dataset/images/1415_1.jpg,Success injected new energy into the team's morale.,"<metaphor>
+their success lit up the team like a beacon.
+</metaphor>",their success lit up the team like a beacon.
+121,121,121,121,121,/data/ajaunarena/our_dataset/images/983_3.jpg,Their love wrapped around them like a heated blanket.,"<metaphor>
+their love formed a protective shield.
+</metaphor>",their love formed a protective shield.
+122,122,122,122,122,/data/ajaunarena/our_dataset/images/889_0.jpg,Her emotional equilibrium is a master juggler's performance.,"<metaphor>
+she navigates her emotions like a master chef.
+</metaphor>",she navigates her emotions like a master chef.
+123,123,123,123,123,/data/ajaunarena/our_dataset/images/303_0.jpg,She deposited extra hours into her weekend savings.,"<metaphor>
+she carved out leisure from her schedule.
+</metaphor>",she carved out leisure from her schedule.
+124,124,124,124,124,/data/ajaunarena/our_dataset/images/167_0.jpg,His gaze climbed the towering building.,"<metaphor>
+he scaled the building's height.
+</metaphor>",he scaled the building's height.
+125,125,125,125,125,/data/ajaunarena/our_dataset/images/94_3.jpg,The debate was a crossfire of verbal artillery.,"<metaphor>
+he fought fire with fire, argument by argument.
+</metaphor>","he fought fire with fire, argument by argument."
+126,126,126,126,126,/data/ajaunarena/our_dataset/images/772_1.jpg,"Time stalks us through the corridors of life, never losing our trail.","<metaphor>
+time's clock ticks through life's stages.
+</metaphor>",time's clock ticks through life's stages.
+127,127,127,127,127,/data/ajaunarena/our_dataset/images/1870_2.jpg,Words are bridges connecting minds across the void.,"<metaphor>
+words bridge hearts and minds.
+</metaphor>",words bridge hearts and minds.
+128,128,128,128,128,/data/ajaunarena/our_dataset/images/1836_3.jpg,We're standing at the edge of this problem's precipice.,"<metaphor>
+we stand at the crossroads of destiny.
+</metaphor>",we stand at the crossroads of destiny.
+129,129,129,129,129,/data/ajaunarena/our_dataset/images/1034_1.jpg,The action orbited around the central issue.,"<metaphor>
+all actions revolve around the central issue.
+</metaphor>",all actions revolve around the central issue.
+130,130,130,130,130,/data/ajaunarena/our_dataset/images/1794_3.jpg,This problem is a target hidden in the fog.,"<metaphor>
+the problem is shrouded in fog.
+</metaphor>",the problem is shrouded in fog.
+131,131,131,131,131,/data/ajaunarena/our_dataset/images/33_1.jpg,The manager juggled all the moving pieces.,"<metaphor>
+she orchestrated her team's success.
+</metaphor>",she orchestrated her team's success.
+132,132,132,132,132,/data/ajaunarena/our_dataset/images/588_1.jpg,The project was too big to swallow at once.,"<metaphor>
+the project was too complex to tackle in one go.
+</metaphor>",the project was too complex to tackle in one go.
+133,133,133,133,133,/data/ajaunarena/our_dataset/images/1882_0.jpg,She's overdosing on retail therapy.,"<metaphor>
+her shopping addiction drained her life's vitality.
+</metaphor>",her shopping addiction drained her life's vitality.
+134,134,134,134,134,/data/ajaunarena/our_dataset/images/1858_3.jpg,Their love glowed like a constant star.,"<metaphor>
+their bond was like a well-worn path, enduring and steadfast.
+</metaphor>","their bond was like a well-worn path, enduring and steadfast."
+135,135,135,135,135,/data/ajaunarena/our_dataset/images/1465_0.jpg,His ideas are raw diamonds needing careful refinement.,"<metaphor>
+his ideas are diamonds in the rough, needing refinement.
+</metaphor>","his ideas are diamonds in the rough, needing refinement."
+136,136,136,136,136,/data/ajaunarena/our_dataset/images/1723_1.jpg,His motor was running hot all night long.,"<metaphor>
+his passion burned like a fire all night.
+</metaphor>",his passion burned like a fire all night.
+137,137,137,137,137,/data/ajaunarena/our_dataset/images/980_1.jpg,Her affection radiated like a gentle sunbeam.,"<metaphor>
+her warmth enveloped everyone like a comforting blanket.
+</metaphor>",her warmth enveloped everyone like a comforting blanket.
+138,138,138,138,138,/data/ajaunarena/our_dataset/images/1294_0.jpg,Depression is an inertial force resisting all movement forward.,"<metaphor>
+depression weighs down progress like a heavy anchor.
+</metaphor>",depression weighs down progress like a heavy anchor.
+139,139,139,139,139,/data/ajaunarena/our_dataset/images/1514_2.jpg,States are neighborhoods in liberty's city.,"<metaphor>
+states weave a tapestry of freedom together.
+</metaphor>",states weave a tapestry of freedom together.
+140,140,140,140,140,/data/ajaunarena/our_dataset/images/48_1.jpg,His speech stumbled under the weight of whiskey.,"<metaphor>
+whiskey clouded his speech like fog.
+</metaphor>",whiskey clouded his speech like fog.
+141,141,141,141,141,/data/ajaunarena/our_dataset/images/883_3.jpg,Her emotions maintain a perfect seesaw equilibrium.,"<metaphor>
+balancing emotions like a tightrope walker.
+</metaphor>",balancing emotions like a tightrope walker.
+142,142,142,142,142,/data/ajaunarena/our_dataset/images/1586_1.jpg,The visual field is a basket catching moving objects.,"<metaphor>
+our eyes follow the dance of light and shadow.
+</metaphor>",our eyes follow the dance of light and shadow.
+143,143,143,143,143,/data/ajaunarena/our_dataset/images/1466_3.jpg,The team's creativity flows like an endless river of resources.,"<metaphor>
+the team's ideas flow like a river without bounds.
+</metaphor>",the team's ideas flow like a river without bounds.
+144,144,144,144,144,/data/ajaunarena/our_dataset/images/976_3.jpg,Her euphoria ascended like a morning sun.,"<metaphor>
+her joy blossomed like a sunflower.
+</metaphor>",her joy blossomed like a sunflower.
+145,145,145,145,145,/data/ajaunarena/our_dataset/images/1324_2.jpg,She inherits qualities like family heirlooms.,"<metaphor>
+her traits are her family's legacy.
+</metaphor>",her traits are her family's legacy.
+146,146,146,146,146,/data/ajaunarena/our_dataset/images/1160_1.jpg,"The scholars entered the intellectual arena, ready for a fierce theoretical battle.","<metaphor>
+the scholars debated their theories like rival chefs in a culinary competition.
+</metaphor>",the scholars debated their theories like rival chefs in a culinary competition.
+147,147,147,147,147,/data/ajaunarena/our_dataset/images/1041_2.jpg,The mind's reception desk filters incoming experiences.,"<metaphor>
+the brain filters light into consciousness.
+</metaphor>",the brain filters light into consciousness.
+148,148,148,148,148,/data/ajaunarena/our_dataset/images/1881_0.jpg,His addiction to checking social media is a daily dose he can't skip.,"<metaphor>
+he's trapped in a cycle of compulsive online rituals.
+</metaphor>",he's trapped in a cycle of compulsive online rituals.
+149,149,149,149,149,/data/ajaunarena/our_dataset/images/409_0.jpg,The river of his potential carries his developing skills.,"<metaphor>
+his growth is like a river, naturally flowing forward.
+</metaphor>","his growth is like a river, naturally flowing forward."
+150,150,150,150,150,/data/ajaunarena/our_dataset/images/1915_1.jpg,Every cleared path leads to a garden of possibilities.,"<metaphor>
+each door opens more doors to success.
+</metaphor>",each door opens more doors to success.
+151,151,151,151,151,/data/ajaunarena/our_dataset/images/1314_2.jpg,His temper was a pressure cooker about to explode.,"<metaphor>
+his anger boiled over like a pot of boiling water.
+</metaphor>",his anger boiled over like a pot of boiling water.
+152,152,152,152,152,/data/ajaunarena/our_dataset/images/1657_3.jpg,She scaled the peaks of logical reasoning.,"<metaphor>
+she unlocked her mind's potential.
+</metaphor>",she unlocked her mind's potential.
+153,153,153,153,153,/data/ajaunarena/our_dataset/images/1595_2.jpg,Each opportunity is a compass pointing to different destinations.,"<metaphor>
+life's crossroads lead to divergent paths.
+</metaphor>",life's crossroads lead to divergent paths.
+154,154,154,154,154,/data/ajaunarena/our_dataset/images/224_3.jpg,This challenge is a combination safe testing our patience.,"<metaphor>
+solving this problem requires persistent effort and methodical thinking.
+</metaphor>",solving this problem requires persistent effort and methodical thinking.
+155,155,155,155,155,/data/ajaunarena/our_dataset/images/1397_1.jpg,"Ideas, like children, need guidance but not control.","<metaphor>
+idea seeds grow under guidance yet bloom freely.
+</metaphor>",idea seeds grow under guidance yet bloom freely.
+156,156,156,156,156,/data/ajaunarena/our_dataset/images/480_2.jpg,Time is a relentless shapeshifter.,"<metaphor>
+time weaves life's tapestry, transforming moments.
+</metaphor>","time weaves life's tapestry, transforming moments."
+157,157,157,157,157,/data/ajaunarena/our_dataset/images/777_1.jpg,"The chase of time knows no rest, no mercy.","<metaphor>
+time marches on, indifferent to our dreams.
+</metaphor>","time marches on, indifferent to our dreams."
+158,158,158,158,158,/data/ajaunarena/our_dataset/images/754_0.jpg,The theory evolved to adapt to new evidence.,"<metaphor>
+theory evolved to fit new data.</metaphor>",theory evolved to fit new data.
+159,159,159,159,159,/data/ajaunarena/our_dataset/images/681_3.jpg,Her wit was a bandage for their wounded spirits.,"<metaphor>
+her laughter was a balm for their souls.
+</metaphor>",her laughter was a balm for their souls.
+160,160,160,160,160,/data/ajaunarena/our_dataset/images/1101_1.jpg,Each creation illuminates like a beacon in darkness.,"<metaphor>
+it's like a star shining brightly among the clouds.
+</metaphor>",it's like a star shining brightly among the clouds.
+161,161,161,161,161,/data/ajaunarena/our_dataset/images/1291_1.jpg,Joy is an upward force that lifts the spirit skyward.,"<metaphor>
+happiness lifts the soul like a feather.
+</metaphor>",happiness lifts the soul like a feather.
+162,162,162,162,162,/data/ajaunarena/our_dataset/images/1125_0.jpg,Life's challenges are like sorting through mixed storage bins.,"<metaphor>
+solving puzzles requires a methodical approach.
+</metaphor>",solving puzzles requires a methodical approach.
+163,163,163,163,163,/data/ajaunarena/our_dataset/images/375_1.jpg,Market pressures are creating a turbulent atmosphere.,"<metaphor>
+market storm disrupts the calm waters.
+</metaphor>",market storm disrupts the calm waters.
+164,164,164,164,164,/data/ajaunarena/our_dataset/images/1183_2.jpg,Properties are magnetic forces attracting investment.,"<metaphor>
+properties attract investors like magnets attract iron.
+</metaphor>",properties attract investors like magnets attract iron.
+165,165,165,165,165,/data/ajaunarena/our_dataset/images/1707_3.jpg,Environmental pollution is a cancer growing in society's organs.,"<metaphor>
+erosion of social fabric by environmental neglect.
+</metaphor>",erosion of social fabric by environmental neglect.
+166,166,166,166,166,/data/ajaunarena/our_dataset/images/21_1.jpg,Antibiotics are the heavy artillery in our battle against infection.,"<metaphor>
+antibiotics are the antibiotics of bacterial infections.
+</metaphor>",antibiotics are the antibiotics of bacterial infections.
+167,167,167,167,167,/data/ajaunarena/our_dataset/images/959_0.jpg,They breathed the same emotional air.,"<metaphor>
+their hearts beat as one, intertwined.</metaphor>","their hearts beat as one, intertwined."
+168,168,168,168,168,/data/ajaunarena/our_dataset/images/1499_2.jpg,Their compliance grip was beginning to slip.,"<metaphor>
+they lost their grip on the safety net.
+</metaphor>",they lost their grip on the safety net.
+169,169,169,169,169,/data/ajaunarena/our_dataset/images/1933_0.jpg,Our love is a delicate porcelain that must be handled with care.,"<metaphor>
+gentle care keeps the bond thriving.
+</metaphor>",gentle care keeps the bond thriving.
+170,170,170,170,170,/data/ajaunarena/our_dataset/images/1013_0.jpg,The knowledge sits firmly in his palm.,"<metaphor>
+he owns the information like a king his kingdom.
+</metaphor>",he owns the information like a king his kingdom.
+171,171,171,171,171,/data/ajaunarena/our_dataset/images/666_3.jpg,Each minute is a drop in the bucket of existence.,"<metaphor>
+each moment is a drop in the ocean of life.
+</metaphor>",each moment is a drop in the ocean of life.
+172,172,172,172,172,/data/ajaunarena/our_dataset/images/1189_2.jpg,Properties are resonant frequencies of market dynamics.,"<metaphor>
+properties dance with market rhythms.
+</metaphor>",properties dance with market rhythms.
+173,173,173,173,173,/data/ajaunarena/our_dataset/images/927_2.jpg,The solution lies in the heart of the tangle.,"<metaphor>
+the solution lies in the heart of the problem's complexity.
+</metaphor>",the solution lies in the heart of the problem's complexity.
+174,174,174,174,174,/data/ajaunarena/our_dataset/images/800_1.jpg,This mutual fund is a leaky piggy bank draining your savings.,"<metaphor>
+high fees drain your investment like a leaky faucet.
+</metaphor>",high fees drain your investment like a leaky faucet.
+175,175,175,175,175,/data/ajaunarena/our_dataset/images/817_1.jpg,Life weaves patterns in existence's tapestry.,"<metaphor>
+we weave our lives into intricate patterns.
+</metaphor>",we weave our lives into intricate patterns.
+176,176,176,176,176,/data/ajaunarena/our_dataset/images/1109_1.jpg,The ghost of inspiration materializes through creation.,"<metaphor>
+inspiration turns into reality through creation.
+</metaphor>",inspiration turns into reality through creation.
+177,177,177,177,177,/data/ajaunarena/our_dataset/images/1914_1.jpg,The morning sun illuminates new pathways each day.,"<metaphor>
+opportunities bloom like flowers in the morning mist.
+</metaphor>",opportunities bloom like flowers in the morning mist.
+178,178,178,178,178,/data/ajaunarena/our_dataset/images/977_2.jpg,His bliss lifted him above the clouds.,"<metaphor>
+he felt like he was floating on pure bliss.
+</metaphor>",he felt like he was floating on pure bliss.
+179,179,179,179,179,/data/ajaunarena/our_dataset/images/1418_2.jpg,The tonic of laughter dissolved their tension.,"<metaphor>
+humor melted away their stress like warm sunlight.
+</metaphor>",humor melted away their stress like warm sunlight.
+180,180,180,180,180,/data/ajaunarena/our_dataset/images/442_3.jpg,Life is a worn book whose pages tell infinite stories.,"<metaphor>
+life is a tapestry woven from countless threads of experience.</metaphor>",life is a tapestry woven from countless threads of experience.
+181,181,181,181,181,/data/ajaunarena/our_dataset/images/1715_0.jpg,The stepping stones across the river guided their evolution.,"<metaphor>
+they climbed up the ladder of change step by step.
+</metaphor>",they climbed up the ladder of change step by step.
+182,182,182,182,182,/data/ajaunarena/our_dataset/images/1786_0.jpg,The city's streets teem with living energy.,"<metaphor>
+the city's veins pulse with life.</metaphor>",the city's veins pulse with life.
+183,183,183,183,183,/data/ajaunarena/our_dataset/images/741_1.jpg,His joy soared like a bird taking flight.,"<metaphor>
+his joy soared like a bird taking flight.
+</metaphor>",his joy soared like a bird taking flight.
+184,184,184,184,184,/data/ajaunarena/our_dataset/images/171_3.jpg,He's walking through a minefield of emotions.,"<metaphor>
+he's walking on eggshells every step he takes.
+</metaphor>",he's walking on eggshells every step he takes.
+185,185,185,185,185,/data/ajaunarena/our_dataset/images/1469_3.jpg,The project's ideas are sustainable forests of innovation.,"<metaphor>
+idea fountain continuously flows with innovation.
+</metaphor>",idea fountain continuously flows with innovation.
+186,186,186,186,186,/data/ajaunarena/our_dataset/images/1752_3.jpg,The starving artist devoured every opportunity.,"<metaphor>
+she painted her way to success.
+</metaphor>",she painted her way to success.
+187,187,187,187,187,/data/ajaunarena/our_dataset/images/1185_1.jpg,Properties are crystalline structures of value.,"<metaphor>
+properties stand on solid foundations.
+</metaphor>",properties stand on solid foundations.
+188,188,188,188,188,/data/ajaunarena/our_dataset/images/1222_0.jpg,Life's belongings are chains that bind us to our commitments.,"<metaphor>
+obligations bind us like chains.
+</metaphor>",obligations bind us like chains.
+189,189,189,189,189,/data/ajaunarena/our_dataset/images/499_3.jpg,These difficulties bounce around like pinballs in a machine.,"<metaphor>
+problems scatter like wildflowers in a storm.
+</metaphor>",problems scatter like wildflowers in a storm.
+190,190,190,190,190,/data/ajaunarena/our_dataset/images/1703_0.jpg,Education is the backbone of society.,"<metaphor>
+education builds the foundation of societal growth.
+</metaphor>",education builds the foundation of societal growth.
+191,191,191,191,191,/data/ajaunarena/our_dataset/images/972_2.jpg,Her happiness took flight like a released balloon.,"<metaphor>
+her happiness bloomed unexpectedly.
+</metaphor>",her happiness bloomed unexpectedly.
+192,192,192,192,192,/data/ajaunarena/our_dataset/images/835_0.jpg,These possessions are thorny vines that entangle me.,"<metaphor>
+obligations weigh me down like chains.
+</metaphor>",obligations weigh me down like chains.
+193,193,193,193,193,/data/ajaunarena/our_dataset/images/64_1.jpg,The schedule is rolling downhill like a snowball.,"<metaphor>
+workload piles like mountains, overwhelming.
+</metaphor>","workload piles like mountains, overwhelming."
+194,194,194,194,194,/data/ajaunarena/our_dataset/images/1299_3.jpg,Contentment is a stabilizing force maintaining emotional equilibrium.,"<metaphor>
+contentment anchors steady emotions.
+</metaphor>",contentment anchors steady emotions.
+195,195,195,195,195,/data/ajaunarena/our_dataset/images/41_1.jpg,He carried his drunkenness like a heavy backpack.,"<metaphor>
+drunk was a heavy burden to carry.
+</metaphor>",drunk was a heavy burden to carry.
+196,196,196,196,196,/data/ajaunarena/our_dataset/images/956_1.jpg,Their hearts beat within arm's reach.,"<metaphor>
+their hearts were woven into one thread.</metaphor>",their hearts were woven into one thread.
+197,197,197,197,197,/data/ajaunarena/our_dataset/images/860_2.jpg,Her happiness was a sunny beach at midday.,"<metaphor>
+her smile lit up like a warm fire.
+</metaphor>",her smile lit up like a warm fire.
+198,198,198,198,198,/data/ajaunarena/our_dataset/images/847_3.jpg,His positive energy creates a charging station for others.,"<metaphor>
+his optimism lights up others like a beacon.
+</metaphor>",his optimism lights up others like a beacon.
+199,199,199,199,199,/data/ajaunarena/our_dataset/images/831_0.jpg,Each new possession adds another weight to my shoulders.,"<metaphor>
+each new task adds weight to my shoulders.
+</metaphor>",each new task adds weight to my shoulders.
+200,200,200,200,200,/data/ajaunarena/our_dataset/images/1447_1.jpg,The heat of their attraction melted all resistance.,"<metaphor>
+their hearts melted, bridging the gap.
+</metaphor>","their hearts melted, bridging the gap."
+201,201,201,201,201,/data/ajaunarena/our_dataset/images/364_2.jpg,He's a territorial tomcat marking his domain.,"<metaphor>
+he's a predator stalking his prey.
+</metaphor>",he's a predator stalking his prey.
+202,202,202,202,202,/data/ajaunarena/our_dataset/images/1930_3.jpg,"She is my most treasured possession, kept safe in the vault of my heart.","<metaphor>
+i am her shield, protecting her heart.
+</metaphor>","i am her shield, protecting her heart."
+203,203,203,203,203,/data/ajaunarena/our_dataset/images/99_3.jpg,He stockpiled powerful phrases for the confrontation.,"<metaphor>
+he crafted his words like a master craftsman.
+</metaphor>",he crafted his words like a master craftsman.
+204,204,204,204,204,/data/ajaunarena/our_dataset/images/1869_3.jpg,She danced her way to a breakthrough.,"<metaphor>
+she climbed her way to success.
+</metaphor>",she climbed her way to success.
+205,205,205,205,205,/data/ajaunarena/our_dataset/images/1482_3.jpg,Each moment is an arrow flying straight for our hearts.,"<metaphor>
+time marches relentlessly towards us.
+</metaphor>",time marches relentlessly towards us.
+206,206,206,206,206,/data/ajaunarena/our_dataset/images/1897_2.jpg,Their leadership navigated the team through challenges.,"<metaphor>
+their leadership guided the team through troubled waters.
+</metaphor>",their leadership guided the team through troubled waters.
+207,207,207,207,207,/data/ajaunarena/our_dataset/images/177_3.jpg,He's trapped in a cage of abuse.,"<metaphor>
+he's trapped in a cycle of pain with no exit.
+</metaphor>",he's trapped in a cycle of pain with no exit.
+208,208,208,208,208,/data/ajaunarena/our_dataset/images/1754_1.jpg,She was famished for affection.,"<metaphor>
+her heart yearned for a warm embrace.
+</metaphor>",her heart yearned for a warm embrace.
+209,209,209,209,209,/data/ajaunarena/our_dataset/images/1062_2.jpg,They tossed around ideas during the brainstorming session.,"<metaphor>
+idea seeds sprouted in fertile minds.
+</metaphor>",idea seeds sprouted in fertile minds.
+210,210,210,210,210,/data/ajaunarena/our_dataset/images/1701_2.jpg,The heart of society pumps life into its communities.,"<metaphor>
+cultural centers are the lifeblood of communities.
+</metaphor>",cultural centers are the lifeblood of communities.
+211,211,211,211,211,/data/ajaunarena/our_dataset/images/111_2.jpg,Night crystallized around us like black ice.,"<metaphor>
+darkness enveloped the night like a shroud.
+</metaphor>",darkness enveloped the night like a shroud.
+212,212,212,212,212,/data/ajaunarena/our_dataset/images/1247_2.jpg,Light seeped through the forest canopy like morning dew.,"<metaphor>
+light danced through the leaves.
+</metaphor>",light danced through the leaves.
+213,213,213,213,213,/data/ajaunarena/our_dataset/images/1749_2.jpg,This flesh cabinet stores the treasures of my being.,"<metaphor>
+the body is a sanctuary for our souls.
+</metaphor>",the body is a sanctuary for our souls.
+214,214,214,214,214,/data/ajaunarena/our_dataset/images/1339_3.jpg,The final picture might not match what was on the box of expectations.,"<metaphor>
+outcomes diverge from expectations.
+</metaphor>",outcomes diverge from expectations.
+215,215,215,215,215,/data/ajaunarena/our_dataset/images/1312_0.jpg,The flames of jealousy scorched their relationship.,"<metaphor>
+jealousy poisoned their love like poison in a cup.
+</metaphor>",jealousy poisoned their love like poison in a cup.
+216,216,216,216,216,/data/ajaunarena/our_dataset/images/403_0.jpg,The wellspring of knowledge flows through his mind.,"<metaphor>
+his mind is a wellspring of knowledge and wisdom.
+</metaphor>",his mind is a wellspring of knowledge and wisdom.
+217,217,217,217,217,/data/ajaunarena/our_dataset/images/804_0.jpg,His cryptocurrency wallet is a glass jar showing every crack.,"<metaphor>
+cryptocurrency exposed its flaws like a broken mirror.
+</metaphor>",cryptocurrency exposed its flaws like a broken mirror.
+218,218,218,218,218,/data/ajaunarena/our_dataset/images/950_3.jpg,Their hearts beat closer with each passing day.,"<metaphor>
+their bond deepened like roots sinking deeper into soil.
+</metaphor>",their bond deepened like roots sinking deeper into soil.
+219,219,219,219,219,/data/ajaunarena/our_dataset/images/1290_0.jpg,"Her anger was a gravitational pull, drawing everyone into its orbit.","<metaphor>
+her anger was a storm that swept everything away.
+</metaphor>",her anger was a storm that swept everything away.
+220,220,220,220,220,/data/ajaunarena/our_dataset/images/1056_1.jpg,Love is a scenic route worth taking.,"<metaphor>
+love's journey through thorns yields golden fruit.
+</metaphor>",love's journey through thorns yields golden fruit.
+221,221,221,221,221,/data/ajaunarena/our_dataset/images/1571_0.jpg,Her duties pushed against her like a strong headwind.,"<metaphor>
+obligations weighed her down like anchors.
+</metaphor>",obligations weighed her down like anchors.
+222,222,222,222,222,/data/ajaunarena/our_dataset/images/1172_1.jpg,Knowledge radiates from her like sunbeams.,"<metaphor>
+she播撒智慧，影响深远。
+</metaphor>",she播撒智慧，影响深远。
+223,223,223,223,223,/data/ajaunarena/our_dataset/images/362_1.jpg,His appetite for romance is that of a starved hyena.,"<metaphor>
+he craved love like a parched desert craves rain.
+</metaphor>",he craved love like a parched desert craves rain.
+224,224,224,224,224,/data/ajaunarena/our_dataset/images/880_1.jpg,Her emotional stability is a tightrope walker maintaining perfect balance.,"<metaphor>
+she navigates her emotions like a skilled sailor.
+</metaphor>",she navigates her emotions like a skilled sailor.
+225,225,225,225,225,/data/ajaunarena/our_dataset/images/838_0.jpg,These possessions are heavy clouds darkening my sky.,"<metaphor>
+obligations darken my joy and peace.
+</metaphor>",obligations darken my joy and peace.
+226,226,226,226,226,/data/ajaunarena/our_dataset/images/43_0.jpg,His intoxication was a crushing load on his mind.,"<metaphor>
+alcohol clouded his judgment like fog.
+</metaphor>",alcohol clouded his judgment like fog.
+227,227,227,227,227,/data/ajaunarena/our_dataset/images/1567_3.jpg,Their love story was written in asylum walls.,"<metaphor>
+their relationship was a tempestuous sea.</metaphor>",their relationship was a tempestuous sea.
+228,228,228,228,228,/data/ajaunarena/our_dataset/images/1716_2.jpg,The tunnel through darkness illuminated their metamorphosis.,"<metaphor>
+she forged her path through adversity to find her true self.
+</metaphor>",she forged her path through adversity to find her true self.
+229,229,229,229,229,/data/ajaunarena/our_dataset/images/1094_1.jpg,Her theory was a perfectly seasoned argument.,"<metaphor>
+her theory stood like a fortress, unshakable.
+</metaphor>","her theory stood like a fortress, unshakable."
+230,230,230,230,230,/data/ajaunarena/our_dataset/images/1055_2.jpg,Their love found shelter in life's storms.,"<metaphor>
+their relationship was a rock in turbulent seas.
+</metaphor>",their relationship was a rock in turbulent seas.
+231,231,231,231,231,/data/ajaunarena/our_dataset/images/331_3.jpg,"Memories are stored in mental hard drives, filed away in precise locations.","<metaphor>
+the brain weaves memories into a tapestry of knowledge.
+</metaphor>",the brain weaves memories into a tapestry of knowledge.
+232,232,232,232,232,/data/ajaunarena/our_dataset/images/96_3.jpg,He deployed his vocabulary with sniper-like precision.,"<metaphor>
+he wielded his words like a master craftsman wields a chisel.
+</metaphor>",he wielded his words like a master craftsman wields a chisel.
+233,233,233,233,233,/data/ajaunarena/our_dataset/images/1195_0.jpg,My inner council of advisors debates each choice.,"<metaphor>
+my personality offers diverse lenses for decision-making.
+</metaphor>",my personality offers diverse lenses for decision-making.
+234,234,234,234,234,/data/ajaunarena/our_dataset/images/1833_3.jpg,The fog of this problem obscures our path forward.,"<metaphor>
+the fog obscured the path to clarity.</metaphor>",the fog obscured the path to clarity.
+235,235,235,235,235,/data/ajaunarena/our_dataset/images/1313_0.jpg,Love's warmth melted her frozen heart.,"<metaphor>
+her heart melted, opening her to love.
+</metaphor>","her heart melted, opening her to love."
+236,236,236,236,236,/data/ajaunarena/our_dataset/images/115_2.jpg,Night's marble columns rose from the earth.,"<metaphor>
+darkness carved its path, solid as stone.
+</metaphor>","darkness carved its path, solid as stone."
+237,237,237,237,237,/data/ajaunarena/our_dataset/images/1704_3.jpg,Cultural traditions are society's DNA.,"<metaphor>
+cultural traditions are the soul of society.
+</metaphor>",cultural traditions are the soul of society.
+238,238,238,238,238,/data/ajaunarena/our_dataset/images/225_2.jpg,We're picking the lock of uncertainty.,"<metaphor>
+we're piecing together the puzzle of the problem.
+</metaphor>",we're piecing together the puzzle of the problem.
+239,239,239,239,239,/data/ajaunarena/our_dataset/images/23_1.jpg,Vaccines are our strategic defense shield against disease.,"<metaphor>
+vaccines arm the body for defense against foes.
+</metaphor>",vaccines arm the body for defense against foes.
+240,240,240,240,240,/data/ajaunarena/our_dataset/images/114_2.jpg,The darkness was a granite fortress surrounding us.,"<metaphor>
+we were swallowed by the night's embrace.
+</metaphor>",we were swallowed by the night's embrace.
+241,241,241,241,241,/data/ajaunarena/our_dataset/images/693_2.jpg,Here is the root of reality's tree.,"<metaphor>
+the present moment is the cornerstone of life's structure.
+</metaphor>",the present moment is the cornerstone of life's structure.
+242,242,242,242,242,/data/ajaunarena/our_dataset/images/1250_2.jpg,Her rage was a blinding flash of lightning.,"<metaphor>
+her rage clouded her judgment.
+</metaphor>",her rage clouded her judgment.
+243,243,243,243,243,/data/ajaunarena/our_dataset/images/1483_3.jpg,Time is a relentless wave rolling toward the shore of our present.,"<metaphor>
+time marches relentlessly forward.
+</metaphor>",time marches relentlessly forward.
+244,244,244,244,244,/data/ajaunarena/our_dataset/images/366_0.jpg,His romantic drive is like a rabbit in spring.,"<metaphor>
+he's always chasing after love like a dog after a bone.
+</metaphor>",he's always chasing after love like a dog after a bone.
+245,245,245,245,245,/data/ajaunarena/our_dataset/images/1165_2.jpg,The rival theories played a high-stakes game of intellectual chess.,"<metaphor>
+frameworks clash, strategies intertwine, consequences profound.
+</metaphor>","frameworks clash, strategies intertwine, consequences profound."
+246,246,246,246,246,/data/ajaunarena/our_dataset/images/1593_3.jpg,"Like mirrors, opportunities reflect what you present to them.","<metaphor>
+opportunities yield gold when mined with passion.
+</metaphor>",opportunities yield gold when mined with passion.
+247,247,247,247,247,/data/ajaunarena/our_dataset/images/581_2.jpg,She hungrily consumed new experiences.,"<metaphor>
+she dove headfirst into life's adventures.
+</metaphor>",she dove headfirst into life's adventures.
+248,248,248,248,248,/data/ajaunarena/our_dataset/images/446_1.jpg,Existence is a compass pointing toward countless destinations.,"<metaphor>
+life's compass guides through diverse paths.
+</metaphor>",life's compass guides through diverse paths.
+249,249,249,249,249,/data/ajaunarena/our_dataset/images/1674_3.jpg,His values were refined like precious metals.,"<metaphor>
+his moral principles were like a well-crafted fortress.
+</metaphor>",his moral principles were like a well-crafted fortress.
+250,250,250,250,250,/data/ajaunarena/our_dataset/images/667_1.jpg,The morning hours are a basket already filled with routine tasks.,"<metaphor>
+morning's schedule is set by routine.
+</metaphor>",morning's schedule is set by routine.
+251,251,251,251,251,/data/ajaunarena/our_dataset/images/1424_1.jpg,Their relationship descended into the abyss.,"<metaphor>
+their relationship was shattered beyond repair.
+</metaphor>",their relationship was shattered beyond repair.
+252,252,252,252,252,/data/ajaunarena/our_dataset/images/787_3.jpg,The pendulum of force swings between action and reaction.,"<metaphor>
+every push has a pull; every step, a counter-step.
+</metaphor>","every push has a pull; every step, a counter-step."
+253,253,253,253,253,/data/ajaunarena/our_dataset/images/1917_1.jpg,Ancient paths intersect with newly carved routes.,"<metaphor>
+traditional paths merge with innovation for fresh horizons.
+</metaphor>",traditional paths merge with innovation for fresh horizons.
+254,254,254,254,254,/data/ajaunarena/our_dataset/images/1245_2.jpg,Rays of sunshine flowed between the clouds like liquid gold.,"<metaphor>
+glimmering beams danced through the clouds.
+</metaphor>",glimmering beams danced through the clouds.
+255,255,255,255,255,/data/ajaunarena/our_dataset/images/63_1.jpg,Our deadlines are colliding with each other.,"<metaphor>
+tasks jostle for time, creating chaos.
+</metaphor>","tasks jostle for time, creating chaos."
+256,256,256,256,256,/data/ajaunarena/our_dataset/images/911_1.jpg,The solution finally made its way here.,"<metaphor>
+solution emerged from hard work and dedication.
+</metaphor>",solution emerged from hard work and dedication.
+257,257,257,257,257,/data/ajaunarena/our_dataset/images/1883_1.jpg,His gaming habit is a potent drug that's taken over his life.,"<metaphor>
+gaming addiction has consumed his life like a cancer.
+</metaphor>",gaming addiction has consumed his life like a cancer.
+258,258,258,258,258,/data/ajaunarena/our_dataset/images/979_2.jpg,His happiness rose like a mighty skyscraper.,"<metaphor>
+his joy soared to new heights.
+</metaphor>",his joy soared to new heights.
+259,259,259,259,259,/data/ajaunarena/our_dataset/images/1462_2.jpg,Her mind stockpiles ideas like a squirrel hoarding nuts for winter.,"<metaphor>
+she gathers seeds for her future garden.
+</metaphor>",she gathers seeds for her future garden.
+260,260,260,260,260,/data/ajaunarena/our_dataset/images/78_3.jpg,Causes and effects are handcuffed together by time.,"<metaphor>
+ebb and flow of time shapes destiny.
+</metaphor>",ebb and flow of time shapes destiny.
+261,261,261,261,261,/data/ajaunarena/our_dataset/images/762_2.jpg,The void in his heart bled continuously.,"<metaphor>
+missing ingredient: constant ache in the recipe.
+</metaphor>",missing ingredient: constant ache in the recipe.
+262,262,262,262,262,/data/ajaunarena/our_dataset/images/1556_1.jpg,The transparent containers revealed every obligation within.,"<metaphor>
+responsibilities were laid out like a transparent web.
+</metaphor>",responsibilities were laid out like a transparent web.
+263,263,263,263,263,/data/ajaunarena/our_dataset/images/849_1.jpg,"Some people are like solar-powered batteries, drawing strength from nature.","<metaphor>
+nature's embrace rejuvenates spirits.
+</metaphor>",nature's embrace rejuvenates spirits.
+264,264,264,264,264,/data/ajaunarena/our_dataset/images/601_1.jpg,He lost his footing in the midst of crisis.,"<metaphor>
+his emotions spiraled out of control like a hurricane.
+</metaphor>",his emotions spiraled out of control like a hurricane.
+265,265,265,265,265,/data/ajaunarena/our_dataset/images/1317_1.jpg,His enthusiasm was a flame that ignited the whole team.,"<metaphor>
+his passion lit up the team like a beacon.
+</metaphor>",his passion lit up the team like a beacon.
+266,266,266,266,266,/data/ajaunarena/our_dataset/images/1581_2.jpg,Our sight is a box with transparent walls.,"<metaphor>
+our visual field is a window with defined edges.
+</metaphor>",our visual field is a window with defined edges.
+267,267,267,267,267,/data/ajaunarena/our_dataset/images/827_0.jpg,The checkered flag waves for all who persist.,"<metaphor>
+endurance fuels the race to victory.
+</metaphor>",endurance fuels the race to victory.
+268,268,268,268,268,/data/ajaunarena/our_dataset/images/1699_2.jpg,The theory's foundation has developed dangerous cracks.,"<metaphor>
+theory's foundation crumbled under scrutiny.
+</metaphor>",theory's foundation crumbled under scrutiny.
+269,269,269,269,269,/data/ajaunarena/our_dataset/images/900_2.jpg,His anger was a boiling kettle ready to explode.,"<metaphor>
+his fury was a boiling kettle about to explode.
+</metaphor>",his fury was a boiling kettle about to explode.
+270,270,270,270,270,/data/ajaunarena/our_dataset/images/259_1.jpg,"Their attraction was a long-range missile, spanning continents.","<metaphor>
+their love跨洋不减。
+</metaphor>",their love跨洋不减。
+271,271,271,271,271,/data/ajaunarena/our_dataset/images/1130_1.jpg,Hope is a beacon in the darkness.,"<metaphor>
+hope is a lighthouse guiding through stormy seas.
+</metaphor>",hope is a lighthouse guiding through stormy seas.
+272,272,272,272,272,/data/ajaunarena/our_dataset/images/363_0.jpg,She flutters from partner to partner like a restless butterfly.,"<metaphor>
+{{she dates like a butterfly flits from flower to flower.}}
+</metaphor>",{{she dates like a butterfly flits from flower to flower.}}
+273,273,273,273,273,/data/ajaunarena/our_dataset/images/1169_0.jpg,The winning theory took home the gold medal of peer acceptance.,"<metaphor>
+it became the gold standard of thought.
+</metaphor>",it became the gold standard of thought.
+274,274,274,274,274,/data/ajaunarena/our_dataset/images/1372_2.jpg,The cold grip of fear froze her thoughts in place.,"<metaphor>
+fear clouded her judgment like fog obscures vision.
+</metaphor>",fear clouded her judgment like fog obscures vision.
+275,275,275,275,275,/data/ajaunarena/our_dataset/images/1440_2.jpg,Her lust burned like a raging inferno.,"<metaphor>
+her passion burned like a wildfire.
+</metaphor>",her passion burned like a wildfire.
+276,276,276,276,276,/data/ajaunarena/our_dataset/images/921_2.jpg,This problem is a Gordian knot of complications.,"<metaphor>
+a tangled web defies unraveling.
+</metaphor>",a tangled web defies unraveling.
+277,277,277,277,277,/data/ajaunarena/our_dataset/images/973_3.jpg,His elation climbed to the summit of bliss.,"<metaphor>
+he soared to the peak of bliss.
+</metaphor>",he soared to the peak of bliss.
+278,278,278,278,278,/data/ajaunarena/our_dataset/images/1244_0.jpg,The dawn tide washed over the sleeping city.,"<metaphor>
+morning light painted the city anew.
+</metaphor>",morning light painted the city anew.
+279,279,279,279,279,/data/ajaunarena/our_dataset/images/1190_3.jpg,The committee members in my mind debate each decision.,"<metaphor>
+my personality's facets guide my choices like a compass.
+</metaphor>",my personality's facets guide my choices like a compass.
+280,280,280,280,280,/data/ajaunarena/our_dataset/images/1190_3.jpg,The committee members in my mind debate each decision.,"<metaphor>
+my personality's facets guide my choices like a compass.
+</metaphor>",my personality's facets guide my choices like a compass.
+281,281,281,281,281,/data/ajaunarena/our_dataset/images/1888_0.jpg,She's hooked on the high of constant productivity.,"<metaphor>
+she works herself into exhaustion.
+</metaphor>",she works herself into exhaustion.
+282,282,282,282,282,/data/ajaunarena/our_dataset/images/594_3.jpg,Causal roots nourish the tree of logical reasoning.,"<metaphor>
+causal chains build the foundation of logic.
+</metaphor>",causal chains build the foundation of logic.
+283,283,283,283,283,/data/ajaunarena/our_dataset/images/1639_0.jpg,The meeting spiraled into chaos.,"<metaphor>
+order unraveled like a unraveling tapestry.
+</metaphor>",order unraveled like a unraveling tapestry.
+284,284,284,284,284,/data/ajaunarena/our_dataset/images/830_2.jpg,These possessions are chains that bind me.,"<metaphor>
+obligations bind, weighing down freedom.
+</metaphor>","obligations bind, weighing down freedom."
+285,285,285,285,285,/data/ajaunarena/our_dataset/images/744_2.jpg,Anger accelerated through him like a rocket launch.,"<metaphor>
+his anger boiled over like a pot of boiling water.
+</metaphor>",his anger boiled over like a pot of boiling water.
+286,286,286,286,286,/data/ajaunarena/our_dataset/images/1476_0.jpg,Her leadership navigated the team through the crisis.,"<metaphor>
+her guidance steered the ship through the storm.
+</metaphor>",her guidance steered the ship through the storm.
+287,287,287,287,287,/data/ajaunarena/our_dataset/images/505_2.jpg,The solution lies beneath these turbulent waters.,"<metaphor>
+the solution lies beneath the surface of the problem.
+</metaphor>",the solution lies beneath the surface of the problem.
+288,288,288,288,288,/data/ajaunarena/our_dataset/images/24_0.jpg,The body mobilizes its forces to fight off the viral invasion.,"<metaphor>
+immune cells dance to defeat viruses.
+</metaphor>",immune cells dance to defeat viruses.
+289,289,289,289,289,/data/ajaunarena/our_dataset/images/1249_1.jpg,Candlelight swirled through the room like a gentle current.,"<metaphor>
+candlelight dances across the room.
+</metaphor>",candlelight dances across the room.
+290,290,290,290,290,/data/ajaunarena/our_dataset/images/884_3.jpg,His emotional stability is a masterful balancing act.,"<metaphor>
+he navigates his emotions like a master chef.
+</metaphor>",he navigates his emotions like a master chef.
+291,291,291,291,291,/data/ajaunarena/our_dataset/images/1010_3.jpg,His grip on the business empire is unshakeable.,"<metaphor>
+he owns the business like a king owns his castle.
+</metaphor>",he owns the business like a king owns his castle.
+292,292,292,292,292,/data/ajaunarena/our_dataset/images/377_2.jpg,A rainbow of opportunities emerges after the economic storm.,"<metaphor>
+new horizons emerge from adversity's embrace.
+</metaphor>",new horizons emerge from adversity's embrace.
+293,293,293,293,293,/data/ajaunarena/our_dataset/images/1807_2.jpg,Time is an eroding coastline.,"<metaphor>
+time is a relentless clock ticking away.
+</metaphor>",time is a relentless clock ticking away.
+294,294,294,294,294,/data/ajaunarena/our_dataset/images/587_2.jpg,They chewed through the competition.,"<metaphor>
+they climbed the ladder of success, one rung at a time.
+</metaphor>","they climbed the ladder of success, one rung at a time."
+295,295,295,295,295,/data/ajaunarena/our_dataset/images/1066_2.jpg,They exchanged authority over the department.,"<metaphor>
+leaders passed the torch to each other.
+</metaphor>",leaders passed the torch to each other.
+296,296,296,296,296,/data/ajaunarena/our_dataset/images/1066_2.jpg,They exchanged authority over the department.,"<metaphor>
+leaders passed the torch to each other.
+</metaphor>",leaders passed the torch to each other.
+297,297,297,297,297,/data/ajaunarena/our_dataset/images/806_2.jpg,That hedge fund is a golden purse with holes in its lining.,"<metaphor>
+hedge fund hides fees, returns deceive.
+</metaphor>","hedge fund hides fees, returns deceive."
+298,298,298,298,298,/data/ajaunarena/our_dataset/images/451_1.jpg,Love is a dance of yin and yang.,"<metaphor>
+love is the symphony of two souls.
+</metaphor>",love is the symphony of two souls.
+299,299,299,299,299,/data/ajaunarena/our_dataset/images/861_3.jpg,His anger was a volcanic wasteland.,"<metaphor>
+his anger was a ticking time bomb.
+</metaphor>",his anger was a ticking time bomb.
+300,300,300,300,300,/data/ajaunarena/our_dataset/images/519_1.jpg,The company is navigating through troubled waters.,"<metaphor>
+the company navigates through turbulent waters.
+</metaphor>",the company navigates through turbulent waters.
+301,301,301,301,301,/data/ajaunarena/our_dataset/images/374_1.jpg,The economic forecast shows sunny skies ahead.,"<metaphor>
+{{the clouds part, revealing a brighter sky.}}
+</metaphor>","{{the clouds part, revealing a brighter sky.}}"
+302,302,302,302,302,/data/ajaunarena/our_dataset/images/45_3.jpg,The weight of drinks stacked up like bricks on his consciousness.,"<metaphor>
+drinks stacked him like bricks.
+</metaphor>",drinks stacked him like bricks.
+303,303,303,303,303,/data/ajaunarena/our_dataset/images/95_2.jpg,Their words were landmines scattered throughout the conversation.,"<metaphor>
+hidden daggers lurk beneath the surface.
+</metaphor>",hidden daggers lurk beneath the surface.
+304,304,304,304,304,/data/ajaunarena/our_dataset/images/174_3.jpg,He's dancing on thin ice.,"<metaphor>
+he's on thin ice, danger lurking nearby.
+</metaphor>","he's on thin ice, danger lurking nearby."
+305,305,305,305,305,/data/ajaunarena/our_dataset/images/1640_1.jpg,Their relationship is a well-tuned symphony.,"<metaphor>
+their relationship is like a well-oiled machine.
+</metaphor>",their relationship is like a well-oiled machine.
+306,306,306,306,306,/data/ajaunarena/our_dataset/images/918_2.jpg,The artwork has reached its final destination.,"<metaphor>
+the artwork reached its masterpiece stage.
+</metaphor>",the artwork reached its masterpiece stage.
+307,307,307,307,307,/data/ajaunarena/our_dataset/images/941_0.jpg,Darkness wore its velvet cover like a cloak.,"<metaphor>
+the darkness swallowed everything whole.
+</metaphor>",the darkness swallowed everything whole.
+308,308,308,308,308,/data/ajaunarena/our_dataset/images/404_0.jpg,Her inner light illuminates her musical talents.,"<metaphor>
+natural talent elevates her music.
+</metaphor>",natural talent elevates her music.
+309,309,309,309,309,/data/ajaunarena/our_dataset/images/1612_2.jpg,We need to quarantine these toxic ideas before they spread further.,"<metaphor>
+contain the virus before it spreads.
+</metaphor>",contain the virus before it spreads.
+310,310,310,310,310,/data/ajaunarena/our_dataset/images/1678_2.jpg,Their reputation sparkled like polished diamond.,"<metaphor>
+they were the gold standard of integrity.
+</metaphor>",they were the gold standard of integrity.
+311,311,311,311,311,/data/ajaunarena/our_dataset/images/301_1.jpg,She invested her morning hours wisely.,"<metaphor>
+morning hours were her golden hour.
+</metaphor>",morning hours were her golden hour.
+312,312,312,312,312,/data/ajaunarena/our_dataset/images/163_2.jpg,His eyes stretched across the vast horizon.,"<metaphor>
+he gazed upon the vast ocean's horizon.
+</metaphor>",he gazed upon the vast ocean's horizon.
+313,313,313,313,313,/data/ajaunarena/our_dataset/images/1310_2.jpg,Her anger was a raging inferno that consumed everything in its path.,"<metaphor>
+her rage was a storm that swept everything away.
+</metaphor>",her rage was a storm that swept everything away.
+314,314,314,314,314,/data/ajaunarena/our_dataset/images/79_3.jpg,The bridge of causality spans between action and reaction.,"<metaphor>
+every step leads to a new chapter.
+</metaphor>",every step leads to a new chapter.
+315,315,315,315,315,/data/ajaunarena/our_dataset/images/93_1.jpg,His words were a shield against criticism.,"<metaphor>
+he spoke softly to shield his words.
+</metaphor>",he spoke softly to shield his words.
+316,316,316,316,316,/data/ajaunarena/our_dataset/images/1423_1.jpg,The economy plummeted into a bottomless pit.,"<metaphor>
+economy took a deep dive, never fully recovered.
+</metaphor>","economy took a deep dive, never fully recovered."
+317,317,317,317,317,/data/ajaunarena/our_dataset/images/1598_2.jpg,Opportunities are seeds requiring fertile soil and care.,"<metaphor>
+success blooms under care and nurturing.
+</metaphor>",success blooms under care and nurturing.
+318,318,318,318,318,/data/ajaunarena/our_dataset/images/995_0.jpg,The judge within me sentences my heart to solitary confinement.,"<metaphor>
+{{her inner critic locks her emotions away.}}
+</metaphor>",{{her inner critic locks her emotions away.}}
+319,319,319,319,319,/data/ajaunarena/our_dataset/images/1082_3.jpg,Vision's container holds our visual world captive.,"<metaphor>
+our visual field is a window with limited view.
+</metaphor>",our visual field is a window with limited view.
+320,320,320,320,320,/data/ajaunarena/our_dataset/images/1937_3.jpg,He's my most guarded treasure in life's safe.,"<metaphor>
+i cherish this relationship like a precious gemstone.
+</metaphor>",i cherish this relationship like a precious gemstone.
+321,321,321,321,321,/data/ajaunarena/our_dataset/images/989_3.jpg,Their love was a perpetual flame that never cooled.,"<metaphor>
+their love bloomed like a timeless garden.
+</metaphor>",their love bloomed like a timeless garden.
+322,322,322,322,322,/data/ajaunarena/our_dataset/images/1407_3.jpg,Events sprint forward like Olympic runners.,"<metaphor>
+circumstances march purposefully toward their goal.
+</metaphor>",circumstances march purposefully toward their goal.
+323,323,323,323,323,/data/ajaunarena/our_dataset/images/1454_3.jpg,His ideologies were hand-me-down clothes that never quite fit.,"<metaphor>
+he wore someone else's mask for too long.
+</metaphor>",he wore someone else's mask for too long.
+324,324,324,324,324,/data/ajaunarena/our_dataset/images/1021_1.jpg,Squares are boxes of perfect symmetry.,"<metaphor>
+equal sides form a perfect square.
+</metaphor>",equal sides form a perfect square.
+325,325,325,325,325,/data/ajaunarena/our_dataset/images/891_3.jpg,The building's facade flows like a river.,"<metaphor>
+the building's facade flows like a river.
+</metaphor>",the building's facade flows like a river.
+326,326,326,326,326,/data/ajaunarena/our_dataset/images/1161_1.jpg,Their opposing theories raced neck-and-neck toward the finish line of academic consensus.,"<metaphor>
+theories danced in a symphony of equivalence.
+</metaphor>",theories danced in a symphony of equivalence.
+327,327,327,327,327,/data/ajaunarena/our_dataset/images/368_0.jpg,He's a lone wolf howling at every moon.,"<metaphor>
+he's a magnet for flings.
+</metaphor>",he's a magnet for flings.
+328,328,328,328,328,/data/ajaunarena/our_dataset/images/1511_1.jpg,Each state is a room in America's house.,"<metaphor>
+states weave a tapestry of unity and diversity.
+</metaphor>",states weave a tapestry of unity and diversity.
+329,329,329,329,329,/data/ajaunarena/our_dataset/images/1693_0.jpg,"The researchers are architects, designing theoretical skyscrapers.","<metaphor>
+theories stack like layers of a cake.
+</metaphor>",theories stack like layers of a cake.
+330,330,330,330,330,/data/ajaunarena/our_dataset/images/62_2.jpg,The project schedule is drifting aimlessly.,"<metaphor>
+lost in a maze without a map.
+</metaphor>",lost in a maze without a map.
+331,331,331,331,331,/data/ajaunarena/our_dataset/images/1390_3.jpg,"Like children learning to walk, ideas take their first wobbly steps into existence.","<metaphor>
+idea seeds sprout into full bloom.
+</metaphor>",idea seeds sprout into full bloom.
+332,332,332,332,332,/data/ajaunarena/our_dataset/images/292_0.jpg,Window shopping through life's opportunities reveals endless possibilities.,"<metaphor>
+""exploring the map before making a journey.""
+</metaphor>","""exploring the map before making a journey."""
+333,333,333,333,333,/data/ajaunarena/our_dataset/images/106_2.jpg,Stars connect their light in celestial dotted lines.,"<metaphor>
+stars align to create constellations.
+</metaphor>",stars align to create constellations.
+334,334,334,334,334,/data/ajaunarena/our_dataset/images/214_1.jpg,We're dismantling this problem brick by brick.,"<metaphor>
+breaking the problem into pieces like a puzzle.
+</metaphor>",breaking the problem into pieces like a puzzle.
+335,335,335,335,335,/data/ajaunarena/our_dataset/images/128_3.jpg,Creative success blooms from the compost of failure.,"<metaphor>
+mistakes pave the road to genius.
+</metaphor>",mistakes pave the road to genius.
+336,336,336,336,336,/data/ajaunarena/our_dataset/images/1331_0.jpg,"Like sorting puzzle pieces, researchers must organize their data methodically.","<metaphor>
+sorting data like organizing a puzzle.
+</metaphor>",sorting data like organizing a puzzle.
+337,337,337,337,337,/data/ajaunarena/our_dataset/images/427_3.jpg,Their democracy is an octagon with missing sides.,"<metaphor>
+the state's democracy is a half-built house.
+</metaphor>",the state's democracy is a half-built house.
+338,338,338,338,338,/data/ajaunarena/our_dataset/images/155_0.jpg,Love is an enchanted garden that grows with care.,"<metaphor>
+love blooms under care and attention.
+</metaphor>",love blooms under care and attention.
+339,339,339,339,339,/data/ajaunarena/our_dataset/images/1011_1.jpg,She cradles her memories like precious jewels.,"<metaphor>
+she treasures her memories like ancient relics.
+</metaphor>",she treasures her memories like ancient relics.
+340,340,340,340,340,/data/ajaunarena/our_dataset/images/369_0.jpg,She's a magpie chasing after every shiny thing.,"<metaphor>
+she casts a wide net for love.
+</metaphor>",she casts a wide net for love.
+341,341,341,341,341,/data/ajaunarena/our_dataset/images/1128_2.jpg,Life's struggles are like overpacked suitcases that need careful unpacking.,"<metaphor>
+solving complex problems requires patience and methodical steps.
+</metaphor>",solving complex problems requires patience and methodical steps.
+342,342,342,342,342,/data/ajaunarena/our_dataset/images/412_2.jpg,Her ideas are always perfectly tailored to the occasion.,"<metaphor>
+her thoughts align perfectly with the situation.
+</metaphor>",her thoughts align perfectly with the situation.
+343,343,343,343,343,/data/ajaunarena/our_dataset/images/1000_1.jpg,Laughter is an intoxicating elixir that flows through the room.,"<metaphor>
+laughter spreads like wildfire, lifting spirits.
+</metaphor>","laughter spreads like wildfire, lifting spirits."
+344,344,344,344,344,/data/ajaunarena/our_dataset/images/192_2.jpg,Her movements were carefully inventoried treasures.,"<metaphor>
+she navigated her life like a master chef.
+</metaphor>",she navigated her life like a master chef.
+345,345,345,345,345,/data/ajaunarena/our_dataset/images/1399_2.jpg,"Ideas need healthy environments to grow, just as children need nurturing homes.","<metaphor>
+idea seeds bloom under nurturing conditions.
+</metaphor>",idea seeds bloom under nurturing conditions.
+346,346,346,346,346,/data/ajaunarena/our_dataset/images/195_3.jpg,His gestures were stored in a locked cabinet.,"<metaphor>
+he kept his emotions in check like a master chef controls his kitchen.
+</metaphor>",he kept his emotions in check like a master chef controls his kitchen.
+347,347,347,347,347,/data/ajaunarena/our_dataset/images/170_1.jpg,She's standing in the line of fire.,"<metaphor>
+she's in a precarious position.
+</metaphor>",she's in a precarious position.
+348,348,348,348,348,/data/ajaunarena/our_dataset/images/1793_2.jpg,Multiple targets overlap in this problem's shooting gallery.,"<metaphor>
+solving the puzzle requires addressing all pieces at once.
+</metaphor>",solving the puzzle requires addressing all pieces at once.
+349,349,349,349,349,/data/ajaunarena/our_dataset/images/841_1.jpg,"His energy levels are running low, time to recharge.","<metaphor>
+he needs a nap to recharge his batteries.
+</metaphor>",he needs a nap to recharge his batteries.
+350,350,350,350,350,/data/ajaunarena/our_dataset/images/118_0.jpg,The darkness crystallized into an obsidian dome.,"<metaphor>
+the darkness swallowed everything whole.
+</metaphor>",the darkness swallowed everything whole.
+351,351,351,351,351,/data/ajaunarena/our_dataset/images/1587_2.jpg,Our sight is a jar storing visual memories.,"<metaphor>
+our visual field is a fleeting canvas for memories.
+</metaphor>",our visual field is a fleeting canvas for memories.
+352,352,352,352,352,/data/ajaunarena/our_dataset/images/702_1.jpg,She inventoried her beliefs like items in a storage room.,"<metaphor>
+she peeled back layers of her beliefs.
+</metaphor>",she peeled back layers of her beliefs.
+353,353,353,353,353,/data/ajaunarena/our_dataset/images/1644_2.jpg,Their partnership orchestrates perfect harmony.,"<metaphor>
+they danced in perfect harmony.
+</metaphor>",they danced in perfect harmony.
+354,354,354,354,354,/data/ajaunarena/our_dataset/images/1705_1.jpg,Social media is society's nervous system.,<metaphor>social media weaves a web of connection.</metaphor>,social media weaves a web of connection.
+355,355,355,355,355,/data/ajaunarena/our_dataset/images/1242_1.jpg,The sunset melted into the horizon.,"<metaphor>
+the sun's light dimmed as it set.
+</metaphor>",the sun's light dimmed as it set.
+356,356,356,356,356,/data/ajaunarena/our_dataset/images/1103_0.jpg,The curtain rises on each new creation.,"<metaphor>
+new art emerges from the canvas.
+</metaphor>",new art emerges from the canvas.
+357,357,357,357,357,/data/ajaunarena/our_dataset/images/1227_0.jpg,My collection of belongings requires constant inventory checks.,"<metaphor>
+""regular checks keep responsibilities in check.""
+</metaphor>","""regular checks keep responsibilities in check."""
+358,358,358,358,358,/data/ajaunarena/our_dataset/images/689_0.jpg,Comedy was the rehabilitation therapy for their troubled minds.,"<metaphor>
+laughter is the balm for the soul's wounds.
+</metaphor>",laughter is the balm for the soul's wounds.
+359,359,359,359,359,/data/ajaunarena/our_dataset/images/124_0.jpg,Innovation is harvested from well-nurtured experience.,"<metaphor>
+new ideas bloom from fertile minds.
+</metaphor>",new ideas bloom from fertile minds.
+360,360,360,360,360,/data/ajaunarena/our_dataset/images/677_3.jpg,Time's train carries passengers from cause to effect.,"<metaphor>
+time's arrow carries events forward.
+</metaphor>",time's arrow carries events forward.
+361,361,361,361,361,/data/ajaunarena/our_dataset/images/1596_3.jpg,Opportunities are lightbulbs that need the right current to shine.,"<metaphor>
+opportunities bloom under fertile conditions.
+</metaphor>",opportunities bloom under fertile conditions.
+362,362,362,362,362,/data/ajaunarena/our_dataset/images/1228_2.jpg,Each possession in my vault demands its share of attention.,"<metaphor>
+each task demands its own hourglass.
+</metaphor>",each task demands its own hourglass.
+363,363,363,363,363,/data/ajaunarena/our_dataset/images/463_3.jpg,They drew a straight line between right and wrong.,"<metaphor>
+they drew a sharp line between right and wrong.
+</metaphor>",they drew a sharp line between right and wrong.
+364,364,364,364,364,/data/ajaunarena/our_dataset/images/1790_1.jpg,The problem is a bullseye waiting to be hit.,"<metaphor>
+solve the puzzle piece by precise piece.
+</metaphor>",solve the puzzle piece by precise piece.
+365,365,365,365,365,/data/ajaunarena/our_dataset/images/1785_2.jpg,His career flourishes like a well-nourished plant.,"<metaphor>
+he climbed his way up the corporate ladder.
+</metaphor>",he climbed his way up the corporate ladder.
+366,366,366,366,366,/data/ajaunarena/our_dataset/images/1257_3.jpg,Their hatred was a blinding sandstorm of bitter words.,"<metaphor>
+their mutual dislike was a brick wall blocking communication.
+</metaphor>",their mutual dislike was a brick wall blocking communication.
+367,367,367,367,367,/data/ajaunarena/our_dataset/images/1170_2.jpg,Her mind is a brilliant beacon in the darkness.,"<metaphor>
+her mind is a compass guiding solutions.
+</metaphor>",her mind is a compass guiding solutions.
+368,368,368,368,368,/data/ajaunarena/our_dataset/images/141_3.jpg,His mind was suffering from emotional bruises.,"<metaphor>
+his soul was a wounded bird seeking peace.
+</metaphor>",his soul was a wounded bird seeking peace.
+369,369,369,369,369,/data/ajaunarena/our_dataset/images/127_3.jpg,Inspiration requires a well-tended greenhouse of focus.,"<metaphor>
+inspiration thrives in a sanctuary of focus.
+</metaphor>",inspiration thrives in a sanctuary of focus.
+370,370,370,370,370,/data/ajaunarena/our_dataset/images/151_2.jpg,Love is a magical potion brewing in life's cauldron.,"<metaphor>
+love blooms from the soil of shared experiences.
+</metaphor>",love blooms from the soil of shared experiences.
+371,371,371,371,371,/data/ajaunarena/our_dataset/images/1193_3.jpg,My internal jury weighs the evidence of each emotion.,"<metaphor>
+my inner judges weigh my emotions.
+</metaphor>",my inner judges weigh my emotions.
+372,372,372,372,372,/data/ajaunarena/our_dataset/images/1241_2.jpg,Moonbeams rippled across the lake's surface.,"<metaphor>
+moonlight dances on water's surface.
+</metaphor>",moonlight dances on water's surface.
+373,373,373,373,373,/data/ajaunarena/our_dataset/images/131_3.jpg,The investment in better education purchased a brighter future for the community.,"<metaphor>
+education illuminates the path to a brighter future.
+</metaphor>",education illuminates the path to a brighter future.
+374,374,374,374,374,/data/ajaunarena/our_dataset/images/1009_0.jpg,Laughter distilled the essence of their friendship.,"<metaphor>
+laughter unlocked their true connection.
+</metaphor>",laughter unlocked their true connection.
+375,375,375,375,375,/data/ajaunarena/our_dataset/images/81_1.jpg,Our possessions are the footprints of our property journey.,"<metaphor>
+items chart our path through life's landscape.
+</metaphor>",items chart our path through life's landscape.
+376,376,376,376,376,/data/ajaunarena/our_dataset/images/912_2.jpg,His masterpiece has landed.,"<metaphor>
+his masterpiece is now complete, a labor of love.
+</metaphor>","his masterpiece is now complete, a labor of love."
+377,377,377,377,377,/data/ajaunarena/our_dataset/images/486_1.jpg,Time is the great metamorphosis master.,"<metaphor>
+time weaves all into new patterns.</metaphor>",time weaves all into new patterns.
+378,378,378,378,378,/data/ajaunarena/our_dataset/images/586_0.jpg,She had an insatiable appetite for knowledge.,"<metaphor>
+she devoured knowledge like a voracious reader.
+</metaphor>",she devoured knowledge like a voracious reader.
+379,379,379,379,379,/data/ajaunarena/our_dataset/images/1150_0.jpg,Every step on this journey of change leaves footprints in the sands of progress.,"<metaphor>
+every step leaves a mark on the road to progress.
+</metaphor>",every step leaves a mark on the road to progress.
+380,380,380,380,380,/data/ajaunarena/our_dataset/images/1300_2.jpg,She handed life to her characters on blank pages.,"<metaphor>
+she wove stories into lifelike characters.
+</metaphor>",she wove stories into lifelike characters.
+381,381,381,381,381,/data/ajaunarena/our_dataset/images/516_1.jpg,Their ideas have reached a dead end.,"<metaphor>
+their ideas have reached a dead end.
+</metaphor>",their ideas have reached a dead end.
+382,382,382,382,382,/data/ajaunarena/our_dataset/images/1757_2.jpg,Success fed his appetite for more challenges.,"<metaphor>
+success fuels ambition to conquer new heights.
+</metaphor>",success fuels ambition to conquer new heights.
+383,383,383,383,383,/data/ajaunarena/our_dataset/images/836_2.jpg,Each possession is an anchor dragging me down.,"<metaphor>
+burdens weigh down my progress like anchors.
+</metaphor>",burdens weigh down my progress like anchors.
+384,384,384,384,384,/data/ajaunarena/our_dataset/images/907_3.jpg,His anger was a pressure cooker building steam.,"<metaphor>
+his anger swelled like a boiling kettle.
+</metaphor>",his anger swelled like a boiling kettle.
+385,385,385,385,385,/data/ajaunarena/our_dataset/images/1727_0.jpg,The machine's pressure gauge was in the red zone.,"<metaphor>
+his passion burned like a wildfire.
+</metaphor>",his passion burned like a wildfire.
+386,386,386,386,386,/data/ajaunarena/our_dataset/images/1904_0.jpg,Achievement climbs its own mountain.,"<metaphor>
+she climbed her way to success through hard work.
+</metaphor>",she climbed her way to success through hard work.
+387,387,387,387,387,/data/ajaunarena/our_dataset/images/1889_1.jpg,His anger is a bitter pill he keeps swallowing.,"<metaphor>
+he's like a volcano, always erupting.
+</metaphor>","he's like a volcano, always erupting."
+388,388,388,388,388,/data/ajaunarena/our_dataset/images/467_1.jpg,Their values stood as straight as a pillar.,"<metaphor>
+their moral compass never wavered.
+</metaphor>",their moral compass never wavered.
+389,389,389,389,389,/data/ajaunarena/our_dataset/images/896_2.jpg,The shapes drift like autumn leaves.,"<metaphor>
+shapes dance into place effortlessly.
+</metaphor>",shapes dance into place effortlessly.
+390,390,390,390,390,/data/ajaunarena/our_dataset/images/727_0.jpg,The question has become a permanent tenant in my thoughts.,"<metaphor>
+i'm consistently dedicating serious thought to the question.
+</metaphor>",i'm consistently dedicating serious thought to the question.
+391,391,391,391,391,/data/ajaunarena/our_dataset/images/878_0.jpg,She maintains her image like a carefully preserved manuscript cover.,"<metaphor>
+she paints her face to hide her true age.
+</metaphor>",she paints her face to hide her true age.
+392,392,392,392,392,/data/ajaunarena/our_dataset/images/825_0.jpg,The pit stops of preparation fuel victory.,"<metaphor>
+""plan your path to victory.""
+</metaphor>","""plan your path to victory."""
+393,393,393,393,393,/data/ajaunarena/our_dataset/images/1315_1.jpg,Their romance sparked and blazed like a wildfire.,"<metaphor>
+he ignited her heart like a flame.
+</metaphor>",he ignited her heart like a flame.
+394,394,394,394,394,/data/ajaunarena/our_dataset/images/1149_0.jpg,Their friendship needed a software patch.,"<metaphor>
+they navigated their way to a stronger bond.
+</metaphor>",they navigated their way to a stronger bond.
+395,395,395,395,395,/data/ajaunarena/our_dataset/images/1067_1.jpg,The team leader distributed power among the members.,"<metaphor>
+team leader ceded power to empower others.
+</metaphor>",team leader ceded power to empower others.
+396,396,396,396,396,/data/ajaunarena/our_dataset/images/943_1.jpg,The lid of darkness closed over the landscape.,"<metaphor>
+the night swallowed the landscape whole.
+</metaphor>",the night swallowed the landscape whole.
+397,397,397,397,397,/data/ajaunarena/our_dataset/images/142_3.jpg,Her mind needed time to stretch after waking.,"<metaphor>
+her mind woke up like a sleepy cat.
+</metaphor>",her mind woke up like a sleepy cat.
+398,398,398,398,398,/data/ajaunarena/our_dataset/images/775_2.jpg,"Like a skilled tracker, time never loses sight of its prey.","<metaphor>
+time's relentless hand shapes all.
+</metaphor>",time's relentless hand shapes all.
+399,399,399,399,399,/data/ajaunarena/our_dataset/images/589_0.jpg,She tasted sweet success at last.,"<metaphor>
+she reached her peak, feeling victorious.
+</metaphor>","she reached her peak, feeling victorious."
+400,400,400,400,400,/data/ajaunarena/our_dataset/images/1084_2.jpg,Our eyes' territory has strict borders.,"<metaphor>
+limited vision confines us.
+</metaphor>",limited vision confines us.
+401,401,401,401,401,/data/ajaunarena/our_dataset/images/1277_2.jpg,We're following the trail markers of those who succeeded before us.,"<metaphor>
+learning from the footsteps of giants.
+</metaphor>",learning from the footsteps of giants.
+402,402,402,402,402,/data/ajaunarena/our_dataset/images/1174_0.jpg,Their minds are dim candles in a vast hall.,"<metaphor>
+their minds are too small for the task at hand.
+</metaphor>",their minds are too small for the task at hand.
+403,403,403,403,403,/data/ajaunarena/our_dataset/images/743_2.jpg,Their love danced like leaves in the autumn wind.,"<metaphor>
+their love danced like a butterfly's flight.
+</metaphor>",their love danced like a butterfly's flight.
+404,404,404,404,404,/data/ajaunarena/our_dataset/images/953_3.jpg,They orbited each other like binary stars.,"<metaphor>
+their hearts beat as one, intertwined.</metaphor>","their hearts beat as one, intertwined."
+405,405,405,405,405,/data/ajaunarena/our_dataset/images/1301_2.jpg,The artist bestowed colors to the empty canvas.,"<metaphor>
+painting a masterpiece with every stroke.
+</metaphor>",painting a masterpiece with every stroke.
+406,406,406,406,406,/data/ajaunarena/our_dataset/images/1539_0.jpg,Understanding clicks into place like perfect puzzle pieces.,"<metaphor>
+new ideas fit like puzzle pieces.
+</metaphor>",new ideas fit like puzzle pieces.
+407,407,407,407,407,/data/ajaunarena/our_dataset/images/1088_1.jpg,Vision's chamber holds our perceptual universe.,"<metaphor>
+our visual field is a window to our world.
+</metaphor>",our visual field is a window to our world.
+408,408,408,408,408,/data/ajaunarena/our_dataset/images/1167_3.jpg,Their competing frameworks entered the intellectual Olympics.,"<metaphor>
+theories were scrutinized under a microscope.
+</metaphor>",theories were scrutinized under a microscope.
+409,409,409,409,409,/data/ajaunarena/our_dataset/images/557_3.jpg,The theory's family tree branches into multiple disciplines.,"<metaphor>
+the theory spread like wildfire across disciplines.
+</metaphor>",the theory spread like wildfire across disciplines.
+410,410,410,410,410,/data/ajaunarena/our_dataset/images/844_0.jpg,"He's a high-capacity battery, always ready to take on more tasks.","<metaphor>
+he's a multitasking marathon runner.
+</metaphor>",he's a multitasking marathon runner.
+411,411,411,411,411,/data/ajaunarena/our_dataset/images/658_2.jpg,These facts orbit around the main argument.,"<metaphor>
+evidence strengthens the core argument like cement.
+</metaphor>",evidence strengthens the core argument like cement.
+412,412,412,412,412,/data/ajaunarena/our_dataset/images/1053_0.jpg,Their love crossed many bridges.,"<metaphor>
+their bond forged through trials, stronger than ever.
+</metaphor>","their bond forged through trials, stronger than ever."
+413,413,413,413,413,/data/ajaunarena/our_dataset/images/84_3.jpg,Our possessions are the chapters in our property story.,"<metaphor>
+each item is a chapter in our property story.
+</metaphor>",each item is a chapter in our property story.
+414,414,414,414,414,/data/ajaunarena/our_dataset/images/564_3.jpg,Love's lunacy dances in wisdom's grave.,"<metaphor>romance blinds reason, leading to folly.</metaphor>","romance blinds reason, leading to folly."
+415,415,415,415,415,/data/ajaunarena/our_dataset/images/1756_3.jpg,The crowd's hunger for entertainment grew ravenous.,"<metaphor>
+audience laughter crescendoed.
+</metaphor>",audience laughter crescendoed.
+416,416,416,416,416,/data/ajaunarena/our_dataset/images/1443_3.jpg,Their desire sparked like a match striking flint.,"<metaphor>
+their hearts burst into flames.
+</metaphor>",their hearts burst into flames.
+417,417,417,417,417,/data/ajaunarena/our_dataset/images/1561_0.jpg,His rage was a straitjacket of burning sensations.,"<metaphor>
+his anger constricted his soul like a vice.
+</metaphor>",his anger constricted his soul like a vice.
+418,418,418,418,418,/data/ajaunarena/our_dataset/images/25_1.jpg,White blood cells are the soldiers patrolling our bloodstream.,"<metaphor>
+white blood cells patrol the body's defenses.
+</metaphor>",white blood cells patrol the body's defenses.
+419,419,419,419,419,/data/ajaunarena/our_dataset/images/289_1.jpg,Their hypothesis is a lighthouse guiding future research.,"<metaphor>
+their hypothesis guides the path forward.
+</metaphor>",their hypothesis guides the path forward.
+420,420,420,420,420,/data/ajaunarena/our_dataset/images/1642_2.jpg,Their friendship resonates at the same frequency.,"<metaphor>
+their bond is like a well-tuned orchestra.</metaphor>",their bond is like a well-tuned orchestra.
+421,421,421,421,421,/data/ajaunarena/our_dataset/images/1120_0.jpg,Life's difficulties are sealed jars that require strength to open.,"<metaphor>
+challenges are hurdles to jump over with grit.
+</metaphor>",challenges are hurdles to jump over with grit.
+422,422,422,422,422,/data/ajaunarena/our_dataset/images/905_0.jpg,The temperature of the argument rose to dangerous levels.,"<metaphor>
+conflict spiraled into chaos.</metaphor>",conflict spiraled into chaos.
+423,423,423,423,423,/data/ajaunarena/our_dataset/images/801_1.jpg,Her stock portfolio is a steel vault protecting her wealth.,"<metaphor>
+her diversified stock portfolio is a rock-solid foundation.
+</metaphor>",her diversified stock portfolio is a rock-solid foundation.
+424,424,424,424,424,/data/ajaunarena/our_dataset/images/770_2.jpg,"Time is a relentless pursuer, always at our heels.","<metaphor>
+time's relentless hand guides us forward.
+</metaphor>",time's relentless hand guides us forward.
+425,425,425,425,425,/data/ajaunarena/our_dataset/images/1865_0.jpg,They climbed toward their ideal selves.,"<metaphor>
+they sculpted themselves into their ideal forms.
+</metaphor>",they sculpted themselves into their ideal forms.
+426,426,426,426,426,/data/ajaunarena/our_dataset/images/413_2.jpg,"Some ideas, like vintage clothing, never go out of style.","<metaphor>
+timeless truths endure like ancient stones.</metaphor>",timeless truths endure like ancient stones.
+427,427,427,427,427,/data/ajaunarena/our_dataset/images/909_2.jpg,Her rage was a thermal explosion that left only ashes.,"<metaphor>
+her rage swept away all hope.
+</metaphor>",her rage swept away all hope.
+428,428,428,428,428,/data/ajaunarena/our_dataset/images/837_0.jpg,My possessions are demanding children crying for attention.,"<metaphor>
+obligations drain my time and energy like a leaky bucket.
+</metaphor>",obligations drain my time and energy like a leaky bucket.
+429,429,429,429,429,/data/ajaunarena/our_dataset/images/1135_0.jpg,The light of hope pierces through storm clouds.,"<metaphor>
+hope shines like a beacon amidst stormy seas.
+</metaphor>",hope shines like a beacon amidst stormy seas.
+430,430,430,430,430,/data/ajaunarena/our_dataset/images/833_1.jpg,These belongings are hungry mouths that need constant feeding.,"<metaphor>
+obligations are like a constant stream demanding attention.
+</metaphor>",obligations are like a constant stream demanding attention.
+431,431,431,431,431,/data/ajaunarena/our_dataset/images/1460_3.jpg,Ideas are untapped mines waiting to be excavated.,"<metaphor>
+illuminating the path with innovative light bulbs.</metaphor>",illuminating the path with innovative light bulbs.
+432,432,432,432,432,/data/ajaunarena/our_dataset/images/76_2.jpg,Each cause hooks into its effect like a zipper's teeth.,"<metaphor>
+cogs turn in a clockwork dance.
+</metaphor>",cogs turn in a clockwork dance.
+433,433,433,433,433,/data/ajaunarena/our_dataset/images/1396_1.jpg,"Some ideas are mischievous toddlers, refusing to stay within boundaries.","<metaphor>
+ideas break free from chains, challenging norms.
+</metaphor>","ideas break free from chains, challenging norms."
+434,434,434,434,434,/data/ajaunarena/our_dataset/images/951_1.jpg,She built a bridge across the space between them.,"<metaphor>
+she built bridges with her heart.
+</metaphor>",she built bridges with her heart.
+435,435,435,435,435,/data/ajaunarena/our_dataset/images/978_0.jpg,Her joy scaled the peaks of ecstasy.,"<metaphor>
+she soared to the heights of bliss.
+</metaphor>",she soared to the heights of bliss.
+436,436,436,436,436,/data/ajaunarena/our_dataset/images/1441_1.jpg,The temperature of desire rose steadily between them.,"<metaphor>
+their hearts beat as one, growing stronger together.
+</metaphor>","their hearts beat as one, growing stronger together."
+437,437,437,437,437,/data/ajaunarena/our_dataset/images/991_1.jpg,The child within me dances with delight.,"<metaphor>
+i'm feeling like a child's pure joy.
+</metaphor>",i'm feeling like a child's pure joy.
+438,438,438,438,438,/data/ajaunarena/our_dataset/images/1480_0.jpg,Time is an unstoppable train barreling towards us on a one-way track.,"<metaphor>
+time is a river, always flowing forward.
+</metaphor>","time is a river, always flowing forward."
+439,439,439,439,439,/data/ajaunarena/our_dataset/images/294_1.jpg,Browsing through life's aisles reveals unexpected treasures.,"<metaphor>
+carefully exploring leads to valuable discoveries.
+</metaphor>",carefully exploring leads to valuable discoveries.
+440,440,440,440,440,/data/ajaunarena/our_dataset/images/59_0.jpg,The carousel of change revolves eternally.,"<metaphor>
+life is a river of change, flowing through familiar shores.
+</metaphor>","life is a river of change, flowing through familiar shores."
+441,441,441,441,441,/data/ajaunarena/our_dataset/images/1563_2.jpg,His jealousy was a padded room with no windows.,"<metaphor>
+jealousy blinds his vision, isolating him.
+</metaphor>","jealousy blinds his vision, isolating him."
+442,442,442,442,442,/data/ajaunarena/our_dataset/images/1186_2.jpg,Properties are pressure vessels containing potential.,"<metaphor>
+properties unlock their full potential like a seed sprouts.
+</metaphor>",properties unlock their full potential like a seed sprouts.
+443,443,443,443,443,/data/ajaunarena/our_dataset/images/1016_2.jpg,He clutches his principles tightly.,"<metaphor>
+he stands firm like a rock against the waves of temptation.
+</metaphor>",he stands firm like a rock against the waves of temptation.
+444,444,444,444,444,/data/ajaunarena/our_dataset/images/485_1.jpg,Time is a tireless transformer of landscapes.,"<metaphor>
+time carves landscapes, alters lives.
+</metaphor>","time carves landscapes, alters lives."
+445,445,445,445,445,/data/ajaunarena/our_dataset/images/1029_2.jpg,Stars are spiky vessels of celestial geometry.,"<metaphor>
+star points form intricate cosmic designs.
+</metaphor>",star points form intricate cosmic designs.
+446,446,446,446,446,/data/ajaunarena/our_dataset/images/779_0.jpg,The relentless chase of time corners us all in the end.,"<metaphor>
+time's clock ticks everyone down.
+</metaphor>",time's clock ticks everyone down.
+447,447,447,447,447,/data/ajaunarena/our_dataset/images/839_3.jpg,My possessions are relentless creditors demanding payment.,"<metaphor>
+obligations weigh me down like a heavy anchor.
+</metaphor>",obligations weigh me down like a heavy anchor.
+448,448,448,448,448,/data/ajaunarena/our_dataset/images/917_2.jpg,Their concept has arrived at fruition.,"<metaphor>
+they brought their vision to life.</metaphor>",they brought their vision to life.
+449,449,449,449,449,/data/ajaunarena/our_dataset/images/108_2.jpg,The moon's reflection lined the river with silver.,"<metaphor>
+moonlight painted the water like a silver ribbon.
+</metaphor>",moonlight painted the water like a silver ribbon.
+450,450,450,450,450,/data/ajaunarena/our_dataset/images/610_3.jpg,Writing is a garden where ideas bloom.,"<metaphor>
+idea seeds bloom through writing's fertile soil.
+</metaphor>",idea seeds bloom through writing's fertile soil.
+451,451,451,451,451,/data/ajaunarena/our_dataset/images/1513_3.jpg,States are chapters in America's story.,"<metaphor>
+states weave their stories into america's tapestry.</metaphor>",states weave their stories into america's tapestry.
+452,452,452,452,452,/data/ajaunarena/our_dataset/images/1327_0.jpg,Their traits are borrowed and lent like precious books.,"<metaphor>
+she adopted his ways for a season.
+</metaphor>",she adopted his ways for a season.
+453,453,453,453,453,/data/ajaunarena/our_dataset/images/1582_1.jpg,The edges of vision are like a container's rim.,"<metaphor>
+the edges frame our sight like a window.
+</metaphor>",the edges frame our sight like a window.
+454,454,454,454,454,/data/ajaunarena/our_dataset/images/0_0.jpg,His mind shattered like fine crystal under the pressure.,"<metaphor>
+his mind shattered under pressure.
+</metaphor>",his mind shattered under pressure.
+455,455,455,455,455,/data/ajaunarena/our_dataset/images/10_0.jpg,Money flows like a rushing river through the economy.,"<metaphor>
+money flows like water through pipes.
+</metaphor>",money flows like water through pipes.
+456,456,456,456,456,/data/ajaunarena/our_dataset/images/40_2.jpg,The weight of intoxication pressed down on his shoulders.,"<metaphor>
+he felt like a stone after drinking.
+</metaphor>",he felt like a stone after drinking.
+457,457,457,457,457,/data/ajaunarena/our_dataset/images/60_2.jpg,The schedule is racing down a steep hill.,"<metaphor>
+time is a wild horse running out of control.
+</metaphor>",time is a wild horse running out of control.
+458,458,458,458,458,/data/ajaunarena/our_dataset/images/100_2.jpg,The sunbeam drew a straight line through the darkness.,"<metaphor>
+light pierced the darkness like a spear.
+</metaphor>",light pierced the darkness like a spear.
+459,459,459,459,459,/data/ajaunarena/our_dataset/images/300_2.jpg,Time flows like liquid assets through our fingers.,"<metaphor>
+time is a river, always flowing.
+</metaphor>","time is a river, always flowing."
+460,460,460,460,460,/data/ajaunarena/our_dataset/images/360_1.jpg,He prowls through the nightclub like a hungry wolf.,"<metaphor>
+he scans the dance floor like a predator.
+</metaphor>",he scans the dance floor like a predator.
+461,461,461,461,461,/data/ajaunarena/our_dataset/images/400_1.jpg,Her inner fire fuels her creative abilities.,"<metaphor>
+her passion ignites her creativity like a flame.
+</metaphor>",her passion ignites her creativity like a flame.
+462,462,462,462,462,/data/ajaunarena/our_dataset/images/570_2.jpg,The shifting tides of change deepen the gulf between us.,"<metaphor>
+differences sharpen like knives in a knife fight.
+</metaphor>",differences sharpen like knives in a knife fight.
+463,463,463,463,463,/data/ajaunarena/our_dataset/images/660_1.jpg,Time is a sealed vessel that can only hold so many moments.,"<metaphor>
+time is a river, flowing swiftly and inexorably.
+</metaphor>","time is a river, flowing swiftly and inexorably."
+464,464,464,464,464,/data/ajaunarena/our_dataset/images/700_1.jpg,She hoards her beliefs like precious jewels.,"<metaphor>
+she clings to her beliefs like a rock.
+</metaphor>",she clings to her beliefs like a rock.
+465,465,465,465,465,/data/ajaunarena/our_dataset/images/710_0.jpg,The anger bubbling inside him erupted into violent force.,"<metaphor>
+his fury boiled over into violence.
+</metaphor>",his fury boiled over into violence.
+466,466,466,466,466,/data/ajaunarena/our_dataset/images/840_3.jpg,"Some people are like rechargeable batteries, bouncing back after every drain.","<metaphor>
+she bounces back stronger from every fall.
+</metaphor>",she bounces back stronger from every fall.
+467,467,467,467,467,/data/ajaunarena/our_dataset/images/20_0.jpg,The immune system is our body's front-line defense troops.,"<metaphor>
+the immune system is the body's shield against illness.
+</metaphor>",the immune system is the body's shield against illness.
+468,468,468,468,468,/data/ajaunarena/our_dataset/images/90_1.jpg,Her words were sharp daggers that pierced through his defenses.,"<metaphor>
+her words shattered his heart like glass.
+</metaphor>",her words shattered his heart like glass.
+469,469,469,469,469,/data/ajaunarena/our_dataset/images/110_3.jpg,The darkness was a concrete wall before me.,"<metaphor>
+the darkness swallowed all hope and vision.
+</metaphor>",the darkness swallowed all hope and vision.
+470,470,470,470,470,/data/ajaunarena/our_dataset/images/140_2.jpg,The mind is a muscle that needs regular exercise.,"<metaphor>
+brain muscles grow stronger with exercise.
+</metaphor>",brain muscles grow stronger with exercise.
+471,471,471,471,471,/data/ajaunarena/our_dataset/images/180_0.jpg,Their relationship is a family tree with deep roots.,"<metaphor>
+their bond is like cemented by shared roots.
+</metaphor>",their bond is like cemented by shared roots.
+472,472,472,472,472,/data/ajaunarena/our_dataset/images/940_1.jpg,The blanket of darkness wrapped around the world.,"<metaphor>
+the world was swallowed by night's blanket.
+</metaphor>",the world was swallowed by night's blanket.
+473,473,473,473,473,/data/ajaunarena/our_dataset/images/367_2.jpg,She's a bower bird collecting admirers.,"<metaphor>
+she's the magnet for suitors.
+</metaphor>",she's the magnet for suitors.
+474,474,474,474,474,/data/ajaunarena/our_dataset/images/1554_1.jpg,His obligations were packed into containers too small to hold them.,"<metaphor>
+he took on too much, overextended himself.
+</metaphor>","he took on too much, overextended himself."
+475,475,475,475,475,/data/ajaunarena/our_dataset/images/877_0.jpg,Their appearance is a protective shell.,"<metaphor>
+their facade shields their true feelings.
+</metaphor>",their facade shields their true feelings.
+476,476,476,476,476,/data/ajaunarena/our_dataset/images/554_3.jpg,This theory gave birth to numerous new research directions.,"<metaphor>
+illuminated paths opened new horizons.</metaphor>",illuminated paths opened new horizons.
+477,477,477,477,477,/data/ajaunarena/our_dataset/images/1867_3.jpg,He marched into a new phase of life.,"<metaphor>
+he took the leap, transforming his life.
+</metaphor>","he took the leap, transforming his life."
+478,478,478,478,478,/data/ajaunarena/our_dataset/images/304_2.jpg,Time bankruptcy left him with nothing but regrets.,"<metaphor>
+time ran out, leaving disaster in its wake.
+</metaphor>","time ran out, leaving disaster in its wake."
+479,479,479,479,479,/data/ajaunarena/our_dataset/images/193_1.jpg,He guarded his reactions like precious jewels.,"<metaphor>
+he kept his emotions in check like a master chef controls a pot.
+</metaphor>",he kept his emotions in check like a master chef controls a pot.
+480,480,480,480,480,/data/ajaunarena/our_dataset/images/584_1.jpg,He nibbled cautiously at the edges of opportunity.,"<metaphor>
+he danced around opportunities like a coward.
+</metaphor>",he danced around opportunities like a coward.
+481,481,481,481,481,/data/ajaunarena/our_dataset/images/1027_2.jpg,Pentagons are vaults of five-sided wisdom.,"<metaphor>
+balanced complexity: pentagon's equal sides.
+</metaphor>",balanced complexity: pentagon's equal sides.
+482,482,482,482,482,/data/ajaunarena/our_dataset/images/1406_2.jpg,The locomotive of circumstance steams ahead relentlessly.,"<metaphor>
+powerful waves relentlessly push forward.
+</metaphor>",powerful waves relentlessly push forward.
+483,483,483,483,483,/data/ajaunarena/our_dataset/images/1360_2.jpg,Her brilliant idea was a beacon in the darkness.,"<metaphor>
+her idea lit up the path to clarity.
+</metaphor>",her idea lit up the path to clarity.
+484,484,484,484,484,/data/ajaunarena/our_dataset/images/92_0.jpg,She loaded her argument with verbal ammunition.,"<metaphor>
+she fortified her case with many pillars.
+</metaphor>",she fortified her case with many pillars.
+485,485,485,485,485,/data/ajaunarena/our_dataset/images/1098_0.jpg,His mind was starving for new ideas.,"<metaphor>
+he devoured knowledge like a voracious reader.
+</metaphor>",he devoured knowledge like a voracious reader.
+486,486,486,486,486,/data/ajaunarena/our_dataset/images/1110_0.jpg,His authority rose to new heights.,"<metaphor>
+he gained the upper hand decisively.
+</metaphor>",he gained the upper hand decisively.
+487,487,487,487,487,/data/ajaunarena/our_dataset/images/874_3.jpg,She wears her appearance like a removable book sleeve.,"<metaphor>
+she paints her face for every occasion.
+</metaphor>",she paints her face for every occasion.
+488,488,488,488,488,/data/ajaunarena/our_dataset/images/77_2.jpg,The train of consequences follows its causal tracks.,"<metaphor>
+causality guides the universe's dance.
+</metaphor>",causality guides the universe's dance.
+489,489,489,489,489,/data/ajaunarena/our_dataset/images/1675_3.jpg,Their ethics were as unsullied as morning dew.,"<metaphor>
+they lived a life of pure gold.
+</metaphor>",they lived a life of pure gold.
+490,490,490,490,490,/data/ajaunarena/our_dataset/images/674_0.jpg,The river of time carries cause to effect's shore.,"<metaphor>
+time's river carries causes downstream.
+</metaphor>",time's river carries causes downstream.
+491,491,491,491,491,/data/ajaunarena/our_dataset/images/1188_0.jpg,Properties are friction points in economic motion.,"<metaphor>
+properties guide economic winds.
+</metaphor>",properties guide economic winds.
+492,492,492,492,492,/data/ajaunarena/our_dataset/images/607_2.jpg,He's standing on shaky emotional terrain.,"<metaphor>
+his emotional balance is like a delicate seesaw.
+</metaphor>",his emotional balance is like a delicate seesaw.
+493,493,493,493,493,/data/ajaunarena/our_dataset/images/1512_3.jpg,States are waypoints on the journey of progress.,"<metaphor>
+the nation's states are its stages of growth.
+</metaphor>",the nation's states are its stages of growth.
+494,494,494,494,494,/data/ajaunarena/our_dataset/images/164_0.jpg,Her gaze stroked the delicate flower petals.,"<metaphor>
+she dissected the flower's secrets.
+</metaphor>",she dissected the flower's secrets.
+495,495,495,495,495,/data/ajaunarena/our_dataset/images/1072_0.jpg,Their business practices were crystal clear.,"<metaphor>
+their business was a beacon of integrity.
+</metaphor>",their business was a beacon of integrity.
+496,496,496,496,496,/data/ajaunarena/our_dataset/images/1095_0.jpg,The students devoured every new concept.,"<metaphor>
+students devoured knowledge like ravenous wolves.
+</metaphor>",students devoured knowledge like ravenous wolves.
+497,497,497,497,497,/data/ajaunarena/our_dataset/images/1631_0.jpg,His anger made a U-turn into calm understanding.,"<metaphor>
+he flipped from fury to calm like a switch.
+</metaphor>",he flipped from fury to calm like a switch.
+498,498,498,498,498,/data/ajaunarena/our_dataset/images/832_2.jpg,My possessions have become my masters.,"<metaphor>
+obligations chain my decisions.
+</metaphor>",obligations chain my decisions.
+499,499,499,499,499,/data/ajaunarena/our_dataset/images/957_0.jpg,They shared the same emotional address.,"<metaphor>
+their hearts intertwined like vines.</metaphor>",their hearts intertwined like vines.
+500,500,500,500,500,/data/ajaunarena/our_dataset/images/1145_2.jpg,His heart needed a hardware upgrade.,"<metaphor>
+he grew his heart like a garden.
+</metaphor>",he grew his heart like a garden.
+501,501,501,501,501,/data/ajaunarena/our_dataset/images/555_0.jpg,The parent theory has spawned many offspring in different fields.,"<metaphor>
+original seed sprouts many branches.</metaphor>",original seed sprouts many branches.
+502,502,502,502,502,/data/ajaunarena/our_dataset/images/1751_1.jpg,Her appetite for knowledge was insatiable.,"<metaphor>
+she devoured knowledge like a voracious reader.
+</metaphor>",she devoured knowledge like a voracious reader.
+503,503,503,503,503,/data/ajaunarena/our_dataset/images/1412_0.jpg,The medicine of compromise healed the rift between them.,"<metaphor>
+compromises smoothed over their rough edges.
+</metaphor>",compromises smoothed over their rough edges.
+504,504,504,504,504,/data/ajaunarena/our_dataset/images/1060_2.jpg,She handed him the responsibility of leadership.,"<metaphor>
+she passed the torch to him.
+</metaphor>",she passed the torch to him.
+505,505,505,505,505,/data/ajaunarena/our_dataset/images/1851_0.jpg,Her presence faded like a dimming light.,"<metaphor>
+she faded from view like a distant star.</metaphor>",she faded from view like a distant star.
+506,506,506,506,506,/data/ajaunarena/our_dataset/images/1142_3.jpg,Their relationship was stuck in an infinite loop.,"<metaphor>
+they danced around the same issues.
+</metaphor>",they danced around the same issues.
+507,507,507,507,507,/data/ajaunarena/our_dataset/images/161_2.jpg,His gaze grasped every detail of the painting.,"<metaphor>
+he dissected the painting like a surgeon.
+</metaphor>",he dissected the painting like a surgeon.
+508,508,508,508,508,/data/ajaunarena/our_dataset/images/1613_0.jpg,Their minds were immune to rational arguments after exposure to propaganda.,"<metaphor>
+misleading seeds sow resistance to reason.
+</metaphor>",misleading seeds sow resistance to reason.
+509,509,509,509,509,/data/ajaunarena/our_dataset/images/1868_1.jpg,They skipped toward their transformation.,"<metaphor>
+they seized their destiny with both hands.
+</metaphor>",they seized their destiny with both hands.
+510,510,510,510,510,/data/ajaunarena/our_dataset/images/1113_0.jpg,The management climbed to absolute control.,"<metaphor>
+authority grew like a vine, entwining operations.
+</metaphor>","authority grew like a vine, entwining operations."
+511,511,511,511,511,/data/ajaunarena/our_dataset/images/902_0.jpg,His temper simmered just below the surface.,"<metaphor>
+he kept his temper like a simmering pot.
+</metaphor>",he kept his temper like a simmering pot.
+512,512,512,512,512,/data/ajaunarena/our_dataset/images/810_0.jpg,Life is a canvas painting existence's story.,"<metaphor>
+every moment weaves a tapestry of life's story.
+</metaphor>",every moment weaves a tapestry of life's story.
+513,513,513,513,513,/data/ajaunarena/our_dataset/images/15_0.jpg,Their savings pooled together created a reservoir of opportunity.,"<metaphor>
+their combined savings built a financial fortress.
+</metaphor>",their combined savings built a financial fortress.
+514,514,514,514,514,/data/ajaunarena/our_dataset/images/1276_2.jpg,Each team member carries their own backpack of responsibilities.,"<metaphor>
+every team member is a vital gear in the machine.
+</metaphor>",every team member is a vital gear in the machine.
+515,515,515,515,515,/data/ajaunarena/our_dataset/images/1934_2.jpg,He's my prized masterpiece in life's gallery.,"<metaphor>
+he's the crown jewel of my life.
+</metaphor>",he's the crown jewel of my life.
+516,516,516,516,516,/data/ajaunarena/our_dataset/images/365_0.jpg,She circles potential mates like a shark sensing blood.,"<metaphor>
+she stalks her prey with relentless pursuit.
+</metaphor>",she stalks her prey with relentless pursuit.
+517,517,517,517,517,/data/ajaunarena/our_dataset/images/29_0.jpg,Medical specialists are the commanding officers in the war room.,"<metaphor>
+medical specialists are the quarterbacks of healthcare.
+</metaphor>",medical specialists are the quarterbacks of healthcare.
+518,518,518,518,518,/data/ajaunarena/our_dataset/images/1286_1.jpg,Fresh ideas are bright lanterns in the dark.,"<metaphor>
+new ideas illuminate the path forward.
+</metaphor>",new ideas illuminate the path forward.
+519,519,519,519,519,/data/ajaunarena/our_dataset/images/1551_1.jpg,She sealed her obligations in airtight containers.,"<metaphor>
+she fortified her promises with a strong bond.
+</metaphor>",she fortified her promises with a strong bond.
+520,520,520,520,520,/data/ajaunarena/our_dataset/images/160_1.jpg,Her eyes reached out and caressed the landscape.,"<metaphor>
+she painted a detailed picture of the landscape.
+</metaphor>",she painted a detailed picture of the landscape.
+521,521,521,521,521,/data/ajaunarena/our_dataset/images/1061_3.jpg,The manager passed the decision-making power to his team.,"<metaphor>
+he gave wings to their飞翔的决策力。
+</metaphor>",he gave wings to their飞翔的决策力。
+522,522,522,522,522,/data/ajaunarena/our_dataset/images/199_3.jpg,His movements were precious commodities under lock and key.,"<metaphor>
+he steered his life like a ship at sea.
+</metaphor>",he steered his life like a ship at sea.
+523,523,523,523,523,/data/ajaunarena/our_dataset/images/291_1.jpg,Each option is a product on the shelf of possibilities.,"<metaphor>
+comparing apples to oranges before picking one.
+</metaphor>",comparing apples to oranges before picking one.
+524,524,524,524,524,/data/ajaunarena/our_dataset/images/1861_3.jpg,He sprinted toward personal growth.,"<metaphor>
+he seized every chance to elevate himself.
+</metaphor>",he seized every chance to elevate himself.
+525,525,525,525,525,/data/ajaunarena/our_dataset/images/348_3.jpg,"Like a software update, the replacement fixed old bugs.","<metaphor>
+solutions fixed broken gears, restoring smooth operation.
+</metaphor>","solutions fixed broken gears, restoring smooth operation."
+526,526,526,526,526,/data/ajaunarena/our_dataset/images/68_3.jpg,The project timeline is sliding on ice.,"<metaphor>
+the schedule is a wild horse.
+</metaphor>",the schedule is a wild horse.
+527,527,527,527,527,/data/ajaunarena/our_dataset/images/103_1.jpg,The lighthouse beam drew lines of hope across the sea.,"<metaphor>
+the lighthouse's beam guided ships through the night.
+</metaphor>",the lighthouse's beam guided ships through the night.
+528,528,528,528,528,/data/ajaunarena/our_dataset/images/515_0.jpg,The economy is climbing out of recession.,"<metaphor>
+economy climbs out of recession like a phoenix.
+</metaphor>",economy climbs out of recession like a phoenix.
+529,529,529,529,529,/data/ajaunarena/our_dataset/images/1550_1.jpg,His obligations were stacked like overflowing containers.,"<metaphor>
+he juggled too many balls, losing control.
+</metaphor>","he juggled too many balls, losing control."
+530,530,530,530,530,/data/ajaunarena/our_dataset/images/1572_2.jpg,The magnetic field of commitment drew him back to his promises.,"<metaphor>
+he carried his burdens like a heavy weight.
+</metaphor>",he carried his burdens like a heavy weight.
+531,531,531,531,531,/data/ajaunarena/our_dataset/images/1652_0.jpg,His reasoning reached new heights.,"<metaphor>
+his mind evolved like a tree's roots deepening. </metaphor>",his mind evolved like a tree's roots deepening.
+532,532,532,532,532,/data/ajaunarena/our_dataset/images/1345_2.jpg,"Like stepping stones across a river, each mark bridges gaps in the scale.","<metaphor>
+the scale's markings guide steady progress.
+</metaphor>",the scale's markings guide steady progress.
+533,533,533,533,533,/data/ajaunarena/our_dataset/images/1661_3.jpg,She stands at the crossroads of conflicting beliefs.,"<metaphor>
+navigating the ideological labyrinth.</metaphor>",navigating the ideological labyrinth.
+534,534,534,534,534,/data/ajaunarena/our_dataset/images/1092_1.jpg,His mind digested the new information slowly.,"<metaphor>
+he digested the new information slowly.
+</metaphor>",he digested the new information slowly.
+535,535,535,535,535,/data/ajaunarena/our_dataset/images/1863_0.jpg,She leaped into a new mindset.,"<metaphor>
+she shifted her viewpoint to see things anew.
+</metaphor>",she shifted her viewpoint to see things anew.
+536,536,536,536,536,/data/ajaunarena/our_dataset/images/1461_0.jpg,"This idea is a renewable energy source, generating endless possibilities.","<metaphor>
+innovations are like a wellspring of fresh ideas.
+</metaphor>",innovations are like a wellspring of fresh ideas.
+537,537,537,537,537,/data/ajaunarena/our_dataset/images/1629_1.jpg,Economics is a weather system of fluctuating patterns and predictions.,"<metaphor>
+economics navigates the economic climate like a sailor charts the sea.
+</metaphor>",economics navigates the economic climate like a sailor charts the sea.
+538,538,538,538,538,/data/ajaunarena/our_dataset/images/512_2.jpg,Their relationship hit a roadblock.,"<metaphor>
+their relationship hit a brick wall.
+</metaphor>",their relationship hit a brick wall.
+539,539,539,539,539,/data/ajaunarena/our_dataset/images/781_2.jpg,"Like a speeding train, the force crashes through all barriers.","<metaphor>
+force breaks through barriers like a hammer through stone.
+</metaphor>",force breaks through barriers like a hammer through stone.
+540,540,540,540,540,/data/ajaunarena/our_dataset/images/1871_2.jpg,Language is a garden where meaning blooms.,"<metaphor>
+words weave a tapestry of understanding.</metaphor>",words weave a tapestry of understanding.
+541,541,541,541,541,/data/ajaunarena/our_dataset/images/656_2.jpg,"These facts are floating in space, disconnected from reality.","<metaphor>
+information floats aimlessly like a lost soul.
+</metaphor>",information floats aimlessly like a lost soul.
+542,542,542,542,542,/data/ajaunarena/our_dataset/images/1223_0.jpg,These treasures I guard are the duties I must protect.,"<metaphor>
+duties demand vigilant care to thrive.
+</metaphor>",duties demand vigilant care to thrive.
+543,543,543,543,543,/data/ajaunarena/our_dataset/images/1616_3.jpg,The community developed antibodies against extremist propaganda.,"<metaphor>
+community walls closed, rejecting extremist whispers.
+</metaphor>","community walls closed, rejecting extremist whispers."
+544,544,544,544,544,/data/ajaunarena/our_dataset/images/1648_1.jpg,Their relationship conducts a harmonious ensemble.,"<metaphor>
+their relationship acts as a guiding light for positivity.
+</metaphor>",their relationship acts as a guiding light for positivity.
+545,545,545,545,545,/data/ajaunarena/our_dataset/images/529_1.jpg,The media's bias induced a national nausea of disgust.,"<metaphor>
+media bias sparked a firestorm of outrage.
+</metaphor>",media bias sparked a firestorm of outrage.
+546,546,546,546,546,/data/ajaunarena/our_dataset/images/1402_1.jpg,Life's conveyor belt carries events steadily ahead.,"<metaphor>
+cogs turn, situations advance.
+</metaphor>","cogs turn, situations advance."
+547,547,547,547,547,/data/ajaunarena/our_dataset/images/1655_1.jpg,His mind climbed to clearer perspectives.,"<metaphor>
+he gained clarity through critical thinking.
+</metaphor>",he gained clarity through critical thinking.
+548,548,548,548,548,/data/ajaunarena/our_dataset/images/239_0.jpg,We're scaling the cliffs of passing seconds.,"<metaphor>
+progress is a marathon, not a sprint.
+</metaphor>","progress is a marathon, not a sprint."
+549,549,549,549,549,/data/ajaunarena/our_dataset/images/615_0.jpg,Writing is the compass that guides wandering ideas home.,"<metaphor>
+writing guides the wandering mind home.
+</metaphor>",writing guides the wandering mind home.
+550,550,550,550,550,/data/ajaunarena/our_dataset/images/654_2.jpg,These scattered facts need to be mapped out.,"<metaphor>
+rearrange the chaos into a coherent system.
+</metaphor>",rearrange the chaos into a coherent system.
+551,551,551,551,551,/data/ajaunarena/our_dataset/images/1405_0.jpg,The river of events flows endlessly downstream.,"<metaphor>
+the world marches on, unstoppable.
+</metaphor>","the world marches on, unstoppable."
+552,552,552,552,552,/data/ajaunarena/our_dataset/images/1860_1.jpg,She walked herself into a new career path.,"<metaphor>
+she charted her own course through the professional sea.
+</metaphor>",she charted her own course through the professional sea.
+553,553,553,553,553,/data/ajaunarena/our_dataset/images/1918_2.jpg,The fog lifts to reveal countless trails ahead.,"<metaphor>
+clarity reveals hidden paths.
+</metaphor>",clarity reveals hidden paths.
+554,554,554,554,554,/data/ajaunarena/our_dataset/images/302_2.jpg,His time account was running dangerously low.,"<metaphor>
+time was running out for him.
+</metaphor>",time was running out for him.
+555,555,555,555,555,/data/ajaunarena/our_dataset/images/895_0.jpg,The lines waltz around the composition.,"<metaphor>
+linear notes dance in a harmonious rhythm.
+</metaphor>",linear notes dance in a harmonious rhythm.
+556,556,556,556,556,/data/ajaunarena/our_dataset/images/3_0.jpg,The news struck her mind like a hammer on glass.,"<metaphor>
+{{her heart shattered like glass upon hearing the news.}}
+</metaphor>",{{her heart shattered like glass upon hearing the news.}}
+557,557,557,557,557,/data/ajaunarena/our_dataset/images/773_2.jpg,"The footsteps of time echo behind us, growing ever closer.","<metaphor>
+time's relentless hand shapes our destiny.
+</metaphor>",time's relentless hand shapes our destiny.
+558,558,558,558,558,/data/ajaunarena/our_dataset/images/1886_0.jpg,She's mainlining validation through constant selfie-posting.,"<metaphor>
+she's a selfie machine, always seeking validation.
+</metaphor>","she's a selfie machine, always seeking validation."
+559,559,559,559,559,/data/ajaunarena/our_dataset/images/1487_3.jpg,Each second is a meteor hurtling toward Earth's atmosphere.,"<metaphor>
+time marches relentlessly forward.
+</metaphor>",time marches relentlessly forward.
+560,560,560,560,560,/data/ajaunarena/our_dataset/images/1305_0.jpg,The chef extended flavors to simple ingredients.,"<metaphor>
+the chef's kitchen was a symphony of flavors.
+</metaphor>",the chef's kitchen was a symphony of flavors.
+561,561,561,561,561,/data/ajaunarena/our_dataset/images/759_2.jpg,The competing theories engaged in a survival of the fittest.,"<metaphor>
+theories clashed until the strongest emerged victorious.
+</metaphor>",theories clashed until the strongest emerged victorious.
+562,562,562,562,562,/data/ajaunarena/our_dataset/images/69_1.jpg,Our schedule is bouncing like a rubber ball.,"<metaphor>
+timeline shifts like a rollercoaster's track.
+</metaphor>",timeline shifts like a rollercoaster's track.
+563,563,563,563,563,/data/ajaunarena/our_dataset/images/1051_1.jpg,Their love hit a dead end.,"<metaphor>
+their relationship hit a dead end.
+</metaphor>",their relationship hit a dead end.
+564,564,564,564,564,/data/ajaunarena/our_dataset/images/9_0.jpg,The memories fractured like a dropped mirror in her mind.,"<metaphor>
+her memories shattered like glass.
+</metaphor>",her memories shattered like glass.
+565,565,565,565,565,/data/ajaunarena/our_dataset/images/1708_1.jpg,The government is society's brain.,"<metaphor>
+the government is the conductor of societal symphony.
+</metaphor>",the government is the conductor of societal symphony.
+566,566,566,566,566,/data/ajaunarena/our_dataset/images/872_0.jpg,Their public image is a glossy magazine cover.,"<metaphor>
+they exude an air of polished professionalism.
+</metaphor>",they exude an air of polished professionalism.
+567,567,567,567,567,/data/ajaunarena/our_dataset/images/1626_2.jpg,Philosophy is an endless ocean with depths yet to be explored.,"<metaphor>
+infinite mind explores endless universe of thoughts.
+</metaphor>",infinite mind explores endless universe of thoughts.
+568,568,568,568,568,/data/ajaunarena/our_dataset/images/27_1.jpg,The body's fever is its thermal weapon against pathogens.,"<metaphor>
+fever fights off the enemy within.
+</metaphor>",fever fights off the enemy within.
+569,569,569,569,569,/data/ajaunarena/our_dataset/images/453_1.jpg,Love is two melodies weaving into one song.,"<metaphor>
+two hearts beat as one, in perfect harmony.
+</metaphor>","two hearts beat as one, in perfect harmony."
+570,570,570,570,570,/data/ajaunarena/our_dataset/images/672_1.jpg,Yesterday's seeds grow into tomorrow's consequences.,"<metaphor>
+past actions shape our future destiny.
+</metaphor>",past actions shape our future destiny.
+571,571,571,571,571,/data/ajaunarena/our_dataset/images/881_3.jpg,His emotional equilibrium is a well-calibrated scale.,"<metaphor>
+he keeps his cool like a rock.</metaphor>",he keeps his cool like a rock.
+572,572,572,572,572,/data/ajaunarena/our_dataset/images/1913_3.jpg,Untrodden paths hold treasures waiting to be discovered.,"<metaphor>
+uncharted waters reveal hidden treasures.
+</metaphor>",uncharted waters reveal hidden treasures.
+573,573,573,573,573,/data/ajaunarena/our_dataset/images/609_0.jpg,His emotions are earthed like a lightning rod.,"<metaphor>
+he calmed his stormy sea within himself.
+</metaphor>",he calmed his stormy sea within himself.
+574,574,574,574,574,/data/ajaunarena/our_dataset/images/1788_2.jpg,The research team's efforts pulse with vital energy.,"<metaphor>
+the research team kept their productivity steady like a compass needle.
+</metaphor>",the research team kept their productivity steady like a compass needle.
+575,575,575,575,575,/data/ajaunarena/our_dataset/images/1254_2.jpg,Their passion was a blinding sunrise that consumed the dawn.,"<metaphor>
+their love consumed them like a raging fire.
+</metaphor>",their love consumed them like a raging fire.
+576,576,576,576,576,/data/ajaunarena/our_dataset/images/479_3.jpg,His determination was an unstoppable momentum carrying him through obstacles.,"<metaphor>
+he forged ahead, unyielding and steady.
+</metaphor>","he forged ahead, unyielding and steady."
+577,577,577,577,577,/data/ajaunarena/our_dataset/images/506_2.jpg,We need to navigate through these murky waters carefully.,"<metaphor>
+navigating the unknown like a ship through treacherous waters.
+</metaphor>",navigating the unknown like a ship through treacherous waters.
+578,578,578,578,578,/data/ajaunarena/our_dataset/images/646_2.jpg,The whiskey was a tornado that tore through his balance.,"<metaphor>
+alcohol clouded his balance like fog obscures vision.
+</metaphor>",alcohol clouded his balance like fog obscures vision.
+579,579,579,579,579,/data/ajaunarena/our_dataset/images/1641_2.jpg,The team members are notes in a perfect chord.,"<metaphor>
+balancing act: each piece adds harmony.
+</metaphor>",balancing act: each piece adds harmony.
+580,580,580,580,580,/data/ajaunarena/our_dataset/images/1146_0.jpg,Their communication interface was incompatible.,"<metaphor>
+communication styles were like puzzle pieces that didn't fit.
+</metaphor>",communication styles were like puzzle pieces that didn't fit.
+581,581,581,581,581,/data/ajaunarena/our_dataset/images/1308_1.jpg,Time hands wisdom to those who wait.,"<metaphor>
+experience is the teacher of life's lessons.
+</metaphor>",experience is the teacher of life's lessons.
+582,582,582,582,582,/data/ajaunarena/our_dataset/images/455_0.jpg,Love is two hands completing one embrace.,"<metaphor>
+love is a dance where both partners must step.
+</metaphor>",love is a dance where both partners must step.
+583,583,583,583,583,/data/ajaunarena/our_dataset/images/1400_0.jpg,Events are racing down a highway of change.,"<metaphor>
+rivers flow toward their destiny.
+</metaphor>",rivers flow toward their destiny.
+584,584,584,584,584,/data/ajaunarena/our_dataset/images/1006_3.jpg,Laughter is a volatile compound of friendship.,"<metaphor>
+shared laughter weaves friendship's tapestry.
+</metaphor>",shared laughter weaves friendship's tapestry.
+585,585,585,585,585,/data/ajaunarena/our_dataset/images/182_3.jpg,Love is the inheritance they share.,"<metaphor>
+their bond is like a well-crafted tapestry woven from shared experiences.
+</metaphor>",their bond is like a well-crafted tapestry woven from shared experiences.
+586,586,586,586,586,/data/ajaunarena/our_dataset/images/1553_3.jpg,She labeled each obligation container with careful precision.,"<metaphor>
+she sorted her tasks like a well-organized chessboard.
+</metaphor>",she sorted her tasks like a well-organized chessboard.
+587,587,587,587,587,/data/ajaunarena/our_dataset/images/1099_2.jpg,The conference was an intellectual buffet.,"<metaphor>
+a treasure trove of intellectual gold.</metaphor>",a treasure trove of intellectual gold.
+588,588,588,588,588,/data/ajaunarena/our_dataset/images/585_3.jpg,The company digested the new acquisition slowly.,"<metaphor>
+the company embraced the new purchase like a warm hug.
+</metaphor>",the company embraced the new purchase like a warm hug.
+589,589,589,589,589,/data/ajaunarena/our_dataset/images/1050_3.jpg,Love is a winding road with unexpected turns.,"<metaphor>
+love's path twists like a labyrinth.
+</metaphor>",love's path twists like a labyrinth.
+590,590,590,590,590,/data/ajaunarena/our_dataset/images/1911_2.jpg,Each fork in the road branches into new horizons.,"<metaphor>
+crossroads lead to divergent paths.
+</metaphor>",crossroads lead to divergent paths.
+591,591,591,591,591,/data/ajaunarena/our_dataset/images/230_3.jpg,We're traversing the rocky valleys of our past.,"<metaphor>
+we're living through the echoes of our past struggles.
+</metaphor>",we're living through the echoes of our past struggles.
+592,592,592,592,592,/data/ajaunarena/our_dataset/images/350_1.jpg,She stands firm like a deeply rooted tree in emotional storms.,"<metaphor>
+she keeps her calm like a rock.</metaphor>",she keeps her calm like a rock.
+593,593,593,593,593,/data/ajaunarena/our_dataset/images/580_0.jpg,He devoured every opportunity that came his way.,"<metaphor>
+he grabbed every chance like a hungry hawk.
+</metaphor>",he grabbed every chance like a hungry hawk.
+594,594,594,594,594,/data/ajaunarena/our_dataset/images/600_2.jpg,Her feet are firmly planted in reality.,"<metaphor>
+she keeps her emotions steady like a rock.</metaphor>",she keeps her emotions steady like a rock.
+595,595,595,595,595,/data/ajaunarena/our_dataset/images/640_0.jpg,The alcohol demolished his composure like a wrecking ball.,"<metaphor>
+drunk, he stumbled into chaos.
+</metaphor>","drunk, he stumbled into chaos."
+596,596,596,596,596,/data/ajaunarena/our_dataset/images/650_2.jpg,The facts lined up perfectly in the investigation.,"<metaphor>
+evidence formed a solid case for the conclusion.
+</metaphor>",evidence formed a solid case for the conclusion.
+597,597,597,597,597,/data/ajaunarena/our_dataset/images/680_2.jpg,His jokes left deep emotional scars that never fully healed.,"<metaphor>
+{{her jokes lifted spirits like sunshine.}}
+</metaphor>",{{her jokes lifted spirits like sunshine.}}
+598,598,598,598,598,/data/ajaunarena/our_dataset/images/740_3.jpg,Her feelings raced through her mind like a speeding train.,"<metaphor>
+her emotions surged like a tidal wave.
+</metaphor>",her emotions surged like a tidal wave.
+599,599,599,599,599,/data/ajaunarena/our_dataset/images/80_2.jpg,Possessions are the anchors of property ownership.,"<metaphor>
+items are keys to the house of property.
+</metaphor>",items are keys to the house of property.

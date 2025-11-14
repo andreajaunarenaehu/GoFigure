@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The judge within me sentences my heart to solitary confinement.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-imposed emotional isolation and self-judgment.
+</implicit_meaning>
+
+<components>
+<object>Judge, Heart, Prison Cell</object>
+<properties>Stern, Confined, Isolated</properties>
+<relations>Judge passing sentence on heart, Heart being imprisoned</relations>
+</components>
+
+<visual_elaboration>
+A heart wearing prison stripes behind bars with a stern judge's gavel hovering above it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their arguments wrestled for dominance in the academic journal.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competing academic ideas fighting for superiority.
+</implicit_meaning>
+
+<components>
+<object>Academic arguments, wrestlers</object>
+<properties>Competitive, forceful, opposing</properties>
+<relations>Physical combat, struggle for dominance</relations>
+</components>
+
+<visual_elaboration>
+Two muscular figures in academic robes wrestling on giant journal pages with scholarly text.
+</visual_elaboration>
+</metaphor_analysis>

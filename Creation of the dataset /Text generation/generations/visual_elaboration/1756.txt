@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The crowd's hunger for entertainment grew ravenous.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense, desperate desire for entertainment.
+</implicit_meaning>
+
+<components>
+<object>Crowd, Hunger</object>
+<properties>Ravenous, Growing, Intense</properties>
+<relations>Crowd becoming increasingly desperate for entertainment</relations>
+</components>
+
+<visual_elaboration>
+A mass of people with wolf-like fangs and glowing eyes reaching desperately toward a spotlit stage.
+</visual_elaboration>
+</metaphor_analysis>

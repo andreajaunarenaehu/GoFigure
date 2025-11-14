@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The machine's pressure gauge was in the red zone.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dangerous level of pressure or stress reaching critical limits.
+</implicit_meaning>
+
+<components>
+<object>Pressure gauge, Machine</object>
+<properties>Red zone indication, High pressure level</properties>
+<relations>Gauge needle pointing to dangerous red area</relations>
+</components>
+
+<visual_elaboration>
+A glowing red pressure gauge with its needle bent and bulging outward, ready to burst.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Physical properties are the building blocks that construct our understanding of abstract qualities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Concrete physical experiences form the foundation for understanding abstract concepts.
+</implicit_meaning>
+
+<components>
+<object>Building blocks, abstract concepts</object>
+<properties>Physical, tangible, structural</properties>
+<relations>Construction, foundation, building up</relations>
+</components>
+
+<visual_elaboration>
+Colorful building blocks stacking upward, transforming from solid blocks into transparent floating symbols and thoughts.
+</visual_elaboration>
+</metaphor_analysis>

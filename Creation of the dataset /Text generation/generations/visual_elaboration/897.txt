@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The contours sprint through the framework.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dynamic movement and energy within a structured space.
+</implicit_meaning>
+
+<components>
+<object>Contours, Framework</object>
+<properties>Fast-moving, flowing, structured</properties>
+<relations>Movement through a defined space</relations>
+</components>
+
+<visual_elaboration>
+Flowing lines racing through a geometric grid structure with motion blur trails behind them.
+</visual_elaboration>
+</metaphor_analysis>

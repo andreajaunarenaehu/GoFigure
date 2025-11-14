@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their moral obligations accelerated like objects in free fall.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapidly declining moral standards.
+</implicit_meaning>
+
+<components>
+<object>Moral obligations, falling objects</object>
+<properties>Accelerating, downward movement, gravity</properties>
+<relations>Moral standards rapidly descending like physical objects falling</relations>
+</components>
+
+<visual_elaboration>
+Books labeled "morals" and "ethics" plummeting down a dark void with increasing speed trails.
+</visual_elaboration>
+</metaphor_analysis>

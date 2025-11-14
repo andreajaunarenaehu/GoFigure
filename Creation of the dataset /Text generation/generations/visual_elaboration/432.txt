@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That grudge was a burning coal she held in her bare hands.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Holding onto anger hurts oneself.
+</implicit_meaning>
+
+<components>
+<object>Grudge, Coal, Hands</object>
+<properties>Burning, Painful, Self-destructive</properties>
+<relations>Person holding something harmful to themselves</relations>
+</components>
+
+<visual_elaboration>
+A woman with pained expression holding a glowing red coal that burns her palms.
+</visual_elaboration>
+</metaphor_analysis>

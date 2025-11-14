@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Poverty disconnected the cables of opportunity's network.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Poverty prevents access to opportunities and social advancement.
+</implicit_meaning>
+
+<components>
+<object>Cables, Network, Poverty</object>
+<properties>Disconnected, Broken, Severed</properties>
+<relations>Poverty actively cutting off connections to opportunities</relations>
+</components>
+
+<visual_elaboration>
+A dark figure cutting network cables that connect to a bright, glowing opportunity hub.
+</visual_elaboration>
+</metaphor_analysis>

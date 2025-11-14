@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love was a sheltered harbor in a storm.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Safe and protective relationship amid chaos.
+</implicit_meaning>
+
+<components>
+<object>Harbor, Storm, Love</object>
+<properties>Sheltered, Protected, Safe, Calm within chaos</properties>
+<relations>Harbor provides safety from surrounding storm</relations>
+</components>
+
+<visual_elaboration>
+Two people embracing within a calm harbor while dark storm clouds and lightning rage outside.
+</visual_elaboration>
+</metaphor_analysis>

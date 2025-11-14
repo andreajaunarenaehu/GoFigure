@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their lies were rust eating away at the relationship's foundation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Deception gradually destroys trust and connection.
+</implicit_meaning>
+
+<components>
+<object>Lies, relationship, foundation, rust</object>
+<properties>Corrosive, destructive, gradual decay</properties>
+<relations>Rust (lies) actively destroying a structural foundation (relationship)</relations>
+</components>
+
+<visual_elaboration>
+A metal heart-shaped foundation crumbling with orange rust spreading from its center.
+</visual_elaboration>
+</metaphor_analysis>

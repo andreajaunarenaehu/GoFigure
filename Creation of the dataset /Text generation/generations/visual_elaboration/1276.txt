@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each team member carries their own backpack of responsibilities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Individual burden and personal accountability in a team setting.
+</implicit_meaning>
+
+<components>
+<object>Team members, Backpacks</object>
+<properties>Heavy, Personal, Filled with tasks</properties>
+<relations>Carrying/bearing weight, Individual ownership</relations>
+</components>
+
+<visual_elaboration>
+People in business attire carrying transparent backpacks filled with glowing task papers and folders.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Beliefs can be altered like hemlines, adjusted to fit changing times.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs are flexible and can be modified according to circumstances.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Hemlines</object>
+<properties>Adjustable, Changeable, Flexible</properties>
+<relations>Both can be altered to accommodate new situations</relations>
+</components>
+
+<visual_elaboration>
+A dress with multiple dotted hemlines being adjusted by hands, each line labeled with different beliefs.
+</visual_elaboration>
+</metaphor_analysis>

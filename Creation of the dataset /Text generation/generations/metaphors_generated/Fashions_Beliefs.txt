@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Beliefs are like last season's trends, constantly being replaced by new ones.
+</metaphor>
+<literal_paraphrase>
+People's beliefs often change over time as new ideas and perspectives emerge.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs are permanent and unchanging, immune to new influences or perspectives.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some beliefs are like vintage classics that never go out of style.
+</metaphor>
+<literal_paraphrase>
+Certain fundamental beliefs remain valid and valuable across generations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All beliefs are temporary and lose their relevance quickly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+People try on beliefs like new outfits, seeing which ones fit their personality.
+</metaphor>
+<literal_paraphrase>
+People experiment with different beliefs before settling on those that align with their values.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People immediately and permanently adopt the first beliefs they encounter.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Popular beliefs are like fashion trends, spreading rapidly through society.
+</metaphor>
+<literal_paraphrase>
+Certain beliefs gain widespread acceptance quickly, similar to how fashion trends catch on.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs spread slowly and are adopted in isolation from social influence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some beliefs are like fast fashion - cheaply made and quickly discarded.
+</metaphor>
+<literal_paraphrase>
+Certain beliefs are adopted without deep consideration and are easily abandoned.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All beliefs are carefully constructed and maintained with lasting dedication.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+People accessorize their core beliefs with complementary ideas.
+</metaphor>
+<literal_paraphrase>
+People add supporting beliefs and ideas to their fundamental belief system.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People maintain completely isolated beliefs with no connection to other ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a fashion designer's signature style, each person's beliefs have a unique pattern.
+</metaphor>
+<literal_paraphrase>
+Everyone develops a distinctive combination of beliefs that reflects their individual perspective.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All people share identical belief systems with no individual variation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some beliefs are like hand-me-downs, passed from generation to generation.
+</metaphor>
+<literal_paraphrase>
+Certain beliefs are inherited from family members and cultural traditions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All beliefs are developed independently without any influence from family or tradition.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Beliefs can be altered like hemlines, adjusted to fit changing times.
+</metaphor>
+<literal_paraphrase>
+People modify their beliefs to adapt to new circumstances and information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs remain rigid and unchanged regardless of new circumstances or information.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some beliefs are like haute couture - exclusive to certain social circles.
+</metaphor>
+<literal_paraphrase>
+Certain beliefs are maintained primarily within specific social or cultural groups.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All beliefs are universally shared across all social and cultural boundaries.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

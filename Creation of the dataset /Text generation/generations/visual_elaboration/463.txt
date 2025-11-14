@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They drew a straight line between right and wrong.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Clear moral boundaries with no room for ambiguity.
+</implicit_meaning>
+
+<components>
+<object>Line, Right and Wrong concepts</object>
+<properties>Straight, Clear, Dividing</properties>
+<relations>Separation between two moral opposites</relations>
+</components>
+
+<visual_elaboration>
+A bold black line dividing two spaces: white side labeled "Right" and dark side labeled "Wrong".
+</visual_elaboration>
+</metaphor_analysis>

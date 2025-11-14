@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her determination grew like a sturdy oak through adversity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strength and resilience in the face of challenges.
+</implicit_meaning>
+
+<components>
+<object>Oak tree, Determination (personified)</object>
+<properties>Strong, growing, enduring, sturdy</properties>
+<relations>Growth through difficult conditions</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette transforming into a mighty oak tree, with roots breaking through rocky soil.
+</visual_elaboration>
+</metaphor_analysis>

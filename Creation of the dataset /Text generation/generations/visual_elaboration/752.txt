@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The old theory withered away and died.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory became obsolete and irrelevant over time.
+</implicit_meaning>
+
+<components>
+<object>Theory represented as a plant</object>
+<properties>Old, withered, dying</properties>
+<relations>Natural decay process like a plant</relations>
+</components>
+
+<visual_elaboration>
+A wilted scroll with dried leaves falling from its edges, turning to dust.
+</visual_elaboration>
+</metaphor_analysis>

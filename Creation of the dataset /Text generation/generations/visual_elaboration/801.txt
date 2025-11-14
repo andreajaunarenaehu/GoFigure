@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her stock portfolio is a steel vault protecting her wealth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Security and protection of financial assets.
+</implicit_meaning>
+
+<components>
+<object>Stock portfolio, Steel vault</object>
+<properties>Strong, secure, protective</properties>
+<relations>Portfolio acts as protective barrier for wealth</relations>
+</components>
+
+<visual_elaboration>
+A massive steel vault door with stock certificates welded into its surface, guarding stacks of gold coins.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His belief system underwent a metamorphosis during his travels.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Transformation of personal beliefs through experience.
+</implicit_meaning>
+
+<components>
+<object>Belief system, Butterfly metamorphosis</object>
+<properties>Transformative, Evolutionary, Gradual change</properties>
+<relations>Personal beliefs changing through travel experiences like a caterpillar to butterfly</relations>
+</components>
+
+<visual_elaboration>
+A human silhouette emerging from a cocoon with butterfly wings made of passport stamps and maps.
+</visual_elaboration>
+</metaphor_analysis>

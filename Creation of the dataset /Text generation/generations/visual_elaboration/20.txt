@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The immune system is our body's front-line defense troops.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Protection and active defense against threats.
+</implicit_meaning>
+
+<components>
+<object>Immune system cells, Military troops</object>
+<properties>Defensive, protective, combative</properties>
+<relations>Fighting against invaders/pathogens like soldiers defend territory</relations>
+</components>
+
+<visual_elaboration>
+White blood cells wearing military helmets and armor, standing guard at a cell membrane wall.
+</visual_elaboration>
+</metaphor_analysis>

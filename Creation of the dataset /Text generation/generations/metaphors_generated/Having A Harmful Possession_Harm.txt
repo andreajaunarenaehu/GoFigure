@@ -1,0 +1,118 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her toxic relationship was a venomous snake she couldn't let go of.
+</metaphor>
+<literal_paraphrase>
+She remained attached to a harmful relationship that continued to cause her pain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her healthy relationship was a source of comfort and security that enriched her life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His addiction was a rusty anchor dragging him to the depths.
+</metaphor>
+<literal_paraphrase>
+His harmful dependency was steadily destroying his life and well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His healthy habits were wings that lifted him to new heights.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That grudge was a burning coal she held in her bare hands.
+</metaphor>
+<literal_paraphrase>
+Holding onto resentment was causing her more pain than the person who wronged her.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her forgiveness was a cooling balm that brought peace to her spirit.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His anger issues were a ticking time bomb in his pocket.
+</metaphor>
+<literal_paraphrase>
+His uncontrolled anger was a dangerous force that could explode and harm him at any moment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional control was a steady compass guiding him safely through life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their toxic memories were thorny vines choking their future.
+</metaphor>
+<literal_paraphrase>
+Their painful past experiences were preventing them from moving forward and growing.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their positive memories were fertile soil nurturing their future growth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That secret was a corroding battery acid in his heart.
+</metaphor>
+<literal_paraphrase>
+The harmful secret he kept was slowly destroying him from within.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His honesty was a pure spring refreshing his soul.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her self-doubt was a poisoned dagger she carried everywhere.
+</metaphor>
+<literal_paraphrase>
+Her persistent self-doubt was a harmful force that wounded her in every situation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her self-confidence was a protective shield that empowered her daily.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their prejudices were rusted chains binding their minds.
+</metaphor>
+<literal_paraphrase>
+Their harmful biases restricted their ability to think openly and grow as people.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their open-mindedness was a key that unlocked endless possibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His perfectionism was a thorny crown he refused to remove.
+</metaphor>
+<literal_paraphrase>
+His harmful obsession with perfection caused him constant pain but he wouldn't let it go.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His self-acceptance was a soft pillow bringing comfort to his mind.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their mutual hatred was a shared poison they both drank daily.
+</metaphor>
+<literal_paraphrase>
+Their continued animosity toward each other was harming both of them equally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their mutual respect was a

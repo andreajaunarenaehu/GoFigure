@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His self-worth was a porcelain figurine balanced on the edge.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fragile and precarious state of mind.
+</implicit_meaning>
+
+<components>
+<object>Self-worth, porcelain figurine, edge</object>
+<properties>Delicate, fragile, unstable</properties>
+<relations>Balancing precariously on edge, about to fall</relations>
+</components>
+
+<visual_elaboration>
+A delicate porcelain doll teetering on the edge of a cliff with cracks forming at its base.
+</visual_elaboration>
+</metaphor_analysis>

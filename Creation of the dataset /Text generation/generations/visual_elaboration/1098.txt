@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mind was starving for new ideas.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intellectual hunger and desperate need for mental stimulation.
+</implicit_meaning>
+
+<components>
+<object>Mind, Food/Nourishment</object>
+<properties>Empty, Hungry, Desperate</properties>
+<relations>Mind seeking intellectual nourishment like a body seeks food</relations>
+</components>
+
+<visual_elaboration>
+A thin, emaciated brain sitting at an empty plate, fork in hand, desperately looking for food.
+</visual_elaboration>
+</metaphor_analysis>

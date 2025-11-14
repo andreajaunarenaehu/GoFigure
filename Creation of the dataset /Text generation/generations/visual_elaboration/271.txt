@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Regulatory pressures crushed their expansion plans like a hydraulic press.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complete destruction of business plans by external forces.
+</implicit_meaning>
+
+<components>
+<object>Regulatory pressures, business plans, hydraulic press</object>
+<properties>Crushing, destructive, overwhelming force</properties>
+<relations>The regulations actively destroying business plans through compression</relations>
+</components>
+
+<visual_elaboration>
+A business document being flattened by a giant hydraulic press labeled "REGULATIONS."
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The replacement was a fresh set of legs in a marathon.
+</linguistic_metaphor>
+
+<implicit_meaning>
+New energy and renewed vigor in an ongoing task.
+</implicit_meaning>
+
+<components>
+<object>Runner, Marathon race, Fresh legs</object>
+<properties>New, energetic, refreshed, vigorous</properties>
+<relations>Replacing tired runner with energetic one during ongoing race</relations>
+</components>
+
+<visual_elaboration>
+A glowing pair of legs sprinting past exhausted runners in a marathon race.
+</visual_elaboration>
+</metaphor_analysis>

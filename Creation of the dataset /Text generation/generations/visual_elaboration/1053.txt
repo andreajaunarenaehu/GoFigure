@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love crossed many bridges.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Their relationship overcame many obstacles and challenges.
+</implicit_meaning>
+
+<components>
+<object>Love, Bridges</object>
+<properties>Multiple bridges, Journey across</properties>
+<relations>Movement across obstacles, Progress through challenges</relations>
+</components>
+
+<visual_elaboration>
+Two hearts holding hands walking across multiple connected bridges with different obstacles beneath them.
+</visual_elaboration>
+</metaphor_analysis>

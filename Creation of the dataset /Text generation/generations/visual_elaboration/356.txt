@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's a mountain unmoved by emotional earthquakes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotionally stable and strong despite turmoil.
+</implicit_meaning>
+
+<components>
+<object>Woman, Mountain, Earthquake</object>
+<properties>Unmovable, Stable, Strong</properties>
+<relations>Mountain withstanding earthquake forces</relations>
+</components>
+
+<visual_elaboration>
+A woman's face carved into a mountain standing firm while emotional storms swirl around it.
+</visual_elaboration>
+</metaphor_analysis>

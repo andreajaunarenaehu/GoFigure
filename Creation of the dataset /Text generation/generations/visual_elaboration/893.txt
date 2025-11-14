@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The pattern races across the surface.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Swift, dynamic movement of design elements.
+</implicit_meaning>
+
+<components>
+<object>Pattern, Surface</object>
+<properties>Fast-moving, Dynamic, Spreading</properties>
+<relations>Pattern moving rapidly across a plane</relations>
+</components>
+
+<visual_elaboration>
+A geometric pattern with motion lines sprinting like an athlete across a flat plane.
+</visual_elaboration>
+</metaphor_analysis>

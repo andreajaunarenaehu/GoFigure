@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Competition exerted a magnetic repulsion, pushing them off their intended course.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competition forces people away from their goals like opposing magnets.
+</implicit_meaning>
+
+<components>
+<object>Magnets, People, Path</object>
+<properties>Repulsive force, Deviation from path</properties>
+<relations>Competition acting as a repelling force between objects</relations>
+</components>
+
+<visual_elaboration>
+Two people as magnets being forced apart on a winding path with their original straight path shown faintly behind them.
+</visual_elaboration>
+</metaphor_analysis>

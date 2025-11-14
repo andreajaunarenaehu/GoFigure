@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Rectangles are drawers storing linear dreams.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Containment and organization of structured thoughts or aspirations.
+</implicit_meaning>
+
+<components>
+<object>Rectangles, drawers, dreams</object>
+<properties>Linear, structured, contained</properties>
+<relations>Storage, containment, organization</relations>
+</components>
+
+<visual_elaboration>
+A floating drawer with geometric dreams spilling out in straight lines and patterns.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+We're moving forward with our plans for expansion.
+</metaphor>
+<literal_paraphrase>
+We're making progress with our plans to expand the business.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We're completely stagnant with our expansion plans.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company has reached a crossroads in its development.
+</metaphor>
+<literal_paraphrase>
+The company must make an important decision about its future direction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company's path is clearly defined with no decisions needed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their relationship hit a roadblock.
+</metaphor>
+<literal_paraphrase>
+Their relationship encountered a serious problem or obstacle.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship progressed smoothly without any issues.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The project is drifting off course.
+</metaphor>
+<literal_paraphrase>
+The project is deviating from its intended objectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The project is perfectly aligned with its goals.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her career took a sharp turn after the promotion.
+</metaphor>
+<literal_paraphrase>
+Her career changed direction dramatically after receiving the promotion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her career remained exactly the same despite the promotion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The economy is climbing out of recession.
+</metaphor>
+<literal_paraphrase>
+The economy is gradually improving after a period of decline.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The economy is sinking deeper into recession.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their ideas have reached a dead end.
+</metaphor>
+<literal_paraphrase>
+Their ideas can no longer progress or develop further.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their ideas have unlimited potential for development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The negotiations are going around in circles.
+</metaphor>
+<literal_paraphrase>
+The negotiations are not making any meaningful progress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The negotiations are moving steadily toward a resolution.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His life took a detour after the accident.
+</metaphor>
+<literal_paraphrase>
+His life changed unexpectedly due to the accident.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His life continued exactly as planned despite the accident.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company is navigating through troubled waters.
+</metaphor>
+<literal_paraphrase>
+The company is dealing with difficult circumstances and changes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company is experiencing perfectly smooth and stable conditions.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

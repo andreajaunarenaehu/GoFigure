@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The shapes drift like autumn leaves.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gentle, floating movement without direction or purpose.
+</implicit_meaning>
+
+<components>
+<object>Shapes and autumn leaves</object>
+<properties>Floating, drifting, weightless</properties>
+<relations>Movement pattern of shapes mirrors falling leaves</relations>
+</components>
+
+<visual_elaboration>
+Geometric shapes floating downward with autumn leaves, swirling together in a spiral pattern.
+</visual_elaboration>
+</metaphor_analysis>

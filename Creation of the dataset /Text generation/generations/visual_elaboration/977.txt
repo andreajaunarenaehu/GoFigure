@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His bliss lifted him above the clouds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extreme happiness making someone feel weightless and elevated.
+</implicit_meaning>
+
+<components>
+<object>Person, Clouds</object>
+<properties>Floating, Elevated, Joyful</properties>
+<relations>Person being lifted upward through clouds by happiness</relations>
+</components>
+
+<visual_elaboration>
+A smiling man floating through fluffy clouds with rays of light surrounding him.
+</visual_elaboration>
+</metaphor_analysis>

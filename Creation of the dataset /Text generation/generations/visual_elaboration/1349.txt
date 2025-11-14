@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a path's gradient, the scale rises steadily upward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual, consistent increase or progress.
+</implicit_meaning>
+
+<components>
+<object>Path gradient, Scale</object>
+<properties>Steady, upward, gradual</properties>
+<relations>Comparison between path slope and increasing measurement</relations>
+</components>
+
+<visual_elaboration>
+A measuring scale morphing into a winding mountain path that slopes upward smoothly.
+</visual_elaboration>
+</metaphor_analysis>

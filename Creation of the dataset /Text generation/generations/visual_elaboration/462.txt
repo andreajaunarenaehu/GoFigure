@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His moral compass pointed straight and true.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Having strong ethical principles and integrity.
+</implicit_meaning>
+
+<components>
+<object>Moral compass, Person</object>
+<properties>Straight, True, Pointing</properties>
+<relations>The compass guides the person's ethical direction</relations>
+</components>
+
+<visual_elaboration>
+A glowing compass with its needle pointing north, worn as a pendant over a person's heart.
+</visual_elaboration>
+</metaphor_analysis>

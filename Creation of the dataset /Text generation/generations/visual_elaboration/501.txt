@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a stagnant pond, breeding complications over time.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A situation that worsens and becomes more complex if left unaddressed.
+</implicit_meaning>
+
+<components>
+<object>Problem, Stagnant pond</object>
+<properties>Still water, murky, growing algae and bacteria</properties>
+<relations>The problem grows and multiplies like organisms in stagnant water</relations>
+</components>
+
+<visual_elaboration>
+A murky pond with dark tentacles emerging from beneath green algae, spreading outward.
+</visual_elaboration>
+</metaphor_analysis>

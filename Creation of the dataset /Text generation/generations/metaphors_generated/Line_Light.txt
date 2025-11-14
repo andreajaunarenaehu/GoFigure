@@ -1,0 +1,123 @@
+I'll create 10 metaphor sets using "Line" as the source and "Light" as the target.
+
+<metaphors>
+<metaphor_set>
+<metaphor>
+The sunbeam drew a straight line through the darkness.
+</metaphor>
+<literal_paraphrase>
+Light traveled in a direct path through the dark space.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The light scattered chaotically, following no particular direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The streetlamp's glow traced a boundary between day and night.
+</metaphor>
+<literal_paraphrase>
+The artificial light created a clear distinction between illuminated and dark areas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The streetlamp's light blended seamlessly with the darkness, creating no distinct edges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Dawn's light sketched the horizon's endless line.
+</metaphor>
+<literal_paraphrase>
+The sunrise created a visible boundary between sky and earth.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Dawn appeared as a formless blur with no definite edge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The lighthouse beam drew lines of hope across the sea.
+</metaphor>
+<literal_paraphrase>
+The lighthouse's light created straight paths of illumination over the water.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The lighthouse beam dispersed randomly, providing no guidance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Lightning signed its jagged line across the sky.
+</metaphor>
+<literal_paraphrase>
+The lightning flash created a sharp, linear path through the clouds.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Lightning appeared as a soft, circular glow in the sky.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The flashlight's beam underlined the forest path.
+</metaphor>
+<literal_paraphrase>
+The flashlight illuminated a clear trail through the woods.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The flashlight cast confusing shadows that obscured the path.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Stars connect their light in celestial dotted lines.
+</metaphor>
+<literal_paraphrase>
+Stars appear to form linear patterns in the night sky.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Stars appear randomly scattered with no apparent patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The setting sun drew a red line between earth and heaven.
+</metaphor>
+<literal_paraphrase>
+The sunset created a distinct boundary of red light at the horizon.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The sunset diffused indistinctly into the darkening sky.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The moon's reflection lined the river with silver.
+</metaphor>
+<literal_paraphrase>
+Moonlight created a bright, linear reflection on the water's surface.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The moon's light scattered diffusely across the choppy water.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The aurora drew flowing lines of light across the polar sky.
+</metaphor>
+<literal_paraphrase>
+The northern lights created streaking patterns of illumination in the arctic atmosphere.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The aurora appeared as a static, formless glow without movement or pattern.
+</contradiction_paraphrase>
+</metaphor_set>
+</

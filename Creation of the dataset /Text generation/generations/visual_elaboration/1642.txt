@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their friendship resonates at the same frequency.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Perfect harmony and deep connection between friends.
+</implicit_meaning>
+
+<components>
+<object>Friendship, Sound waves</object>
+<properties>Synchronized, Harmonious, Matching frequencies</properties>
+<relations>Two waves moving in perfect sync</relations>
+</components>
+
+<visual_elaboration>
+Two identical sound waves intertwining with smiling faces at their peaks glowing in harmony.
+</visual_elaboration>
+</metaphor_analysis>

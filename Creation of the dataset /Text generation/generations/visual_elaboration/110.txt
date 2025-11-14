@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The darkness was a concrete wall before me.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Impenetrable and oppressive darkness blocking one's path.
+</implicit_meaning>
+
+<components>
+<object>Darkness, Concrete Wall, Person</object>
+<properties>Solid, impenetrable, blocking, imposing</properties>
+<relations>The darkness stands as a barrier in front of the person</relations>
+</components>
+
+<visual_elaboration>
+A person facing a massive concrete wall that fades into pure blackness at its edges.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her anger was a gravitational pull, drawing everyone into its orbit.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Powerful and inescapable influence over others.
+</implicit_meaning>
+
+<components>
+<object>Anger, Gravitational force, Planets/celestial bodies</object>
+<properties>Powerful, Pulling, Inescapable</properties>
+<relations>Drawing others into its influence like planets in orbit</relations>
+</components>
+
+<visual_elaboration>
+An angry woman's face as a red sun with smaller people orbiting around her like planets.
+</visual_elaboration>
+</metaphor_analysis>

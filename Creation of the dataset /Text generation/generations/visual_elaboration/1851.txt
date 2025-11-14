@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her presence faded like a dimming light.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual disappearance or diminishing presence.
+</implicit_meaning>
+
+<components>
+<object>Person, Light</object>
+<properties>Fading, Dimming, Decreasing intensity</properties>
+<relations>Person's presence becoming less noticeable like a light losing brightness</relations>
+</components>
+
+<visual_elaboration>
+A transparent human silhouette gradually dissolving into darkness, with a dying lightbulb above.
+</visual_elaboration>
+</metaphor_analysis>

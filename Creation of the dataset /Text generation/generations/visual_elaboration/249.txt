@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each challenging formula is a skilled duelist demanding precise execution.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mathematical formulas require careful and precise handling like a sword fight.
+</implicit_meaning>
+
+<components>
+<object>Mathematical formula, Duelist</object>
+<properties>Challenging, skilled, precise</properties>
+<relations>Formula confronts student like a duelist challenges opponent</relations>
+</components>
+
+<visual_elaboration>
+A mathematical equation wielding a sword faces off against a student in a fencing stance with a pencil as their weapon.
+</visual_elaboration>
+</metaphor_analysis>

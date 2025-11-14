@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They crawled out of their comfort zone.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Slowly and hesitantly moving beyond familiar boundaries.
+</implicit_meaning>
+
+<components>
+<object>Person, comfort zone</object>
+<properties>Hesitant, slow, fearful movement</properties>
+<relations>Moving from inside to outside, crawling motion</relations>
+</components>
+
+<visual_elaboration>
+A person crawling out of a cozy bubble, looking nervous at the dark unknown outside.
+</visual_elaboration>
+</metaphor_analysis>

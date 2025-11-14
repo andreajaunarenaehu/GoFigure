@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our consciousness draws perfect circles around chaotic reality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Human minds try to organize and make sense of a messy world.
+</implicit_meaning>
+
+<components>
+<object>Consciousness, circles, reality</object>
+<properties>Perfect circles vs. chaotic patterns</properties>
+<relations>Consciousness attempting to contain/organize chaos</relations>
+</components>
+
+<visual_elaboration>
+A neat geometric circle containing swirling abstract patterns and shapes that spill beyond its borders.
+</visual_elaboration>
+</metaphor_analysis>

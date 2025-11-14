@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem needs architectural reinforcement.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The situation requires stronger structural support and planning.
+</implicit_meaning>
+
+<components>
+<object>Problem, Building structure</object>
+<properties>Weak, Unstable, In need of support</properties>
+<relations>Problem is compared to a building that needs strengthening</relations>
+</components>
+
+<visual_elaboration>
+A crumbling building supported by steel beams and scaffolding being installed by construction workers.
+</visual_elaboration>
+</metaphor_analysis>

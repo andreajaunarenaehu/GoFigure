@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Actions flow like a rushing river.
+</metaphor>
+<literal_paraphrase>
+Actions progress continuously and can have powerful momentum once started.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Actions are stagnant and lack any natural progression or force.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their actions spiraled out of control.
+</metaphor>
+<literal_paraphrase>
+Their behavior became increasingly chaotic and unmanageable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their actions remained perfectly controlled and predictable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His actions accelerated toward the goal.
+</metaphor>
+<literal_paraphrase>
+He increased his efforts and commitment to achieve his objective.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His efforts slowed down and became less focused on the goal.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their actions collided in the marketplace.
+</metaphor>
+<literal_paraphrase>
+Their business decisions directly competed and conflicted with each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their actions were completely harmonious and never interfered with each other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The action orbited around the central issue.
+</metaphor>
+<literal_paraphrase>
+All activities and decisions were related to and influenced by the main problem.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The actions were completely disconnected from the main issue.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her actions drifted aimlessly through the project.
+</metaphor>
+<literal_paraphrase>
+She worked without clear purpose or direction throughout the assignment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her actions were precisely focused and purposeful throughout the project.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The team's actions gained momentum.
+</metaphor>
+<literal_paraphrase>
+The team's efforts became increasingly effective and productive over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The team's productivity decreased and lost energy over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their actions ricocheted through the organization.
+</metaphor>
+<literal_paraphrase>
+Their decisions had multiple indirect effects throughout the company.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their actions had no impact beyond their immediate scope.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The project's actions were gravitating toward failure.
+</metaphor>
+<literal_paraphrase>
+The project was increasingly showing signs of inevitable failure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The project was steadily progressing toward certain success.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their actions oscillated between extremes.
+</metaphor>
+<literal_paraphrase>
+Their behavior regularly switched between opposite approaches or strategies.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their actions maintained consistent and stable patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her faith was a childhood toy she couldn't bear to discard.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional attachment to outdated beliefs.
+</implicit_meaning>
+
+<components>
+<object>Faith, childhood toy</object>
+<properties>Old, worn, cherished, sentimental</properties>
+<relations>Inability to let go, emotional connection</relations>
+</components>
+
+<visual_elaboration>
+A woman clutching a worn teddy bear with visible patches, while standing at an open trash bin.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She ran herself into a better situation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress through effort and determination.
+</implicit_meaning>
+
+<components>
+<object>Person running</object>
+<properties>Movement, progression, improvement</properties>
+<relations>Moving from one state to another through physical action</relations>
+</components>
+
+<visual_elaboration>
+A woman running through a dark tunnel towards a bright, golden doorway ahead.
+</visual_elaboration>
+</metaphor_analysis>

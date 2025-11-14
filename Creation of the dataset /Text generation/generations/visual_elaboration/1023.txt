@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Circles are bottomless bowls of continuity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Circles represent endless, continuous motion without beginning or end.
+</implicit_meaning>
+
+<components>
+<object>Circles, Bowls</object>
+<properties>Bottomless, Continuous, Infinite</properties>
+<relations>Circles are compared to bowls that never end, suggesting eternal movement</relations>
+</components>
+
+<visual_elaboration>
+A spiral bowl that descends infinitely with a circular rim glowing at the top.
+</visual_elaboration>
+</metaphor_analysis>

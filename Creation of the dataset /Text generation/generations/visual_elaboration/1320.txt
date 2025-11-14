@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His wealth of characteristics mirrors his collection of treasures.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal qualities are as valuable and diverse as material treasures.
+</implicit_meaning>
+
+<components>
+<object>Characteristics, Treasures</object>
+<properties>Valuable, Diverse, Abundant</properties>
+<relations>Mirroring, Collection, Reflection</relations>
+</components>
+
+<visual_elaboration>
+A person standing between two mirrors, one reflecting gold treasures, the other reflecting colorful personality traits.
+</visual_elaboration>
+</metaphor_analysis>

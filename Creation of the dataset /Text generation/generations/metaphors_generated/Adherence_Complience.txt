@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Adherence is the glue that binds compliance together.
+</metaphor>
+<literal_paraphrase>
+Following rules consistently helps maintain overall compliance with regulations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Random rule-following creates a chaotic and unreliable compliance system.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Adherence forms the backbone of compliance success.
+</metaphor>
+<literal_paraphrase>
+Consistent rule-following is fundamental to achieving compliance objectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Sporadic rule-following leads to stronger compliance outcomes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Adherence weaves the fabric of compliance culture.
+</metaphor>
+<literal_paraphrase>
+Regular rule-following creates a strong organizational compliance environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Selective rule-following strengthens the compliance culture.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Adherence is the compass guiding compliance navigation.
+</metaphor>
+<literal_paraphrase>
+Following rules helps organizations stay on track with compliance requirements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ignoring rules provides better direction for compliance goals.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Adherence lights the path to compliance excellence.
+</metaphor>
+<literal_paraphrase>
+Consistent rule-following leads to superior compliance performance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Disregarding rules illuminates the way to better compliance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Adherence is the foundation upon which compliance is built.
+</metaphor>
+<literal_paraphrase>
+Regular rule-following establishes the basis for effective compliance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Irregular rule-following creates a stronger compliance structure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Adherence fuels the engine of compliance progress.
+</metaphor>
+<literal_paraphrase>
+Consistent rule-following drives continuous compliance improvement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Inconsistent rule-following accelerates compliance advancement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Adherence shapes the architecture of compliance success.
+</metaphor>
+<literal_paraphrase>
+Following rules consistently designs an effective compliance framework.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Random rule-following creates better compliance structures.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Adherence waters the garden of compliance growth.
+</metaphor>
+<literal_paraphrase>
+Regular rule-following nurtures and sustains compliance development.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Neglecting rules enhances compliance development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Adherence forges the chains of compliance strength.
+</metaphor>
+<literal_paraphrase>
+Consistent rule-following creates robust compliance practices.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Irregular rule-following builds stronger compliance systems.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Stars connect their light in celestial dotted lines.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Stars create patterns and connections across the night sky.
+</implicit_meaning>
+
+<components>
+<object>Stars, Light, Lines</object>
+<properties>Celestial, Dotted, Connected</properties>
+<relations>Stars linking together through beams of light</relations>
+</components>
+
+<visual_elaboration>
+Glowing stars connected by thin light beams forming constellation patterns against a dark sky.
+</visual_elaboration>
+</metaphor_analysis>

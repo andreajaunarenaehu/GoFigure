@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Passion is a nuclear force, releasing tremendous emotional energy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense and explosive emotional power.
+</implicit_meaning>
+
+<components>
+<object>Passion, Nuclear reaction</object>
+<properties>Explosive, powerful, radiating, intense</properties>
+<relations>Passion is compared to nuclear energy, both release intense force</relations>
+</components>
+
+<visual_elaboration>
+A glowing human heart erupting with nuclear energy waves and atomic symbols bursting outward.
+</visual_elaboration>
+</metaphor_analysis>

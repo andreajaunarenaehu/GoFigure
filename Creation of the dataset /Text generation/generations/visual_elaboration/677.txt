@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time's train carries passengers from cause to effect.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time moves forward in a linear progression, connecting actions to their consequences.
+</implicit_meaning>
+
+<components>
+<object>Train, Time, Passengers</object>
+<properties>Moving, Linear, Sequential</properties>
+<relations>Transportation from one point (cause) to another (effect)</relations>
+</components>
+
+<visual_elaboration>
+A train with clock faces as wheels, carrying people from a station labeled "Cause" to one labeled "Effect".
+</visual_elaboration>
+</metaphor_analysis>

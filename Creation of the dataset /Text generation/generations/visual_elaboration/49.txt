@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The heavy chains of intoxication bound his judgment.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Alcohol impairs rational thinking and decision-making abilities.
+</implicit_meaning>
+
+<components>
+<object>Chains, Judgment (represented as a brain/mind)</object>
+<properties>Heavy, restricting, binding</properties>
+<relations>Chains constraining and limiting judgment's function</relations>
+</components>
+
+<visual_elaboration>
+A human brain wrapped in thick metal chains dripping with liquid alcohol.
+</visual_elaboration>
+</metaphor_analysis>

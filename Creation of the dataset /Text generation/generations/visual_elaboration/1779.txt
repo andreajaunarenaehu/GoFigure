@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her emotions are like mercury, fluid and ever-shifting.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstable and constantly changing emotional state.
+</implicit_meaning>
+
+<components>
+<object>Emotions, Mercury (liquid metal)</object>
+<properties>Fluid, shifting, reflective, unstable</properties>
+<relations>Emotions behaving like liquid mercury in motion</relations>
+</components>
+
+<visual_elaboration>
+A woman's face reflected in a pool of swirling mercury, with rippling distortions changing her expression.
+</visual_elaboration>
+</metaphor_analysis>

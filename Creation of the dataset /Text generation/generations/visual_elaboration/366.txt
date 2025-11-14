@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His romantic drive is like a rabbit in spring.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Excessive and energetic romantic desire.
+</implicit_meaning>
+
+<components>
+<object>Rabbit, Person</object>
+<properties>Energetic, Reproductive, Springtime</properties>
+<relations>Person's romantic drive compared to rabbit's mating behavior</relations>
+</components>
+
+<visual_elaboration>
+A man with rabbit ears hopping excitedly through a field of blooming flowers and hearts.
+</visual_elaboration>
+</metaphor_analysis>

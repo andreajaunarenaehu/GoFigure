@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The relentless chase of time corners us all in the end.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is an unstoppable predator that eventually catches everyone.
+</implicit_meaning>
+
+<components>
+<object>Time, Humans</object>
+<properties>Relentless, inevitable, pursuing</properties>
+<relations>Chase, corner, trap</relations>
+</components>
+
+<visual_elaboration>
+A giant clock with wolf-like features chasing people into a dead-end alley.
+</visual_elaboration>
+</metaphor_analysis>

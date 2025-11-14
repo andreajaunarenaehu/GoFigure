@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Vision's chamber holds our perceptual universe.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Our eyes contain and process everything we see and understand about the world.
+</implicit_meaning>
+
+<components>
+<object>Eye, Universe</object>
+<properties>Containing, Holding, Vast</properties>
+<relations>The eye acts as a container for visual perception of the universe</relations>
+</components>
+
+<visual_elaboration>
+An eye with galaxies, stars, and planets swirling inside its iris like a cosmic portal.
+</visual_elaboration>
+</metaphor_analysis>

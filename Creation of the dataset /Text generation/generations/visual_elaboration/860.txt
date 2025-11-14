@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her happiness was a sunny beach at midday.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Bright, warm, and radiant joy.
+</implicit_meaning>
+
+<components>
+<object>Happiness, Beach, Sun</object>
+<properties>Bright, warm, radiant, peaceful</properties>
+<relations>Happiness is compared to the warmth and brightness of a beach at peak daylight</relations>
+</components>
+
+<visual_elaboration>
+A woman's smiling face transforms into a bright beach scene with golden sand and sparkling waves.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She steered the project to success.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Leadership and direction towards a goal.
+</implicit_meaning>
+
+<components>
+<object>Person, Ship's wheel, Project path</object>
+<properties>Directional control, Forward movement</properties>
+<relations>Person guiding/steering towards destination</relations>
+</components>
+
+<visual_elaboration>
+A woman at a ship's wheel steering through a sea of papers toward a golden lighthouse.
+</visual_elaboration>
+</metaphor_analysis>

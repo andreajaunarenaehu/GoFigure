@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their new theory was cut from the same cloth as the old one.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two theories being identical or very similar in nature.
+</implicit_meaning>
+
+<components>
+<object>Theory, Cloth</object>
+<properties>Same material, Cut pieces</properties>
+<relations>Two pieces coming from one source</relations>
+</components>
+
+<visual_elaboration>
+Two identical paper documents being cut from a single large piece of fabric with scissors.
+</visual_elaboration>
+</metaphor_analysis>

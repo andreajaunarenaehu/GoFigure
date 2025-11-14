@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These scattered facts need to be mapped out.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Disorganized information needs to be structured and organized.
+</implicit_meaning>
+
+<components>
+<object>Facts, Map</object>
+<properties>Scattered, Disorganized, Needs structure</properties>
+<relations>Facts being transformed from scattered state to organized map form</relations>
+</components>
+
+<visual_elaboration>
+Floating paper scraps with facts transforming into an organized map with clear pathways and connections.
+</visual_elaboration>
+</metaphor_analysis>

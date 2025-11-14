@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The market leader threw its weight around in the industry.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Using power to dominate or intimidate others.
+</implicit_meaning>
+
+<components>
+<object>Market leader (company), Weight</object>
+<properties>Large, dominant, forceful</properties>
+<relations>Aggressive action towards other companies</relations>
+</components>
+
+<visual_elaboration>
+A giant sumo wrestler in a business suit pushing smaller competitors out of a corporate ring.
+</visual_elaboration>
+</metaphor_analysis>

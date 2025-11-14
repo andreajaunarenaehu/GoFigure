@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He lost his footing in the midst of crisis.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of stability and control during difficult times.
+</implicit_meaning>
+
+<components>
+<object>Person, Ground/Footing</object>
+<properties>Unstable, Precarious, Slipping</properties>
+<relations>Person losing balance on unstable surface</relations>
+</components>
+
+<visual_elaboration>
+A person stumbling on crumbling ground with a dark storm swirling around them.
+</visual_elaboration>
+</metaphor_analysis>

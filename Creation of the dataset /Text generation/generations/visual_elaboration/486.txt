@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is the great metamorphosis master.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time transforms everything gradually and inevitably.
+</implicit_meaning>
+
+<components>
+<object>Time, Metamorphosis</object>
+<properties>Transformative, Powerful, Continuous</properties>
+<relations>Time acts as a force that changes everything</relations>
+</components>
+
+<visual_elaboration>
+A wizard-like figure with a clock face transforming butterflies from caterpillars with a wave of time-worn hands.
+</visual_elaboration>
+</metaphor_analysis>

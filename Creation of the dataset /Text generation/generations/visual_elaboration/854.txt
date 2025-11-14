@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each theory is a patchwork quilt stitched over the landscape of reality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Theories are incomplete attempts to cover and explain reality.
+</implicit_meaning>
+
+<components>
+<object>Theory, patchwork quilt, landscape</object>
+<properties>Stitched, patched, covering</properties>
+<relations>Quilt covering landscape, representing incomplete coverage</relations>
+</components>
+
+<visual_elaboration>
+A colorful patchwork quilt floating above a natural landscape, with gaps showing reality beneath.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The wellspring of knowledge flows through his mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Abundant and continuous flow of ideas and wisdom.
+</implicit_meaning>
+
+<components>
+<object>Mind, Wellspring</object>
+<properties>Flowing, Abundant, Continuous</properties>
+<relations>Knowledge flowing through mind like water from a spring</relations>
+</components>
+
+<visual_elaboration>
+A human head with a crystal-clear spring bursting from the crown, cascading with glowing books and symbols.
+</visual_elaboration>
+</metaphor_analysis>

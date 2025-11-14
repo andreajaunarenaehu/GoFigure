@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her convictions were delicate porcelain dolls on display.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fragile beliefs that are carefully maintained but easily broken.
+</implicit_meaning>
+
+<components>
+<object>Convictions, Porcelain dolls</object>
+<properties>Delicate, fragile, on display, precious</properties>
+<relations>Convictions being treated as precious but breakable objects</relations>
+</components>
+
+<visual_elaboration>
+A glass display case with cracking porcelain dolls, each labeled with different beliefs.
+</visual_elaboration>
+</metaphor_analysis>

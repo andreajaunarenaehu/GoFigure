@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He marched into a new phase of life.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Confident transition to a new life stage.
+</implicit_meaning>
+
+<components>
+<object>Person, Path/Road</object>
+<properties>Determined, Forward-moving, Military-like stride</properties>
+<relations>Moving from one distinct area to another with purpose</relations>
+</components>
+
+<visual_elaboration>
+A person in military stance stepping through a doorway that transforms from dark to bright colors.
+</visual_elaboration>
+</metaphor_analysis>

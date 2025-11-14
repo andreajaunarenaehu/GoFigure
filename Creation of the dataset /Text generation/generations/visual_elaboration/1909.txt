@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their success bounded over limitations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Achievement overcoming obstacles with ease and energy.
+</implicit_meaning>
+
+<components>
+<object>Success, limitations/obstacles</object>
+<properties>Energetic, jumping, overcoming</properties>
+<relations>Success actively leaping over barriers</relations>
+</components>
+
+<visual_elaboration>
+A golden kangaroo leaping over a series of concrete walls, leaving a trail of stars.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+A portfolio of diverse experiences yields abundant life satisfaction.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Various life experiences lead to fulfillment and happiness.
+</implicit_meaning>
+
+<components>
+<object>Portfolio, Life experiences</object>
+<properties>Diverse, Abundant, Fulfilling</properties>
+<relations>Experiences yielding satisfaction like investment returns</relations>
+</components>
+
+<visual_elaboration>
+A colorful investment portfolio folder blooming with flowers and happy memories floating out of its pages.
+</visual_elaboration>
+</metaphor_analysis>

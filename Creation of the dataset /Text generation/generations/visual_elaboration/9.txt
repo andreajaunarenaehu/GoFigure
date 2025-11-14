@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The memories fractured like a dropped mirror in her mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Broken and scattered thoughts causing mental distress.
+</implicit_meaning>
+
+<components>
+<object>Memories, Mirror</object>
+<properties>Fractured, Shattered, Broken</properties>
+<relations>Breaking apart within the mind</relations>
+</components>
+
+<visual_elaboration>
+A woman's face reflected in shattered mirror pieces, each shard showing different memory fragments.
+</visual_elaboration>
+</metaphor_analysis>

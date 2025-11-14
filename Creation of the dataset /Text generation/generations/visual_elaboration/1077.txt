@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The organization underwent a moral cleansing.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Purification and removal of unethical elements.
+</implicit_meaning>
+
+<components>
+<object>Organization, cleansing process</object>
+<properties>Moral, purifying, transformative</properties>
+<relations>Organization being washed or purified of negative elements</relations>
+</components>
+
+<visual_elaboration>
+A corporate building being washed with giant soap bubbles, removing dark shadows from its windows.
+</visual_elaboration>
+</metaphor_analysis>

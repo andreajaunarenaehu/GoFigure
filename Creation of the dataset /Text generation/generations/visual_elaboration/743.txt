@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love danced like leaves in the autumn wind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love is graceful and fleeting.
+</implicit_meaning>
+
+<components>
+<object>Love, leaves, autumn wind</object>
+<properties>Dancing, floating, swirling</properties>
+<relations>Movement of leaves controlled by wind represents the flow of love</relations>
+</components>
+
+<visual_elaboration>
+Two heart-shaped leaves twirling together in a spiral of autumn wind.
+</visual_elaboration>
+</metaphor_analysis>

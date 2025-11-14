@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The facts lined up perfectly in the investigation.
+</metaphor>
+<literal_paraphrase>
+The evidence and information gathered during the investigation were logically consistent and supported the conclusion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The facts were scattered and disconnected, providing no clear direction in the investigation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These facts form a constellation of evidence.
+</metaphor>
+<literal_paraphrase>
+Multiple pieces of evidence connect in a meaningful pattern to support the argument.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The evidence exists in isolation with no meaningful connections between facts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The central fact anchors all supporting details.
+</metaphor>
+<literal_paraphrase>
+A key piece of evidence provides the foundation for all related information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+No single piece of evidence holds more importance than any other in the case.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The facts converged at a single point of truth.
+</metaphor>
+<literal_paraphrase>
+Multiple pieces of evidence led to the same logical conclusion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The evidence pointed in different directions, leading to multiple conflicting conclusions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These scattered facts need to be mapped out.
+</metaphor>
+<literal_paraphrase>
+The disorganized information needs to be arranged in a logical structure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The information is already well-organized and requires no further arrangement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The facts created a three-dimensional picture of the situation.
+</metaphor>
+<literal_paraphrase>
+The evidence provided a complete and detailed understanding of the circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The evidence offered only a superficial and incomplete view of the situation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These facts are floating in space, disconnected from reality.
+</metaphor>
+<literal_paraphrase>
+The information lacks context and connection to practical circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The facts are firmly grounded in reality with clear practical applications.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The facts aligned perfectly like stars in formation.
+</metaphor>
+<literal_paraphrase>
+The evidence came together in a precise and meaningful arrangement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The evidence was chaotic and showed no clear pattern or arrangement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These facts orbit around the main argument.
+</metaphor>
+<literal_paraphrase>
+The supporting evidence relates to and reinforces the central claim.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The evidence has no relation to or bearing on the main argument.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The facts created a perfect triangulation of truth.
+</metaphor>
+<literal_paraphrase>
+Multiple pieces of evidence from different sources confirmed the same conclusion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Different pieces of evidence contradicted each other and led to uncertain conclusions.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

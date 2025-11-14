@@ -1,0 +1,51 @@
+You will be creating a contradictory metaphor based on provided source and target domains. Here are your inputs:
+
+<source>
+{{SOURCE}}
+</source>
+
+<target>
+{{TARGET}}
+</target>
+
+<original_metaphor>
+{{ORIGINAL_METAPHOR}}
+</original_metaphor>
+
+<literal_paraphrase>
+{{LITERAL_PARAPHRASE}}
+</literal_paraphrase>
+
+<contradiction_paraphrase>
+{{CONTRADICTION_PARAPHRASE}}
+</contradiction_paraphrase>
+
+Your task is to create a contradictory metaphor that expresses the same meaning as the contradiction paraphrase, but uses figurative language.
+
+Here's how these elements work together:
+- The **source** is the conceptual domain you should draw metaphorical language and imagery from
+- The **target** is the concept being described metaphorically
+- The **original metaphor** uses the source domain to describe the target in a particular way
+- The **literal paraphrase** expresses the same idea as the original metaphor without figurative language
+- The **contradiction paraphrase** expresses the opposite meaning of both the original metaphor and literal paraphrase
+- Your job is to create a new metaphor that expresses the same meaning as the contradiction paraphrase while using figurative language
+
+Before writing your final answer, use the scratchpad to think through:
+1. What key elements and imagery from the source domain were used in the original metaphor?
+2. What key elements and imagery from the target domain were used in the original metaphor?
+3. What is the core meaning being contradicted in the contradiction paraphrase?
+4. How can you use source and target domains imagery to express this contradictory meaning metaphorically?
+
+<scratchpad>
+[Think through the process here]
+</scratchpad>
+
+After your analysis, provide your final answer in this format:
+
+<contradictory_metaphor>
+[Your single-sentence metaphor that uses figurative language to express the meaning of the contradiction paraphrase]
+</contradictory_metaphor>
+
+<figurative_language_identification>
+[List the specific words or phrases from your contradictory metaphor that are used figuratively]
+</figurative_language_identification>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her project has been camping out in my thoughts all week.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Persistent and occupying mental space continuously.
+</implicit_meaning>
+
+<components>
+<object>Project, Thoughts, Camp</object>
+<properties>Persistent, Occupying space, Temporary dwelling</properties>
+<relations>The project is portrayed as a camper setting up residence in someone's mind</relations>
+</components>
+
+<visual_elaboration>
+A tent pitched inside a brain with project papers scattered around a small campfire.
+</visual_elaboration>
+</metaphor_analysis>

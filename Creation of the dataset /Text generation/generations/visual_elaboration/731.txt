@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some beliefs are like vintage classics that never go out of style.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Timeless and enduring value.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Vintage classics</object>
+<properties>Timeless, enduring, valuable, classic</properties>
+<relations>Beliefs are compared to vintage items that maintain their worth</relations>
+</components>
+
+<visual_elaboration>
+An old leather-bound book glowing with golden light on a modern glass shelf.
+</visual_elaboration>
+</metaphor_analysis>

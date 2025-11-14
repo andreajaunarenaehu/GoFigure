@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope radiates warmth in the coldest hearts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hope can bring comfort and positivity even to the most pessimistic or emotionally distant people.
+</implicit_meaning>
+
+<components>
+<object>Hope, Heart</object>
+<properties>Warmth, Coldness, Radiation</properties>
+<relations>Hope actively warming/melting cold hearts</relations>
+</components>
+
+<visual_elaboration>
+A frozen heart with golden rays of light melting the ice from its center outward.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their brainstorming session was an oil well striking gold.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unexpected success and valuable ideas emerging suddenly.
+</implicit_meaning>
+
+<components>
+<object>Brainstorming session, Oil well</object>
+<properties>Sudden, Valuable, Productive</properties>
+<relations>Ideas flowing like oil/gold gushing from well</relations>
+</components>
+
+<visual_elaboration>
+A business meeting room with lightbulbs erupting like a geyser of gold from the conference table.
+</visual_elaboration>
+</metaphor_analysis>

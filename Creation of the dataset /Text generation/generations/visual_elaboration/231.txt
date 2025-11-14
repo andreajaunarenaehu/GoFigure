@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The future stretches before us like an endless horizon.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Limitless possibilities and unknown potential ahead.
+</implicit_meaning>
+
+<components>
+<object>Future, Horizon</object>
+<properties>Endless, stretching, vast</properties>
+<relations>Observer standing before the horizon, looking forward</relations>
+</components>
+
+<visual_elaboration>
+A person standing on a cliff edge gazing at an infinite horizon where sky meets earth.
+</visual_elaboration>
+</metaphor_analysis>

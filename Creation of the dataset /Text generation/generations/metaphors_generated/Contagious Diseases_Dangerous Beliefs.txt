@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her extremist ideology infected everyone in the community.
+</metaphor>
+<literal_paraphrase>
+Her harmful beliefs spread rapidly and influenced many people in the community.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her beliefs remained isolated and had no impact on the community's thinking.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That conspiracy theory is spreading like a viral outbreak.
+</metaphor>
+<literal_paraphrase>
+The false belief is rapidly gaining followers and spreading through social networks.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The conspiracy theory remains contained and fails to attract new believers.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We need to quarantine these toxic ideas before they spread further.
+</metaphor>
+<literal_paraphrase>
+We must isolate and prevent these harmful beliefs from influencing more people.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We should freely allow all ideas to circulate without any restrictions or concerns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their minds were immune to rational arguments after exposure to propaganda.
+</metaphor>
+<literal_paraphrase>
+People became resistant to logical reasoning after being influenced by misleading information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People became more receptive to reason and evidence after encountering propaganda.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The symptoms of radicalization appeared gradually in the group.
+</metaphor>
+<literal_paraphrase>
+Signs of extreme belief adoption became increasingly visible among group members over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The group maintained moderate views and showed no signs of adopting extreme positions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Social media became a breeding ground for dangerous ideologies.
+</metaphor>
+<literal_paraphrase>
+Social media platforms facilitated the growth and spread of harmful beliefs.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Social media actively prevented the development and spread of harmful ideologies.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The community developed antibodies against extremist propaganda.
+</metaphor>
+<literal_paraphrase>
+The community became resistant to and learned to reject extremist messages.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The community became increasingly susceptible to extremist messages.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These harmful beliefs mutated into even more dangerous forms.
+</metaphor>
+<literal_paraphrase>
+The dangerous ideas evolved and became more extreme over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The beliefs remained stable and became more moderate over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Education is the vaccine against dangerous ideologies.
+</metaphor>
+<literal_paraphrase>
+Education helps prevent people from adopting harmful beliefs and misconceptions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Education makes people more vulnerable to accepting dangerous beliefs.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The carriers of these toxic beliefs showed no symptoms of doubt.
+</metaphor>
+<literal_paraphrase>
+People who held these dangerous beliefs showed no signs of questioning their views.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Those who held these beliefs constantly questioned and examined their views critically.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

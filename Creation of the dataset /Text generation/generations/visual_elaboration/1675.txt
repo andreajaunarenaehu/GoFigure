@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their ethics were as unsullied as morning dew.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Pure and untainted moral character.
+</implicit_meaning>
+
+<components>
+<object>Ethics, Morning dew</object>
+<properties>Pure, clean, fresh, transparent</properties>
+<relations>Ethics being compared to pristine morning dew drops</relations>
+</components>
+
+<visual_elaboration>
+Crystal-clear dewdrops forming the word "ETHICS" on a pristine white lotus petal at dawn.
+</visual_elaboration>
+</metaphor_analysis>

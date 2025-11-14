@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The startup's guerrilla marketing tactics ambushed their rivals.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Aggressive and surprising marketing strategy that catches competitors off guard.
+</implicit_meaning>
+
+<components>
+<object>Marketing tactics, guerrilla warriors</object>
+<properties>Stealthy, surprising, aggressive</properties>
+<relations>Ambushing/attacking competitors</relations>
+</components>
+
+<visual_elaboration>
+Camouflaged marketers jumping out from behind bushes with laptops and marketing materials at surprised businesspeople.
+</visual_elaboration>
+</metaphor_analysis>

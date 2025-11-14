@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is an unwavering shadow, following our every move.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is constant and inescapable.
+</implicit_meaning>
+
+<components>
+<object>Time, Shadow, Person</object>
+<properties>Unwavering, Persistent, Dark</properties>
+<relations>Following, Attached, Inseparable</relations>
+</components>
+
+<visual_elaboration>
+A person walking with an elongated dark shadow that morphs into a clock face behind them.
+</visual_elaboration>
+</metaphor_analysis>

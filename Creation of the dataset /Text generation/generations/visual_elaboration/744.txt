@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Anger accelerated through him like a rocket launch.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden and explosive buildup of intense anger.
+</implicit_meaning>
+
+<components>
+<object>Person, Rocket</object>
+<properties>Explosive, Fast-moving, Intense</properties>
+<relations>Internal emotion bursting outward like rocket propulsion</relations>
+</components>
+
+<visual_elaboration>
+A man's silhouette filled with rocket flames, blasting off from ground with red smoke trailing behind.
+</visual_elaboration>
+</metaphor_analysis>

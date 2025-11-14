@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our perceptions filter ideas like sunlight through stained glass.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Our minds transform and color how we understand ideas.
+</implicit_meaning>
+
+<components>
+<object>Perceptions, ideas, sunlight, stained glass</object>
+<properties>Filtering, transforming, coloring, distorting</properties>
+<relations>Ideas passing through perceptions like light through glass</relations>
+</components>
+
+<visual_elaboration>
+A human head made of stained glass with colorful light beams passing through it, projecting transformed shapes.
+</visual_elaboration>
+</metaphor_analysis>

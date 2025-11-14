@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The river of his potential carries his developing skills.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal growth and development flowing continuously forward.
+</implicit_meaning>
+
+<components>
+<object>River, Skills</object>
+<properties>Flowing, Moving, Developing</properties>
+<relations>River carries/transports skills forward</relations>
+</components>
+
+<visual_elaboration>
+A person floating on a river with glowing orbs representing skills emerging from the water around them.
+</visual_elaboration>
+</metaphor_analysis>

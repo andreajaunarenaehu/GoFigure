@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His depression was a gravitational pull dragging him down.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Depression is an overwhelming force that makes one feel helplessly pulled downward.
+</implicit_meaning>
+
+<components>
+<object>Person, gravitational force</object>
+<properties>Downward motion, heaviness, inability to resist</properties>
+<relations>Force acting upon the person, pulling them downward</relations>
+</components>
+
+<visual_elaboration>
+A person being pulled into a dark spiral vortex, their body heavy and slouched downward.
+</visual_elaboration>
+</metaphor_analysis>

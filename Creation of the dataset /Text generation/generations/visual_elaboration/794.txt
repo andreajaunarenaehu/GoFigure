@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The old man's wisdom branched out in many directions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Knowledge spreading and growing like a tree.
+</implicit_meaning>
+
+<components>
+<object>Old man's wisdom, Tree branches</object>
+<properties>Spreading, Growing, Multiple directions</properties>
+<relations>Wisdom is compared to growing tree branches</relations>
+</components>
+
+<visual_elaboration>
+An elderly man's head with tree branches growing from it, each branch glowing with wisdom symbols.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their hatred was a blinding sandstorm of bitter words.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense conflict expressed through harmful communication.
+</implicit_meaning>
+
+<components>
+<object>Hatred, Sandstorm, Words</object>
+<properties>Blinding, bitter, destructive</properties>
+<relations>Words acting as sand particles in a violent storm</relations>
+</components>
+
+<visual_elaboration>
+Two angry faces in profile with a swirling sandstorm between them made of glowing sharp letters.
+</visual_elaboration>
+</metaphor_analysis>

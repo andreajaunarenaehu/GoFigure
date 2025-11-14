@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He walked a path of unblemished virtue.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Living a morally pure and righteous life.
+</implicit_meaning>
+
+<components>
+<object>Path, Person</object>
+<properties>Unblemished, pure, bright</properties>
+<relations>Walking along the path, movement forward</relations>
+</components>
+
+<visual_elaboration>
+A person walking on a glowing white path that rises through dark clouds toward a bright light.
+</visual_elaboration>
+</metaphor_analysis>

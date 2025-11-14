@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They feasted on the rewards of their hard work.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Enjoying and consuming the benefits of success.
+</implicit_meaning>
+
+<components>
+<object>People, Food/Feast</object>
+<properties>Abundance, satisfaction, consumption</properties>
+<relations>People actively consuming/enjoying rewards as if they were food</relations>
+</components>
+
+<visual_elaboration>
+People sitting at a banquet table eating golden coins and trophies with satisfied expressions.
+</visual_elaboration>
+</metaphor_analysis>

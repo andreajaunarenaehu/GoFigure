@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Darkness wrapped its thick bandage around the wounded day.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Night is overtaking and healing a difficult day.
+</implicit_meaning>
+
+<components>
+<object>Darkness, Day, Bandage</object>
+<properties>Thick, Wounded</properties>
+<relations>Wrapping, Covering, Healing</relations>
+</components>
+
+<visual_elaboration>
+A setting sun wrapped in dark bandages with shadows stretching across a bruised sky.
+</visual_elaboration>
+</metaphor_analysis>

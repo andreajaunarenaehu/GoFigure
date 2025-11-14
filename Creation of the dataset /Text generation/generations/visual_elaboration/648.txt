@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The tequila was an earthquake that shook his world apart.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The destructive and disorienting effects of alcohol consumption.
+</implicit_meaning>
+
+<components>
+<object>Tequila, Earthquake</object>
+<properties>Disruptive, destructive, powerful</properties>
+<relations>The tequila's effects are compared to an earthquake's destructive force</relations>
+</components>
+
+<visual_elaboration>
+A glass of tequila creating seismic waves that crack and shatter a man's surroundings into pieces.
+</visual_elaboration>
+</metaphor_analysis>

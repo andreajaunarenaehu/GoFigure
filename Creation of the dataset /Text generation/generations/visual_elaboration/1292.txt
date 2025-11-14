@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His love was an electromagnetic field, attracting and repelling with equal intensity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love that alternates between intense attraction and rejection.
+</implicit_meaning>
+
+<components>
+<object>Love, Electromagnetic field</object>
+<properties>Magnetic, Polarizing, Intense</properties>
+<relations>Simultaneous attraction and repulsion</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped magnet with visible magnetic fields pulling objects in while simultaneously pushing others away.
+</visual_elaboration>
+</metaphor_analysis>

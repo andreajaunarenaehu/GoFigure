@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His determination was an unstoppable momentum carrying him through obstacles.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unwavering persistence against challenges.
+</implicit_meaning>
+
+<components>
+<object>Person, Momentum force</object>
+<properties>Unstoppable, Powerful, Forward-moving</properties>
+<relations>Moving through/breaking through obstacles</relations>
+</components>
+
+<visual_elaboration>
+A glowing figure bursting through brick walls while leaving a trail of energy behind.
+</visual_elaboration>
+</metaphor_analysis>

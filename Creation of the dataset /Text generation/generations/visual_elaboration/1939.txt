@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our love is the golden investment that yields eternal returns.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love grows and provides endless value over time.
+</implicit_meaning>
+
+<components>
+<object>Love, Investment, Gold</object>
+<properties>Golden, Eternal, Valuable</properties>
+<relations>Growing, Yielding returns</relations>
+</components>
+
+<visual_elaboration>
+A golden heart sprouting coins and precious gems from its center in an endless spiral pattern.
+</visual_elaboration>
+</metaphor_analysis>

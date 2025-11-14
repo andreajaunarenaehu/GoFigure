@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Words are bridges connecting minds across the void.
+</metaphor>
+<literal_paraphrase>
+Communication enables people to share thoughts and understanding with each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Words create barriers that prevent understanding between people.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Language is a garden where meaning blooms.
+</metaphor>
+<literal_paraphrase>
+Communication develops and grows as people cultivate their understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Language is a barren wasteland where meaning withers and dies.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Sentences are threads weaving the fabric of understanding.
+</metaphor>
+<literal_paraphrase>
+Individual expressions combine to create comprehensive meaning in communication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Sentences are loose ends that unravel any chance of understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Grammar is the skeleton supporting the body of expression.
+</metaphor>
+<literal_paraphrase>
+Linguistic rules provide essential structure for effective communication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Grammar is a cage that restricts and confines expression.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Vocabulary is a palette painting thoughts into reality.
+</metaphor>
+<literal_paraphrase>
+Words allow people to express their ideas and make them understood by others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Vocabulary is a blur that obscures thoughts from reality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Dialogue is a dance between minds in perfect rhythm.
+</metaphor>
+<literal_paraphrase>
+Successful communication requires coordinated exchange between participants.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Dialogue is a chaotic collision of disconnected thoughts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Syntax is the compass guiding meaning's journey.
+</metaphor>
+<literal_paraphrase>
+Word order and structure direct how meaning is conveyed in communication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Syntax is a maze that leads meaning astray.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Phonemes are building blocks in language's architecture.
+</metaphor>
+<literal_paraphrase>
+Basic sound units combine to form meaningful communication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Phonemes are rubble that collapses into meaningless noise.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Conversation is a river flowing between shores of thought.
+</metaphor>
+<literal_paraphrase>
+Communication moves naturally between people sharing ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Conversation is a dam blocking the flow of ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Discourse is a tapestry woven from voices of many.
+</metaphor>
+<literal_paraphrase>
+Communication involves multiple perspectives combining into a complete picture.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Discourse is a tangle of isolated, disconnected voices.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

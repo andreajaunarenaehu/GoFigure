@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each fork in the path represents a division on the scale.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Choices lead to different measurements or outcomes.
+</implicit_meaning>
+
+<components>
+<object>Path with forks, Scale/measuring device</object>
+<properties>Branching, Divided, Measured</properties>
+<relations>Each split corresponds to a measurement point</relations>
+</components>
+
+<visual_elaboration>
+A winding path splits into branches with numerical markings at each fork like a ruler.
+</visual_elaboration>
+</metaphor_analysis>

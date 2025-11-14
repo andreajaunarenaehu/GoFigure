@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The rope of causality binds every action to its outcome.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Actions and consequences are inevitably connected.
+</implicit_meaning>
+
+<components>
+<object>Rope, Actions, Outcomes</object>
+<properties>Binding, Connecting, Unbreakable</properties>
+<relations>The rope physically connects actions to their results</relations>
+</components>
+
+<visual_elaboration>
+A glowing rope weaving through floating dominoes, connecting each falling piece to the next.
+</visual_elaboration>
+</metaphor_analysis>

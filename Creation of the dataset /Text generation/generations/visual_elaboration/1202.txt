@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our perceptions mold ideas like clay on a potter's wheel.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas are shaped by how we perceive things.
+</implicit_meaning>
+
+<components>
+<object>Perceptions, ideas, clay, potter's wheel</object>
+<properties>Moldable, shapeable, transformative</properties>
+<relations>Active shaping/molding process between perception and ideas</relations>
+</components>
+
+<visual_elaboration>
+A brain-shaped clay being molded by hands on a spinning potter's wheel with thought bubbles emerging from its surface.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their argument escalated into verbal nuclear warfare.
+</linguistic_metaphor>
+
+<implicit_meaning>
+An argument that became extremely destructive and intense.
+</implicit_meaning>
+
+<components>
+<object>Argument, Nuclear warfare</object>
+<properties>Explosive, destructive, escalating</properties>
+<relations>Verbal conflict transforming into catastrophic destruction</relations>
+</components>
+
+<visual_elaboration>
+Two people shouting with atomic explosions erupting from their mouths and mushroom clouds forming above.
+</visual_elaboration>
+</metaphor_analysis>

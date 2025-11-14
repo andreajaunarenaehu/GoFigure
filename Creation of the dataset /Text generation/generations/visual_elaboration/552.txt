@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The new theory is a direct descendant of classical mechanics.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The new theory evolved from and is closely related to classical mechanics.
+</implicit_meaning>
+
+<components>
+<object>Theory, Classical Mechanics</object>
+<properties>Direct lineage, inheritance, evolution</properties>
+<relations>Parent-child relationship, historical connection</relations>
+</components>
+
+<visual_elaboration>
+A family tree with Classical Mechanics as the parent branch sprouting a new theory leaf below it.
+</visual_elaboration>
+</metaphor_analysis>

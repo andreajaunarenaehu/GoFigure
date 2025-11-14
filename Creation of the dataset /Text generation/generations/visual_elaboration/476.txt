@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His anger was an explosive force that shattered their friendship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive emotional outburst that ruins relationships.
+</implicit_meaning>
+
+<components>
+<object>Anger, Friendship, Explosion</object>
+<properties>Explosive, Destructive, Shattering</properties>
+<relations>Anger causes destruction of friendship</relations>
+</components>
+
+<visual_elaboration>
+A glass friendship heart exploding into pieces with red angry flames bursting from within.
+</visual_elaboration>
+</metaphor_analysis>

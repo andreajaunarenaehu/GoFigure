@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our timeline has derailed completely.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Plans have gone off track and become chaotic.
+</implicit_meaning>
+
+<components>
+<object>Timeline, Train tracks</object>
+<properties>Broken, Derailed, Chaotic</properties>
+<relations>Timeline is depicted as a train track that has broken apart</relations>
+</components>
+
+<visual_elaboration>
+A twisted train track shaped like a timeline with calendar pages scattered around the broken rails.
+</visual_elaboration>
+</metaphor_analysis>

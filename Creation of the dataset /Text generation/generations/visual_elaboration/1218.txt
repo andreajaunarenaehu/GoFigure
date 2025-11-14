@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some theories, like prejudiced individuals, show blind spots to contrary evidence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Selective ignorance or willful disregard of contradicting information.
+</implicit_meaning>
+
+<components>
+<object>Theories, Prejudiced individuals, Blind spots</object>
+<properties>Selective vision, Inability to see certain things</properties>
+<relations>Theories behaving like people with visual impairments</relations>
+</components>
+
+<visual_elaboration>
+A person wearing glasses with dark patches, deliberately turning away from floating facts and evidence.
+</visual_elaboration>
+</metaphor_analysis>

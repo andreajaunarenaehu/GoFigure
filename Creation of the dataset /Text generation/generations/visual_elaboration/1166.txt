@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each scholar scored points in the theoretical tournament.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Academic achievement is being compared to a competitive sport.
+</implicit_meaning>
+
+<components>
+<object>Scholars, Tournament, Points</object>
+<properties>Competitive, Academic, Score-based</properties>
+<relations>Scholars competing against each other in an academic setting like athletes</relations>
+</components>
+
+<visual_elaboration>
+Scholars wearing academic robes on a sports scoreboard, with books as trophies and mathematical formulas as scores.
+</visual_elaboration>
+</metaphor_analysis>

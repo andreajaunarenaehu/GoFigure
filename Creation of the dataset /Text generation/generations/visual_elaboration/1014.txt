@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She embraces power with both arms.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Eagerly and completely accepting or seizing control and authority.
+</implicit_meaning>
+
+<components>
+<object>Woman, Power (abstract concept)</object>
+<properties>Embracing, Holding tight, Both arms</properties>
+<relations>Physical action of embracing applied to abstract concept of power</relations>
+</components>
+
+<visual_elaboration>
+A woman tightly hugging a glowing lightning bolt that radiates energy through her arms.
+</visual_elaboration>
+</metaphor_analysis>

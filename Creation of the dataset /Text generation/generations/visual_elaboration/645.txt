@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His memory was shattered like glass under a sledgehammer.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Traumatic destruction of memories.
+</implicit_meaning>
+
+<components>
+<object>Memory, Glass, Sledgehammer</object>
+<properties>Fragile, Broken, Destructive</properties>
+<relations>Violent breaking, Shattering impact</relations>
+</components>
+
+<visual_elaboration>
+A glass brain shattering into pieces as a sledgehammer strikes it, with memory fragments flying outward.
+</visual_elaboration>
+</metaphor_analysis>

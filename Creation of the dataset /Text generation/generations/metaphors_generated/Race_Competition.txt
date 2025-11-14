@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Life's race track winds through every competition.
+</metaphor>
+<literal_paraphrase>
+Every competition follows a structured path with a clear beginning and end, like a race course.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competitions are random and directionless, with no defined structure or progression.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The finish line beckons all competitors forward.
+</metaphor>
+<literal_paraphrase>
+The goal of winning motivates all participants to give their best effort.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competitors have no interest in reaching their goals or achieving success.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each lap brings new challenges to overcome.
+</metaphor>
+<literal_paraphrase>
+Every stage of competition presents fresh obstacles and difficulties to master.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competition is completely predictable with no variation or unexpected challenges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The starting gun echoes through every challenge.
+</metaphor>
+<literal_paraphrase>
+The intensity and urgency of beginning a competition is present in all competitive situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competitions begin casually and without any sense of urgency or excitement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Competitors draft behind each other's success.
+</metaphor>
+<literal_paraphrase>
+People in competition learn from and build upon others' achievements and strategies.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each competitor operates in complete isolation, ignoring others' methods and successes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The pit stops of preparation fuel victory.
+</metaphor>
+<literal_paraphrase>
+Proper planning and preparation are essential elements for competitive success.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Success in competition comes purely from luck, without any need for preparation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Every competitor runs their own qualifying lap.
+</metaphor>
+<literal_paraphrase>
+Each person must prove their own worth and capability in competition.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Success in competition is predetermined and requires no individual effort or proof of ability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The checkered flag waves for all who persist.
+</metaphor>
+<literal_paraphrase>
+Those who maintain their effort and determination will eventually achieve their competitive goals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Only immediate success matters, and persistence is worthless in competition.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Victory burns rubber on the track of achievement.
+</metaphor>
+<literal_paraphrase>
+Success in competition leaves a lasting mark and creates momentum for future accomplishments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competitive achievements are fleeting and leave no lasting impact.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The pace car of progress leads all forward.
+</metaphor>
+<literal_paraphrase>
+The overall advancement of the field drives all competitors to improve and develop.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competition stagnates development and prevents any form of progress.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

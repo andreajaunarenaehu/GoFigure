@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're moving forward with our plans for expansion.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress and advancement towards a goal.
+</implicit_meaning>
+
+<components>
+<object>People (We), Plans, Movement</object>
+<properties>Forward motion, Progressive action</properties>
+<relations>People actively moving towards a business goal</relations>
+</components>
+
+<visual_elaboration>
+Business people walking on an ascending arrow path that stretches towards the horizon.
+</visual_elaboration>
+</metaphor_analysis>

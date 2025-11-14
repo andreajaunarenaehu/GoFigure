@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time's pursuit leaves no hiding place unexplored.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is relentless and inevitable.
+</implicit_meaning>
+
+<components>
+<object>Time, Hiding places</object>
+<properties>Relentless, searching, inevitable</properties>
+<relations>Time actively hunting/searching through spaces</relations>
+</components>
+
+<visual_elaboration>
+A shadowy clock-faced figure with searching beams of light opening doors in a maze.
+</visual_elaboration>
+</metaphor_analysis>

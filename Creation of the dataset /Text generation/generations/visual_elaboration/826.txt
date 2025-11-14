@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Every competitor runs their own qualifying lap.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Everyone progresses at their own pace and timing in life.
+</implicit_meaning>
+
+<components>
+<object>Competitors, Race track</object>
+<properties>Individual, Separate, Different speeds</properties>
+<relations>Running, Moving forward, Different positions on track</relations>
+</components>
+
+<visual_elaboration>
+Multiple runners on a circular track, each at different positions with individual timing clocks above them.
+</visual_elaboration>
+</metaphor_analysis>

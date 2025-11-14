@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's surrounded by poisonous words.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmful and toxic verbal abuse.
+</implicit_meaning>
+
+<components>
+<object>Person, Words</object>
+<properties>Poisonous, Surrounding, Harmful</properties>
+<relations>Words encircling and threatening the person</relations>
+</components>
+
+<visual_elaboration>
+A woman encircled by floating green letters dripping with toxic venom.
+</visual_elaboration>
+</metaphor_analysis>

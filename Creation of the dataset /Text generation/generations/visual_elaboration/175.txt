@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They're living in a war zone of criticism.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Constant attacks and hostility through harsh words and judgment.
+</implicit_meaning>
+
+<components>
+<object>War zone, People, Criticism</object>
+<properties>Hostile, Destructive, Overwhelming</properties>
+<relations>People being bombarded by criticism as if in battle</relations>
+</components>
+
+<visual_elaboration>
+People crouching behind sandbags while words shaped like bullets and bombs rain down from above.
+</visual_elaboration>
+</metaphor_analysis>

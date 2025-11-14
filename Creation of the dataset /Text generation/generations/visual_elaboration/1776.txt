@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her spirit is spun from gossamer silk, delicate yet resilient.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A person with a gentle but strong character.
+</implicit_meaning>
+
+<components>
+<object>Spirit, gossamer silk</object>
+<properties>Delicate, resilient, spun, ethereal</properties>
+<relations>Spirit being composed of or transformed into silk</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette woven from shimmering silk threads that glow and stretch without breaking.
+</visual_elaboration>
+</metaphor_analysis>

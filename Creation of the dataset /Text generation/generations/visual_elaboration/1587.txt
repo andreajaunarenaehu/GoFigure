@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our sight is a jar storing visual memories.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Vision collects and preserves memories like a container.
+</implicit_meaning>
+
+<components>
+<object>Sight, Jar, Memories</object>
+<properties>Transparent, Containing, Preserving</properties>
+<relations>Sight acts as a container that stores visual memories</relations>
+</components>
+
+<visual_elaboration>
+A glass jar filled with floating photographs and colorful memory fragments, with an eye reflected on its surface.
+</visual_elaboration>
+</metaphor_analysis>

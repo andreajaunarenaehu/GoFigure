@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Love is a sweet delirium that clouds all reason.
+</metaphor>
+<literal_paraphrase>
+Love causes people to act irrationally and makes it difficult to think clearly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love enhances logical thinking and improves rational decision-making.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is an asylum where sanity dare not enter.
+</metaphor>
+<literal_paraphrase>
+Being in love often requires abandoning conventional rational behavior.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is a realm of pure logic and calculated decisions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love's fever rages through reason's walls.
+</metaphor>
+<literal_paraphrase>
+Romantic feelings overwhelm and bypass rational thought processes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love strengthens mental barriers and reinforces logical thinking.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The chaos of love shatters reality's mirror.
+</metaphor>
+<literal_paraphrase>
+Love distorts our perception of reality and normal experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love provides perfect clarity and an accurate view of the world.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love's lunacy dances in wisdom's grave.
+</metaphor>
+<literal_paraphrase>
+Romance often triumphs over wisdom and good judgment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love always follows the path of wisdom and sound judgment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The asylum of the heart houses love's beautiful insanity.
+</metaphor>
+<literal_paraphrase>
+Love creates a protected space where irrational behavior is embraced.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love exists in a space of pure rationality and emotional control.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love's wild hallucinations paint reality in impossible colors.
+</metaphor>
+<literal_paraphrase>
+Love makes us see the world in unrealistically positive ways.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love provides a completely objective and unbiased view of life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The madhouse of romance echoes with reason's screams.
+</metaphor>
+<literal_paraphrase>
+Love often drowns out logical thoughts with emotional intensity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love amplifies logical thinking and suppresses emotional responses.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love's straitjacket binds logic in silk.
+</metaphor>
+<literal_paraphrase>
+Love constrains rational thinking in a pleasurable but restrictive way.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love liberates logical thinking and promotes rational behavior.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+In love's padded cell, sanity whispers sweet nothings.
+</metaphor>
+<literal_paraphrase>
+Love creates a safe space where irrational behavior feels normal and comforting.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love maintains strict rational boundaries and emotional distance.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

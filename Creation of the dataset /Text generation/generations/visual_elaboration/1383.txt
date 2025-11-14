@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance is a dance where everyone follows the same choreography.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules in perfect synchronization.
+</implicit_meaning>
+
+<components>
+<object>Dancers, Dance floor, Choreography</object>
+<properties>Synchronized, Uniform, Coordinated</properties>
+<relations>Multiple people moving in unison following preset patterns</relations>
+</components>
+
+<visual_elaboration>
+Identical business people dancing in perfect sync on a grid-marked floor with numbered steps.
+</visual_elaboration>
+</metaphor_analysis>

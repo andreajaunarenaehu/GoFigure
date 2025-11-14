@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their desire sparked like a match striking flint.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden intense passion or attraction.
+</implicit_meaning>
+
+<components>
+<object>Match, flint, desire</object>
+<properties>Sudden, intense, fiery</properties>
+<relations>Striking action creating spark</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped match head erupting into flames as it strikes against dark flint.
+</visual_elaboration>
+</metaphor_analysis>

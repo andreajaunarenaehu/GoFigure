@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her writing was a perfectly aligned row of dominoes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Precise and methodical organization.
+</implicit_meaning>
+
+<components>
+<object>Writing, Dominoes</object>
+<properties>Perfect alignment, Sequential order</properties>
+<relations>Writing is compared to precisely arranged dominoes</relations>
+</components>
+
+<visual_elaboration>
+Words transforming into black and white dominoes, perfectly lined up on a blank page.
+</visual_elaboration>
+</metaphor_analysis>

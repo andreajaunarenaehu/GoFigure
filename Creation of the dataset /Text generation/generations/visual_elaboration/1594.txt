@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Opportunities are doors with temporary hinges.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Opportunities are fleeting and can disappear quickly if not taken.
+</implicit_meaning>
+
+<components>
+<object>Doors, Hinges, Opportunities</object>
+<properties>Temporary, Unstable, Time-sensitive</properties>
+<relations>Doors representing opportunities that could fall off their hinges</relations>
+</components>
+
+<visual_elaboration>
+A door with rusty hinges falling off its frame while a golden light shines through the opening.
+</visual_elaboration>
+</metaphor_analysis>

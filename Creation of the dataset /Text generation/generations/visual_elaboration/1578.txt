@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The inertia of commitment kept him moving forward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Momentum of dedication drives continued progress despite resistance.
+</implicit_meaning>
+
+<components>
+<object>Person, Physical force (inertia)</object>
+<properties>Forward motion, Resistance, Persistence</properties>
+<relations>Force pushing person forward</relations>
+</components>
+
+<visual_elaboration>
+A person leaning forward against strong wind, with motion lines showing momentum pushing them ahead.
+</visual_elaboration>
+</metaphor_analysis>

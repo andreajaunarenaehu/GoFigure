@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Possessions are the roots of property wealth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material belongings form the foundation of financial growth.
+</implicit_meaning>
+
+<components>
+<object>Roots, Property/Possessions</object>
+<properties>Growing, Spreading, Foundational</properties>
+<relations>Roots supporting and nurturing growth of wealth</relations>
+</components>
+
+<visual_elaboration>
+A tree with roots made of gold coins and possessions, branching into a wealthy property empire above.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her soul was as pristine as freshly fallen snow.
+</metaphor>
+<literal_paraphrase>
+Her moral character was completely untainted by wrongdoing or corruption.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her soul was stained with countless misdeeds and moral compromises.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His conscience was filtered through crystal-clear waters.
+</metaphor>
+<literal_paraphrase>
+His moral judgment was unclouded and ethically sound.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His conscience was muddied by questionable ethics and unclear principles.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their intentions were distilled to absolute clarity.
+</metaphor>
+<literal_paraphrase>
+Their moral motivations were completely honest and transparent.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their intentions were contaminated with hidden agendas and deception.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She maintained an untarnished moral compass.
+</metaphor>
+<literal_paraphrase>
+She consistently upheld high ethical standards without compromise.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She regularly compromised her ethics and bent her moral principles.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His values were refined like precious metals.
+</metaphor>
+<literal_paraphrase>
+His moral principles were carefully developed and free from corruption.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His values were crude and corrupted by base influences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their ethics were as unsullied as morning dew.
+</metaphor>
+<literal_paraphrase>
+Their moral behavior remained completely free from wrongdoing.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their ethics were tainted by years of moral decay.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He walked a path of unblemished virtue.
+</metaphor>
+<literal_paraphrase>
+He lived his life according to strict moral principles without deviation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He followed a path marked by moral compromises and ethical shortcuts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her principles were cleansed of all impurity.
+</metaphor>
+<literal_paraphrase>
+Her moral beliefs were completely free from corrupt influences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her principles were contaminated by selfish motives and dishonesty.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their reputation sparkled like polished diamond.
+</metaphor>
+<literal_paraphrase>
+Their moral standing in society was impeccable and beyond reproach.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their reputation was sullied by numerous ethical scandals.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His character was sanctified by unwavering integrity.
+</metaphor>
+<literal_paraphrase>
+His moral nature was strengthened by consistent ethical behavior.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His character was corrupted by frequent ethical violations.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

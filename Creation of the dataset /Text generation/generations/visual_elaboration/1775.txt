@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His character is carved from rough granite, authentic and unadorned.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strong, solid, and genuine personality without pretense.
+</implicit_meaning>
+
+<components>
+<object>Character, Granite</object>
+<properties>Rough, unadorned, authentic, solid</properties>
+<relations>Character being formed from/like granite</relations>
+</components>
+
+<visual_elaboration>
+A human face emerging from a rough granite block, with strong angular features and natural textures.
+</visual_elaboration>
+</metaphor_analysis>

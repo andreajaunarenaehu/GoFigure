@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That conspiracy theory is spreading like a viral outbreak.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapid and uncontrollable spread of information.
+</implicit_meaning>
+
+<components>
+<object>Conspiracy theory, Virus</object>
+<properties>Fast-spreading, infectious, multiplying</properties>
+<relations>Theory behaving like a virus spreading through population</relations>
+</components>
+
+<visual_elaboration>
+DNA-shaped text messages multiplying and infecting human silhouettes with glowing red eyes.
+</visual_elaboration>
+</metaphor_analysis>

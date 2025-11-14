@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The wheels of circumstance keep rolling forward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life's events continue moving inevitably forward regardless of our wishes.
+</implicit_meaning>
+
+<components>
+<object>Wheels, Circumstances (represented as time/events)</object>
+<properties>Continuous motion, Forward movement, Unstoppable</properties>
+<relations>Wheels are driving force behind circumstances/events</relations>
+</components>
+
+<visual_elaboration>
+A giant clock-faced wheel rolling forward on a path, crushing everything in its path.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their research led the field in a new direction.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Pioneering or groundbreaking research that changes established thinking.
+</implicit_meaning>
+
+<components>
+<object>Research, Field</object>
+<properties>Leading, Directional change</properties>
+<relations>Research acts as a guide or leader, pulling the field behind it</relations>
+</components>
+
+<visual_elaboration>
+A compass with "Research" written on it pointing to a new path while academic papers follow behind it.
+</visual_elaboration>
+</metaphor_analysis>

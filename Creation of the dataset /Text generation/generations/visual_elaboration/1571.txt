@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her duties pushed against her like a strong headwind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming resistance and struggle against responsibilities.
+</implicit_meaning>
+
+<components>
+<object>Person, Wind</object>
+<properties>Strong, forceful, resistant</properties>
+<relations>Pushing against, struggling forward</relations>
+</components>
+
+<visual_elaboration>
+A woman leaning forward against visible wind currents while papers and tasks swirl around her.
+</visual_elaboration>
+</metaphor_analysis>

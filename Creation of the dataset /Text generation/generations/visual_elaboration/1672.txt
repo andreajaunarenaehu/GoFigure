@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their intentions were distilled to absolute clarity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Process of making something complex become simple and clear.
+</implicit_meaning>
+
+<components>
+<object>Intentions, Distillation apparatus</object>
+<properties>Clear, Pure, Refined</properties>
+<relations>Process of purification through distillation</relations>
+</components>
+
+<visual_elaboration>
+A glass distillation apparatus with cloudy thoughts entering the top and crystal-clear liquid dripping below.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is the cosmic sculptor, constantly reshaping existence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time transforms and changes everything continuously.
+</implicit_meaning>
+
+<components>
+<object>Time, Sculptor, Existence</object>
+<properties>Cosmic, Constant, Transformative</properties>
+<relations>Time actively shapes and molds reality like a sculptor works clay</relations>
+</components>
+
+<visual_elaboration>
+A cosmic figure with starry hands molding a spiral galaxy like clay on a celestial potter's wheel.
+</visual_elaboration>
+</metaphor_analysis>

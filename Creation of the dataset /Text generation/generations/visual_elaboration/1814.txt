@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The walls they raised became her prison of pain.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional barriers create self-imposed isolation and suffering.
+</implicit_meaning>
+
+<components>
+<object>Walls, Prison, Person (her)</object>
+<properties>Tall, confining, painful, isolating</properties>
+<relations>Walls transform into prison, person trapped inside</relations>
+</components>
+
+<visual_elaboration>
+A woman curled up inside transparent walls made of thorny vines that bleed when touched.
+</visual_elaboration>
+</metaphor_analysis>

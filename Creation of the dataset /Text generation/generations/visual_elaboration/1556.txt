@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The transparent containers revealed every obligation within.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Responsibilities and tasks are clearly visible and cannot be hidden.
+</implicit_meaning>
+
+<components>
+<object>Transparent containers, obligations</object>
+<properties>Clear, visible, revealing</properties>
+<relations>Containment and exposure of responsibilities</relations>
+</components>
+
+<visual_elaboration>
+Glass jars filled with floating to-do lists and calendar pages, each clearly visible through the transparent walls.
+</visual_elaboration>
+</metaphor_analysis>

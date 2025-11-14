@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're picking the lock of uncertainty.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Trying to solve or understand a complex problem.
+</implicit_meaning>
+
+<components>
+<object>Lock, uncertainty (abstract concept)</object>
+<properties>Complex mechanism, mysterious, challenging</properties>
+<relations>Active attempt to unlock or solve</relations>
+</components>
+
+<visual_elaboration>
+A giant misty lock with swirling question marks inside, while hands work with lockpicks to open it.
+</visual_elaboration>
+</metaphor_analysis>

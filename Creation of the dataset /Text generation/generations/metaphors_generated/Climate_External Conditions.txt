@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The climate of opportunity is stormy with uncertainty.
+</metaphor>
+<literal_paraphrase>
+The external conditions affecting success are currently unstable and unpredictable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The external conditions are completely stable and predictable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+A drought of resources has parched the business landscape.
+</metaphor>
+<literal_paraphrase>
+The external conditions have created a severe shortage of available resources.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Resources are abundantly available in the current environment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The winds of change are sweeping through the industry.
+</metaphor>
+<literal_paraphrase>
+External conditions are causing rapid and significant changes in the industry.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The industry remains completely static and unchanged by external factors.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+A perfect storm of challenges threatens stability.
+</metaphor>
+<literal_paraphrase>
+Multiple adverse external conditions are combining to create a serious threat.
+</literal_paraphrase>
+<contradiction_paraphrase>
+External conditions are entirely favorable and pose no threats.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The economic forecast shows sunny skies ahead.
+</metaphor>
+<literal_paraphrase>
+External conditions indicate positive developments in the near future.
+</literal_paraphrase>
+<contradiction_paraphrase>
+External conditions suggest difficult times ahead.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Market pressures are creating a turbulent atmosphere.
+</metaphor>
+<literal_paraphrase>
+External conditions in the market are causing instability and disruption.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Market conditions are creating a peaceful and stable environment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The regulatory climate is freezing innovation.
+</metaphor>
+<literal_paraphrase>
+External regulatory conditions are severely restricting new developments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Regulatory conditions are fostering rapid innovation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+A rainbow of opportunities emerges after the economic storm.
+</metaphor>
+<literal_paraphrase>
+New possibilities appear when difficult external conditions improve.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities disappear when external conditions improve.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The competitive climate is heating up rapidly.
+</metaphor>
+<literal_paraphrase>
+External competitive conditions are becoming more intense.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competition in the external environment is becoming more relaxed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+A fog of uncertainty clouds decision-making.
+</metaphor>
+<literal_paraphrase>
+Unclear external conditions make it difficult to make informed decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+External conditions provide perfect clarity for decision-making.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

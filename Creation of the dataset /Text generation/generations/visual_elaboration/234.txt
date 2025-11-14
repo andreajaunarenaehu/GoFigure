@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Years flow like rivers through the canyon of existence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time passes continuously and leaves its mark.
+</implicit_meaning>
+
+<components>
+<object>Years, Rivers, Canyon</object>
+<properties>Flowing, Continuous, Carving</properties>
+<relations>Time carving through existence like water shapes a canyon</relations>
+</components>
+
+<visual_elaboration>
+A clock face dissolving into a winding river cutting through a deep canyon.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The waves of time crashed against our memories, eroding the details.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Memories fade and become less clear over time.
+</implicit_meaning>
+
+<components>
+<object>Waves, Memories</object>
+<properties>Erosive, Fading, Destructive</properties>
+<relations>Waves actively eroding and washing away memories</relations>
+</components>
+
+<visual_elaboration>
+A photograph being washed away by ocean waves, its edges dissolving into sandy particles.
+</visual_elaboration>
+</metaphor_analysis>

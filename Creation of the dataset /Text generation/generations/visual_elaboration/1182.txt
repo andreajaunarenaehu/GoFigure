@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties are elastic bands stretching with demand.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Property values are flexible and respond to market demands.
+</implicit_meaning>
+
+<components>
+<object>Properties, elastic bands</object>
+<properties>Stretchy, flexible, expandable</properties>
+<relations>Stretching in response to pulling force (demand)</relations>
+</components>
+
+<visual_elaboration>
+House-shaped rubber bands stretching wider as dollar signs pull them from both sides.
+</visual_elaboration>
+</metaphor_analysis>

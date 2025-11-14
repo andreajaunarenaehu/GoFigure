@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her time portfolio was diversified across multiple activities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time management is treated like financial investment strategy.
+</implicit_meaning>
+
+<components>
+<object>Time, Portfolio, Activities</object>
+<properties>Diverse, Multiple, Organized</properties>
+<relations>Distribution of time across different activities like financial assets</relations>
+</components>
+
+<visual_elaboration>
+A clock face divided into colorful pie chart segments, with each slice showing different daily activities.
+</visual_elaboration>
+</metaphor_analysis>

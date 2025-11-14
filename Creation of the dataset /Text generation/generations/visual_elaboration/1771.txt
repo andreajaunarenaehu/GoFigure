@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His personality is like cotton candy, sweet but insubstantial.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Superficially pleasant but lacking depth or substance.
+</implicit_meaning>
+
+<components>
+<object>Personality, Cotton Candy</object>
+<properties>Sweet, fluffy, dissolves quickly, lacks substance</properties>
+<relations>Person's character being compared to cotton candy's ephemeral nature</relations>
+</components>
+
+<visual_elaboration>
+A human silhouette filled with pink cotton candy that's dissolving into wisps of sugar.
+</visual_elaboration>
+</metaphor_analysis>

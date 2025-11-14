@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The new law moved the country forward on human rights.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress and advancement in society.
+</implicit_meaning>
+
+<components>
+<object>Law, Country</object>
+<properties>Forward movement, Progress</properties>
+<relations>Law acting as a force pushing the country ahead</relations>
+</components>
+
+<visual_elaboration>
+A large book labeled "LAW" pushing a map of a country forward on a path marked with human figures.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He treated his desires like unexploded ordnance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dangerous and volatile emotions that could explode at any moment.
+</implicit_meaning>
+
+<components>
+<object>Desires, Unexploded bombs</object>
+<properties>Dangerous, unstable, explosive, requiring careful handling</properties>
+<relations>Person cautiously dealing with their emotions as if they were bombs</relations>
+</components>
+
+<visual_elaboration>
+A person tiptoeing through a field of heart-shaped bombs with visible ticking timers.
+</visual_elaboration>
+</metaphor_analysis>

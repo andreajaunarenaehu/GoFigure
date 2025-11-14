@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Depression's darkness crashed her mind's processing system.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental health deterioration causing cognitive shutdown.
+</implicit_meaning>
+
+<components>
+<object>Mind, Computer system, Darkness</object>
+<properties>Broken, Malfunctioning, Dark</properties>
+<relations>Darkness causing system failure</relations>
+</components>
+
+<visual_elaboration>
+A human brain with computer circuits shorting out as black smoke engulfs it.
+</visual_elaboration>
+</metaphor_analysis>

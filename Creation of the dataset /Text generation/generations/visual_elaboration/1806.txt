@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a rationed commodity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is limited and must be carefully distributed.
+</implicit_meaning>
+
+<components>
+<object>Time, Ration cards/stamps</object>
+<properties>Limited, measurable, valuable</properties>
+<relations>Distribution and allocation of a scarce resource</relations>
+</components>
+
+<visual_elaboration>
+A clock face divided into ration stamp segments, with some segments already torn off and missing.
+</visual_elaboration>
+</metaphor_analysis>

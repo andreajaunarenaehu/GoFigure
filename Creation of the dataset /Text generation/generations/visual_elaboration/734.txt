@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some beliefs are like fast fashion - cheaply made and quickly discarded.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Superficial and disposable nature of certain beliefs.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Fast fashion clothing</object>
+<properties>Cheap, temporary, disposable</properties>
+<relations>Beliefs being treated like throwaway clothing items</relations>
+</components>
+
+<visual_elaboration>
+A pile of crumpled clothing with words like "beliefs" written on them being tossed into a trash bin.
+</visual_elaboration>
+</metaphor_analysis>

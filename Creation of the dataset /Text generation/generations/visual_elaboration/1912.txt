@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The trail widens as you dare to step forward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Opportunities expand when you take risks.
+</implicit_meaning>
+
+<components>
+<object>Trail, Person</object>
+<properties>Narrow to wide, Progressive expansion</properties>
+<relations>Forward movement causing expansion</relations>
+</components>
+
+<visual_elaboration>
+A narrow dirt path magically expanding into a golden road as footsteps appear forward.
+</visual_elaboration>
+</metaphor_analysis>

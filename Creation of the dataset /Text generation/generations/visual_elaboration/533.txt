@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Machines can grow old and tired, just like people.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Machines deteriorate and become less efficient over time, similar to human aging.
+</implicit_meaning>
+
+<components>
+<object>Machines, People</object>
+<properties>Aging, Tiredness, Wear and tear</properties>
+<relations>Parallel between mechanical and human deterioration</relations>
+</components>
+
+<visual_elaboration>
+An old robot slumped in a rocking chair, with rusty joints and drooping mechanical eyes.
+</visual_elaboration>
+</metaphor_analysis>

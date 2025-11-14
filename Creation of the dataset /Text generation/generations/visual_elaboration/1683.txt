@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their conceit spirals like hyperinflation, making their words worth less each day.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Increasing arrogance devalues communication.
+</implicit_meaning>
+
+<components>
+<object>Words, Money/Currency</object>
+<properties>Diminishing value, Spiral motion, Inflation</properties>
+<relations>Words becoming worthless like devalued currency</relations>
+</components>
+
+<visual_elaboration>
+Paper money with words printed on them spiraling down a drain while shrinking in size.
+</visual_elaboration>
+</metaphor_analysis>

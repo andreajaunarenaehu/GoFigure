@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her sobriety shorted out with each shot.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of control and mental clarity due to alcohol consumption.
+</implicit_meaning>
+
+<components>
+<object>Sobriety, electrical circuit, shots of alcohol</object>
+<properties>Failing, shorting, diminishing</properties>
+<relations>Each shot causes progressive electrical failure</relations>
+</components>
+
+<visual_elaboration>
+A circuit board with lights flickering out as liquid drops fall onto it, causing sparks.
+</visual_elaboration>
+</metaphor_analysis>

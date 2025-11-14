@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Hope is a treasured inheritance that enriches the soul.
+</metaphor>
+<literal_paraphrase>
+Hope is a valuable emotional resource that positively impacts our well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is a worthless burden that depletes our inner strength.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a cherished keepsake passed down through generations.
+</metaphor>
+<literal_paraphrase>
+Hope is an enduring emotional quality that persists across time and can be shared with others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is a temporary illusion that dies with each passing generation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a well-tended garden that bears fruit in season.
+</metaphor>
+<literal_paraphrase>
+Hope requires nurturing and eventually yields positive outcomes when maintained.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is a barren field that never produces any results.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a protected sanctuary we carry within.
+</metaphor>
+<literal_paraphrase>
+Hope is an internal safe space that provides comfort and security.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is an exposed vulnerability that leaves us defenseless.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a deed to tomorrow's possibilities.
+</metaphor>
+<literal_paraphrase>
+Hope gives us legitimate claim to believe in future opportunities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is a fraudulent promise of an impossible future.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is an heirloom that appreciates with each passing day.
+</metaphor>
+<literal_paraphrase>
+Hope becomes more valuable and meaningful as time progresses.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope diminishes in value and relevance over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a secured investment in future joy.
+</metaphor>
+<literal_paraphrase>
+Hope is a reliable foundation for building future happiness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is a risky gamble that leads to certain disappointment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a protected copyright on dreams.
+</metaphor>
+<literal_paraphrase>
+Hope gives us exclusive rights to pursue our aspirations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is an unauthorized trespassing into forbidden territories.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a patented formula for resilience.
+</metaphor>
+<literal_paraphrase>
+Hope is a unique and proven method for maintaining emotional strength.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is a failed experiment in emotional survival.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a preserved masterpiece in life's gallery.
+</metaphor>
+<literal_paraphrase>
+Hope is a valuable emotional asset that maintains its beauty and significance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is a deteriorating sketch that loses meaning over time.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

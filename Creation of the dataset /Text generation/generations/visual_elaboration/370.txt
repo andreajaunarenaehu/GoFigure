@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The climate of opportunity is stormy with uncertainty.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Future prospects are unstable and unpredictable.
+</implicit_meaning>
+
+<components>
+<object>Climate, Storm, Opportunity</object>
+<properties>Unstable, Turbulent, Uncertain</properties>
+<relations>Storm represents chaos in opportunities</relations>
+</components>
+
+<visual_elaboration>
+A door labeled "Opportunity" being battered by dark storm clouds and lightning bolts.
+</visual_elaboration>
+</metaphor_analysis>

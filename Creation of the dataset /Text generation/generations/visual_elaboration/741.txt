@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His joy soared like a bird taking flight.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Feeling of elation and freedom.
+</implicit_meaning>
+
+<components>
+<object>Joy, Bird</object>
+<properties>Soaring, Upward movement, Freedom</properties>
+<relations>Joy is compared to a bird's upward flight</relations>
+</components>
+
+<visual_elaboration>
+A person with wings made of light, floating upward with a beaming smile.
+</visual_elaboration>
+</metaphor_analysis>

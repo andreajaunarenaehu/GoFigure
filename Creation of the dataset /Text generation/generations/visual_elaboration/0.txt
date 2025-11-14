@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mind shattered like fine crystal under the pressure.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental breakdown from stress or pressure.
+</implicit_meaning>
+
+<components>
+<object>Mind, Crystal</object>
+<properties>Fragile, Breakable, Transparent</properties>
+<relations>Breaking under external pressure</relations>
+</components>
+
+<visual_elaboration>
+A crystal head breaking into shards with dark cracks spreading from a heavy weight above.
+</visual_elaboration>
+</metaphor_analysis>

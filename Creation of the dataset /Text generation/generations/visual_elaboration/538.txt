@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like humans, machines need a balanced diet of energy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Machines require diverse and appropriate power sources to function optimally.
+</implicit_meaning>
+
+<components>
+<object>Machines, Humans, Energy/Food</object>
+<properties>Balanced, Necessary, Sustaining</properties>
+<relations>Consumption, Dependency, Nourishment</relations>
+</components>
+
+<visual_elaboration>
+A robot sitting at a dinner table eating various power cables and batteries arranged like a balanced meal.
+</visual_elaboration>
+</metaphor_analysis>

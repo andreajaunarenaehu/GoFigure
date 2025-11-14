@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The actors in my mind perform different roles.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Multiple personalities or thoughts competing within one's consciousness.
+</implicit_meaning>
+
+<components>
+<object>Actors, Mind, Roles</object>
+<properties>Multiple, Performing, Different</properties>
+<relations>Actors performing within the space of mind</relations>
+</components>
+
+<visual_elaboration>
+A human head with a theater stage inside, showing multiple actors wearing different masks and costumes.
+</visual_elaboration>
+</metaphor_analysis>

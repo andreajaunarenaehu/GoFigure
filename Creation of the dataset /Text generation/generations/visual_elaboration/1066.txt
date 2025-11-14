@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They exchanged authority over the department.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Transfer of power or control between individuals.
+</implicit_meaning>
+
+<components>
+<object>Authority, People, Department</object>
+<properties>Transferable, Symbolic power</properties>
+<relations>Exchange between two parties</relations>
+</components>
+
+<visual_elaboration>
+Two people passing a golden crown back and forth across an office desk.
+</visual_elaboration>
+</metaphor_analysis>

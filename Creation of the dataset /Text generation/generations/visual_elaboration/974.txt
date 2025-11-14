@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Joy elevated her spirit to the heavens.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extreme happiness causing uplifting feelings.
+</implicit_meaning>
+
+<components>
+<object>Spirit, Heavens</object>
+<properties>Floating, Ascending, Light</properties>
+<relations>Movement upward toward sky</relations>
+</components>
+
+<visual_elaboration>
+A glowing figure floating upward with angel wings, surrounded by beams of light breaking through clouds.
+</visual_elaboration>
+</metaphor_analysis>

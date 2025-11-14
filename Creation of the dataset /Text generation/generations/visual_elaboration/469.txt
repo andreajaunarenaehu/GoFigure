@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their moral foundation was laid straight and level.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strong ethical principles established firmly from the beginning.
+</implicit_meaning>
+
+<components>
+<object>Moral foundation, Construction foundation</object>
+<properties>Straight, Level, Solid</properties>
+<relations>Building/Construction process, Moral principles as physical structure</relations>
+</components>
+
+<visual_elaboration>
+A perfectly aligned concrete foundation with a spirit level showing perfect balance and geometric lines glowing with golden light.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The first step is a rolling stone that starts the avalanche of transformation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Small actions can trigger massive changes.
+</implicit_meaning>
+
+<components>
+<object>Stone, Avalanche</object>
+<properties>Small stone, massive snow movement</properties>
+<relations>Stone triggers avalanche, representing initial action leading to bigger transformation</relations>
+</components>
+
+<visual_elaboration>
+A small stone rolling down a snowy mountain, triggering a massive avalanche behind it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our visual field is a walled garden of perception.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Limited and confined by boundaries of what we can perceive.
+</implicit_meaning>
+
+<components>
+<object>Visual field, Garden, Walls</object>
+<properties>Enclosed, Limited, Bounded</properties>
+<relations>Visual perception is contained within boundaries like a garden within walls</relations>
+</components>
+
+<visual_elaboration>
+A pair of eyes looking through an ornate garden wall, with blurred darkness beyond the walls.
+</visual_elaboration>
+</metaphor_analysis>

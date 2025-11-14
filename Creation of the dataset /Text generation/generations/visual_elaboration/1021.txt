@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Squares are boxes of perfect symmetry.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mathematical precision and orderliness.
+</implicit_meaning>
+
+<components>
+<object>Squares, Boxes</object>
+<properties>Perfect, Symmetrical, Geometric</properties>
+<relations>Squares being contained within boxes, both sharing perfect alignment</relations>
+</components>
+
+<visual_elaboration>
+A transparent box with glowing lines forming a square, reflecting mirror images on all sides.
+</visual_elaboration>
+</metaphor_analysis>

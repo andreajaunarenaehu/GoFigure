@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She took inventory of her behavioral assets daily.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-reflection and evaluation of personal conduct.
+</implicit_meaning>
+
+<components>
+<object>Person, Inventory checklist</object>
+<properties>Daily routine, Business-like approach to behavior</properties>
+<relations>Person treating behaviors like items in a store inventory</relations>
+</components>
+
+<visual_elaboration>
+A woman checking off items on a floating checklist where behaviors are listed as stock items with quantities.
+</visual_elaboration>
+</metaphor_analysis>

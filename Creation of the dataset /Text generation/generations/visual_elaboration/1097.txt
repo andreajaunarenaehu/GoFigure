@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The workshop served up fresh perspectives.
+</linguistic_metaphor>
+
+<implicit_meaning>
+New ideas being presented like food at a restaurant.
+</implicit_meaning>
+
+<components>
+<object>Workshop, Food service</object>
+<properties>Fresh, New, Served</properties>
+<relations>Ideas being presented as dishes being served</relations>
+</components>
+
+<visual_elaboration>
+A waiter presenting a platter with glowing lightbulbs arranged like gourmet dishes.
+</visual_elaboration>
+</metaphor_analysis>

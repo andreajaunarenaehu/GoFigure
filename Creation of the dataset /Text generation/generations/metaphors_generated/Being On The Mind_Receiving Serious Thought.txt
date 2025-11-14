@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her project has been camping out in my thoughts all week.
+</metaphor>
+<literal_paraphrase>
+I've been seriously considering and analyzing her project throughout the week.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I haven't given her project any consideration or thought this week.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem has taken up permanent residence in my mind.
+</metaphor>
+<literal_paraphrase>
+I'm continuously and deeply thinking about the problem.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem hasn't occupied any of my mental attention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His suggestion is dancing through my mental corridors.
+</metaphor>
+<literal_paraphrase>
+I'm actively contemplating and processing his suggestion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I've completely dismissed his suggestion without consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The idea has carved out its own space in my thoughts.
+</metaphor>
+<literal_paraphrase>
+I'm dedicating significant mental energy to considering the idea.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The idea has been completely forgotten and ignored.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her words are echoing in my mental chamber.
+</metaphor>
+<literal_paraphrase>
+I'm repeatedly thinking about and analyzing what she said.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I've immediately forgotten and disregarded her words.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The concept has planted roots in my consciousness.
+</metaphor>
+<literal_paraphrase>
+I'm deeply and seriously considering the concept over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The concept has been quickly dismissed without any consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their proposal is weighing heavily on my mental scales.
+</metaphor>
+<literal_paraphrase>
+I'm carefully evaluating and considering their proposal.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I'm completely ignoring and avoiding their proposal.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The question has become a permanent tenant in my thoughts.
+</metaphor>
+<literal_paraphrase>
+I'm consistently dedicating serious thought to the question.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The question has been evicted from my thoughts entirely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Your concerns are circulating through my mental workspace.
+</metaphor>
+<literal_paraphrase>
+I'm actively processing and considering your concerns.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I'm completely disregarding and overlooking your concerns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The issue has established its headquarters in my mind.
+</metaphor>
+<literal_paraphrase>
+I'm giving the issue sustained, serious consideration.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The issue has been completely banished from my thoughts.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Success swims against the current of doubt.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Achieving success requires fighting against obstacles and negative thoughts.
+</implicit_meaning>
+
+<components>
+<object>Success, Current/Stream, Fish</object>
+<properties>Upstream movement, Resistance, Determination</properties>
+<relations>Swimming against flow, Opposing force</relations>
+</components>
+
+<visual_elaboration>
+A golden fish swimming upstream through dark swirling waters labeled "doubt."
+</visual_elaboration>
+</metaphor_analysis>

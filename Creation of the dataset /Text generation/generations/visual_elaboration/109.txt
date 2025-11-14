@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The aurora drew flowing lines of light across the polar sky.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The aurora is personified as an artist painting in the sky.
+</implicit_meaning>
+
+<components>
+<object>Aurora, Sky</object>
+<properties>Flowing, luminous, artistic</properties>
+<relations>Drawing/painting action across the sky</relations>
+</components>
+
+<visual_elaboration>
+A glowing paintbrush held by ethereal hands sweeping colorful ribbons across a dark polar sky.
+</visual_elaboration>
+</metaphor_analysis>

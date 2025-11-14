@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their competing ideas were like stars trying to outshine each other.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competition and rivalry for attention or recognition.
+</implicit_meaning>
+
+<components>
+<object>Ideas represented as stars</object>
+<properties>Bright, competitive, luminous</properties>
+<relations>Multiple stars competing for brightness</relations>
+</components>
+
+<visual_elaboration>
+Two bright stars pulsing with different colors, each emitting expanding rays trying to overlap the other.
+</visual_elaboration>
+</metaphor_analysis>

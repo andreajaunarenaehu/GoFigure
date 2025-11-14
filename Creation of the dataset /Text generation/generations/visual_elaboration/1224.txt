@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each possession in my collection demands daily polishing.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions are demanding and require constant maintenance.
+</implicit_meaning>
+
+<components>
+<object>Collections/possessions</object>
+<properties>Demanding, needy, high-maintenance</properties>
+<relations>Daily care and attention required from owner to possessions</relations>
+</components>
+
+<visual_elaboration>
+A tired person polishing multiple objects that have tiny arms pulling at their sleeves.
+</visual_elaboration>
+</metaphor_analysis>

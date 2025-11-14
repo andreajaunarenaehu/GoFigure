@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We need to pace ourselves for this marathon endeavor.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A long-term task requiring careful energy management.
+</implicit_meaning>
+
+<components>
+<object>Marathon runner, Long path</object>
+<properties>Endurance, Pacing, Distance</properties>
+<relations>Person managing energy over long distance</relations>
+</components>
+
+<visual_elaboration>
+A person running on an endless road with a battery meter floating above their head.
+</visual_elaboration>
+</metaphor_analysis>

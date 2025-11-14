@@ -1,0 +1,118 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+These difficult subjects are battle-hardened enemies waiting in ambush.
+</metaphor>
+<literal_paraphrase>
+Challenging academic subjects require careful preparation and can be intimidating to approach.
+</literal_paraphrase>
+<contradiction_paraphrase>
+These difficult subjects are welcoming friends that require no preparation or caution.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each complex topic is a fortress that must be besieged with patience.
+</metaphor>
+<literal_paraphrase>
+Mastering difficult subjects requires persistent effort and a systematic approach over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Complex topics can be understood instantly without any sustained effort or strategy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These challenging concepts are guerrilla fighters, striking from unexpected angles.
+</metaphor>
+<literal_paraphrase>
+Difficult subjects often present unexpected challenges and complications that catch students off guard.
+</literal_paraphrase>
+<contradiction_paraphrase>
+These challenging concepts are completely predictable and never surprise students with difficulties.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each difficult theorem is a skilled opponent that must be studied for weaknesses.
+</metaphor>
+<literal_paraphrase>
+Understanding complex theoretical concepts requires careful analysis of their components and structure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Difficult theorems can be mastered without any analysis or understanding of their structure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These subjects are cunning spies, disguising their true complexity.
+</metaphor>
+<literal_paraphrase>
+Challenging subjects often appear simpler than they actually are, revealing their difficulty gradually.
+</literal_paraphrase>
+<contradiction_paraphrase>
+These subjects are always transparent about their level of difficulty from the beginning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each challenging topic is a strategic opponent requiring careful alliance-building.
+</metaphor>
+<literal_paraphrase>
+Mastering difficult subjects requires building connections with related concepts and seeking help from others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Challenging topics can be conquered in isolation without any connection to other concepts or help from others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These complex problems are siege engines testing our defensive knowledge.
+</metaphor>
+<literal_paraphrase>
+Difficult problems challenge and evaluate our fundamental understanding of the subject matter.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Complex problems never test our basic understanding or reveal gaps in our knowledge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each difficult concept is a skilled tactician probing for gaps in understanding.
+</metaphor>
+<literal_paraphrase>
+Challenging concepts reveal weaknesses in our comprehension that need to be addressed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Difficult concepts never expose our knowledge gaps or areas needing improvement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These subjects are master strategists requiring multiple campaigns to defeat.
+</metaphor>
+<literal_paraphrase>
+Mastering difficult subjects requires multiple attempts and different approaches over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+These subjects can be mastered in a single attempt using just one approach.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each challenging formula is a skilled duelist demanding precise execution.
+</metaphor>
+<literal_paraphrase>
+Complex formulas require exact understanding and careful application to use correctly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Challenging

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The centripetal force of yearning keeps dreams orbiting in consciousness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desires keep our dreams constantly present in our minds.
+</implicit_meaning>
+
+<components>
+<object>Dreams, consciousness, yearning</object>
+<properties>Orbital, circular, gravitational</properties>
+<relations>Dreams orbit around consciousness, pulled by yearning</relations>
+</components>
+
+<visual_elaboration>
+A human head with glowing dream bubbles orbiting around it, connected by spiral ribbons of light.
+</visual_elaboration>
+</metaphor_analysis>

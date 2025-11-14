@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His roadblocks crushed her spirit.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional oppression and destruction of hope.
+</implicit_meaning>
+
+<components>
+<object>Roadblocks, Spirit</object>
+<properties>Crushing, Heavy, Destructive</properties>
+<relations>The roadblocks actively destroying/crushing the spirit</relations>
+</components>
+
+<visual_elaboration>
+A glowing butterfly being crushed under a heavy concrete roadblock, with cracks spreading outward.
+</visual_elaboration>
+</metaphor_analysis>

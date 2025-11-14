@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The research team's efforts pulse with vital energy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The team's work is dynamic and alive with activity.
+</implicit_meaning>
+
+<components>
+<object>Research team's efforts</object>
+<properties>Pulsing, energetic, alive</properties>
+<relations>The efforts are compared to a beating heart or pulse</relations>
+</components>
+
+<visual_elaboration>
+A glowing heartbeat monitor line forms the shape of researchers working at their desks.
+</visual_elaboration>
+</metaphor_analysis>

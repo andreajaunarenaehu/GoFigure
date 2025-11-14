@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This challenge is a combination safe testing our patience.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A frustrating situation that requires careful, time-consuming effort to solve.
+</implicit_meaning>
+
+<components>
+<object>Challenge, Combination Safe</object>
+<properties>Complex, Time-consuming, Frustrating</properties>
+<relations>Testing patience through repeated attempts</relations>
+</components>
+
+<visual_elaboration>
+A person sweating while frantically turning a safe dial with steam coming from their ears.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theory's foundation has developed dangerous cracks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The basic principles of the theory are becoming unstable and unreliable.
+</implicit_meaning>
+
+<components>
+<object>Theory foundation, Building foundation</object>
+<properties>Cracked, Dangerous, Unstable</properties>
+<relations>Foundation supporting structure, Cracks threatening collapse</relations>
+</components>
+
+<visual_elaboration>
+A concrete foundation with deep cracks and papers with mathematical formulas crumbling into the fissures.
+</visual_elaboration>
+</metaphor_analysis>

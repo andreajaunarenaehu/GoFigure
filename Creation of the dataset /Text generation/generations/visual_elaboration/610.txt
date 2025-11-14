@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Writing is a garden where ideas bloom.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Writing is a nurturing process where thoughts grow and develop into beautiful expressions.
+</implicit_meaning>
+
+<components>
+<object>Garden, Ideas, Writing</object>
+<properties>Growing, Blooming, Nurturing</properties>
+<relations>Ideas are portrayed as flowers that grow in the garden of writing</relations>
+</components>
+
+<visual_elaboration>
+A garden with lightbulbs growing like flowers from pencils planted as stems.
+</visual_elaboration>
+</metaphor_analysis>

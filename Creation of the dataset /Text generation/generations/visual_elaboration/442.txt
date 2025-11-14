@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Life is a worn book whose pages tell infinite stories.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life contains many experiences and memories that accumulate over time.
+</implicit_meaning>
+
+<components>
+<object>Life, Book</object>
+<properties>Worn, infinite, storytelling</properties>
+<relations>Book contains stories, pages represent experiences</relations>
+</components>
+
+<visual_elaboration>
+An old leather book with glowing pages floating out, each page showing different life moments.
+</visual_elaboration>
+</metaphor_analysis>

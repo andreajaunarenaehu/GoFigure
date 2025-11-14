@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mind needed regular rest to maintain its balance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental health requires maintenance like physical balance.
+</implicit_meaning>
+
+<components>
+<object>Mind, Balance</object>
+<properties>Needs rest, Requires maintenance, Can become unbalanced</properties>
+<relations>Rest maintains balance, Mind depends on equilibrium</relations>
+</components>
+
+<visual_elaboration>
+A tightrope walker's brain balancing on a wire with a pillow underneath as a safety net.
+</visual_elaboration>
+</metaphor_analysis>

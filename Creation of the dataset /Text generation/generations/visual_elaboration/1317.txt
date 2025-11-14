@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His enthusiasm was a flame that ignited the whole team.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Contagious motivation and energy spreading among people.
+</implicit_meaning>
+
+<components>
+<object>Enthusiasm, flame, team members</object>
+<properties>Bright, spreading, energetic</properties>
+<relations>One person's energy spreading to others like fire</relations>
+</components>
+
+<visual_elaboration>
+A person glowing with orange flames, passing the fire to surrounding team members through touch.
+</visual_elaboration>
+</metaphor_analysis>

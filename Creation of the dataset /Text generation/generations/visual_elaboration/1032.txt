@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His actions accelerated toward the goal.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Increasing speed and determination in achieving objectives.
+</implicit_meaning>
+
+<components>
+<object>Actions, Movement, Goal</object>
+<properties>Accelerating, Forward motion, Directional</properties>
+<relations>Movement becoming faster toward a target</relations>
+</components>
+
+<visual_elaboration>
+A person running with motion blur lines, transforming into a speeding rocket aimed at a glowing target.
+</visual_elaboration>
+</metaphor_analysis>

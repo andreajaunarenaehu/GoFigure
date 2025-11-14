@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Success fed his appetite for more challenges.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Achievement creates desire for greater accomplishments.
+</implicit_meaning>
+
+<components>
+<object>Success, Appetite, Challenges</object>
+<properties>Hunger, Growing, Consuming</properties>
+<relations>Success acts as food that increases hunger for challenges</relations>
+</components>
+
+<visual_elaboration>
+A hungry person devouring a plate of trophies while reaching for more plates stacked higher.
+</visual_elaboration>
+</metaphor_analysis>

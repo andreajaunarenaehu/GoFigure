@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The force dances like a leaf in the wind, changing direction at will.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unpredictable and graceful movement.
+</implicit_meaning>
+
+<components>
+<object>Force, Leaf, Wind</object>
+<properties>Dancing, floating, changing direction</properties>
+<relations>The force is compared to a leaf's movement in wind</relations>
+</components>
+
+<visual_elaboration>
+A glowing energy trail follows a golden leaf as it spirals through swirling wind currents.
+</visual_elaboration>
+</metaphor_analysis>

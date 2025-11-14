@@ -1,0 +1,56 @@
+You are tasked with generating metaphors and their paraphrases based on a given source and target. Your goal is to create 10 textual metaphors, along with their literal paraphrases and contradiction paraphrases.
+
+You will be provided with two input variables:
+<source>
+{{SOURCE}}
+</source>
+
+<target>
+{{TARGET}}
+</target>
+
+The source represents the conceptual domain from which you will draw your metaphorical expressions, while the target represents the concept or idea you are trying to describe metaphorically.
+
+Follow these steps to complete the task:
+
+1. Generate 10 unique textual metaphors that relate the source to the target. Each metaphor should be creative and illustrative of some aspect of the target in terms of the source.
+
+2. For each metaphor, create a literal paraphrase that expresses the same idea without using figurative language. The literal paraphrase should clearly explain the meaning of the metaphor in plain terms.
+
+3. For each metaphor, also create a contradiction paraphrase. This should express an idea that contradicts or is opposite to the original metaphor's meaning.
+
+Present your output in the following format:
+
+<metaphors>
+<metaphor_set>
+<metaphor>
+[Insert metaphor here]
+</metaphor>
+<literal_paraphrase>
+[Insert literal paraphrase here]
+</literal_paraphrase>
+<contradiction_paraphrase>
+[Insert contradiction paraphrase here]
+</contradiction_paraphrase>
+</metaphor_set>
+[Repeat this structure for all 10 metaphors]
+</metaphors>
+
+Here's an example of how your output should be structured (using "time" as the source and "money" as the target):
+
+<metaphors>
+<metaphor_set>
+<metaphor>
+Time is a valuable currency.
+</metaphor>
+<literal_paraphrase>
+Time is a limited and important resource that should be used wisely.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is an infinite and worthless commodity that can be wasted freely.
+</contradiction_paraphrase>
+</metaphor_set>
+[The remaining 9 metaphor sets would follow in the same format]
+</metaphors>
+
+Remember to create 10 unique and creative metaphors, each with its corresponding literal and contradiction paraphrases. Ensure that your metaphors effectively relate the source to the target in various ways.

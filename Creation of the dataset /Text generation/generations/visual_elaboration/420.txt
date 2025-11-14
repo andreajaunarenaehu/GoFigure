@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The state is a triangle balancing on its point.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Precarious and unstable political situation.
+</implicit_meaning>
+
+<components>
+<object>State, Triangle</object>
+<properties>Unstable, Balanced precariously</properties>
+<relations>Triangle attempting to maintain balance on its smallest point</relations>
+</components>
+
+<visual_elaboration>
+A large triangle wobbling as it balances on its tip, with cracks forming at its base.
+</visual_elaboration>
+</metaphor_analysis>

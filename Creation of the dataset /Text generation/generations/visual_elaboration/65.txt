@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our timeline is floating away like a balloon.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of control over schedule or deadlines.
+</implicit_meaning>
+
+<components>
+<object>Timeline, Balloon</object>
+<properties>Floating, Drifting away, Uncontrollable</properties>
+<relations>Timeline taking the form of a balloon that's escaping grasp</relations>
+</components>
+
+<visual_elaboration>
+A calendar-shaped balloon floating up into the sky with a broken string dangling below.
+</visual_elaboration>
+</metaphor_analysis>

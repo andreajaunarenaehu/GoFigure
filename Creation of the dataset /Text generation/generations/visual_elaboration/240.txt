@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These difficult subjects are battle-hardened enemies waiting in ambush.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Academic subjects are threatening and intimidating.
+</implicit_meaning>
+
+<components>
+<object>School subjects, Enemy soldiers</object>
+<properties>Difficult, battle-hardened, threatening</properties>
+<relations>Subjects are portrayed as enemies lying in wait to attack</relations>
+</components>
+
+<visual_elaboration>
+Textbooks wearing military armor hiding behind trees with menacing red eyes and weapons drawn.
+</visual_elaboration>
+</metaphor_analysis>

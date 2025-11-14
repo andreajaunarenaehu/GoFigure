@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Cause-and-effect relationships are the DNA of logical connections.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fundamental building blocks that create structured patterns of reasoning.
+</implicit_meaning>
+
+<components>
+<object>Cause-and-effect relationships, DNA structure</object>
+<properties>Interconnected, sequential, foundational</properties>
+<relations>Building blocks forming larger patterns</relations>
+</components>
+
+<visual_elaboration>
+A DNA double helix where the connecting rungs are labeled "cause" and "effect" in alternating sequence.
+</visual_elaboration>
+</metaphor_analysis>

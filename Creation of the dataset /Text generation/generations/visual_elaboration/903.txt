@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The flames of her rage consumed all reason.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Anger completely overtakes rational thinking.
+</implicit_meaning>
+
+<components>
+<object>Flames, Rage, Reason</object>
+<properties>Consuming, Destructive, Overwhelming</properties>
+<relations>Flames destroying/consuming reason</relations>
+</components>
+
+<visual_elaboration>
+A human brain engulfed in bright red flames with smoke rising from its charred remains.
+</visual_elaboration>
+</metaphor_analysis>

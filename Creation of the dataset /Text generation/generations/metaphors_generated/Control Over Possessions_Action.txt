@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She held her actions tightly in her grasp.
+</metaphor>
+<literal_paraphrase>
+She maintained careful control over her behavior and decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She let her actions run wild without any restraint or consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He locked away his impulses in a secure vault.
+</metaphor>
+<literal_paraphrase>
+He strictly controlled and suppressed his spontaneous urges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He allowed his impulses to flow freely without any restrictions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her movements were carefully inventoried treasures.
+</metaphor>
+<literal_paraphrase>
+She monitored and regulated each of her actions with precision.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her movements were random and unaccounted for.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He guarded his reactions like precious jewels.
+</metaphor>
+<literal_paraphrase>
+He was very careful about controlling his emotional responses.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He displayed his reactions carelessly without any filter.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She catalogued her choices in neat compartments.
+</metaphor>
+<literal_paraphrase>
+She organized and managed her decisions systematically.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She made choices chaotically without any organization or system.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His gestures were stored in a locked cabinet.
+</metaphor>
+<literal_paraphrase>
+He kept strict control over his physical expressions and movements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His gestures were unrestricted and freely displayed without thought.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She took inventory of her behavioral assets daily.
+</metaphor>
+<literal_paraphrase>
+She regularly evaluated and monitored her actions and conduct.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She never reflected on or tracked her behavior patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His words were carefully counted coins.
+</metaphor>
+<literal_paraphrase>
+He measured and controlled his speech with great precision.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His words flowed freely without any consideration or restraint.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She kept her decisions in a fortified strongbox.
+</metaphor>
+<literal_paraphrase>
+She maintained strict control over her decision-making process.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She made decisions impulsively without any careful consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His movements were precious commodities under lock and key.
+</metaphor>
+<literal_paraphrase>
+He exercised careful control over his physical actions and behavior.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His movements were careless and uncontrolled, without any restraint.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

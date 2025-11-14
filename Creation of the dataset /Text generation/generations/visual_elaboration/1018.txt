@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their arms encircle vast resources.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Controlling or possessing large amounts of wealth or resources.
+</implicit_meaning>
+
+<components>
+<object>Arms, Resources</object>
+<properties>Vast, Encircling, Encompassing</properties>
+<relations>Arms wrapping around or containing resources</relations>
+</components>
+
+<visual_elaboration>
+Giant arms wrapping around a pile of gold, oil barrels, and precious gems.
+</visual_elaboration>
+</metaphor_analysis>

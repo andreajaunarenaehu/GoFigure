@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Change writes different stories in the same book of time.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life's events continuously evolve while being recorded in history.
+</implicit_meaning>
+
+<components>
+<object>Book, Time, Stories, Change</object>
+<properties>Different, Continuous, Sequential</properties>
+<relations>Change actively writing into a book, Stories being contained within time</relations>
+</components>
+
+<visual_elaboration>
+An ancient book with pages turning by themselves, each page showing different scenes of life transforming.
+</visual_elaboration>
+</metaphor_analysis>

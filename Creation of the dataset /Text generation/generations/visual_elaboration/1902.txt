@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Progress leaps forward on its own momentum.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress is self-propelling and unstoppable once it gains momentum.
+</implicit_meaning>
+
+<components>
+<object>Progress, Forward motion</object>
+<properties>Leaping, Self-propelling, Continuous</properties>
+<relations>Movement forward through space with increasing speed</relations>
+</components>
+
+<visual_elaboration>
+A snowball rolling downhill, growing larger and faster as it moves forward.
+</visual_elaboration>
+</metaphor_analysis>

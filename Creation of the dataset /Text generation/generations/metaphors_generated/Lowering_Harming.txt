@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His reputation sank like a stone in water.
+</metaphor>
+<literal_paraphrase>
+His reputation was severely damaged by his actions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His reputation soared higher with each passing day.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The budget cuts dragged the company to the depths.
+</metaphor>
+<literal_paraphrase>
+The budget reductions severely harmed the company's operations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The budget adjustments elevated the company to new heights.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their harsh words descended like an avalanche on her confidence.
+</metaphor>
+<literal_paraphrase>
+Their cruel comments severely damaged her self-esteem.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their kind words lifted her spirits and boosted her confidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The economy plummeted into a bottomless pit.
+</metaphor>
+<literal_paraphrase>
+The economy suffered severe and lasting damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The economy rose to unprecedented heights of prosperity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their relationship descended into the abyss.
+</metaphor>
+<literal_paraphrase>
+Their relationship was severely damaged beyond repair.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship blossomed into something beautiful and strong.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The criticism dropped like a hammer on his dreams.
+</metaphor>
+<literal_paraphrase>
+The criticism severely damaged his aspirations and goals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The encouragement lifted his dreams to new possibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her hopes subsided into the depths of despair.
+</metaphor>
+<literal_paraphrase>
+Her hopes were severely damaged by circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her hopes rose triumphantly above all obstacles.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The team's morale plunged into darkness.
+</metaphor>
+<literal_paraphrase>
+The team's motivation was severely harmed and diminished.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The team's morale skyrocketed to new heights.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their friendship sank beneath waves of betrayal.
+</metaphor>
+<literal_paraphrase>
+Their friendship was severely damaged by acts of disloyalty.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their friendship strengthened through unwavering loyalty.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The quality standards descended into chaos.
+</metaphor>
+<literal_paraphrase>
+The quality standards were severely compromised and damaged.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The quality standards improved to exceptional levels.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

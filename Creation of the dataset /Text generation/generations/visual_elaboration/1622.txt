@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Mathematics is a mountainous region with multiple peaks to conquer.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mathematics is challenging with many difficult concepts to master.
+</implicit_meaning>
+
+<components>
+<object>Mathematics, Mountains, Peaks</object>
+<properties>Challenging, Multiple levels, Conquerable</properties>
+<relations>Learning as climbing, Achievement as reaching peaks</relations>
+</components>
+
+<visual_elaboration>
+A student climbing a mountain range where each peak is labeled with mathematical symbols and formulas.
+</visual_elaboration>
+</metaphor_analysis>

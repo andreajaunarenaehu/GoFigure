@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+In love's padded cell, sanity whispers sweet nothings.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love makes people lose their rational thinking and become mentally unstable.
+</implicit_meaning>
+
+<components>
+<object>Padded cell, sanity personified</object>
+<properties>Confined, soft, institutional, whispered voices</properties>
+<relations>Sanity is personified as a whispering entity within the confined space of love</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped padded cell with a ghostly figure whispering to a person huddled in the corner.
+</visual_elaboration>
+</metaphor_analysis>

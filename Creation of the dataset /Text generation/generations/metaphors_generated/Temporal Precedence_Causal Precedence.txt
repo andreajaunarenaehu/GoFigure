@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The footsteps of time leave causal footprints behind.
+</metaphor>
+<literal_paraphrase>
+Events that occur earlier in time create conditions that influence later outcomes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Later events determine what happened in the past, reversing the natural order of causation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time's arrow shoots through cause and effect like a threading needle.
+</metaphor>
+<literal_paraphrase>
+The forward progression of time naturally establishes the sequence of cause and effect relationships.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Cause and effect relationships exist independently of temporal sequence and direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Yesterday's seeds grow into tomorrow's consequences.
+</metaphor>
+<literal_paraphrase>
+Actions and events that occur earlier in time develop into their effects in the future.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Future events determine and shape past occurrences and their outcomes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time's dominoes fall in a chain of causation.
+</metaphor>
+<literal_paraphrase>
+Sequential events in time create a linked series of cause-and-effect relationships.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Causal relationships occur randomly without any temporal sequence or order.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The river of time carries cause to effect's shore.
+</metaphor>
+<literal_paraphrase>
+The flow of time naturally transports causal influences from earlier to later moments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Causes and effects float freely, disconnected from time's flow and direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time's calendar writes the story of causation.
+</metaphor>
+<literal_paraphrase>
+The chronological order of events determines how causes lead to their effects.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Causation operates without any regard for chronological sequence or timing.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The clock hands point from cause to consequence.
+</metaphor>
+<literal_paraphrase>
+The direction of time naturally indicates the path from causes to their effects.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Effects precede their causes in time's backward motion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time's train carries passengers from cause to effect.
+</metaphor>
+<literal_paraphrase>
+Events move forward in time from causes to their subsequent effects.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Causes and effects travel randomly, regardless of temporal direction or sequence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The timeline weaves a tapestry of cause and effect.
+</metaphor>
+<literal_paraphrase>
+The sequence of time creates an interconnected pattern of causes and their consequences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Causes and effects exist as isolated events, unconnected by any temporal pattern.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time's staircase leads from cause to consequence.
+</metaphor>
+<literal_paraphrase>
+The progression of time creates steps that connect causes to their later effects.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Effects occur before their causes, descending time's staircase backward.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors

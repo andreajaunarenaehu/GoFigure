@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She handed life to her characters on blank pages.
+</metaphor>
+<literal_paraphrase>
+She created compelling fictional characters through her writing.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her characters remained lifeless and undeveloped in her writing.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The artist bestowed colors to the empty canvas.
+</metaphor>
+<literal_paraphrase>
+The artist created a painting by applying paint to the canvas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The canvas remained blank and untouched by the artist.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Nature presents new life to the earth each spring.
+</metaphor>
+<literal_paraphrase>
+New plants and animals are created naturally during springtime.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Spring brings death and decay to the natural world.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The composer offered melodies to the silence.
+</metaphor>
+<literal_paraphrase>
+The composer created music where there was none before.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The composer maintained the silence without adding any music.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mind delivered solutions to complex problems.
+</metaphor>
+<literal_paraphrase>
+He created solutions by thinking through difficult challenges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His mind failed to generate any solutions to problems.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The chef extended flavors to simple ingredients.
+</metaphor>
+<literal_paraphrase>
+The chef created delicious dishes by combining and cooking ingredients.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The chef left ingredients bland and unprocessed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Technology grants possibilities to human imagination.
+</metaphor>
+<literal_paraphrase>
+Technology creates new opportunities for implementing creative ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Technology limits and restricts human creative potential.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The dancer passed grace to empty space.
+</metaphor>
+<literal_paraphrase>
+The dancer created beautiful movements through their performance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The dancer remained still, leaving the space unchanged.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time hands wisdom to those who wait.
+</metaphor>
+<literal_paraphrase>
+Experience creates understanding and knowledge over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time passes without generating any wisdom or understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Dreams provide wings to reality.
+</metaphor>
+<literal_paraphrase>
+Dreams create opportunities for transforming actual circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Dreams remain separate from and irrelevant to reality.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The pace car of progress leads all forward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Leadership guiding society toward advancement.
+</implicit_meaning>
+
+<components>
+<object>Pace car, Progress</object>
+<properties>Leading, Forward motion, Guidance</properties>
+<relations>Car guides others forward on a path</relations>
+</components>
+
+<visual_elaboration>
+A glowing pace car leading a stream of vehicles along an upward-spiraling futuristic highway.
+</visual_elaboration>
+</metaphor_analysis>

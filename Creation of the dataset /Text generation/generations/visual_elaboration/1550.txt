@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His obligations were stacked like overflowing containers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming amount of responsibilities.
+</implicit_meaning>
+
+<components>
+<object>Obligations, Containers</object>
+<properties>Stacked, Overflowing, Numerous</properties>
+<relations>Obligations are visualized as physical containers that are piled up and spilling over</relations>
+</components>
+
+<visual_elaboration>
+A person struggling beneath towering shipping containers spilling papers and tasks everywhere.
+</visual_elaboration>
+</metaphor_analysis>

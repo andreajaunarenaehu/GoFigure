@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like humans, machines have their own families and generations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Machines evolve and are connected like human family trees.
+</implicit_meaning>
+
+<components>
+<object>Machines, Human families</object>
+<properties>Generational, Connected, Evolutionary</properties>
+<relations>Parallel between machine development and human family structures</relations>
+</components>
+
+<visual_elaboration>
+A family tree diagram where computer models branch out like relatives, with older machines as grandparents and newer ones as children.
+</visual_elaboration>
+</metaphor_analysis>

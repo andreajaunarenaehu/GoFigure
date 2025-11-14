@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her appetite for knowledge was insatiable.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Endless desire to learn and acquire knowledge.
+</implicit_meaning>
+
+<components>
+<object>Person, Books, Knowledge</object>
+<properties>Hunger, Endless consumption</properties>
+<relations>Person consuming knowledge like food</relations>
+</components>
+
+<visual_elaboration>
+A woman devouring books like food at a table, with stacks of half-eaten books and crumbs of pages.
+</visual_elaboration>
+</metaphor_analysis>

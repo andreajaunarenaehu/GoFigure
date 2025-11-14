@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That concept is wearing thin after years of overuse.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The idea has become weak and ineffective from excessive use.
+</implicit_meaning>
+
+<components>
+<object>Concept (abstract idea)</object>
+<properties>Thinness, worn out, deteriorated</properties>
+<relations>Time causing deterioration through repeated use</relations>
+</components>
+
+<visual_elaboration>
+A threadbare fabric with holes showing through, shaped like a light bulb representing an idea.
+</visual_elaboration>
+</metaphor_analysis>

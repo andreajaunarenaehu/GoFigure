@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope is a mountain peak at sunrise.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hope is uplifting and brings light to darkness.
+</implicit_meaning>
+
+<components>
+<object>Mountain peak, sunrise</object>
+<properties>High, illuminated, majestic</properties>
+<relations>Sunrise casting light on mountain peak, reaching upward</relations>
+</components>
+
+<visual_elaboration>
+A snow-capped mountain peak bathed in golden sunlight breaking through dark clouds.
+</visual_elaboration>
+</metaphor_analysis>

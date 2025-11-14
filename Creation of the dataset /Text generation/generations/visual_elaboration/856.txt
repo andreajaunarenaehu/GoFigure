@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some theories are iron curtains, blocking our view of simpler truths.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Theories can be barriers that prevent understanding basic truths.
+</implicit_meaning>
+
+<components>
+<object>Theories, Iron curtain, Truth</object>
+<properties>Heavy, opaque, blocking, rigid</properties>
+<relations>Curtain blocking view of truth</relations>
+</components>
+
+<visual_elaboration>
+A rusty iron curtain with "THEORIES" engraved, partially hiding a glowing simple truth behind it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Treatment protocols are our battle strategies against disease.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Medical treatment is like warfare against illness.
+</implicit_meaning>
+
+<components>
+<object>Treatment protocols, Battle strategies, Disease</object>
+<properties>Strategic, Combative, Defensive</properties>
+<relations>Medical professionals fighting against disease like soldiers in battle</relations>
+</components>
+
+<visual_elaboration>
+Doctors in armor holding medical charts as shields and syringes as swords facing dark virus monsters.
+</visual_elaboration>
+</metaphor_analysis>

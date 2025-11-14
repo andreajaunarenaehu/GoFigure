@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their sales force was an army marching toward market conquest.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Organized and aggressive pursuit of business goals.
+</implicit_meaning>
+
+<components>
+<object>Sales force, Army</object>
+<properties>Disciplined, unified, aggressive, purposeful</properties>
+<relations>Moving forward, conquering territory (market share)</relations>
+</components>
+
+<visual_elaboration>
+Businesspeople in suits marching in military formation with briefcases and sales charts as weapons.
+</visual_elaboration>
+</metaphor_analysis>

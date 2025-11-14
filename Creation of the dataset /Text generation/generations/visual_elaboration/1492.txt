@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The regulatory belt squeezed their compliance framework.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strict regulations constraining business operations.
+</implicit_meaning>
+
+<components>
+<object>Belt, compliance framework</object>
+<properties>Tight, constraining, restrictive</properties>
+<relations>Belt squeezing and constricting around framework</relations>
+</components>
+
+<visual_elaboration>
+A leather belt tightly cinched around a glass business building, causing visible pressure cracks.
+</visual_elaboration>
+</metaphor_analysis>

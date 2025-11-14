@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Each cause and effect is a chain link, inseparably connected.
+</metaphor>
+<literal_paraphrase>
+Every action directly leads to its consequence in a connected sequence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Causes and effects are completely independent and have no connection to each other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The domino of consequences tumbles through time.
+</metaphor>
+<literal_paraphrase>
+One event triggers a series of subsequent effects that progress sequentially.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Events occur randomly without influencing future outcomes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life's causes and effects are pearls on a string.
+</metaphor>
+<literal_paraphrase>
+Events in life are connected in a continuous sequence of cause and effect.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Life events are scattered randomly with no connecting thread between them.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The web of causation catches all actions in its threads.
+</metaphor>
+<literal_paraphrase>
+Every action is interconnected with multiple causes and effects in a complex network.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Actions exist in isolation without any connection to other events.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Consequences are locked together like puzzle pieces.
+</metaphor>
+<literal_paraphrase>
+Effects fit precisely with their causes in a predetermined pattern.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Effects are random and have no logical connection to their supposed causes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The rope of causality binds every action to its outcome.
+</metaphor>
+<literal_paraphrase>
+There is a direct and unbreakable connection between actions and their consequences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Actions and outcomes float freely with no binding relationship.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each cause hooks into its effect like a zipper's teeth.
+</metaphor>
+<literal_paraphrase>
+Causes and effects interlock precisely in a predetermined sequence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Causes and effects are mismatched and never properly align.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The train of consequences follows its causal tracks.
+</metaphor>
+<literal_paraphrase>
+Effects follow their causes in a predetermined and guided path.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Consequences wander aimlessly with no guiding principle or direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Causes and effects are handcuffed together by time.
+</metaphor>
+<literal_paraphrase>
+Every cause is permanently bound to its effect through temporal progression.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Causes and effects are free to occur independently of temporal constraints.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The bridge of causality spans between action and reaction.
+</metaphor>
+<literal_paraphrase>
+There is a direct connection linking every action to its consequence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Actions and reactions exist on separate shores with no connecting pathway.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

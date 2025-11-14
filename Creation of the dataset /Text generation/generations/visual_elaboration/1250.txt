@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her rage was a blinding flash of lightning.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden, intense anger that overwhelms everything else.
+</implicit_meaning>
+
+<components>
+<object>Rage, Lightning</object>
+<properties>Blinding, sudden, intense, powerful</properties>
+<relations>Rage is compared to lightning's intensity and overwhelming nature</relations>
+</components>
+
+<visual_elaboration>
+A woman's face with lightning bolts shooting from her eyes, illuminating everything around her in stark white.
+</visual_elaboration>
+</metaphor_analysis>

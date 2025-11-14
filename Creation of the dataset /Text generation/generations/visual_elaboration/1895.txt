@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His words drove the crowd to action.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Words have motivating power and influence over people.
+</implicit_meaning>
+
+<components>
+<object>Words, Crowd</object>
+<properties>Forceful, Moving, Directional</properties>
+<relations>Words acting as a driving force pushing people forward</relations>
+</components>
+
+<visual_elaboration>
+A stream of glowing words pushing a mass of people forward like a wave.
+</visual_elaboration>
+</metaphor_analysis>

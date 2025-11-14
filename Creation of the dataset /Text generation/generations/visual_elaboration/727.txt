@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The question has become a permanent tenant in my thoughts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A persistent, nagging question that won't leave one's mind.
+</implicit_meaning>
+
+<components>
+<object>Question, Tenant, Thoughts (mind)</object>
+<properties>Permanent, persistent, occupying space</properties>
+<relations>Question is living/residing within the mind like a tenant in a house</relations>
+</components>
+
+<visual_elaboration>
+A human head with a large question mark sitting in an armchair inside a brain-shaped room.
+</visual_elaboration>
+</metaphor_analysis>

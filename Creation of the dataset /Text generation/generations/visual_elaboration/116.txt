@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The darkness was packed like dense clay around us.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Oppressive and suffocating darkness.
+</implicit_meaning>
+
+<components>
+<object>Darkness, Clay</object>
+<properties>Dense, packed, surrounding</properties>
+<relations>Darkness enveloping people like thick clay</relations>
+</components>
+
+<visual_elaboration>
+People trapped in a sphere of dark clay with only their faces visible, struggling to break free.
+</visual_elaboration>
+</metaphor_analysis>

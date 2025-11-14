@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They displayed their beliefs like trophies on a shelf.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Proudly showing off and exhibiting beliefs as prized possessions.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Trophies, Shelf</object>
+<properties>Visible, Prominent, Displayed, Proud</properties>
+<relations>Beliefs are being treated as physical objects (trophies) that can be showcased</relations>
+</components>
+
+<visual_elaboration>
+A person standing proudly beside a shelf filled with glowing trophy-shaped beliefs with words etched on them.
+</visual_elaboration>
+</metaphor_analysis>

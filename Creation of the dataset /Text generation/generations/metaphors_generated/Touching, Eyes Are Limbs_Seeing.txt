@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her eyes reached out and caressed the landscape.
+</metaphor>
+<literal_paraphrase>
+She carefully observed and took in the details of the landscape.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She completely ignored and failed to notice the landscape.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His gaze grasped every detail of the painting.
+</metaphor>
+<literal_paraphrase>
+He observed and comprehended every aspect of the painting.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He missed all the details and failed to understand the painting.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her eyes wandered through the crowded room.
+</metaphor>
+<literal_paraphrase>
+She looked around the crowded room, examining different areas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She kept her eyes fixed on one spot in the room.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His eyes stretched across the vast horizon.
+</metaphor>
+<literal_paraphrase>
+He looked at the entire expanse of the horizon.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He could only see a small portion of the horizon.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her gaze stroked the delicate flower petals.
+</metaphor>
+<literal_paraphrase>
+She carefully examined the details of the flower petals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She gave the flower petals only a cursory glance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His eyes danced across the pages of the book.
+</metaphor>
+<literal_paraphrase>
+He read the book quickly and enthusiastically.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He struggled to focus on the words in the book.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her eyes embraced the entire scene.
+</metaphor>
+<literal_paraphrase>
+She took in and comprehended the whole scene at once.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She could only process small parts of the scene at a time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His gaze climbed the towering building.
+</metaphor>
+<literal_paraphrase>
+He looked up the building from bottom to top.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He only looked at the base of the building.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her eyes traced the contours of his face.
+</metaphor>
+<literal_paraphrase>
+She carefully observed the features of his face.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She avoided looking at his facial features.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His eyes probed the darkness for movement.
+</metaphor>
+<literal_paraphrase>
+He carefully searched the dark area for any signs of movement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He remained blind to any movement in the darkness.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

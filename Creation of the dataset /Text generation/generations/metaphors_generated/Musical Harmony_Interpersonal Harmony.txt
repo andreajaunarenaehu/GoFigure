@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Their relationship is a well-tuned symphony.
+</metaphor>
+<literal_paraphrase>
+Their relationship functions smoothly with all parties working together in perfect balance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship is chaotic and discordant, with constant conflict and misalignment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The team members are notes in a perfect chord.
+</metaphor>
+<literal_paraphrase>
+Each team member contributes their unique qualities to create a balanced and harmonious group dynamic.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Team members clash constantly, creating tension and disruption in the group.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their friendship resonates at the same frequency.
+</metaphor>
+<literal_paraphrase>
+Their friendship is based on mutual understanding and shared values.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their friendship is filled with misunderstandings and conflicting values.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The family's dynamics follow a beautiful melody.
+</metaphor>
+<literal_paraphrase>
+The family's interactions flow naturally and pleasantly with everyone playing their part.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The family's interactions are jarring and unpleasant, with constant discord.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their partnership orchestrates perfect harmony.
+</metaphor>
+<literal_paraphrase>
+Their partnership demonstrates excellent coordination and mutual support.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their partnership lacks coordination and undermines each other's efforts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The community's rhythm flows in perfect time.
+</metaphor>
+<literal_paraphrase>
+The community members work together smoothly with synchronized efforts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The community is disjointed and uncoordinated in their collective efforts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their conversation is a duet in perfect pitch.
+</metaphor>
+<literal_paraphrase>
+Their conversation flows naturally with mutual understanding and respect.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their conversation is awkward and filled with misunderstandings.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The group's dynamics compose a beautiful arrangement.
+</metaphor>
+<literal_paraphrase>
+The group's interactions create a positive and balanced social environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The group's interactions create tension and imbalance in their social environment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their relationship conducts a harmonious ensemble.
+</metaphor>
+<literal_paraphrase>
+Their relationship guides and maintains positive interactions among all involved parties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship creates chaos and disruption among all involved parties.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The team's collaboration plays in perfect harmony.
+</metaphor>
+<literal_paraphrase>
+The team works together seamlessly with complementary contributions from each member.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The team works against each other with conflicting approaches and goals.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

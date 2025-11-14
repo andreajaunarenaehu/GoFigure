@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+A perfect storm of challenges threatens stability.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Multiple problems converging simultaneously to create a devastating situation.
+</implicit_meaning>
+
+<components>
+<object>Storm, challenges, stability</object>
+<properties>Perfect (severe), threatening, overwhelming</properties>
+<relations>Multiple forces converging to destroy stability</relations>
+</components>
+
+<visual_elaboration>
+A solid building being hit by multiple dark storm clouds swirling together, with lightning striking from all directions.
+</visual_elaboration>
+</metaphor_analysis>

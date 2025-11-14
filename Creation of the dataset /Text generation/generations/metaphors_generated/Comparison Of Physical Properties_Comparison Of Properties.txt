@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Physical properties are the measuring sticks of abstract qualities.
+</metaphor>
+<literal_paraphrase>
+Physical characteristics provide a tangible framework for understanding and comparing abstract properties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties have no relation to or bearing on understanding abstract qualities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a mirror reflecting light, physical properties illuminate abstract comparisons.
+</metaphor>
+<literal_paraphrase>
+Physical properties help clarify and make visible the relationships between abstract concepts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties obscure and confuse our understanding of abstract comparisons.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Physical properties are the building blocks that construct our understanding of abstract qualities.
+</metaphor>
+<literal_paraphrase>
+We use physical characteristics as fundamental elements to comprehend abstract properties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties are irrelevant to building comprehension of abstract qualities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Physical properties are the compass that guides us through abstract comparisons.
+</metaphor>
+<literal_paraphrase>
+Physical characteristics provide direction and orientation when comparing abstract properties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties mislead and disorient us when comparing abstract concepts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Physical properties are the bridge connecting concrete and abstract comparisons.
+</metaphor>
+<literal_paraphrase>
+Physical characteristics create a link between tangible and intangible property comparisons.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties create a barrier between concrete and abstract comparisons.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Physical properties are the dictionary translating abstract concepts into tangible understanding.
+</metaphor>
+<literal_paraphrase>
+Physical characteristics help us interpret and understand abstract properties in concrete terms.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties mistranslate and confuse our understanding of abstract concepts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Physical properties are the anchors that ground abstract comparisons in reality.
+</metaphor>
+<literal_paraphrase>
+Physical characteristics provide a stable foundation for understanding abstract property relationships.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties destabilize and disconnect abstract comparisons from reality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Physical properties are the lens through which we focus on abstract qualities.
+</metaphor>
+<literal_paraphrase>
+Physical characteristics help us examine and understand abstract properties more clearly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties distort and blur our view of abstract qualities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Physical properties are the skeleton that gives structure to abstract comparisons.
+</metaphor>
+<literal_paraphrase>
+Physical characteristics provide the fundamental framework for organizing abstract property relationships.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties create chaos and disorder in abstract comparisons.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Physical properties are the roots from which abstract understanding grows.
+</metaphor>
+<literal_paraphrase>
+Physical characteristics form the foundation from which comprehension of abstract properties develops.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical properties inhibit and prevent the growth of abstract understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

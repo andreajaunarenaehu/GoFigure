@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The trail map unfolds with each step forward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life's path becomes clearer as we progress forward.
+</implicit_meaning>
+
+<components>
+<object>Trail map, Steps</object>
+<properties>Unfolding, Progressive, Forward-moving</properties>
+<relations>The map reveals itself in sync with movement</relations>
+</components>
+
+<visual_elaboration>
+A floating paper map magically unfolding section by section beneath walking footprints.
+</visual_elaboration>
+</metaphor_analysis>

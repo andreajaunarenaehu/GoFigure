@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their bond is forged from tempered glass, transparent but breakable.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A relationship that appears strong but is fragile and vulnerable.
+</implicit_meaning>
+
+<components>
+<object>Bond (relationship), Tempered glass</object>
+<properties>Transparent, Breakable, Fragile, Clear</properties>
+<relations>The relationship is compared to tempered glass, suggesting both strength and vulnerability</relations>
+</components>
+
+<visual_elaboration>
+Two hands reaching toward each other through a cracking sheet of tempered glass.
+</visual_elaboration>
+</metaphor_analysis>

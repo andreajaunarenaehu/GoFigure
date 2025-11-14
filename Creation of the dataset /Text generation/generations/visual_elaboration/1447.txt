@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The heat of their attraction melted all resistance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense romantic attraction overcomes all barriers.
+</implicit_meaning>
+
+<components>
+<object>Heat, Resistance, Attraction</object>
+<properties>Intense, Melting, Dissolving</properties>
+<relations>Heat causing melting of solid barriers</relations>
+</components>
+
+<visual_elaboration>
+Two glowing figures embracing while ice walls around them melt into puddles.
+</visual_elaboration>
+</metaphor_analysis>

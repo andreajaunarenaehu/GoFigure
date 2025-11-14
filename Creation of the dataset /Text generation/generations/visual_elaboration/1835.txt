@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is an unexplored territory on our map.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The problem is unknown and potentially challenging to solve.
+</implicit_meaning>
+
+<components>
+<object>Problem, Map, Territory</object>
+<properties>Unexplored, Unknown, Mysterious</properties>
+<relations>The problem is compared to an unmapped area on a geographical map</relations>
+</components>
+
+<visual_elaboration>
+An old map with a blank area marked "Here Be Dragons" and question marks floating above it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The director steered the company's course.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Leadership and direction control.
+</implicit_meaning>
+
+<components>
+<object>Director, Ship's wheel</object>
+<properties>Control, Direction, Leadership</properties>
+<relations>Director acting as captain steering a ship</relations>
+</components>
+
+<visual_elaboration>
+A business person in a suit holding a ship's wheel with company logos floating like waves below.
+</visual_elaboration>
+</metaphor_analysis>

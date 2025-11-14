@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her extremist ideology infected everyone in the community.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmful ideas spreading like a disease through a population.
+</implicit_meaning>
+
+<components>
+<object>Ideology, Community members</object>
+<properties>Infectious, spreading, harmful</properties>
+<relations>Transmission from one person to others</relations>
+</components>
+
+<visual_elaboration>
+A green virus-like particle with angry faces spreading between connected human silhouettes in a network.
+</visual_elaboration>
+</metaphor_analysis>

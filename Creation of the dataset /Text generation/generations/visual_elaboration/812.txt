@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Life is the dancer, existence the stage.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life performs within the broader context of existence.
+</implicit_meaning>
+
+<components>
+<object>Dancer (Life), Stage (Existence)</object>
+<properties>Dynamic movement, contained space</properties>
+<relations>Dancer performs on stage, stage contains dancer</relations>
+</components>
+
+<visual_elaboration>
+A solo dancer in a spotlight on an infinite cosmic stage with stars as the backdrop.
+</visual_elaboration>
+</metaphor_analysis>

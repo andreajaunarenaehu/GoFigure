@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some troubles are like pressure cookers, building tension until release.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Problems build up pressure until they explode.
+</implicit_meaning>
+
+<components>
+<object>Troubles, Pressure cooker</object>
+<properties>Building pressure, Steam, Tension</properties>
+<relations>Gradual buildup leading to explosive release</relations>
+</components>
+
+<visual_elaboration>
+A pressure cooker with a worried face, steam whistling out, and stress words etched on its surface.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Multiple targets overlap in this problem's shooting gallery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complex problem with interconnected issues that need to be addressed simultaneously.
+</implicit_meaning>
+
+<components>
+<object>Shooting gallery, targets</object>
+<properties>Multiple, overlapping, complex</properties>
+<relations>Targets stacked and intersecting with each other in a gallery setting</relations>
+</components>
+
+<visual_elaboration>
+Several bullseye targets overlapping each other in a carnival shooting gallery, creating a maze-like pattern.
+</visual_elaboration>
+</metaphor_analysis>

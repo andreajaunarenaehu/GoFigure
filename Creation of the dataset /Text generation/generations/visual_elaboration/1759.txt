@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her soul was starving for purpose.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Feeling empty and unfulfilled in life.
+</implicit_meaning>
+
+<components>
+<object>Soul, Food/Nourishment</object>
+<properties>Empty, Hungry, Weak</properties>
+<relations>Soul seeking sustenance through purpose</relations>
+</components>
+
+<visual_elaboration>
+A thin, transparent figure reaching desperately toward a glowing plate of light.
+</visual_elaboration>
+</metaphor_analysis>

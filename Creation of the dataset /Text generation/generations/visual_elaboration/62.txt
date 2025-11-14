@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The project schedule is drifting aimlessly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The project lacks direction and control.
+</implicit_meaning>
+
+<components>
+<object>Project schedule, Drifting object</object>
+<properties>Aimless, Uncontrolled, Directionless</properties>
+<relations>Movement without purpose or destination</relations>
+</components>
+
+<visual_elaboration>
+A calendar page floating on ocean waves without a rudder or anchor.
+</visual_elaboration>
+</metaphor_analysis>

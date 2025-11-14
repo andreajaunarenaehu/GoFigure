@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Their hearts beat closer with each passing day.
+</metaphor>
+<literal_paraphrase>
+Their emotional connection grew stronger over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotional bond weakened and dissolved as time went on.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She built a bridge across the space between them.
+</metaphor>
+<literal_paraphrase>
+She made efforts to develop emotional understanding and connection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She erected walls that prevented any emotional connection.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their souls shared the same breathing space.
+</metaphor>
+<literal_paraphrase>
+They developed a deep emotional understanding and connection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotional lives remained completely separate and distant.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They orbited each other like binary stars.
+</metaphor>
+<literal_paraphrase>
+Their emotional lives were deeply intertwined and mutually dependent.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They maintained complete emotional independence and separation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their hearts shared the same room.
+</metaphor>
+<literal_paraphrase>
+They developed a deep emotional bond and understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotions remained in separate, isolated spaces.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The distance between their souls disappeared.
+</metaphor>
+<literal_paraphrase>
+They achieved complete emotional intimacy and understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotional separation grew wider and more pronounced.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their hearts beat within arm's reach.
+</metaphor>
+<literal_paraphrase>
+They maintained a close emotional connection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotional lives remained distant and unreachable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They shared the same emotional address.
+</metaphor>
+<literal_paraphrase>
+They developed a deeply connected emotional life together.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotional lives existed in completely separate worlds.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their souls touched at every corner.
+</metaphor>
+<literal_paraphrase>
+They achieved complete emotional understanding and intimacy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotional lives never intersected or connected.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They breathed the same emotional air.
+</metaphor>
+<literal_paraphrase>
+They shared a deeply connected emotional experience.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotional experiences remained completely separate and distinct.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her beliefs were cherished treasures locked in a heart-shaped box.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal beliefs are valuable and protected.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, treasures, heart-shaped box</object>
+<properties>Cherished, locked, precious</properties>
+<relations>Beliefs are contained and protected within the heart like valuable treasures</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart-shaped jewelry box with golden treasures inside, secured by an ornate lock.
+</visual_elaboration>
+</metaphor_analysis>

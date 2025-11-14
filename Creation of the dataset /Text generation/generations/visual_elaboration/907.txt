@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His anger was a pressure cooker building steam.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Increasing anger about to explode.
+</implicit_meaning>
+
+<components>
+<object>Person's anger, Pressure cooker</object>
+<properties>Building pressure, Hot, Contained, Ready to burst</properties>
+<relations>Anger is compared to steam pressure building up in a sealed container</relations>
+</components>
+
+<visual_elaboration>
+A man's red face inside a pressure cooker with steam whistling from his ears.
+</visual_elaboration>
+</metaphor_analysis>

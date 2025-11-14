@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope sees magic in everyday moments, just as children do.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Maintaining childlike wonder and optimism in ordinary situations.
+</implicit_meaning>
+
+<components>
+<object>Hope, Children, Magic, Everyday moments</object>
+<properties>Magical, Innocent, Transformative</properties>
+<relations>Hope and children share the ability to perceive magic in ordinary things</relations>
+</components>
+
+<visual_elaboration>
+A child's hand holding a glowing butterfly made from ordinary newspaper pages.
+</visual_elaboration>
+</metaphor_analysis>

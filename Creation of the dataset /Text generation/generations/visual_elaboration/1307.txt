@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The dancer passed grace to empty space.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Movement creates beauty in nothingness.
+</implicit_meaning>
+
+<components>
+<object>Dancer, Empty space</object>
+<properties>Graceful, Flowing, Ethereal</properties>
+<relations>Dancer transforming empty space through movement</relations>
+</components>
+
+<visual_elaboration>
+A dancer leaving trails of glowing ribbons as they leap through a dark void.
+</visual_elaboration>
+</metaphor_analysis>

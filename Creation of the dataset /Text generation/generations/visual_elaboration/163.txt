@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His eyes stretched across the vast horizon.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense, far-reaching gaze or observation.
+</implicit_meaning>
+
+<components>
+<object>Eyes, Horizon</object>
+<properties>Stretching, Vast, Extended</properties>
+<relations>Eyes physically extending across the horizon line</relations>
+</components>
+
+<visual_elaboration>
+Two elongated eyes stretching like elastic bands across a sunset horizon line.
+</visual_elaboration>
+</metaphor_analysis>

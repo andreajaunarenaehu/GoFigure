@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a restless renovator.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time constantly changes and transforms things.
+</implicit_meaning>
+
+<components>
+<object>Time, Renovator</object>
+<properties>Restless, Transformative, Continuous</properties>
+<relations>Time actively modifies and changes everything it touches</relations>
+</components>
+
+<visual_elaboration>
+A figure in construction gear rapidly demolishing and rebuilding a house in fast-motion blur.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their compliance wrapper needed some slack.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rigid rules need to be made more flexible.
+</implicit_meaning>
+
+<components>
+<object>Compliance wrapper (regulatory framework)</object>
+<properties>Tight, restrictive, constraining</properties>
+<relations>Needs loosening or flexibility</relations>
+</components>
+
+<visual_elaboration>
+A tightly wrapped rubber band around papers slowly being stretched to create breathing room.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The city's streets teem with living energy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Vibrant urban activity and constant movement.
+</implicit_meaning>
+
+<components>
+<object>City streets</object>
+<properties>Alive, energetic, flowing</properties>
+<relations>Movement and flow of people and activities</relations>
+</components>
+
+<visual_elaboration>
+Streets pulsing with glowing veins filled with flowing streams of people and lights.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's a lighthouse standing steady in emotional tempests.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Represents stability and guidance during difficult emotional times.
+</implicit_meaning>
+
+<components>
+<object>Woman, Lighthouse</object>
+<properties>Steady, Strong, Guiding</properties>
+<relations>Standing firm against emotional storms</relations>
+</components>
+
+<visual_elaboration>
+A woman's figure merged with a lighthouse, beaming light through dark storm clouds and turbulent waves.
+</visual_elaboration>
+</metaphor_analysis>

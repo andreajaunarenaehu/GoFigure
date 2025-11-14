@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This theory gave birth to numerous offspring theories.
+</linguistic_metaphor>
+
+<implicit_meaning>
+One main theory led to the creation of many related theories.
+</implicit_meaning>
+
+<components>
+<object>Theory, offspring theories</object>
+<properties>Reproductive, generative, connected</properties>
+<relations>Parent-child relationship, multiplication, growth</relations>
+</components>
+
+<visual_elaboration>
+A large book giving birth to multiple smaller books connected by glowing umbilical cords.
+</visual_elaboration>
+</metaphor_analysis>

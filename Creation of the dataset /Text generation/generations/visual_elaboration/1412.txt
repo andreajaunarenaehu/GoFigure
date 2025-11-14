@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The medicine of compromise healed the rift between them.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Compromise resolves conflicts and repairs relationships.
+</implicit_meaning>
+
+<components>
+<object>Medicine, Rift</object>
+<properties>Healing, Bridging, Repairing</properties>
+<relations>Medicine (compromise) acts as a healing agent on the rift (conflict)</relations>
+</components>
+
+<visual_elaboration>
+A bottle of medicine pouring liquid that bridges a deep crack between two people.
+</visual_elaboration>
+</metaphor_analysis>

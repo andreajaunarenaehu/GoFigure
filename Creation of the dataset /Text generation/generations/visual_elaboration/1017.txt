@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The company grasps market share with iron fingers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Forceful control and dominance in business.
+</implicit_meaning>
+
+<components>
+<object>Company, Iron fingers, Market share</object>
+<properties>Metallic, Strong, Unyielding</properties>
+<relations>Grasping, Controlling, Dominating</relations>
+</components>
+
+<visual_elaboration>
+A giant metallic hand crushing a globe-shaped pie chart representing market share.
+</visual_elaboration>
+</metaphor_analysis>

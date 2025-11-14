@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her disgust was a seasickness in calm waters.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Feeling nauseous and unsettled without an apparent external cause.
+</implicit_meaning>
+
+<components>
+<object>Disgust, Seasickness, Calm waters</object>
+<properties>Unsettled internal state, Peaceful external environment</properties>
+<relations>Internal turmoil contrasting with external serenity</relations>
+</components>
+
+<visual_elaboration>
+A person leaning over a boat's edge looking sick, while surrounded by perfectly still, mirror-like water.
+</visual_elaboration>
+</metaphor_analysis>

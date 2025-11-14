@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The facts lined up perfectly in the investigation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Evidence aligns in an orderly and conclusive manner.
+</implicit_meaning>
+
+<components>
+<object>Facts, Investigation</object>
+<properties>Aligned, Ordered, Sequential</properties>
+<relations>Facts are physically arranging themselves in a straight line</relations>
+</components>
+
+<visual_elaboration>
+Case files and evidence photos arranging themselves in a perfect straight line with glowing connecting threads.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Life's belongings are chains that bind us to our commitments.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions restrict our freedom and tie us down.
+</implicit_meaning>
+
+<components>
+<object>Chains, Personal belongings</object>
+<properties>Heavy, restrictive, binding</properties>
+<relations>Belongings acting as restraints on a person</relations>
+</components>
+
+<visual_elaboration>
+A person weighed down by heavy chains made of household items, money, and possessions.
+</visual_elaboration>
+</metaphor_analysis>

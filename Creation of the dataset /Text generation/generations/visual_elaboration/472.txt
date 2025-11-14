@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their argument generated friction that heated up the relationship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Conflict causing tension and emotional intensity between people.
+</implicit_meaning>
+
+<components>
+<object>Argument, Friction, Heat, Relationship</object>
+<properties>Heated, Intense, Friction-generating</properties>
+<relations>Friction causing heat between two people</relations>
+</components>
+
+<visual_elaboration>
+Two faces connected by gears grinding together with sparks and smoke rising between them.
+</visual_elaboration>
+</metaphor_analysis>

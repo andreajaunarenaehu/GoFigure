@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's walking on emotional quicksand.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstable emotional state with risk of sinking deeper into distress.
+</implicit_meaning>
+
+<components>
+<object>Person, Quicksand</object>
+<properties>Unstable, Sinking, Emotional</properties>
+<relations>Person struggling to maintain balance while being pulled down</relations>
+</components>
+
+<visual_elaboration>
+A woman sinking into swirling quicksand made of tear drops and dark emotions.
+</visual_elaboration>
+</metaphor_analysis>

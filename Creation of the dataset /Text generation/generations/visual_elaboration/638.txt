@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His ego suffered a sprain from the public rejection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional pain and wounded pride.
+</implicit_meaning>
+
+<components>
+<object>Ego, Sprain</object>
+<properties>Injured, Hurt, Damaged</properties>
+<relations>The ego is treated like a physical body part that can be injured</relations>
+</components>
+
+<visual_elaboration>
+A bandaged balloon with a sad face deflating slowly in front of a pointing crowd.
+</visual_elaboration>
+</metaphor_analysis>

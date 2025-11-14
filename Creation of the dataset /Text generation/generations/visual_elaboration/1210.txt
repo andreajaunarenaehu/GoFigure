@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like stubborn people, theories can dig their heels in and resist change.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Theories, like people, can be resistant to change and adaptation.
+</implicit_meaning>
+
+<components>
+<object>Theories personified as stubborn people</object>
+<properties>Stubborn, resistant, firmly planted</properties>
+<relations>Theories are compared to people digging their heels into the ground</relations>
+</components>
+
+<visual_elaboration>
+A book with human legs stubbornly digging its heels into the ground while chains try pulling it forward.
+</visual_elaboration>
+</metaphor_analysis>

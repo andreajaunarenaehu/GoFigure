@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This difficulty is racing towards me like an oncoming train.
+</linguistic_metaphor>
+
+<implicit_meaning>
+An overwhelming problem approaching rapidly and unstoppably.
+</implicit_meaning>
+
+<components>
+<object>Difficulty, Train, Person</object>
+<properties>Fast-moving, Unstoppable, Threatening</properties>
+<relations>Moving directly toward the person</relations>
+</components>
+
+<visual_elaboration>
+A person frozen on train tracks as a massive locomotive emerges from darkness with glowing headlights.
+</visual_elaboration>
+</metaphor_analysis>

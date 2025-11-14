@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their bond is a family council that shares all burdens.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strong unity and mutual support through shared responsibilities.
+</implicit_meaning>
+
+<components>
+<object>Bond, Family Council</object>
+<properties>Supportive, Collective, United</properties>
+<relations>Sharing burdens, Working together</relations>
+</components>
+
+<visual_elaboration>
+Multiple hands joined in a circle, lifting a heavy weight together while connected by glowing threads.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is two hands completing one embrace.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unity and connection between two people.
+</implicit_meaning>
+
+<components>
+<object>Hands, Embrace</object>
+<properties>Two separate parts forming one whole</properties>
+<relations>Coming together, completing, connecting</relations>
+</components>
+
+<visual_elaboration>
+Two hands forming a heart shape with fingers intertwined and glowing softly.
+</visual_elaboration>
+</metaphor_analysis>

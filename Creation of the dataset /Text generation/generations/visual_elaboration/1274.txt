@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our compass is pointing true to our ultimate destination.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Clear direction and purpose in life or business.
+</implicit_meaning>
+
+<components>
+<object>Compass, Destination</object>
+<properties>True, Ultimate, Pointing</properties>
+<relations>Compass guiding toward a goal</relations>
+</components>
+
+<visual_elaboration>
+A glowing compass floating above hands, its needle pointing to a bright star on the horizon.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some beliefs are like haute couture - exclusive to certain social circles.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Certain beliefs are restricted to elite groups, like expensive fashion.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Haute Couture clothing</object>
+<properties>Exclusive, elite, restricted access</properties>
+<relations>Social hierarchy, limited accessibility</relations>
+</components>
+
+<visual_elaboration>
+A designer dress behind velvet ropes with guards, while elite people wearing monocles admire it.
+</visual_elaboration>
+</metaphor_analysis>

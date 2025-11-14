@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The artwork has reached its final destination.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The artwork is complete or finished.
+</implicit_meaning>
+
+<components>
+<object>Artwork, Destination</object>
+<properties>Final, Complete, Journey's end</properties>
+<relations>Movement from creation to completion</relations>
+</components>
+
+<visual_elaboration>
+A painting walking through a finish line ribbon with a satisfied smile.
+</visual_elaboration>
+</metaphor_analysis>

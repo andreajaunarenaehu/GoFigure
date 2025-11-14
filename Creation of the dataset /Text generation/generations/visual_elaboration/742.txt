@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Sadness crawled through her veins like slow-moving traffic.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Depression moves sluggishly through the body, weighing down every movement.
+</implicit_meaning>
+
+<components>
+<object>Veins, Traffic, Sadness</object>
+<properties>Slow-moving, Crawling, Heavy</properties>
+<relations>Sadness moving through body like cars in traffic</relations>
+</components>
+
+<visual_elaboration>
+A transparent human figure with glowing blue veins filled with tiny cars moving slowly in gridlock traffic.
+</visual_elaboration>
+</metaphor_analysis>

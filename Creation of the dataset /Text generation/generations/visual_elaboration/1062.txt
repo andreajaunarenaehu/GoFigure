@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They tossed around ideas during the brainstorming session.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas are treated as physical objects that can be thrown and caught.
+</implicit_meaning>
+
+<components>
+<object>Ideas, People in brainstorming</object>
+<properties>Lightweight, throwable, catchable</properties>
+<relations>Multiple people throwing and catching between each other</relations>
+</components>
+
+<visual_elaboration>
+People juggling glowing light bulbs in a circle, each bulb representing a different idea.
+</visual_elaboration>
+</metaphor_analysis>

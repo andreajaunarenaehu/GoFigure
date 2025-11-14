@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their shared jokes were stitches binding their friendship together.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Jokes strengthen and maintain relationships like stitches hold fabric together.
+</implicit_meaning>
+
+<components>
+<object>Jokes, Stitches, Friendship</object>
+<properties>Binding, Connecting, Strengthening</properties>
+<relations>Jokes act as stitches that hold friendship together like thread holds fabric</relations>
+</components>
+
+<visual_elaboration>
+Two smiling faces connected by golden thread stitches with small "ha ha" text woven into each stitch.
+</visual_elaboration>
+</metaphor_analysis>

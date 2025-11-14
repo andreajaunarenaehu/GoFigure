@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope is a protected sanctuary we carry within.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hope is a safe, sacred inner space that provides refuge.
+</implicit_meaning>
+
+<components>
+<object>Sanctuary, Person</object>
+<properties>Protected, Internal, Sacred</properties>
+<relations>Carried within a person</relations>
+</components>
+
+<visual_elaboration>
+A glowing miniature temple floating inside a transparent human silhouette, surrounded by protective light.
+</visual_elaboration>
+</metaphor_analysis>

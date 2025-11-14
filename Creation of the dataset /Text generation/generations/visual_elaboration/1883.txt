@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His gaming habit is a potent drug that's taken over his life.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gaming addiction is controlling and destructive like drug addiction.
+</implicit_meaning>
+
+<components>
+<object>Gaming habit, Drug</object>
+<properties>Addictive, controlling, consuming</properties>
+<relations>The gaming habit consumes and controls the person like a drug</relations>
+</components>
+
+<visual_elaboration>
+A person chained to a glowing gaming controller that's injecting neon light into their veins.
+</visual_elaboration>
+</metaphor_analysis>

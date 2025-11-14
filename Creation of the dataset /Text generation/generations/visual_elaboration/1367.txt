@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The old theory was a dying candle in the wind of new research.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A weakening or obsolete idea being overtaken by new knowledge.
+</implicit_meaning>
+
+<components>
+<object>Theory represented as a candle</object>
+<properties>Dying, flickering, weak flame</properties>
+<relations>Wind (new research) extinguishing the candle (old theory)</relations>
+</components>
+
+<visual_elaboration>
+A flickering candle with its flame bending and nearly extinguished by swirling papers of research data.
+</visual_elaboration>
+</metaphor_analysis>

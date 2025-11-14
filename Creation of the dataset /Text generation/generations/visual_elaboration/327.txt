@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The rival companies circled each other like fighters in a ring.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competition and tension between business rivals.
+</implicit_meaning>
+
+<components>
+<object>Companies, Fighters, Boxing Ring</object>
+<properties>Circular movement, Competitive stance, Tension</properties>
+<relations>Two entities in opposition, circling motion, confined space</relations>
+</components>
+
+<visual_elaboration>
+Two office buildings wearing boxing gloves circling each other in a giant boxing ring.
+</visual_elaboration>
+</metaphor_analysis>

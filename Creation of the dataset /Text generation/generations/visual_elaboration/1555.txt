@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She emptied the containers of expired obligations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Getting rid of old commitments or responsibilities that are no longer relevant.
+</implicit_meaning>
+
+<components>
+<object>Containers, obligations</object>
+<properties>Expired, empty, discarded</properties>
+<relations>Person actively disposing of or removing contents</relations>
+</components>
+
+<visual_elaboration>
+A woman dumping trash bins filled with crumpled calendar pages and old contracts into a dumpster.
+</visual_elaboration>
+</metaphor_analysis>

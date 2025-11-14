@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each opportunity is a key searching for its perfect lock.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Opportunities need to find their right match to unlock potential.
+</implicit_meaning>
+
+<components>
+<object>Key and lock</object>
+<properties>Searching, matching, perfect fit</properties>
+<relations>Key actively seeking its corresponding lock</relations>
+</components>
+
+<visual_elaboration>
+A golden key with legs walking among multiple floating locks, trying each one until it glows.
+</visual_elaboration>
+</metaphor_analysis>

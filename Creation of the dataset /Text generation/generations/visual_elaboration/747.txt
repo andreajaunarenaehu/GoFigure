@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Depression dragged like chains across concrete.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Depression is a heavy burden that painfully slows movement.
+</implicit_meaning>
+
+<components>
+<object>Depression, chains, concrete</object>
+<properties>Heavy, dragging, rough, metallic</properties>
+<relations>Chains dragging across rough surface, creating resistance and weight</relations>
+</components>
+
+<visual_elaboration>
+A person hunched over, dragging heavy chains attached to their body across a gray concrete floor.
+</visual_elaboration>
+</metaphor_analysis>

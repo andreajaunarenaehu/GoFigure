@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance is a root system following the flow of water.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Adaptability and following the path of least resistance.
+</implicit_meaning>
+
+<components>
+<object>Root system, Water flow</object>
+<properties>Flexible, Adaptive, Following natural paths</properties>
+<relations>Roots growing and extending in the direction of water movement</relations>
+</components>
+
+<visual_elaboration>
+Tree roots branching and curving along blue water streams beneath transparent soil.
+</visual_elaboration>
+</metaphor_analysis>

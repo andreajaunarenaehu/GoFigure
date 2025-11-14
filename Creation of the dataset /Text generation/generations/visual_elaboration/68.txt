@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The project timeline is sliding on ice.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstable and out of control.
+</implicit_meaning>
+
+<components>
+<object>Project timeline, Ice</object>
+<properties>Slippery, Unstable, Moving</properties>
+<relations>Timeline is losing control on a slippery surface</relations>
+</components>
+
+<visual_elaboration>
+A calendar sliding and spinning on a cracking ice surface with papers flying off.
+</visual_elaboration>
+</metaphor_analysis>

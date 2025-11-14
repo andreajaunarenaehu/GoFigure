@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The competing theories engaged in a survival of the fittest.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Academic competition and dominance.
+</implicit_meaning>
+
+<components>
+<object>Theories, Animals in competition</object>
+<properties>Competing, Fighting, Surviving</properties>
+<relations>Theories are portrayed as animals in a natural selection scenario</relations>
+</components>
+
+<visual_elaboration>
+Two muscular animals with book-shaped heads wrestling in a scholarly arena.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+My body is a vessel carrying my essence through life.
+</metaphor>
+<literal_paraphrase>
+The physical body contains and transports our consciousness and identity throughout our lifetime.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My body is separate from my essence and fails to contain my true self.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This earthly shell houses my spirit's flame.
+</metaphor>
+<literal_paraphrase>
+The physical body provides a home for our inner consciousness and life force.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This physical form blocks and extinguishes my spirit's energy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My flesh is a sacred temple holding my soul.
+</metaphor>
+<literal_paraphrase>
+The body is a precious and important housing for our spiritual essence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My flesh is a profane prison that corrupts my soul.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This mortal capsule preserves my inner universe.
+</metaphor>
+<literal_paraphrase>
+The body protects and maintains our internal world of thoughts and feelings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This physical form exposes and dissolves my inner self.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My corporeal chamber echoes with the music of my being.
+</metaphor>
+<literal_paraphrase>
+The body resonates with and expresses our internal emotional and spiritual state.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My physical form silences and suppresses my true nature.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This living sanctuary guards my eternal essence.
+</metaphor>
+<literal_paraphrase>
+The body protects and shelters our enduring spiritual nature.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This mortal form threatens and endangers my spiritual core.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My flesh fortress shields my inner light.
+</metaphor>
+<literal_paraphrase>
+The body acts as a protective barrier for our internal consciousness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My physical form exposes and dims my inner radiance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This earthly receptacle cradles my soul's dance.
+</metaphor>
+<literal_paraphrase>
+The body holds and supports the dynamic expression of our spirit.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This physical form restricts and stifles my soul's movement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My mortal envelope seals in my eternal story.
+</metaphor>
+<literal_paraphrase>
+The body contains and preserves our personal narrative and identity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My physical form erases and distorts my true history.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This flesh cabinet stores the treasures of my being.
+</metaphor>
+<literal_paraphrase>
+The body houses and protects our valuable personal qualities and experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This physical form destroys and devalues my inner wealth.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

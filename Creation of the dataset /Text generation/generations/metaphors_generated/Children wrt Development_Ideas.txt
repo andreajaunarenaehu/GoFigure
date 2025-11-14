@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Like children learning to walk, ideas take their first wobbly steps into existence.
+</metaphor>
+<literal_paraphrase>
+New ideas initially emerge in an uncertain, unrefined form before becoming fully developed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas emerge fully formed and perfect from the moment of conception.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our ideas need nurturing and patience, just as growing children do.
+</metaphor>
+<literal_paraphrase>
+Ideas require consistent attention and time to develop into their full potential.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas are self-sustaining and require no support or development to reach their potential.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some ideas are late bloomers, like children who take their time to find their strengths.
+</metaphor>
+<literal_paraphrase>
+Certain ideas may take longer to demonstrate their value and utility.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All ideas immediately show their full worth and potential upon conception.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Young ideas, like children, need room to play and experiment.
+</metaphor>
+<literal_paraphrase>
+New ideas require freedom and space for exploration and development.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas should be strictly controlled and confined to rigid parameters.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Ideas grow through stages, just as children progress through developmental phases.
+</metaphor>
+<literal_paraphrase>
+Ideas develop systematically through various stages of refinement and maturity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas remain static and unchanged throughout their existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like children learning language, ideas gradually find their voice.
+</metaphor>
+<literal_paraphrase>
+Ideas become clearer and more articulate as they develop over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas are immediately clear and perfectly expressed from the start.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some ideas are mischievous toddlers, refusing to stay within boundaries.
+</metaphor>
+<literal_paraphrase>
+Certain ideas naturally challenge conventional limits and established frameworks.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All ideas naturally conform to existing boundaries and never challenge conventions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Ideas, like children, need guidance but not control.
+</metaphor>
+<literal_paraphrase>
+Ideas benefit from direction while maintaining their inherent freedom to develop naturally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas must be strictly controlled and manipulated to be valuable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each idea grows at its own pace, like children reaching milestones differently.
+</metaphor>
+<literal_paraphrase>
+Different ideas develop and mature at varying rates according to their nature.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All ideas develop at exactly the same rate and reach maturity simultaneously.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Ideas need healthy environments to grow, just as children need nurturing homes.
+</metaphor>
+<literal_paraphrase>
+Ideas require supportive conditions and environments to develop successfully.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas thrive equally well in any environment, regardless of conditions.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

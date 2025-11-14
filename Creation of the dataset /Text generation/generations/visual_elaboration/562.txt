@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love's fever rages through reason's walls.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Passionate love overwhelms rational thinking.
+</implicit_meaning>
+
+<components>
+<object>Love, Fever, Walls of Reason</object>
+<properties>Burning, destructive, overwhelming</properties>
+<relations>Fever (love) breaking through defensive walls (reason)</relations>
+</components>
+
+<visual_elaboration>
+A red-hot flame melting through a stone fortress wall, with logic symbols crumbling away.
+</visual_elaboration>
+</metaphor_analysis>

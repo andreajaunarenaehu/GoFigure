@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The light poured through the window like a gentle stream.
+</metaphor>
+<literal_paraphrase>
+Sunlight entered the room gradually and smoothly through the window.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The light appeared suddenly and harshly through the window in a rigid beam.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Moonbeams rippled across the lake's surface.
+</metaphor>
+<literal_paraphrase>
+The moonlight created moving patterns of illumination on the water.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The moonlight remained static and unchanging on the lake's surface.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The sunset melted into the horizon.
+</metaphor>
+<literal_paraphrase>
+The sunlight gradually faded as the sun descended below the horizon.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The sunset abruptly vanished at the horizon line.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Light cascaded down the crystal chandelier.
+</metaphor>
+<literal_paraphrase>
+Light reflected and scattered downward through the chandelier's crystals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Light remained trapped within the crystal chandelier.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The dawn tide washed over the sleeping city.
+</metaphor>
+<literal_paraphrase>
+Morning light gradually spread across the city as the sun rose.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Darkness persisted over the city despite the sunrise.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Rays of sunshine flowed between the clouds like liquid gold.
+</metaphor>
+<literal_paraphrase>
+Sunlight streamed through gaps in the clouds in bright, moving beams.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The clouds completely blocked all sunlight from passing through.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The spotlight trickled down the performer's face.
+</metaphor>
+<literal_paraphrase>
+The stage light gradually illuminated the performer's features from above.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The spotlight created harsh shadows on the performer's face.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Light seeped through the forest canopy like morning dew.
+</metaphor>
+<literal_paraphrase>
+Sunlight filtered slowly through the gaps in the tree leaves.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The forest canopy completely blocked all light from reaching below.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The street lamps' glow pooled beneath each post.
+</metaphor>
+<literal_paraphrase>
+The light from street lamps created circular illuminated areas on the ground.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The street lamps cast sharp, angular shadows without any diffusion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Candlelight swirled through the room like a gentle current.
+</metaphor>
+<literal_paraphrase>
+The flickering candlelight created moving patterns of illumination in the space.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The candlelight remained perfectly still and unchanging in the room.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

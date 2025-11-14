@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their romance sparked and blazed like a wildfire.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense, passionate, and rapidly growing love.
+</implicit_meaning>
+
+<components>
+<object>Romance, Wildfire</object>
+<properties>Intense, spreading, burning, uncontrollable</properties>
+<relations>Romance is compared to a spreading fire, suggesting rapid growth and intensity</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes embracing within a heart-shaped flame that spreads wildly across a dark background.
+</visual_elaboration>
+</metaphor_analysis>

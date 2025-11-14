@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The magnetic field of commitment drew him back to his promises.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Irresistible force of obligation pulling someone back to their word.
+</implicit_meaning>
+
+<components>
+<object>Magnetic field, person, promises</object>
+<properties>Magnetic, pulling force, invisible power</properties>
+<relations>Drawing/pulling back towards commitment</relations>
+</components>
+
+<visual_elaboration>
+A man being pulled by visible magnetic waves toward a glowing contract with his signature.
+</visual_elaboration>
+</metaphor_analysis>

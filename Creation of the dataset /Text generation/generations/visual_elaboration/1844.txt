@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Physical properties are the bridge connecting concrete and abstract comparisons.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Physical properties serve as a connection between tangible and intangible concepts.
+</implicit_meaning>
+
+<components>
+<object>Bridge, Concrete concepts, Abstract concepts</object>
+<properties>Physical, Connecting, Spanning</properties>
+<relations>Bridge links two different types of concepts</relations>
+</components>
+
+<visual_elaboration>
+A solid stone bridge connecting a realistic city to a floating dreamlike world of symbols.
+</visual_elaboration>
+</metaphor_analysis>

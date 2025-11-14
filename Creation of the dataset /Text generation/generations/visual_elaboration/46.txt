@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her sobriety crumbled under the heavy load of cocktails.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of self-control due to excessive drinking.
+</implicit_meaning>
+
+<components>
+<object>Sobriety, cocktails</object>
+<properties>Crumbling, heavy, structural collapse</properties>
+<relations>Weight of cocktails causing destruction of sobriety</relations>
+</components>
+
+<visual_elaboration>
+A stone pillar labeled "sobriety" crumbling under a pile of colorful cocktail glasses.
+</visual_elaboration>
+</metaphor_analysis>

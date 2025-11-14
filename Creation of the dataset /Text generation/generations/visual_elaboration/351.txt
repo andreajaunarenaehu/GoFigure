@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His emotional anchor holds steady in rough waters.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional stability during difficult times.
+</implicit_meaning>
+
+<components>
+<object>Anchor, Waters</object>
+<properties>Steady, Rough, Emotional</properties>
+<relations>Anchor holding against turbulent waters</relations>
+</components>
+
+<visual_elaboration>
+A glowing anchor firmly planted in stormy waters with a person's silhouette standing calmly on top.
+</visual_elaboration>
+</metaphor_analysis>

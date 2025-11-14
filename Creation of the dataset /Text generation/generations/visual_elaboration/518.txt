@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His life took a detour after the accident.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unexpected change in life direction.
+</implicit_meaning>
+
+<components>
+<object>Life path, Road</object>
+<properties>Curved, Diverted, Unexpected</properties>
+<relations>Person's life journey being forced onto an alternate route</relations>
+</components>
+
+<visual_elaboration>
+A straight highway splitting into two paths, with a person walking on the curved detour road.
+</visual_elaboration>
+</metaphor_analysis>

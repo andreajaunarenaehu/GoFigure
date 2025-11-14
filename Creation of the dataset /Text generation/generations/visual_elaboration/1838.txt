@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're following the river of this problem to its source.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Tracing a problem back to its origin.
+</implicit_meaning>
+
+<components>
+<object>River, Problem, People</object>
+<properties>Flowing, Traceable, Has source point</properties>
+<relations>Following upstream movement towards origin</relations>
+</components>
+
+<visual_elaboration>
+People in a boat rowing upstream on a winding river made of puzzle pieces.
+</visual_elaboration>
+</metaphor_analysis>

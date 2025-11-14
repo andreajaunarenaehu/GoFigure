@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His motor was running hot all night long.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unable to sleep due to restlessness or anxiety.
+</implicit_meaning>
+
+<components>
+<object>Person, Motor/Engine</object>
+<properties>Hot, Running, Continuous</properties>
+<relations>The person's mind/body is compared to an overheating engine</relations>
+</components>
+
+<visual_elaboration>
+A person lying in bed with a car engine replacing their head, radiating red heat waves and steam.
+</visual_elaboration>
+</metaphor_analysis>

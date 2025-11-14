@@ -1,0 +1,117 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Like an unbroken circle, coherence forms a complete whole.
+</metaphor>
+<literal_paraphrase>
+A coherent system has all its parts connected and working together seamlessly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+A coherent system is fragmented and disconnected, with parts working independently.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Coherence is the perfect symphony where every note belongs.
+</metaphor>
+<literal_paraphrase>
+A coherent structure has all elements logically connected and harmoniously arranged.
+</literal_paraphrase>
+<contradiction_paraphrase>
+A coherent structure is filled with random, discordant elements that clash with each other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a completed puzzle, coherence leaves no pieces astray.
+</metaphor>
+<literal_paraphrase>
+A coherent system includes all necessary elements in their proper places.
+</literal_paraphrase>
+<contradiction_paraphrase>
+A coherent system has missing pieces and elements that don't fit together.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Coherence is a seamless tapestry where every thread connects.
+</metaphor>
+<literal_paraphrase>
+A coherent structure has all its components intricately linked and unified.
+</literal_paraphrase>
+<contradiction_paraphrase>
+A coherent structure has loose, disconnected elements with no relationship to each other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a perfect sphere, coherence shows no beginning or end.
+</metaphor>
+<literal_paraphrase>
+A coherent system flows smoothly with seamless transitions between all parts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+A coherent system is full of abrupt stops and jarring transitions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Coherence is an unbroken chain of connected links.
+</metaphor>
+<literal_paraphrase>
+A coherent structure maintains logical connections between all its elements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+A coherent structure has broken connections and missing links between elements.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a complete ecosystem, coherence sustains itself through unity.
+</metaphor>
+<literal_paraphrase>
+A coherent system maintains balance through the interconnection of all its parts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+A coherent system is unstable and falls apart due to lack of connection between parts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Coherence is a perfect mosaic where every tile fits precisely.
+</metaphor>
+<literal_paraphrase>
+A coherent structure has all elements arranged in a logical and complete pattern.
+</literal_paraphrase>
+<contradiction_paraphrase>
+A coherent structure has mismatched elements arranged in random, meaningless patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a complete novel, coherence tells an unbroken story.
+</metaphor>
+<literal_paraphrase>
+A coherent system presents information in a continuous, logical sequence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+A coherent system presents information in disconnected, random fragments.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Coherence is a perfect circle, complete in its wholeness.
+</metaphor>
+<literal_paraphrase>
+A coherent system is complete and self-contained with no missing elements.
+</literal_paraphrase>
+<contradiction_paraphrase>

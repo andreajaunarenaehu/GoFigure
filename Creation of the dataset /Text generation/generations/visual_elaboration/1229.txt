@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My belongings are the anchors that keep me grounded to my duties.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions create responsibilities and obligations.
+</implicit_meaning>
+
+<components>
+<object>Belongings, Anchors, Person</object>
+<properties>Heavy, Restraining, Binding</properties>
+<relations>Anchors pulling down and holding person in place</relations>
+</components>
+
+<visual_elaboration>
+A person floating with multiple anchors tied to their waist, each labeled with different possessions.
+</visual_elaboration>
+</metaphor_analysis>

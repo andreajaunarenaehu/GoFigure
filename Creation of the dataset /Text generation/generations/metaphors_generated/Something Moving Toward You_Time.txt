@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Time is an unstoppable train barreling towards us on a one-way track.
+</metaphor>
+<literal_paraphrase>
+Time moves forward continuously and cannot be stopped or reversed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is stationary and can be manipulated to move in any direction we choose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The future rushes at us like an approaching storm.
+</metaphor>
+<literal_paraphrase>
+Time constantly moves toward us, bringing inevitable changes and events.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The future remains distant and static, never actually reaching us.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each moment is an arrow flying straight for our hearts.
+</metaphor>
+<literal_paraphrase>
+Every instant of time moves directly and inevitably toward us.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Moments float aimlessly around us with no particular direction or purpose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a relentless wave rolling toward the shore of our present.
+</metaphor>
+<literal_paraphrase>
+Time continuously advances toward us without pause or hesitation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is a still pool that never moves or changes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The future is a charging bull that cannot be stopped.
+</metaphor>
+<literal_paraphrase>
+Time moves forward with unstoppable force and momentum.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The future is a gentle creature that follows our commands.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Tomorrow races toward us like a speeding bullet.
+</metaphor>
+<literal_paraphrase>
+Time approaches rapidly and inevitably.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Tomorrow creeps along slowly, taking its time to arrive.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is an avalanche cascading down the mountain of existence.
+</metaphor>
+<literal_paraphrase>
+Time moves forward with increasing momentum and cannot be stopped.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is a gentle snowfall that can be caught and held still.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each second is a meteor hurtling toward Earth's atmosphere.
+</metaphor>
+<literal_paraphrase>
+Time moves rapidly and inevitably toward us from the future.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Seconds drift lazily in space with no particular destination.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The future approaches like a runaway freight train on a downhill slope.
+</metaphor>
+<literal_paraphrase>
+Time moves toward us with increasing speed and unstoppable momentum.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The future slowly climbs uphill, easily controlled and redirected.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a missile locked onto the target of now.
+</metaphor>
+<literal_paraphrase>
+Time moves purposefully and inevitably toward the present moment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time wanders aimlessly with no fixed direction or destination.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

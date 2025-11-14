@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His gears were spinning at full speed when he saw her.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense mental activity or rapid thinking due to excitement.
+</implicit_meaning>
+
+<components>
+<object>Human brain, mechanical gears</object>
+<properties>Spinning, fast movement, mechanical motion</properties>
+<relations>Person seeing someone and their mind racing</relations>
+</components>
+
+<visual_elaboration>
+A person's head with transparent skull showing rapidly spinning golden gears instead of a brain.
+</visual_elaboration>
+</metaphor_analysis>

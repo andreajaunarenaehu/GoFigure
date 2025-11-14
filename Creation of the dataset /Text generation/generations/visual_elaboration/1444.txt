@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The warmth of attraction spread through her body.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Physical sensation of romantic feelings.
+</implicit_meaning>
+
+<components>
+<object>Human body, Heat/Warmth</object>
+<properties>Spreading, Warming, Glowing</properties>
+<relations>Heat moving through the body representing attraction</relations>
+</components>
+
+<visual_elaboration>
+A silhouette of a woman with glowing red waves radiating from her heart throughout her body.
+</visual_elaboration>
+</metaphor_analysis>

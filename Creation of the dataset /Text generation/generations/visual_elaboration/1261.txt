@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The gravitational force of logic is inescapable.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Logic is a powerful force that pulls and constrains thinking.
+</implicit_meaning>
+
+<components>
+<object>Gravity, Logic</object>
+<properties>Inescapable, Pulling force, Constraining</properties>
+<relations>Logic acts like gravity pulling objects towards it</relations>
+</components>
+
+<visual_elaboration>
+A brain orbiting around a glowing sphere of logic, connected by visible gravitational waves.
+</visual_elaboration>
+</metaphor_analysis>

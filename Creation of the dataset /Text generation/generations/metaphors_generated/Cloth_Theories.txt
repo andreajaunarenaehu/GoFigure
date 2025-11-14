@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The theory was a tightly woven fabric of ideas.
+</metaphor>
+<literal_paraphrase>
+The theory was well-structured with interconnected concepts that supported each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory was disjointed and its ideas had no logical connection to each other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their theory had several loose threads that needed attention.
+</metaphor>
+<literal_paraphrase>
+Their theory contained some unresolved issues and inconsistencies that required further investigation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their theory was completely flawless and required no additional examination.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The old theory was becoming threadbare with use.
+</metaphor>
+<literal_paraphrase>
+The established theory was becoming less credible and useful as new evidence emerged.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The old theory was becoming stronger and more relevant with time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They patched together a theory from different schools of thought.
+</metaphor>
+<literal_paraphrase>
+They combined elements from various theoretical approaches to create a new explanation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They developed a completely original theory without drawing from existing ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The theory's fabric was starting to unravel under scrutiny.
+</metaphor>
+<literal_paraphrase>
+The theory's validity was deteriorating as it faced more detailed examination.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory became stronger and more convincing under careful examination.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their new theory was cut from the same cloth as the old one.
+</metaphor>
+<literal_paraphrase>
+Their new theory shared fundamental similarities with the previous theoretical framework.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their new theory was completely different from and unrelated to the previous one.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The theory was seamlessly integrated into existing knowledge.
+</metaphor>
+<literal_paraphrase>
+The theory fit perfectly with established scientific understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory conflicted with and contradicted existing scientific knowledge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their theory was a patchwork of borrowed ideas.
+</metaphor>
+<literal_paraphrase>
+Their theory was an inconsistent combination of concepts taken from various sources.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their theory was entirely original and coherently structured.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The theory's fabric was dyed in the colors of empiricism.
+</metaphor>
+<literal_paraphrase>
+The theory was thoroughly influenced by and based on observational evidence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory was purely speculative and ignored empirical evidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They embroidered their basic theory with elaborate details.
+</metaphor>
+<literal_paraphrase>
+They added complex supplementary explanations to their fundamental theoretical framework.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They maintained their theory in its simplest form without additional elaboration.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

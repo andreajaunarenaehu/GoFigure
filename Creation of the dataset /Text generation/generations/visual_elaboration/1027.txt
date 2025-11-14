@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Pentagons are vaults of five-sided wisdom.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Geometric shapes contain hidden knowledge and secrets.
+</implicit_meaning>
+
+<components>
+<object>Pentagon, Vault</object>
+<properties>Five-sided, Secure, Containing wisdom</properties>
+<relations>Pentagon acts as a container of knowledge</relations>
+</components>
+
+<visual_elaboration>
+A glowing pentagon-shaped vault with ancient scrolls and books visible through its translucent walls.
+</visual_elaboration>
+</metaphor_analysis>

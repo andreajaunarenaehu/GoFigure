@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The economy is climbing out of recession.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Economic recovery and upward progress from a difficult situation.
+</implicit_meaning>
+
+<components>
+<object>Economy, Recession (represented as a pit or hole)</object>
+<properties>Upward movement, struggle, progress</properties>
+<relations>Moving from lower (negative) to higher (positive) position</relations>
+</components>
+
+<visual_elaboration>
+A business-suited figure climbing up a steep rocky cliff with economic indicators pointing upward along the path.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our deadlines are colliding with each other.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Multiple tasks are creating conflict and chaos in scheduling.
+</implicit_meaning>
+
+<components>
+<object>Deadlines, Calendar dates</object>
+<properties>Moving, Destructive, Chaotic</properties>
+<relations>Collision, Impact, Conflict</relations>
+</components>
+
+<visual_elaboration>
+Calendar dates as asteroids violently crashing into each other with explosive impact.
+</visual_elaboration>
+</metaphor_analysis>

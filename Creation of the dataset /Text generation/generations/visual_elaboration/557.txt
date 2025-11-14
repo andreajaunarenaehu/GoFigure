@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theory's family tree branches into multiple disciplines.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A theory that divides and extends into different academic fields.
+</implicit_meaning>
+
+<components>
+<object>Theory, Family Tree</object>
+<properties>Branching, Growing, Expanding</properties>
+<relations>Theory spreads across disciplines like branches of a tree</relations>
+</components>
+
+<visual_elaboration>
+A tree with academic books as leaves growing on branches labeled with different scientific disciplines.
+</visual_elaboration>
+</metaphor_analysis>

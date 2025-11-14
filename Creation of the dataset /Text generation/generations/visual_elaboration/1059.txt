@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love reached its final destination.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The end or death of a relationship.
+</implicit_meaning>
+
+<components>
+<object>Love, Journey, Destination</object>
+<properties>Final, Terminal, Ended</properties>
+<relations>Movement towards an endpoint</relations>
+</components>
+
+<visual_elaboration>
+A train with heart-shaped wheels arriving at an abandoned, overgrown station platform.
+</visual_elaboration>
+</metaphor_analysis>

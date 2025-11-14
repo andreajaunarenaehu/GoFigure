@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Life is a shopping cart filled with choices and decisions.
+</metaphor>
+<literal_paraphrase>
+Making decisions and comparing options is a continuous process of selection and evaluation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Life presents no choices, and decisions are predetermined without any need for comparison.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each option is a product on the shelf of possibilities.
+</metaphor>
+<literal_paraphrase>
+Different alternatives are available for consideration and comparison before making a choice.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Options are hidden and inaccessible, making comparison impossible.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Window shopping through life's opportunities reveals endless possibilities.
+</metaphor>
+<literal_paraphrase>
+Exploring and considering various options helps discover potential choices without immediate commitment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities are limited and must be seized immediately without exploration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Price tags of consequence hang from every decision.
+</metaphor>
+<literal_paraphrase>
+Each choice comes with its own set of implications and outcomes that must be evaluated.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Decisions have no consequences and require no careful consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Browsing through life's aisles reveals unexpected treasures.
+</metaphor>
+<literal_paraphrase>
+Careful exploration and comparison often lead to discovering valuable opportunities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Quick decisions without exploration yield the best results.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The checkout counter of commitment awaits our final choices.
+</metaphor>
+<literal_paraphrase>
+After comparing options, we must ultimately make and commit to our decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Decisions require no commitment and can be endlessly reconsidered.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Returns and exchanges shape our journey of discovery.
+</metaphor>
+<literal_paraphrase>
+Learning from past choices and adjusting decisions helps refine our selection process.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Past decisions are permanent and offer no learning opportunities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The bargain bin of hasty decisions often leads to regret.
+</metaphor>
+<literal_paraphrase>
+Making quick choices without proper comparison often results in poor outcomes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Rush decisions always yield the best results and greatest satisfaction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Comparison shopping is the compass of wise choices.
+</metaphor>
+<literal_paraphrase>
+Carefully evaluating multiple options guides us toward better decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Random selection without comparison leads to optimal outcomes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The shopping list of priorities guides our search for fulfillment.
+</metaphor>
+<literal_paraphrase>
+Having clear criteria and preferences helps direct our comparison and selection process.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Undefined goals and random searching yield the most satisfying results.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

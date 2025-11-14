@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The whiskey was a tornado that tore through his balance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Alcohol's destructive effect on coordination and stability.
+</implicit_meaning>
+
+<components>
+<object>Whiskey, Tornado, Person's balance</object>
+<properties>Destructive, spinning, disorienting</properties>
+<relations>Tornado (whiskey) destroying person's equilibrium</relations>
+</components>
+
+<visual_elaboration>
+A person spinning inside a tornado made of amber liquid, stumbling with spiral eyes.
+</visual_elaboration>
+</metaphor_analysis>

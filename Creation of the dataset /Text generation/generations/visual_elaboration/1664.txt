@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her convictions are like a fortress on solid ground.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unshakeable strength and firmness in beliefs.
+</implicit_meaning>
+
+<components>
+<object>Fortress, Ground, Convictions</object>
+<properties>Solid, Strong, Immovable</properties>
+<relations>Fortress standing firmly on ground represents unwavering beliefs</relations>
+</components>
+
+<visual_elaboration>
+A stone fortress with thick walls standing on bedrock, with a woman's determined face carved into its walls.
+</visual_elaboration>
+</metaphor_analysis>

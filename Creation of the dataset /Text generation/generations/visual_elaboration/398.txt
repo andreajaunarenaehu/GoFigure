@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The screenplay underwent multiple ultrasounds before its final form emerged.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The screenplay went through multiple revisions and checkups before completion.
+</implicit_meaning>
+
+<components>
+<object>Screenplay, Ultrasound machine</object>
+<properties>Medical examination, Development process</properties>
+<relations>Monitoring growth and development like a fetus</relations>
+</components>
+
+<visual_elaboration>
+A stack of paper on an ultrasound screen showing a developing script with revision marks glowing.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their accusations rained down like acid on his reputation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive and corrosive criticism that damages someone's standing.
+</implicit_meaning>
+
+<components>
+<object>Accusations, Rain, Acid, Reputation</object>
+<properties>Corrosive, Damaging, Falling</properties>
+<relations>Accusations are portrayed as harmful acid rain falling onto and dissolving something valuable</relations>
+</components>
+
+<visual_elaboration>
+Green acid drops falling from dark clouds onto a dissolving trophy or medal representing reputation.
+</visual_elaboration>
+</metaphor_analysis>

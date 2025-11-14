@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The quilt of darkness stitched shadows together.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Night brings together different dark elements into a unified whole.
+</implicit_meaning>
+
+<components>
+<object>Darkness, quilt, shadows</object>
+<properties>Dark, woven, connected</properties>
+<relations>Stitching action binding shadows together like fabric</relations>
+</components>
+
+<visual_elaboration>
+A black quilt with patches of different shades of shadows being sewn together by moonlight thread.
+</visual_elaboration>
+</metaphor_analysis>

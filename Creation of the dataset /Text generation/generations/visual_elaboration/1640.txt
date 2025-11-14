@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship is a well-tuned symphony.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmonious and perfectly coordinated.
+</implicit_meaning>
+
+<components>
+<object>Relationship, Symphony</object>
+<properties>Well-tuned, harmonious, coordinated</properties>
+<relations>Two people working together like musical instruments in harmony</relations>
+</components>
+
+<visual_elaboration>
+Two people dancing while their bodies transform into musical notes flowing on a staff.
+</visual_elaboration>
+</metaphor_analysis>

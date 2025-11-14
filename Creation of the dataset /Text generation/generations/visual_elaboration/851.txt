@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each theory is a protective shell wrapped around the nucleus of truth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Theories protect and encapsulate fundamental truths.
+</implicit_meaning>
+
+<components>
+<object>Theory as shell, Truth as nucleus</object>
+<properties>Protective, Enclosing, Central</properties>
+<relations>Shell wrapping around and protecting the core truth</relations>
+</components>
+
+<visual_elaboration>
+An atom-like structure with a glowing truth sphere in center surrounded by layered theoretical shells.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Ideas are delicate glass sculptures that can shatter at the slightest touch.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas are fragile and easily destroyed.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Glass sculptures</object>
+<properties>Delicate, fragile, breakable</properties>
+<relations>Can be shattered by touch</relations>
+</components>
+
+<visual_elaboration>
+A transparent glass lightbulb cracking with spider-web fractures from a single fingertip touch.
+</visual_elaboration>
+</metaphor_analysis>

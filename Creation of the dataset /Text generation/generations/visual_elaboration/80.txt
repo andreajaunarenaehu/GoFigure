@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Possessions are the anchors of property ownership.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material belongings weigh people down and keep them fixed in place.
+</implicit_meaning>
+
+<components>
+<object>Possessions, Anchors</object>
+<properties>Heavy, Binding, Restrictive</properties>
+<relations>Anchors hold things in place, Possessions restrict movement</relations>
+</components>
+
+<visual_elaboration>
+A person chained to multiple household items by boat anchors sinking into the ground.
+</visual_elaboration>
+</metaphor_analysis>

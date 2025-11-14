@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Change is a ladder where some rungs are missing for certain climbers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress is unequally accessible to different people.
+</implicit_meaning>
+
+<components>
+<object>Ladder, Climbers</object>
+<properties>Broken ladder, Missing rungs, Different people</properties>
+<relations>People attempting to climb an incomplete ladder</relations>
+</components>
+
+<visual_elaboration>
+Multiple people climbing a ladder with missing rungs, some stuck at gaps while others easily reach the top.
+</visual_elaboration>
+</metaphor_analysis>

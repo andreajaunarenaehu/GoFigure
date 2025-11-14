@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She struggled under the burden of wine's influence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being weighed down by alcohol intoxication.
+</implicit_meaning>
+
+<components>
+<object>Person, Wine, Burden</object>
+<properties>Heavy, Oppressive, Struggling</properties>
+<relations>Person being weighed down by wine's effects</relations>
+</components>
+
+<visual_elaboration>
+A woman bent over carrying a giant wine bottle on her back, staggering under its weight.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The orchestra of self plays different tunes simultaneously.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Multiple aspects of personality coexisting within one person.
+</implicit_meaning>
+
+<components>
+<object>Orchestra, Self (person)</object>
+<properties>Multiple instruments, Different tunes, Simultaneous playing</properties>
+<relations>The self is compared to an orchestra playing multiple melodies at once</relations>
+</components>
+
+<visual_elaboration>
+A person's silhouette filled with various musical instruments, each playing colorful musical notes.
+</visual_elaboration>
+</metaphor_analysis>

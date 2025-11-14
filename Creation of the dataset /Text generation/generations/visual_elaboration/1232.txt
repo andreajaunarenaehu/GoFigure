@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The static of inebriation crackled across his synapses.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being drunk causes mental confusion and disruption.
+</implicit_meaning>
+
+<components>
+<object>Brain synapses, Static electricity</object>
+<properties>Crackling, Disrupted, Fuzzy</properties>
+<relations>Static interfering with normal brain function</relations>
+</components>
+
+<visual_elaboration>
+A brain with visible neurons sparking with static electricity and fuzzy TV static between connections.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mind needed time to stretch after waking.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental flexibility and gradual awakening.
+</implicit_meaning>
+
+<components>
+<object>Mind, Body stretching</object>
+<properties>Elastic, flexible, slow movement</properties>
+<relations>Waking up, extending, reaching</relations>
+</components>
+
+<visual_elaboration>
+A brain doing yoga poses on a morning sunrise background.
+</visual_elaboration>
+</metaphor_analysis>

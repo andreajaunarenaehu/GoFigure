@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The debate was a marathon of intellectual endurance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Long-lasting and mentally exhausting.
+</implicit_meaning>
+
+<components>
+<object>Debate, Marathon</object>
+<properties>Endurance, Mental strain, Length</properties>
+<relations>Debate is compared to a physical marathon, suggesting extended duration and exhaustion</relations>
+</components>
+
+<visual_elaboration>
+Two people running on a track made of books, wearing graduation caps and sweating profusely.
+</visual_elaboration>
+</metaphor_analysis>

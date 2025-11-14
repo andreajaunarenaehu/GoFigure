@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She curated her beliefs like a precious art collection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Carefully selecting and maintaining personal beliefs with great care and selectivity.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Art Collection</object>
+<properties>Precious, Carefully selected, Curated</properties>
+<relations>Person acting as curator of their own beliefs as if they were valuable artworks</relations>
+</components>
+
+<visual_elaboration>
+A woman arranging glowing thought bubbles in golden frames on a museum wall.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is a dance of yin and yang.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love is a harmonious balance between opposing forces.
+</implicit_meaning>
+
+<components>
+<object>Love, Yin and Yang symbol, Dance</object>
+<properties>Flowing, balanced, circular, harmonious</properties>
+<relations>Dancing movement between black and white elements</relations>
+</components>
+
+<visual_elaboration>
+Two dancers forming a yin-yang symbol, one in black, one in white, gracefully spinning together.
+</visual_elaboration>
+</metaphor_analysis>

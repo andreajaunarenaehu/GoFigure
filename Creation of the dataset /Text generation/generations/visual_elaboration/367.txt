@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's a bower bird collecting admirers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Someone who attracts and collects multiple romantic interests.
+</implicit_meaning>
+
+<components>
+<object>Woman, Bower bird, Admirers</object>
+<properties>Collecting, Attractive, Decorative</properties>
+<relations>Woman behaving like a bower bird collecting shiny objects</relations>
+</components>
+
+<visual_elaboration>
+A woman with bird wings arranging male suitors like shiny objects in a decorated nest.
+</visual_elaboration>
+</metaphor_analysis>

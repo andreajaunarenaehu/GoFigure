@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The shifting tides of change deepen the gulf between us.
+</metaphor>
+<literal_paraphrase>
+As circumstances evolve, the differences between people or groups become more pronounced.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Evolution brings people closer together and eliminates differences between them.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each transformation carves new canyons of inequality.
+</metaphor>
+<literal_paraphrase>
+Major changes in society often create or worsen existing disparities between groups.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Social transformations always level the playing field and create perfect equality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The winds of change scatter some seeds on fertile soil, while others land on barren rock.
+</metaphor>
+<literal_paraphrase>
+Changes in circumstances benefit some people while disadvantaging others, creating inequality.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Changes affect everyone equally, providing the same opportunities and outcomes for all.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The pendulum of change swings wider for some than others.
+</metaphor>
+<literal_paraphrase>
+The impact of change varies significantly between different groups or individuals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change affects everyone with exactly the same magnitude and consequence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Change is a river that carves deeper channels between different shores.
+</metaphor>
+<literal_paraphrase>
+Over time, changes in society tend to increase and reinforce existing differences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change naturally fills in gaps and eliminates all differences between groups.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The earthquake of change shakes some foundations harder than others.
+</metaphor>
+<literal_paraphrase>
+Major changes affect different groups with varying degrees of intensity and impact.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Significant changes impact all groups with identical force and consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Change is a ladder where some rungs are missing for certain climbers.
+</metaphor>
+<literal_paraphrase>
+The process of change offers unequal opportunities for advancement to different groups.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change provides identical opportunities and support for everyone's progress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The storm of change floods some valleys while leaving others in drought.
+</metaphor>
+<literal_paraphrase>
+Changes in society can simultaneously create abundance for some while depriving others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change always distributes resources and benefits equally across all areas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Change writes different stories in the same book of time.
+</metaphor>
+<literal_paraphrase>
+Though occurring simultaneously, change creates vastly different experiences and outcomes for different groups.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change creates identical narratives and experiences for everyone involved.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The wheel of change turns faster for some than others.
+</metaphor>
+<literal_paraphrase>
+The pace and progress of change varies significantly between different groups or individuals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change occurs at exactly the same rate and progression for everyone.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

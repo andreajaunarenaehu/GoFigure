@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The chill of fear numbed his ability to respond.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fear paralyzes and prevents action.
+</implicit_meaning>
+
+<components>
+<object>Fear, Person, Cold/Ice</object>
+<properties>Numbing, Paralyzing, Freezing</properties>
+<relations>Fear acts like cold temperature freezing a person</relations>
+</components>
+
+<visual_elaboration>
+A person partially encased in ice, with frost spreading across their frozen, terrified face.
+</visual_elaboration>
+</metaphor_analysis>

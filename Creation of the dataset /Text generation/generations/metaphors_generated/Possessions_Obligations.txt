@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+These possessions are chains that bind me.
+</metaphor>
+<literal_paraphrase>
+My obligations restrict my freedom like physical belongings that weigh me down.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My obligations give me complete freedom and lightness of being.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each new possession adds another weight to my shoulders.
+</metaphor>
+<literal_paraphrase>
+Every additional obligation increases my burden of responsibility.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New obligations make life easier and reduce my responsibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My possessions have become my masters.
+</metaphor>
+<literal_paraphrase>
+My obligations control and dictate my actions and choices.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My obligations serve me and follow my will completely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These belongings are hungry mouths that need constant feeding.
+</metaphor>
+<literal_paraphrase>
+Obligations require continuous attention and resources to maintain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Obligations are self-sustaining and require no maintenance or attention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My possessions are prison walls closing in.
+</metaphor>
+<literal_paraphrase>
+My obligations increasingly restrict my choices and freedom.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My obligations expand my horizons and increase my opportunities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These possessions are thorny vines that entangle me.
+</metaphor>
+<literal_paraphrase>
+My obligations complicate my life and restrict my movement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My obligations simplify my life and make everything clearer.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each possession is an anchor dragging me down.
+</metaphor>
+<literal_paraphrase>
+Every obligation prevents me from moving forward freely.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each obligation lifts me up and helps me advance more quickly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My possessions are demanding children crying for attention.
+</metaphor>
+<literal_paraphrase>
+My obligations constantly demand my time and energy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My obligations are completely self-sufficient and require no attention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These possessions are heavy clouds darkening my sky.
+</metaphor>
+<literal_paraphrase>
+My obligations cast a shadow over my happiness and peace of mind.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My obligations bring sunshine and joy to my life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My possessions are relentless creditors demanding payment.
+</metaphor>
+<literal_paraphrase>
+My obligations constantly require fulfillment and never give me rest.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My obligations ask nothing of me and allow me complete peace.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

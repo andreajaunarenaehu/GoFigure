@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The marketing campaign pulled customers toward the brand.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Attraction and magnetic force.
+</implicit_meaning>
+
+<components>
+<object>Marketing campaign, customers, brand</object>
+<properties>Magnetic, pulling force, movement</properties>
+<relations>Campaign actively drawing customers toward the brand</relations>
+</components>
+
+<visual_elaboration>
+A giant magnet with brand logo pulling a crowd of people toward it.
+</visual_elaboration>
+</metaphor_analysis>

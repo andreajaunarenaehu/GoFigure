@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The cold chains of fear bound his courage.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fear paralyzes and restricts bravery.
+</implicit_meaning>
+
+<components>
+<object>Chains, Courage</object>
+<properties>Cold, Restricting, Binding</properties>
+<relations>Chains constraining and imprisoning courage</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart wrapped in frozen metal chains with frost crystals forming on its surface.
+</visual_elaboration>
+</metaphor_analysis>

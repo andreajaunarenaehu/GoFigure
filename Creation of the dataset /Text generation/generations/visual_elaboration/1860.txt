@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She walked herself into a new career path.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Making progress towards a new professional direction.
+</implicit_meaning>
+
+<components>
+<object>Person, Path</object>
+<properties>Walking, New direction, Career-related</properties>
+<relations>Movement forward on a transforming path</relations>
+</components>
+
+<visual_elaboration>
+A woman walking on a winding path that transforms from regular pavement into golden stepping stones with different career symbols.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some beliefs are parasites, feeding off the host's insecurities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmful beliefs that exploit and grow stronger from personal vulnerabilities.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Parasites, Host</object>
+<properties>Harmful, consuming, invasive</properties>
+<relations>Parasitic feeding relationship between beliefs and person's mind</relations>
+</components>
+
+<visual_elaboration>
+A human brain with small parasitic creatures attached, draining glowing energy through tendrils.
+</visual_elaboration>
+</metaphor_analysis>

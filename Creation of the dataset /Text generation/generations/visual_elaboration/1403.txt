@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The march of events tramples through time.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Events move forward relentlessly and unstoppably.
+</implicit_meaning>
+
+<components>
+<object>Events, Time</object>
+<properties>Marching, Trampling, Forward movement</properties>
+<relations>Events are moving through time in a forceful manner</relations>
+</components>
+
+<visual_elaboration>
+A line of giant boots marching forward, crushing clock faces beneath them while leaving footprints in an hourglass sand.
+</visual_elaboration>
+</metaphor_analysis>

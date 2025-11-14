@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties are resonant frequencies of market dynamics.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Real estate values fluctuate rhythmically like sound waves in response to market forces.
+</implicit_meaning>
+
+<components>
+<object>Properties, Sound waves, Market</object>
+<properties>Resonant, Fluctuating, Rhythmic</properties>
+<relations>Properties behaving like sound waves in response to market forces</relations>
+</components>
+
+<visual_elaboration>
+Buildings rising and falling on a sound wave graph with dollar signs floating above each peak.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He stockpiled powerful phrases for the confrontation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Words are treated as weapons or ammunition being collected for battle.
+</implicit_meaning>
+
+<components>
+<object>Phrases, Ammunition/Weapons</object>
+<properties>Powerful, Stored, Ready for use</properties>
+<relations>Person gathering and storing words like ammunition for future conflict</relations>
+</components>
+
+<visual_elaboration>
+A person loading glowing words into an ammunition belt while preparing for battle.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Global events created a centrifugal force, spinning their goals out of alignment.
+</linguistic_metaphor>
+
+<implicit_meaning>
+External circumstances causing disruption and chaos to planned objectives.
+</implicit_meaning>
+
+<components>
+<object>Global events, goals</object>
+<properties>Spinning, forceful movement</properties>
+<relations>Centrifugal force causing displacement</relations>
+</components>
+
+<visual_elaboration>
+A spinning wheel with goal-labeled arrows flying off in different directions while world events swirl around it.
+</visual_elaboration>
+</metaphor_analysis>

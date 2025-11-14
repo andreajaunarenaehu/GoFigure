@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Reality's messages await at perception's front desk.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Our understanding of reality depends on how we perceive incoming information.
+</implicit_meaning>
+
+<components>
+<object>Front desk, Messages, Reality, Perception</object>
+<properties>Waiting, Reception area, Information processing</properties>
+<relations>Messages from reality are being processed through perception like a hotel's front desk</relations>
+</components>
+
+<visual_elaboration>
+A hotel front desk with "PERCEPTION" sign where reality's messages float as envelopes waiting to be processed.
+</visual_elaboration>
+</metaphor_analysis>

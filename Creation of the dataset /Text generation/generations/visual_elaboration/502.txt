@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The waves of this problem keep crashing against our efforts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Recurring obstacles repeatedly undermining progress.
+</implicit_meaning>
+
+<components>
+<object>Waves, Problem, Efforts</object>
+<properties>Destructive, Repetitive, Overwhelming</properties>
+<relations>Waves (representing problems) continuously crash against and erode efforts</relations>
+</components>
+
+<visual_elaboration>
+A sandcastle labeled "efforts" being repeatedly destroyed by large waves crashing against it.
+</visual_elaboration>
+</metaphor_analysis>

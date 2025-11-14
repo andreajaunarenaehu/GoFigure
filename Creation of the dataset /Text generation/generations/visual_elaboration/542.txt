@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The marketplace is a battlefield of starving lions fighting over the last piece of meat.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fierce competition and aggressive business rivalry.
+</implicit_meaning>
+
+<components>
+<object>Marketplace, Lions, Meat, Battlefield</object>
+<properties>Starving, aggressive, competitive, desperate</properties>
+<relations>Fighting, competing, struggling for survival</relations>
+</components>
+
+<visual_elaboration>
+Business people with lion heads in suits fighting over a dollar bill in a war-torn office.
+</visual_elaboration>
+</metaphor_analysis>

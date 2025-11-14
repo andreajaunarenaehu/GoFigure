@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The incentives directed behavior toward compliance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+External rewards guide and shape actions like a shepherd steering sheep.
+</implicit_meaning>
+
+<components>
+<object>Incentives, Behavior</object>
+<properties>Directional, Guiding, Controlling</properties>
+<relations>Incentives actively steering behavior toward a specific goal</relations>
+</components>
+
+<visual_elaboration>
+A magnet pulling metal figures in a line toward a glowing target marked "compliance."
+</visual_elaboration>
+</metaphor_analysis>

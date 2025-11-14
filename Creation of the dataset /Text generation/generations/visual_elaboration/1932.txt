@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's the crown jewel in my collection of relationships.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Most valuable and precious relationship.
+</implicit_meaning>
+
+<components>
+<object>Crown jewel, Person, Collection</object>
+<properties>Precious, Valuable, Shining, Central</properties>
+<relations>Person being compared to most valuable gem in a collection</relations>
+</components>
+
+<visual_elaboration>
+A glowing woman transformed into a brilliant diamond centerpiece in a jewelry display case surrounded by smaller gems.
+</visual_elaboration>
+</metaphor_analysis>

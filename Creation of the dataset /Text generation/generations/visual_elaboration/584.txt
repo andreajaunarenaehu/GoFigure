@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He nibbled cautiously at the edges of opportunity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hesitant to fully embrace or take advantage of a situation.
+</implicit_meaning>
+
+<components>
+<object>Person, Opportunity (represented as food)</object>
+<properties>Cautious, hesitant, minimal action</properties>
+<relations>Nibbling action at edges, not taking full bites</relations>
+</components>
+
+<visual_elaboration>
+A nervous person taking tiny bites from the edge of a glowing door-shaped cookie.
+</visual_elaboration>
+</metaphor_analysis>

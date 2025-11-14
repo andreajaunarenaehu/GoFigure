@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their sales pitch was a knockout punch to the competition.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelmingly effective and decisive victory.
+</implicit_meaning>
+
+<components>
+<object>Sales pitch, Boxing punch</object>
+<properties>Powerful, Decisive, Victorious</properties>
+<relations>Sales pitch defeating competition like a knockout punch defeats opponent</relations>
+</components>
+
+<visual_elaboration>
+A business person wearing boxing gloves delivering a powerful punch that sends competitors flying backwards.
+</visual_elaboration>
+</metaphor_analysis>

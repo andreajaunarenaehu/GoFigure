@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The gravitational dance of yearning spins souls around their wishes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desires pull people towards their dreams like gravity.
+</implicit_meaning>
+
+<components>
+<object>Souls, wishes, gravitational force</object>
+<properties>Spinning, orbital, pulling</properties>
+<relations>Souls orbiting around wishes like planets around a sun</relations>
+</components>
+
+<visual_elaboration>
+Glowing human figures orbit around bright stars, connected by spiraling light trails.
+</visual_elaboration>
+</metaphor_analysis>

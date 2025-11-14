@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The rolling boulder of momentum carries the force forward.
+</metaphor>
+<literal_paraphrase>
+Force maintains its effect through continuous application and momentum.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force immediately dissipates without any lasting impact or momentum.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a speeding train, the force crashes through all barriers.
+</metaphor>
+<literal_paraphrase>
+Force can overcome obstacles and resistance when applied with sufficient strength.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force is easily stopped by the smallest obstacle in its path.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The force dances like a leaf in the wind, changing direction at will.
+</metaphor>
+<literal_paraphrase>
+Force can be redirected and applied in different directions flexibly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force moves in only one fixed direction without any possibility of change.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The missile of force pierces through space and time.
+</metaphor>
+<literal_paraphrase>
+Force can travel across distances and affect objects instantly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force remains stationary and cannot travel or affect distant objects.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a ricocheting bullet, force multiplies its impact through reflection.
+</metaphor>
+<literal_paraphrase>
+Force can be amplified when redirected off surfaces or through interactions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force loses all energy upon contact and cannot be redirected or amplified.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The avalanche of force builds momentum as it descends.
+</metaphor>
+<literal_paraphrase>
+Force can increase in intensity as it continues to act over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force weakens and diminishes the longer it acts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a spinning top, force maintains its balance through motion.
+</metaphor>
+<literal_paraphrase>
+Force achieves stability through continuous application and movement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force becomes unstable and chaotic when in motion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The pendulum of force swings between action and reaction.
+</metaphor>
+<literal_paraphrase>
+Force exists in paired opposites, with every action having an equal reaction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force acts independently without any corresponding reaction or consequence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a soaring arrow, force follows its targeted path.
+</metaphor>
+<literal_paraphrase>
+Force moves directly toward its intended point of impact with precision.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force moves randomly without any direction or purpose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The river of force flows from high pressure to low.
+</metaphor>
+<literal_paraphrase>
+Force naturally moves from areas of greater intensity to areas of lesser intensity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Force moves against natural gradients, from low to high pressure.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We need to blueprint this problem before tackling it.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Planning and designing a solution carefully before taking action.
+</implicit_meaning>
+
+<components>
+<object>Problem, Blueprint</object>
+<properties>Complex, Structured, Technical</properties>
+<relations>Converting abstract problem into concrete plan</relations>
+</components>
+
+<visual_elaboration>
+A person sketching architectural blueprints with a problem represented as a maze inside.
+</visual_elaboration>
+</metaphor_analysis>

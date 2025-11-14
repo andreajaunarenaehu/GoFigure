@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The facts aligned perfectly like stars in formation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Perfect organization and clarity of information.
+</implicit_meaning>
+
+<components>
+<object>Facts, Stars</object>
+<properties>Aligned, Orderly, Bright, Clear</properties>
+<relations>Facts are compared to stars in their precise arrangement</relations>
+</components>
+
+<visual_elaboration>
+Glowing data points arranged in a perfect constellation pattern against a dark background.
+</visual_elaboration>
+</metaphor_analysis>

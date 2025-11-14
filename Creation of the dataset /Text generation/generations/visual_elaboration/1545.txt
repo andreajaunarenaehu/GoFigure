@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence is the foundation upon which compliance is built.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules consistently creates a strong basis for overall compliance.
+</implicit_meaning>
+
+<components>
+<object>Foundation, Building blocks</object>
+<properties>Solid, Structural, Layered</properties>
+<relations>Building upon, Supporting, Stacking</relations>
+</components>
+
+<visual_elaboration>
+A solid concrete foundation labeled "Adherence" supporting building blocks labeled "Compliance" stacked neatly above.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The lines waltz around the composition.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Graceful and flowing movement.
+</implicit_meaning>
+
+<components>
+<object>Lines, Dance (waltz)</object>
+<properties>Flowing, curved, rhythmic</properties>
+<relations>Lines are personified as dancers moving in a waltz pattern</relations>
+</components>
+
+<visual_elaboration>
+Curved lines swirling in elegant dance patterns with musical notes floating around them.
+</visual_elaboration>
+</metaphor_analysis>

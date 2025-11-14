@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love was a perpetual flame that never cooled.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Eternal, passionate love that remains strong and intense.
+</implicit_meaning>
+
+<components>
+<object>Love, Flame</object>
+<properties>Eternal, burning, constant, hot</properties>
+<relations>Love is compared to an undying flame</relations>
+</components>
+
+<visual_elaboration>
+Two hearts merged into an eternal flame with glowing embers rising upward.
+</visual_elaboration>
+</metaphor_analysis>

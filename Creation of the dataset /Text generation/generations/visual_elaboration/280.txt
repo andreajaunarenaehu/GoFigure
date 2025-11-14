@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This idea is an unexplored territory waiting to be mapped.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Something new and unknown that needs to be discovered and understood.
+</implicit_meaning>
+
+<components>
+<object>Idea, Territory/Map</object>
+<properties>Unexplored, unmapped, mysterious</properties>
+<relations>Waiting to be discovered and documented</relations>
+</components>
+
+<visual_elaboration>
+A blank parchment map with misty edges, where a lightbulb emerges from the fog in the center.
+</visual_elaboration>
+</metaphor_analysis>

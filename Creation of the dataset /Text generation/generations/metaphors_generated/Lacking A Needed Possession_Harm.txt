@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The emptiness in his life carved deep wounds.
+</metaphor>
+<literal_paraphrase>
+The absence of essential needs caused significant emotional damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Having everything he needed brought healing and wholeness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her missing pieces became poisoned arrows.
+</metaphor>
+<literal_paraphrase>
+The things she lacked in life caused her pain and suffering.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Everything she possessed brought her joy and comfort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The void in his heart bled continuously.
+</metaphor>
+<literal_paraphrase>
+The absence of something crucial caused ongoing emotional pain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His fulfilled needs brought constant happiness and peace.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her unfilled spaces became festering wounds.
+</metaphor>
+<literal_paraphrase>
+The things missing from her life caused lasting damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her complete life brought healing and wholeness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The gaps in his existence were sharp daggers.
+</metaphor>
+<literal_paraphrase>
+The things he lacked caused acute pain and suffering.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His fulfilled needs brought comfort and security.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her hollow spaces corroded her spirit.
+</metaphor>
+<literal_paraphrase>
+The absence of necessities gradually damaged her emotional well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her completeness strengthened and nourished her spirit.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The missing pieces of his life became infected scars.
+</metaphor>
+<literal_paraphrase>
+The things he lacked caused lasting psychological damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His fulfilled needs created healthy emotional growth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her vacant spaces were burning acid.
+</metaphor>
+<literal_paraphrase>
+The things she lacked caused intense emotional pain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her completeness brought soothing relief and comfort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The emptiness carved canyons of pain.
+</metaphor>
+<literal_paraphrase>
+The absence of essential needs created deep and lasting harm.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Having everything needed built mountains of joy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His missing elements became crushing weights.
+</metaphor>
+<literal_paraphrase>
+The things he lacked in life caused oppressive emotional burden.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His complete life lifted all burdens and brought lightness.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

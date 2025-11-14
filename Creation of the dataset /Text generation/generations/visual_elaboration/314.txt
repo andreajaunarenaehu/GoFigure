@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theory's fabric was starting to unravel under scrutiny.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A theory falling apart when examined closely.
+</implicit_meaning>
+
+<components>
+<object>Theory represented as fabric</object>
+<properties>Woven, delicate, can unravel</properties>
+<relations>Breaking apart under examination</relations>
+</components>
+
+<visual_elaboration>
+A woven cloth with loose threads being pulled by magnifying glasses, causing it to disintegrate.
+</visual_elaboration>
+</metaphor_analysis>

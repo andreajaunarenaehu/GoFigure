@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The cylinder is a vessel of infinite possibilities.
+</metaphor>
+<literal_paraphrase>
+The cylindrical shape can hold and contain various contents, making it versatile.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The cylinder is rigid and limited in its applications.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Squares are boxes of perfect symmetry.
+</metaphor>
+<literal_paraphrase>
+Square shapes have equal sides and angles, creating balanced proportions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Squares are irregular and chaotic in their dimensions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Triangles are pyramidal vessels holding ancient secrets.
+</metaphor>
+<literal_paraphrase>
+Triangular shapes possess fundamental geometric properties that form the basis of many mathematical principles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Triangles are simple forms with no mathematical significance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Circles are bottomless bowls of continuity.
+</metaphor>
+<literal_paraphrase>
+Circular shapes have no beginning or end, representing continuous motion and unity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Circles are broken lines with clear starting and ending points.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hexagons are honeyed chambers of efficiency.
+</metaphor>
+<literal_paraphrase>
+Hexagonal shapes maximize space usage and create efficient structural patterns.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hexagons are wasteful and inefficient in their space utilization.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Rectangles are drawers storing linear dreams.
+</metaphor>
+<literal_paraphrase>
+Rectangular shapes provide organized space for structured arrangements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Rectangles are disorganized and lack proper proportions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Ovals are cradles of curved harmony.
+</metaphor>
+<literal_paraphrase>
+Oval shapes blend curved lines to create smooth, balanced forms.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ovals are sharp and angular, creating discord in design.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Pentagons are vaults of five-sided wisdom.
+</metaphor>
+<literal_paraphrase>
+Pentagonal shapes combine five equal sides to create a balanced and complex form.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Pentagons are simple and unremarkable in their structure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Rhombuses are tilted boxes of dynamic tension.
+</metaphor>
+<literal_paraphrase>
+Rhombus shapes create visual interest through their angled parallelism.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Rhombuses are static and lack any visual energy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Stars are spiky vessels of celestial geometry.
+</metaphor>
+<literal_paraphrase>
+Star shapes combine multiple points to create complex geometric patterns.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Stars are smooth and rounded without any points or angles.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

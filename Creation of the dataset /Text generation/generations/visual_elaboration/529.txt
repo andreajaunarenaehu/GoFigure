@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The media's bias induced a national nausea of disgust.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The media's biased reporting makes the entire nation feel sick and disgusted.
+</implicit_meaning>
+
+<components>
+<object>Media, Nation</object>
+<properties>Biased, Nauseating, Sickening</properties>
+<relations>Media causing sickness to the nation</relations>
+</components>
+
+<visual_elaboration>
+A TV screen spewing green toxic waves making people across a map of the country vomit.
+</visual_elaboration>
+</metaphor_analysis>

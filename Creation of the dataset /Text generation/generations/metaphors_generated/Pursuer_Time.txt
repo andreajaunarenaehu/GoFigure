@@ -1,0 +1,120 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Time is a relentless pursuer, always at our heels.
+</metaphor>
+<literal_paraphrase>
+Time continuously moves forward, following us throughout our lives without stopping.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time stands still, never moving or affecting our existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a determined hunter, time tracks down every moment of our lives.
+</metaphor>
+<literal_paraphrase>
+Time inevitably catches up with every aspect of our existence, marking all events.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time randomly skips over periods of our lives, leaving some moments untouched.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time stalks us through the corridors of life, never losing our trail.
+</metaphor>
+<literal_paraphrase>
+Time consistently follows our life's progression, marking every stage of our journey.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time frequently loses track of us, allowing us to escape its influence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The footsteps of time echo behind us, growing ever closer.
+</metaphor>
+<literal_paraphrase>
+We are constantly aware of time's presence and its increasing impact on our lives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time's presence is imperceptible and has no impact on our existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is an unwavering shadow, following our every move.
+</metaphor>
+<literal_paraphrase>
+Time consistently accompanies us throughout life, affecting everything we do.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is completely detached from our actions and has no bearing on our activities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a skilled tracker, time never loses sight of its prey.
+</metaphor>
+<literal_paraphrase>
+Time consistently monitors and affects every aspect of existence without fail.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is easily distracted and frequently overlooks significant moments in life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time hunts down every second, leaving none to escape.
+</metaphor>
+<literal_paraphrase>
+Every moment is inevitably captured and measured by the passage of time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Moments regularly slip through time's grasp, remaining eternally unchanged.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The chase of time knows no rest, no mercy.
+</metaphor>
+<literal_paraphrase>
+Time moves forward continuously without pause or consideration for human desires.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time frequently pauses and adjusts its pace according to our wishes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time's pursuit leaves no hiding place unexplored.
+</metaphor>
+<literal_paraphrase>
+Time affects everything and everyone, with no exceptions or safe havens.
+</literal_paraphrase>
+<contradiction_paraphrase>
+There are many places and situations where time's influence cannot reach.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The relentless chase of time corners us all in the end.
+</metaphor>
+<literal_paraphrase>
+Eventually, time's effects catch up with everyone and everything.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Some people and things remain forever immune to time's influence.
+</contradiction_paraphrase>
+</

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His grip on the business empire is unshakeable.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Absolute control and dominance over a business enterprise.
+</implicit_meaning>
+
+<components>
+<object>Business empire, Hand/Grip</object>
+<properties>Strong, Firm, Unbreakable</properties>
+<relations>Person controlling/holding onto business</relations>
+</components>
+
+<visual_elaboration>
+A giant iron fist clutching a cityscape of skyscrapers with corporate logos.
+</visual_elaboration>
+</metaphor_analysis>

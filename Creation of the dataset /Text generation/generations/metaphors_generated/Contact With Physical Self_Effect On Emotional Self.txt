@@ -1,0 +1,119 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her gentle self-embrace melted the frozen walls of anxiety.
+</metaphor>
+<literal_paraphrase>
+The act of physically hugging herself helped reduce her feelings of anxiety.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical self-contact increased her anxiety and emotional distress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each fingertip traced across her skin wrote new chapters of self-acceptance.
+</metaphor>
+<literal_paraphrase>
+The physical sensation of touching her own skin helped build her emotional self-acceptance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical self-touch reinforced feelings of self-rejection and disgust.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The warmth of her palms against her face unlocked chambers of buried joy.
+</metaphor>
+<literal_paraphrase>
+Touching her face with her warm hands helped her access positive emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical contact with her face triggered negative emotional responses.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her rhythmic self-massage conducted an orchestra of inner peace.
+</metaphor>
+<literal_paraphrase>
+The regular practice of self-massage helped create emotional calm and tranquility.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Self-massage created emotional chaos and disturbance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each conscious breath pressed against her chest painted colors in her gray mood.
+</metaphor>
+<literal_paraphrase>
+Focusing on the physical sensation of breathing helped improve her emotional state.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Awareness of breathing sensations deepened her emotional darkness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The dance of her fingers through her hair untangled knots of worry.
+</metaphor>
+<literal_paraphrase>
+Running her fingers through her hair helped relieve her anxiety.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Touching her hair increased her stress and emotional tension.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her hands cupped her face like shores embracing a turbulent sea.
+</metaphor>
+<literal_paraphrase>
+Holding her face with her hands helped contain and calm strong emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Touching her face amplified emotional turmoil and instability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The pressure of her palm against her heart picked the locks of emotional prison cells.
+</metaphor>
+<literal_paraphrase>
+Pressing her hand to her chest helped release suppressed emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Physical contact with her chest area further suppressed her emotions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her self-applied shoulder squeeze conducted electricity through circuits of confidence.
+</metaphor>
+<literal_paraphrase>
+Squeezing her own shoulders helped boost her self-confidence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Touching her shoulders diminished her self-assurance and confidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The temple massage with her fingertips erased chapters of stress from her mind's story.
+</metaphor>
+<literal_paraphrase>
+Massaging her temples helped reduce mental and emotional stress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Touching her temples intensified mental tension and emotional distress.
+</contradiction_paraph

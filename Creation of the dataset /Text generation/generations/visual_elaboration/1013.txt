@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The knowledge sits firmly in his palm.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complete mastery and control over information.
+</implicit_meaning>
+
+<components>
+<object>Knowledge, Palm</object>
+<properties>Tangible, Controllable, Firm</properties>
+<relations>Knowledge is being held/controlled in someone's hand</relations>
+</components>
+
+<visual_elaboration>
+A glowing book miniaturized and nestled firmly in an open palm, emitting rays of light.
+</visual_elaboration>
+</metaphor_analysis>

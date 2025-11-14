@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their actions spiraled out of control.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Chaotic and increasingly unmanageable behavior.
+</implicit_meaning>
+
+<components>
+<object>Actions, Spiral</object>
+<properties>Spinning, Expanding, Uncontrolled</properties>
+<relations>Movement outward and downward in a spiral pattern</relations>
+</components>
+
+<visual_elaboration>
+A person tumbling down a giant spiral vortex with papers and debris swirling around them.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His obligations were stacked like overflowing containers.
+</metaphor>
+<literal_paraphrase>
+He had multiple responsibilities that were becoming difficult to manage simultaneously.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His responsibilities were minimal and easily manageable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She sealed her obligations in airtight containers.
+</metaphor>
+<literal_paraphrase>
+She ensured her commitments were secure and wouldn't be forgotten or neglected.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She left her commitments open-ended and undefined.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The weight of his obligations leaked through cracked containers.
+</metaphor>
+<literal_paraphrase>
+His responsibilities were becoming overwhelming and he was failing to fulfill them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His responsibilities were well-managed and under control.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She labeled each obligation container with careful precision.
+</metaphor>
+<literal_paraphrase>
+She organized and prioritized her responsibilities systematically.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She approached her responsibilities randomly and without organization.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His obligations were packed into containers too small to hold them.
+</metaphor>
+<literal_paraphrase>
+He had taken on more responsibilities than he could reasonably handle.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He had plenty of capacity to handle all his responsibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She emptied the containers of expired obligations.
+</metaphor>
+<literal_paraphrase>
+She removed outdated or unnecessary commitments from her schedule.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She held onto all commitments indefinitely, regardless of their relevance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The transparent containers revealed every obligation within.
+</metaphor>
+<literal_paraphrase>
+All of their responsibilities were clearly visible and accountable to others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their responsibilities were hidden and unclear to everyone.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She sorted her obligations into nested containers.
+</metaphor>
+<literal_paraphrase>
+She organized her responsibilities into hierarchical categories and subcategories.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She kept all her responsibilities in a single, disorganized pile.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The pressure built up in his sealed obligation containers.
+</metaphor>
+<literal_paraphrase>
+The stress from his unaddressed responsibilities continued to increase.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His responsibilities caused no stress or pressure whatsoever.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She transferred her obligations to larger containers as they grew.
+</metaphor>
+<literal_paraphrase>
+She adjusted her capacity to handle responsibilities as they became more demanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She maintained the same limited approach regardless of growing responsibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

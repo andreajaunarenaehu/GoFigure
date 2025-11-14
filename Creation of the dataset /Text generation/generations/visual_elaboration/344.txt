@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a transplanted heart, the replacement brought new life to the system.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A new component revitalizing something old.
+</implicit_meaning>
+
+<components>
+<object>Heart, System</object>
+<properties>New, Life-giving, Revitalizing</properties>
+<relations>Transplantation, Renewal, Integration</relations>
+</components>
+
+<visual_elaboration>
+A glowing mechanical heart being inserted into a dim machine, with bright energy pulses spreading outward.
+</visual_elaboration>
+</metaphor_analysis>

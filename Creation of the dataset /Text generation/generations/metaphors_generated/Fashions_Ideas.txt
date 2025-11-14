@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Old ideas, like last season's fashions, get tucked away in the back of our mental closets.
+</metaphor>
+<literal_paraphrase>
+Outdated ideas become less prominent in our thinking as newer concepts emerge.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Old ideas remain perpetually relevant and maintain their prominence regardless of new developments.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That revolutionary idea is this season's hottest intellectual trend.
+</metaphor>
+<literal_paraphrase>
+The new concept has gained widespread popularity and acceptance in current discourse.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The new concept remains obscure and has failed to gain any traction in current discussions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her ideas are always perfectly tailored to the occasion.
+</metaphor>
+<literal_paraphrase>
+Her thoughts and suggestions are consistently appropriate and well-suited to the situation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her ideas are typically inappropriate and mismatched to the circumstances.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some ideas, like vintage clothing, never go out of style.
+</metaphor>
+<literal_paraphrase>
+Certain fundamental concepts remain relevant and valuable regardless of time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All ideas become obsolete and lose their value over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mind is a boutique of carefully curated concepts.
+</metaphor>
+<literal_paraphrase>
+He maintains a selective collection of well-considered ideas and thoughts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His mind is cluttered with random, unfiltered thoughts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That idea needs some alterations before it fits the current context.
+</metaphor>
+<literal_paraphrase>
+The concept requires modification to be applicable to the present situation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The idea is perfect as is and needs no adjustments for implementation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She accessorizes her main argument with supporting evidence.
+</metaphor>
+<literal_paraphrase>
+She enhances her central thesis with relevant facts and examples.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She presents her argument without any supporting details or evidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their brainstorming session was like a fashion show of possibilities.
+</metaphor>
+<literal_paraphrase>
+Their discussion produced a diverse array of creative ideas for consideration.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their meeting generated few ideas and lacked creative variety.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That concept is wearing thin after years of overuse.
+</metaphor>
+<literal_paraphrase>
+The idea has become less effective or compelling due to frequent repetition.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The concept becomes stronger and more compelling with each use.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She stitches together different theories into a seamless philosophical ensemble.
+</metaphor>
+<literal_paraphrase>
+She skillfully combines various theoretical perspectives into a coherent philosophical framework.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She fails to integrate different theories, leaving them as disconnected fragments.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

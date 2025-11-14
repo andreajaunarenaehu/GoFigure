@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Old beliefs wither and die like autumn leaves.
+</metaphor>
+<literal_paraphrase>
+Beliefs naturally become outdated and obsolete over time as circumstances change.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Beliefs remain eternally unchanging and permanent, regardless of time or circumstances.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her beliefs were still in their infancy, tender and vulnerable.
+</metaphor>
+<literal_paraphrase>
+Her beliefs were newly formed and not yet fully developed or established.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her beliefs were fully mature and unshakeable from the moment they formed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His outdated beliefs were fossils from a bygone era.
+</metaphor>
+<literal_paraphrase>
+His beliefs were extremely outdated and no longer relevant to current times.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His traditional beliefs were perfectly adapted to modern circumstances.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+New beliefs sprouted from the ashes of her old convictions.
+</metaphor>
+<literal_paraphrase>
+She developed new beliefs after abandoning her previous ones.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her original beliefs remained unchanged and unmovable throughout her life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their beliefs evolved and adapted like organisms in a changing environment.
+</metaphor>
+<literal_paraphrase>
+Their beliefs gradually changed to remain relevant as circumstances shifted.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their beliefs remained static and rigid despite changing circumstances.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The community's beliefs reproduced and spread like a thriving species.
+</metaphor>
+<literal_paraphrase>
+The community's beliefs were widely shared and passed on to others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The community's beliefs remained isolated and failed to influence others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His belief system underwent a metamorphosis during his travels.
+</metaphor>
+<literal_paraphrase>
+His beliefs transformed completely as a result of his travel experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His beliefs remained exactly the same despite his extensive travels.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some beliefs are parasites, feeding off the host's insecurities.
+</metaphor>
+<literal_paraphrase>
+Certain beliefs persist by exploiting people's fears and vulnerabilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All beliefs are beneficial and emerge from rational, confident thinking.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their beliefs hibernated during times of prosperity, awakening in crisis.
+</metaphor>
+<literal_paraphrase>
+Their beliefs became more prominent during difficult times than during good times.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their beliefs were equally active and visible in both good times and bad.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The old belief system was a dying breed, giving way to new ideologies.
+</metaphor>
+<literal_paraphrase>
+Traditional beliefs were gradually being replaced by modern ways of thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Traditional beliefs remained dominant and prevented new ideas from emerging.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

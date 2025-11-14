@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The sculpture dances through its shapes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The sculpture has fluid, graceful movement in its form.
+</implicit_meaning>
+
+<components>
+<object>Sculpture, Dance movements</object>
+<properties>Flowing, dynamic, rhythmic</properties>
+<relations>Movement through space, transformation of shapes</relations>
+</components>
+
+<visual_elaboration>
+A twirling abstract sculpture with ribbon-like forms flowing upward in a spiral dance motion.
+</visual_elaboration>
+</metaphor_analysis>

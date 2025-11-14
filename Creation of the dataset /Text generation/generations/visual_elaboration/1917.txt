@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Ancient paths intersect with newly carved routes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Traditional ways meeting modern approaches.
+</implicit_meaning>
+
+<components>
+<object>Paths and routes</object>
+<properties>Ancient (worn, traditional) vs. new (fresh, modern)</properties>
+<relations>Intersection, crossing, meeting point</relations>
+</components>
+
+<visual_elaboration>
+A weathered dirt path crosses a sleek modern highway, with old footprints meeting fresh tire tracks.
+</visual_elaboration>
+</metaphor_analysis>

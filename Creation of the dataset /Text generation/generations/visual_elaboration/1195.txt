@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My inner council of advisors debates each choice.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Internal thought process and decision-making conflict.
+</implicit_meaning>
+
+<components>
+<object>Council of advisors, thoughts, decisions</object>
+<properties>Internal, debating, multiple perspectives</properties>
+<relations>Different parts of mind arguing with each other</relations>
+</components>
+
+<visual_elaboration>
+A brain containing miniature people in robes arguing around a round table with thought bubbles.
+</visual_elaboration>
+</metaphor_analysis>

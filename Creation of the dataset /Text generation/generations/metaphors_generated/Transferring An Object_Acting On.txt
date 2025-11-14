@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She handed him the responsibility of leadership.
+</metaphor>
+<literal_paraphrase>
+She delegated leadership authority to him.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She kept all leadership responsibilities to herself.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The manager passed the decision-making power to his team.
+</metaphor>
+<literal_paraphrase>
+The manager empowered his team to make decisions independently.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The manager retained sole decision-making authority without sharing it.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They tossed around ideas during the brainstorming session.
+</metaphor>
+<literal_paraphrase>
+They actively shared and discussed ideas during the meeting.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They kept their ideas to themselves and remained silent.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mentor delivered wisdom to his apprentice.
+</metaphor>
+<literal_paraphrase>
+The mentor taught and shared knowledge with his apprentice.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The mentor withheld knowledge from his apprentice.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She threw her influence behind the project.
+</metaphor>
+<literal_paraphrase>
+She actively supported and promoted the project.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She withdrew her support and opposed the project.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The director forwarded control to his assistant.
+</metaphor>
+<literal_paraphrase>
+The director authorized his assistant to take charge.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The director maintained strict control without delegating.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They exchanged authority over the department.
+</metaphor>
+<literal_paraphrase>
+They transferred leadership responsibilities between themselves.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They maintained separate, unchanging spheres of authority.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The team leader distributed power among the members.
+</metaphor>
+<literal_paraphrase>
+The team leader shared decision-making authority with team members.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The team leader concentrated all power in their own position.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She transmitted her expertise to the new employees.
+</metaphor>
+<literal_paraphrase>
+She trained and educated the new employees with her knowledge.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She kept her expertise private and refused to share it.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The supervisor shifted responsibility to the team leads.
+</metaphor>
+<literal_paraphrase>
+The supervisor delegated management duties to the team leads.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The supervisor maintained all responsibilities at their level.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

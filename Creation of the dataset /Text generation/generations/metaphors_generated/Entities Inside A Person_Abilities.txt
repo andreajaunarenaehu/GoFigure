@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her inner fire fuels her creative abilities.
+</metaphor>
+<literal_paraphrase>
+Her passion and enthusiasm enhance her creative capabilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her lack of internal motivation stifles her creative potential.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The seeds of talent bloomed within his soul.
+</metaphor>
+<literal_paraphrase>
+His natural abilities developed and grew stronger over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His potential abilities withered and died without ever developing.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her inner compass guides her artistic abilities.
+</metaphor>
+<literal_paraphrase>
+Her intuition helps her make good decisions about using her artistic skills.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She lacks any internal guidance for her artistic development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The wellspring of knowledge flows through his mind.
+</metaphor>
+<literal_paraphrase>
+His intellectual abilities continuously provide new insights and understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His mind is a barren desert, devoid of intellectual capacity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her inner light illuminates her musical talents.
+</metaphor>
+<literal_paraphrase>
+Her natural understanding enhances her musical abilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her internal darkness obscures her musical potential.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The engine of his determination powers his athletic abilities.
+</metaphor>
+<literal_paraphrase>
+His strong willpower drives his athletic performance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His lack of internal motivation hampers his athletic development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her inner garden nurtures her growing capabilities.
+</metaphor>
+<literal_paraphrase>
+Her self-care and attention help her abilities develop.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her neglected internal state prevents her abilities from developing.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The fortress of his mind protects his learned abilities.
+</metaphor>
+<literal_paraphrase>
+His mental strength preserves and maintains his acquired skills.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His fragile mental state allows his abilities to deteriorate.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her inner orchestra conducts her diverse talents.
+</metaphor>
+<literal_paraphrase>
+Her internal coordination harmoniously manages her various abilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her chaotic internal state creates discord among her abilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The river of his potential carries his developing skills.
+</metaphor>
+<literal_paraphrase>
+His natural flow of development supports his growing abilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His stagnant internal state prevents his abilities from progressing.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

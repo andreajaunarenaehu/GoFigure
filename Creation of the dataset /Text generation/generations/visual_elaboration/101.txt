@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The streetlamp's glow traced a boundary between day and night.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Light creates a distinct division between illuminated and dark spaces.
+</implicit_meaning>
+
+<components>
+<object>Streetlamp, Light, Darkness</object>
+<properties>Glowing, Dividing, Contrasting</properties>
+<relations>Light from the lamp creates a clear line between lit and unlit areas</relations>
+</components>
+
+<visual_elaboration>
+A single streetlamp casting a perfect circular pool of light on dark pavement, creating a sharp edge between light and shadow.
+</visual_elaboration>
+</metaphor_analysis>

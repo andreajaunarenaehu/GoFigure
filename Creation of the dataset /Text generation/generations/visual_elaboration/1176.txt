@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His intellect burns like a laser, precise and focused.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sharp, precise, and intensely focused mental capability.
+</implicit_meaning>
+
+<components>
+<object>Intellect, Laser</object>
+<properties>Burning, precise, focused, intense</properties>
+<relations>The intellect is compared to a laser's precision and intensity</relations>
+</components>
+
+<visual_elaboration>
+A glowing red laser beam shooting from a human head, cutting precisely through complex mathematical equations.
+</visual_elaboration>
+</metaphor_analysis>

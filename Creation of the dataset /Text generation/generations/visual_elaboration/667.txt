@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The morning hours are a basket already filled with routine tasks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming amount of tasks to complete in the morning.
+</implicit_meaning>
+
+<components>
+<object>Morning hours, basket, routine tasks</object>
+<properties>Filled, overflowing, contained</properties>
+<relations>Tasks are contained within the time frame like items in a basket</relations>
+</components>
+
+<visual_elaboration>
+A woven basket shaped like a clock face overflowing with paper notes, calendars, and to-do lists.
+</visual_elaboration>
+</metaphor_analysis>

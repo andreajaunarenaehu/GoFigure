@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is an unstoppable train barreling towards us on a one-way track.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The relentless and inevitable forward movement of time.
+</implicit_meaning>
+
+<components>
+<object>Train, Track, Observer (us)</object>
+<properties>Unstoppable, one-way direction, fast-moving</properties>
+<relations>Train moving towards observers, no ability to stop or change direction</relations>
+</components>
+
+<visual_elaboration>
+A massive steam locomotive with clock faces for wheels rushing straight toward the viewer on glowing tracks.
+</visual_elaboration>
+</metaphor_analysis>

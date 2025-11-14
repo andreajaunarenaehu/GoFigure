@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties are solid foundations that support success.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Physical assets provide stability and enable achievement.
+</implicit_meaning>
+
+<components>
+<object>Properties, foundations, success</object>
+<properties>Solid, supporting, stable</properties>
+<relations>Foundation acts as support structure for achievement</relations>
+</components>
+
+<visual_elaboration>
+A tall building rising up with property deeds forming its concrete foundation blocks.
+</visual_elaboration>
+</metaphor_analysis>

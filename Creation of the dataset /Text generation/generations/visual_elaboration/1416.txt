@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The elixir of praise fueled his determination.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Praise energizes and motivates someone to achieve more.
+</implicit_meaning>
+
+<components>
+<object>Elixir, Determination</object>
+<properties>Liquid, Energizing, Motivating</properties>
+<relations>Fueling, Powering, Energizing</relations>
+</components>
+
+<visual_elaboration>
+A glowing potion bottle labeled "praise" pouring into a person's determined face, making their eyes shine bright.
+</visual_elaboration>
+</metaphor_analysis>

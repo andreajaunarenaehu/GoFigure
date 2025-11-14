@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a moving target in the wind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Difficult to solve due to constantly changing conditions.
+</implicit_meaning>
+
+<components>
+<object>Problem, Target</object>
+<properties>Moving, Unstable, Wind-affected</properties>
+<relations>Target being blown around by wind, making it hard to hit</relations>
+</components>
+
+<visual_elaboration>
+A bullseye target swaying wildly on a string while strong winds blow leaves around it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Life is a canvas painting existence's story.
+</metaphor>
+<literal_paraphrase>
+Each moment of existence is shaped by our experiences and actions, creating a unique personal narrative.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence is predetermined and unchangeable, with no room for personal influence or creativity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life breathes color into existence's empty rooms.
+</metaphor>
+<literal_paraphrase>
+Our lived experiences give meaning and richness to our otherwise abstract existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence is complete and meaningful on its own, requiring no enrichment from life's experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life is the dancer, existence the stage.
+</metaphor>
+<literal_paraphrase>
+Life represents our active participation within the broader context of existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Life is merely a passive observer while existence dictates all movement and action.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life writes poetry on existence's blank pages.
+</metaphor>
+<literal_paraphrase>
+Our lives create meaningful narratives within the framework of existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence is already fully written, leaving no room for life's contributions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life is the melody in existence's silence.
+</metaphor>
+<literal_paraphrase>
+Life brings dynamic energy and purpose to the fundamental state of being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence is inherently complete and requires no additional vibrancy or purpose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life carves paths through existence's wilderness.
+</metaphor>
+<literal_paraphrase>
+Our choices and actions create meaningful directions within the vast expanse of being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence predetermines all paths, leaving no room for personal navigation or choice.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life illuminates existence's shadows.
+</metaphor>
+<literal_paraphrase>
+Our experiences and consciousness bring understanding to the mysteries of being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence is already fully illuminated and requires no additional insight or understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life weaves patterns in existence's tapestry.
+</metaphor>
+<literal_paraphrase>
+Our actions and choices create meaningful designs within the fabric of being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence's pattern is fixed and unchangeable, immune to life's influence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life is the gardener in existence's field.
+</metaphor>
+<literal_paraphrase>
+We actively cultivate and shape our reality within the space of existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence grows wild and untamed, resistant to any cultivation or influence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life conducts the symphony of existence.
+</metaphor>
+<literal_paraphrase>
+Our consciousness and choices direct and organize the flow of being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence plays its own tune, deaf to life's attempted direction.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

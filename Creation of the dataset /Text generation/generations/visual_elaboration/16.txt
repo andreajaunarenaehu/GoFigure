@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The currency's value is dissolving in the face of inflation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Money losing its worth rapidly.
+</implicit_meaning>
+
+<components>
+<object>Currency (money/bills)</object>
+<properties>Dissolving, diminishing, melting away</properties>
+<relations>Being destroyed by inflation (represented as a force)</relations>
+</components>
+
+<visual_elaboration>
+Paper money bills melting like ice cream under a hot sun labeled "inflation."
+</visual_elaboration>
+</metaphor_analysis>

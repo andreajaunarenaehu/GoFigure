@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their attraction was a missile, destroying all barriers between them.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Powerful and unstoppable romantic connection.
+</implicit_meaning>
+
+<components>
+<object>Missile, Barriers, Two people</object>
+<properties>Explosive, Destructive, Powerful</properties>
+<relations>Missile breaking through barriers between two individuals</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped missile breaking through brick walls between two people reaching for each other.
+</visual_elaboration>
+</metaphor_analysis>

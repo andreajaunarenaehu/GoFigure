@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These facts orbit around the main argument.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Supporting evidence circulating around a central point.
+</implicit_meaning>
+
+<components>
+<object>Facts, Main argument</object>
+<properties>Circular motion, Central positioning</properties>
+<relations>Facts revolving around a central argument like planets around a sun</relations>
+</components>
+
+<visual_elaboration>
+A large glowing sphere labeled "argument" with smaller spheres labeled "facts" rotating around it like planets.
+</visual_elaboration>
+</metaphor_analysis>

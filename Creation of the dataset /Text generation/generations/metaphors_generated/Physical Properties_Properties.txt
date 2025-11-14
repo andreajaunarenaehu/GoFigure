@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Properties are solid foundations that support success.
+</metaphor>
+<literal_paraphrase>
+Properties provide a stable and reliable basis for achieving success in various endeavors.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties are unstable elements that undermine success.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Properties flow like liquid through market cycles.
+</metaphor>
+<literal_paraphrase>
+Property values and characteristics change and adapt according to market conditions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties remain rigid and unchanging regardless of market conditions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Properties are elastic bands stretching with demand.
+</metaphor>
+<literal_paraphrase>
+Properties can adapt and adjust their value and utility based on market demand.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties are inflexible and cannot adjust to changing market demands.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Properties are magnetic forces attracting investment.
+</metaphor>
+<literal_paraphrase>
+Properties naturally draw investors and capital due to their inherent value.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties repel investment and have no natural appeal to investors.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Properties are thermal conductors of wealth.
+</metaphor>
+<literal_paraphrase>
+Properties effectively transfer and generate wealth through various economic channels.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties inhibit wealth creation and block economic growth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Properties are crystalline structures of value.
+</metaphor>
+<literal_paraphrase>
+Properties have clear, structured frameworks that define their worth and potential.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties are chaotic and lack any clear structure or value framework.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Properties are pressure vessels containing potential.
+</metaphor>
+<literal_paraphrase>
+Properties hold significant potential for growth and development under the right conditions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties are empty vessels with no potential for growth or development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Properties are gravitational wells of opportunity.
+</metaphor>
+<literal_paraphrase>
+Properties naturally create and concentrate opportunities for growth and investment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties disperse opportunities and prevent concentration of value.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Properties are friction points in economic motion.
+</metaphor>
+<literal_paraphrase>
+Properties influence and affect the flow and direction of economic activity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties have no impact on economic movement or direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Properties are resonant frequencies of market dynamics.
+</metaphor>
+<literal_paraphrase>
+Properties naturally align with and respond to market patterns and cycles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Properties are disconnected from and unresponsive to market patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

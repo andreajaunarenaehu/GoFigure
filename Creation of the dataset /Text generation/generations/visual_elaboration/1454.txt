@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His ideologies were hand-me-down clothes that never quite fit.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Borrowed beliefs that are uncomfortable and unsuitable.
+</implicit_meaning>
+
+<components>
+<object>Ideologies, Hand-me-down clothes</object>
+<properties>Ill-fitting, uncomfortable, inherited</properties>
+<relations>Person wearing clothes that are visibly too big or too small</relations>
+</components>
+
+<visual_elaboration>
+A person wearing mismatched, oversized clothes with labels reading "Democracy," "Capitalism," and "Freedom" hanging awkwardly.
+</visual_elaboration>
+</metaphor_analysis>

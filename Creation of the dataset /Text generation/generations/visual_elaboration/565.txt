@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The asylum of the heart houses love's beautiful insanity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love is a form of beautiful madness that resides within our hearts.
+</implicit_meaning>
+
+<components>
+<object>Heart, Asylum</object>
+<properties>Beautiful, Insane, Contained</properties>
+<relations>Housing/Containing love's madness</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart-shaped building with windows where colorful butterflies escape through iron bars.
+</visual_elaboration>
+</metaphor_analysis>

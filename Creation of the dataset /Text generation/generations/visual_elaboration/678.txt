@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The timeline weaves a tapestry of cause and effect.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Events are interconnected like threads in a fabric.
+</implicit_meaning>
+
+<components>
+<object>Timeline, Tapestry</object>
+<properties>Woven, Interconnected, Sequential</properties>
+<relations>Timeline acts as threads weaving through events creating patterns</relations>
+</components>
+
+<visual_elaboration>
+A loom weaving time-labeled threads into a tapestry showing connected historical events.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The winds of change swept away the cobwebs of old beliefs.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress removes outdated ideas.
+</implicit_meaning>
+
+<components>
+<object>Wind, Cobwebs</object>
+<properties>Strong, forceful wind; old, dusty cobwebs</properties>
+<relations>Wind actively removing/clearing away cobwebs</relations>
+</components>
+
+<visual_elaboration>
+A powerful whirlwind blowing away dusty cobwebs revealing a bright modern cityscape behind them.
+</visual_elaboration>
+</metaphor_analysis>

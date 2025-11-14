@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's a preening peacock on the dating scene.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Showing off to attract attention.
+</implicit_meaning>
+
+<components>
+<object>Woman, Peacock</object>
+<properties>Showy, attention-seeking, vain</properties>
+<relations>Displaying oneself in a dating context</relations>
+</components>
+
+<visual_elaboration>
+A woman with peacock feathers for hair strutting on a red carpet with admirers watching.
+</visual_elaboration>
+</metaphor_analysis>

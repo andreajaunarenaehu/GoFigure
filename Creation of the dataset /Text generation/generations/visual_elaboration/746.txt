@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope floated like a balloon released into the sky.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Freedom and lightness of spirit rising upward.
+</implicit_meaning>
+
+<components>
+<object>Hope, Balloon</object>
+<properties>Floating, Light, Ascending</properties>
+<relations>Movement upward into open sky</relations>
+</components>
+
+<visual_elaboration>
+A bright red balloon with a smiling face soaring upward through fluffy white clouds.
+</visual_elaboration>
+</metaphor_analysis>

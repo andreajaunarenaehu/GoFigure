@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The schedule is racing down a steep hill.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is moving too fast and out of control.
+</implicit_meaning>
+
+<components>
+<object>Schedule, Hill</object>
+<properties>Steep, Racing, Fast-moving</properties>
+<relations>Downward movement, Loss of control</relations>
+</components>
+
+<visual_elaboration>
+A calendar with pages flying off while tumbling down a steep cliff with motion blur lines.
+</visual_elaboration>
+</metaphor_analysis>

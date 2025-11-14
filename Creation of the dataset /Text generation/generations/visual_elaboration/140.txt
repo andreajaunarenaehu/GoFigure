@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mind is a muscle that needs regular exercise.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental capabilities can be strengthened through practice and training.
+</implicit_meaning>
+
+<components>
+<object>Mind, Muscle</object>
+<properties>Strengthening, Growth, Development</properties>
+<relations>Exercise, Training, Regular practice</relations>
+</components>
+
+<visual_elaboration>
+A brain lifting dumbbells while sweating on a gym bench.
+</visual_elaboration>
+</metaphor_analysis>

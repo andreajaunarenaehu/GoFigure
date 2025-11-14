@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her emotional bank account overflows with positive balance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Abundance of happiness and emotional well-being.
+</implicit_meaning>
+
+<components>
+<object>Bank account, Emotions</object>
+<properties>Overflowing, Positive, Abundant</properties>
+<relations>Container (account) overflowing with emotional wealth</relations>
+</components>
+
+<visual_elaboration>
+A smiling woman beside a giant piggy bank bursting with glowing hearts and stars instead of coins.
+</visual_elaboration>
+</metaphor_analysis>

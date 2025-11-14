@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their chemistry was an arsenal waiting to be deployed.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Explosive potential for romance or conflict between two people.
+</implicit_meaning>
+
+<components>
+<object>Chemistry between people, Arsenal/Weapons</object>
+<properties>Explosive, Dangerous, Powerful, Waiting</properties>
+<relations>Potential energy ready to be released</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes facing each other with missiles and fireworks erupting between them in heart shapes.
+</visual_elaboration>
+</metaphor_analysis>

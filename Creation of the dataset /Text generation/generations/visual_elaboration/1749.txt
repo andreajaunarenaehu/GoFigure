@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This flesh cabinet stores the treasures of my being.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The human body contains one's soul and essence.
+</implicit_meaning>
+
+<components>
+<object>Human body, Cabinet</object>
+<properties>Made of flesh, Contains treasures</properties>
+<relations>Storage, Containment of precious items</relations>
+</components>
+
+<visual_elaboration>
+A translucent human figure with an open chest revealing glowing treasures and memories within cabinet-like compartments.
+</visual_elaboration>
+</metaphor_analysis>

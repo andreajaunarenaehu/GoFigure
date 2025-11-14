@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her faith stands like a lighthouse on rocky shores.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unwavering guidance through difficult times.
+</implicit_meaning>
+
+<components>
+<object>Faith, Lighthouse, Rocky shores</object>
+<properties>Strong, steadfast, illuminating, protective</properties>
+<relations>Standing firm against adversity, providing guidance</relations>
+</components>
+
+<visual_elaboration>
+A glowing lighthouse on jagged rocks with a woman's silhouette forming its structure, beaming light through stormy waves.
+</visual_elaboration>
+</metaphor_analysis>

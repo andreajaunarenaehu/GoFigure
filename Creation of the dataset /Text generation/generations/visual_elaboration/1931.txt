@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a rare antique, his value only increases with time.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A person becomes more valuable and appreciated as they age.
+</implicit_meaning>
+
+<components>
+<object>Person, Antique</object>
+<properties>Rare, Valuable, Aging</properties>
+<relations>Growing value over time</relations>
+</components>
+
+<visual_elaboration>
+An elderly man sitting on a golden pedestal with price tags floating upward and a glowing aura.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our eyes' domain is a gated community of images.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Our vision is selective and limited to what we allow ourselves to see.
+</implicit_meaning>
+
+<components>
+<object>Eyes, Gated Community</object>
+<properties>Restricted, Selective, Controlled</properties>
+<relations>Eyes act as gates that filter and control what images we let in</relations>
+</components>
+
+<visual_elaboration>
+Two large eyes with iron gates as pupils, with various images trapped behind the bars.
+</visual_elaboration>
+</metaphor_analysis>

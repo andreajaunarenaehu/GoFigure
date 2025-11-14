@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Darkness draped its heavy curtain across the sky.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Night falling and enveloping everything in darkness.
+</implicit_meaning>
+
+<components>
+<object>Darkness, Sky, Curtain</object>
+<properties>Heavy, Draping, Covering</properties>
+<relations>Darkness is personified as actively covering the sky like a curtain being drawn</relations>
+</components>
+
+<visual_elaboration>
+A giant black curtain being pulled across a bright sky by shadowy hands.
+</visual_elaboration>
+</metaphor_analysis>

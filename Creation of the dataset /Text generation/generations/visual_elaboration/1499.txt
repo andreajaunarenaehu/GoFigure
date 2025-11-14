@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their compliance grip was beginning to slip.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Losing control over enforcing rules or regulations.
+</implicit_meaning>
+
+<components>
+<object>Grip, Hand, Control</object>
+<properties>Slipping, Weakening, Loosening</properties>
+<relations>Authority figure losing their hold on maintaining order</relations>
+</components>
+
+<visual_elaboration>
+A hand desperately grasping a rope labeled "compliance" that's sliding through fingers.
+</visual_elaboration>
+</metaphor_analysis>

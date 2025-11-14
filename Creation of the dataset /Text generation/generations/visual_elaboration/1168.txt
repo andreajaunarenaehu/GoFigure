@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theoretical match went into overtime as new evidence emerged.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A debate or argument extending beyond its expected conclusion due to new information.
+</implicit_meaning>
+
+<components>
+<object>Match/Game, Evidence/Information</object>
+<properties>Extended duration, Competitive nature</properties>
+<relations>Game extending beyond normal time due to new elements</relations>
+</components>
+
+<visual_elaboration>
+A scoreboard showing "Overtime" with papers and documents raining down onto a sports field.
+</visual_elaboration>
+</metaphor_analysis>

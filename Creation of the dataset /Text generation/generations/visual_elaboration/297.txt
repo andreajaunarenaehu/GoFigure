@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The bargain bin of hasty decisions often leads to regret.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Poor choices made quickly for short-term gains result in negative consequences.
+</implicit_meaning>
+
+<components>
+<object>Bargain bin, Decisions</object>
+<properties>Hasty, Cheap, Regrettable</properties>
+<relations>Decisions are treated like discounted items that seem appealing but are of poor quality</relations>
+</components>
+
+<visual_elaboration>
+A person frantically grabbing items from a messy bargain bin while broken objects spill onto the floor.
+</visual_elaboration>
+</metaphor_analysis>

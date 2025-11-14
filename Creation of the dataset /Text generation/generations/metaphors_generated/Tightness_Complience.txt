@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The grip of compliance loosened its hold on the organization.
+</metaphor>
+<literal_paraphrase>
+The strict adherence to regulations became more relaxed within the organization.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The organization's compliance measures became increasingly rigid and inflexible.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their compliance standards were a snug fit around operations.
+</metaphor>
+<literal_paraphrase>
+Their compliance measures were appropriately aligned with operational requirements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their compliance standards were completely misaligned with operational needs.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The regulatory belt squeezed their compliance framework.
+</metaphor>
+<literal_paraphrase>
+Strict regulations put pressure on their compliance system.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Regulations provided complete freedom in their compliance approach.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Compliance stretched like an elastic band across departments.
+</metaphor>
+<literal_paraphrase>
+Compliance requirements were flexibly adapted across different departments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Compliance remained rigid and departmentally isolated.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their compliance was a well-adjusted corset of controls.
+</metaphor>
+<literal_paraphrase>
+Their compliance system provided appropriate levels of control and structure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their compliance system was chaotic and unstructured.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The compliance knot gradually constricted innovation.
+</metaphor>
+<literal_paraphrase>
+Strict compliance requirements increasingly limited innovative possibilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Compliance measures actively encouraged and facilitated innovation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their compliance wrapper needed some slack.
+</metaphor>
+<literal_paraphrase>
+Their compliance framework required more flexibility.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their compliance framework needed stricter enforcement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Compliance bound the organization like a compressed spring.
+</metaphor>
+<literal_paraphrase>
+Compliance requirements created tension within the organization.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Compliance brought relaxation and ease to the organization.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The compliance screws needed careful adjustment.
+</metaphor>
+<literal_paraphrase>
+Compliance measures required precise calibration to be effective.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Compliance measures could be implemented without any fine-tuning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their compliance grip was beginning to slip.
+</metaphor>
+<literal_paraphrase>
+Their adherence to compliance standards was weakening.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their compliance standards were becoming increasingly stringent.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

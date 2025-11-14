@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a target that grows larger with each miss.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A situation that becomes more difficult with each failed attempt to solve it.
+</implicit_meaning>
+
+<components>
+<object>Problem, Target</object>
+<properties>Growing, Expanding, Elusive</properties>
+<relations>Target increases in size after each missed attempt</relations>
+</components>
+
+<visual_elaboration>
+A bullseye target that expands outward with each arrow missing the center, creating concentric rings.
+</visual_elaboration>
+</metaphor_analysis>

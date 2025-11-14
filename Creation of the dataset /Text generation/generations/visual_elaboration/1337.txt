@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Working from multiple angles helps complete the research picture.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Different perspectives contribute to a complete understanding.
+</implicit_meaning>
+
+<components>
+<object>Research as a picture/image</object>
+<properties>Multiple angles, incomplete to complete</properties>
+<relations>Different viewpoints combining to form whole</relations>
+</components>
+
+<visual_elaboration>
+A puzzle image with floating pieces coming together from different angles to complete a scientific diagram.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The pressure built up in his sealed obligation containers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming stress from multiple responsibilities.
+</implicit_meaning>
+
+<components>
+<object>Containers, Pressure, Obligations</object>
+<properties>Sealed, Building pressure, Ready to burst</properties>
+<relations>Pressure increasing within contained space</relations>
+</components>
+
+<visual_elaboration>
+A person struggling to hold multiple pressurized containers with steam escaping from their lids.
+</visual_elaboration>
+</metaphor_analysis>

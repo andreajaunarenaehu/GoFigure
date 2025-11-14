@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mental state was as delicate as thin ice in spring.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fragile and unstable psychological condition.
+</implicit_meaning>
+
+<components>
+<object>Mental state, Ice</object>
+<properties>Thin, delicate, breakable, unstable</properties>
+<relations>Mental state compared to fragile spring ice that could break at any moment</relations>
+</components>
+
+<visual_elaboration>
+A human silhouette standing on cracking thin ice with fracture lines spreading beneath their feet.
+</visual_elaboration>
+</metaphor_analysis>

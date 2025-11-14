@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His understanding took flight toward reason.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Growing comprehension or enlightenment.
+</implicit_meaning>
+
+<components>
+<object>Understanding, Flight, Reason</object>
+<properties>Movement upward, Direction, Transformation</properties>
+<relations>Understanding transforms into a flying object moving toward reason</relations>
+</components>
+
+<visual_elaboration>
+A human brain with wings soaring upward toward a bright glowing lightbulb.
+</visual_elaboration>
+</metaphor_analysis>

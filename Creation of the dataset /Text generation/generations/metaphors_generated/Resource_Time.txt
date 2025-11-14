@@ -1,0 +1,123 @@
+I'll create 10 metaphor sets using "Resource" as the source and "Time" as the target.
+
+<metaphors>
+<metaphor_set>
+<metaphor>
+Time is a depleting oil well.
+</metaphor>
+<literal_paraphrase>
+Time gradually diminishes and cannot be replenished once used.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is an endless supply that automatically refills itself.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a renewable forest.
+</metaphor>
+<literal_paraphrase>
+Time must be managed carefully to ensure sustainable use and future availability.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time requires no management and can be exploited without consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a precious mineral being mined away.
+</metaphor>
+<literal_paraphrase>
+Each moment spent is irretrievable and reduces our remaining time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time accumulates and grows the more we use it.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a shared water reservoir.
+</metaphor>
+<literal_paraphrase>
+Everyone draws from the same limited pool of time and must use it responsibly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each person has their own unlimited supply of time that doesn't affect others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a non-renewable energy source.
+</metaphor>
+<literal_paraphrase>
+Once time is spent, it cannot be recovered or generated again.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time can be created and stored for future use whenever needed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a scarce raw material.
+</metaphor>
+<literal_paraphrase>
+Time is limited and must be allocated efficiently to different activities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is abundant and requires no careful allocation or planning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a rationed commodity.
+</metaphor>
+<literal_paraphrase>
+We each have a fixed amount of time that must be budgeted carefully.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We have unlimited time to use as freely as we wish.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is an eroding coastline.
+</metaphor>
+<literal_paraphrase>
+Time constantly diminishes at a steady rate, regardless of our actions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time expands and grows stronger with each passing moment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a depleting battery.
+</metaphor>
+<literal_paraphrase>
+Our time gradually runs out and cannot be recharged once exhausted.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our time automatically recharges and never runs out.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a limited bandwidth connection.
+</metaphor>
+<literal_paraphrase>
+We can only allocate so much time to different tasks at once.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We can infinitely multiply our time across unlimited simultaneous tasks.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

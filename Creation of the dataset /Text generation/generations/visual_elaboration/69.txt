@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our schedule is bouncing like a rubber ball.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unpredictable and constantly changing.
+</implicit_meaning>
+
+<components>
+<object>Schedule, Rubber ball</object>
+<properties>Bouncing, Unpredictable movement, Unstable</properties>
+<relations>Schedule behaving like an erratically bouncing ball</relations>
+</components>
+
+<visual_elaboration>
+A calendar page shaped like a rubber ball bouncing wildly off walls with dates flying off.
+</visual_elaboration>
+</metaphor_analysis>

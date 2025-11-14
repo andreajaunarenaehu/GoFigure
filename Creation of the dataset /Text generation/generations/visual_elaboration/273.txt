@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Technological disruptions acted as seismic waves, shaking their established foundation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden technological changes causing major upheaval and instability in existing systems.
+</implicit_meaning>
+
+<components>
+<object>Technological disruptions, seismic waves, foundation</object>
+<properties>Destructive, powerful, destabilizing</properties>
+<relations>Technology causing disruption like earthquakes shake buildings</relations>
+</components>
+
+<visual_elaboration>
+A cracking concrete building foundation with digital waves rippling through it, causing pieces to break apart.
+</visual_elaboration>
+</metaphor_analysis>

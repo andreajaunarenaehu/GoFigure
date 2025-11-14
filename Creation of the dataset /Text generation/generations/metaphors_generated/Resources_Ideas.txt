@@ -1,0 +1,123 @@
+I'll create 10 metaphor sets relating Resources to Ideas using the specified format.
+
+<metaphors>
+<metaphor_set>
+<metaphor>
+Ideas are untapped mines waiting to be excavated.
+</metaphor>
+<literal_paraphrase>
+Ideas are valuable potential opportunities that require effort to discover and develop.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas are completely visible and require no effort to discover or develop.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This idea is a renewable energy source, generating endless possibilities.
+</metaphor>
+<literal_paraphrase>
+This idea can continuously inspire new thoughts and innovations without being depleted.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This idea is finite and becomes useless after a single application.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mind stockpiles ideas like a squirrel hoarding nuts for winter.
+</metaphor>
+<literal_paraphrase>
+She carefully collects and saves ideas for future use when they might be needed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She immediately uses or discards every idea without saving any for later.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their brainstorming session was an oil well striking gold.
+</metaphor>
+<literal_paraphrase>
+Their collaborative thinking produced unexpectedly valuable ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their group discussion yielded only obvious and worthless suggestions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That concept is a depleted well, run dry of originality.
+</metaphor>
+<literal_paraphrase>
+That concept has been overused and no longer offers fresh perspectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+That concept remains fresh and continues to provide novel insights.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His ideas are raw diamonds needing careful refinement.
+</metaphor>
+<literal_paraphrase>
+His ideas have great potential but require development and polishing to reach their full value.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His ideas are already perfect and need no improvement or development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The team's creativity flows like an endless river of resources.
+</metaphor>
+<literal_paraphrase>
+The team consistently generates new ideas without apparent limitation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The team struggles to produce even basic ideas and quickly runs out of creativity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their innovation pipeline is a rich vein of intellectual gold.
+</metaphor>
+<literal_paraphrase>
+Their process for developing new ideas consistently produces valuable results.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their approach to innovation yields only poor and impractical ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each brainstorm deposits new layers of conceptual sediment.
+</metaphor>
+<literal_paraphrase>
+Every creative session adds to the accumulation of useful ideas and knowledge.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creative sessions erode existing knowledge and diminish available ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The project's ideas are sustainable forests of innovation.
+</metaphor>
+<literal_paraphrase>
+The project generates ideas that can be continuously developed and renewed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The project's ideas are quickly exhausted and cannot be replenished.
+</contradiction_paraphrase>
+</metaphor_set>
+</

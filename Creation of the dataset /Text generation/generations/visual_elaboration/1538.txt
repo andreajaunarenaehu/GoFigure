@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mind's eye traces constellations in chaos.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Finding patterns and meaning in disorder or confusion.
+</implicit_meaning>
+
+<components>
+<object>Mind's eye, constellations, chaos</object>
+<properties>Searching, pattern-seeking, disorder</properties>
+<relations>The mind actively seeking and creating order within disorder</relations>
+</components>
+
+<visual_elaboration>
+A human eye with stars connecting into patterns within a swirling dark nebula of scattered dots.
+</visual_elaboration>
+</metaphor_analysis>

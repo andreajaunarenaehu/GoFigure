@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's found her emotional bedrock.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Stable and solid emotional foundation.
+</implicit_meaning>
+
+<components>
+<object>Person, Bedrock</object>
+<properties>Solid, Stable, Deep, Foundational</properties>
+<relations>Person standing/connecting with bedrock</relations>
+</components>
+
+<visual_elaboration>
+A woman standing confidently on a solid rock formation that glows with inner strength.
+</visual_elaboration>
+</metaphor_analysis>

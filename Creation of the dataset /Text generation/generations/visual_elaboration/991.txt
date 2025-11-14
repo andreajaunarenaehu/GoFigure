@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The child within me dances with delight.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Feeling pure, innocent joy and happiness.
+</implicit_meaning>
+
+<components>
+<object>Inner child, Adult person</object>
+<properties>Playful, joyful, dancing</properties>
+<relations>The inner child expressing happiness through dance within the adult self</relations>
+</components>
+
+<visual_elaboration>
+A transparent adult figure with a glowing child dancing joyfully inside their silhouette.
+</visual_elaboration>
+</metaphor_analysis>

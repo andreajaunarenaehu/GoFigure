@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The financial crisis created a tsunami of debt.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming and destructive force of financial problems.
+</implicit_meaning>
+
+<components>
+<object>Financial crisis, Tsunami, Debt</object>
+<properties>Massive, destructive, overwhelming</properties>
+<relations>Crisis causing devastating wave of debt</relations>
+</components>
+
+<visual_elaboration>
+A giant wave made of dollar bills and credit cards crashing down on a city skyline.
+</visual_elaboration>
+</metaphor_analysis>

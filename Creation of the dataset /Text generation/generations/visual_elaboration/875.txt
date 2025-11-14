@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their image is a weatherproof tarp.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Protected and impenetrable to criticism or damage.
+</implicit_meaning>
+
+<components>
+<object>Image (reputation), Weatherproof tarp</object>
+<properties>Durable, protective, resistant, impermeable</properties>
+<relations>Image being shielded like a tarp shields objects from weather</relations>
+</components>
+
+<visual_elaboration>
+A person's silhouette wrapped in a blue tarp while rain and arrows bounce off its surface.
+</visual_elaboration>
+</metaphor_analysis>

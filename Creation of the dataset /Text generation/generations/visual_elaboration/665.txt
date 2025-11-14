@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Life is a sealed capsule with an unknown capacity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life's potential and limits are mysterious and undetermined.
+</implicit_meaning>
+
+<components>
+<object>Life, Sealed capsule</object>
+<properties>Sealed, Unknown capacity, Mysterious</properties>
+<relations>Life is contained within boundaries that are unclear</relations>
+</components>
+
+<visual_elaboration>
+A glowing transparent capsule filled with swirling mist and floating question marks.
+</visual_elaboration>
+</metaphor_analysis>

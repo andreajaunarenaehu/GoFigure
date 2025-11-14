@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Physical properties are the skeleton that gives structure to abstract comparisons.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Physical properties provide essential framework and support for understanding abstract concepts.
+</implicit_meaning>
+
+<components>
+<object>Skeleton, Physical properties, Abstract comparisons</object>
+<properties>Structural, Supporting, Framework-like</properties>
+<relations>Skeleton supports and shapes abstract concepts like bones support a body</relations>
+</components>
+
+<visual_elaboration>
+A human skeleton holding up floating abstract symbols and mathematical equations like a coat rack.
+</visual_elaboration>
+</metaphor_analysis>

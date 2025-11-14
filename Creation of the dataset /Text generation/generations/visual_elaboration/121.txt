@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The soil of imagination must be tilled before creativity can take root.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Imagination needs preparation and work to foster creative growth.
+</implicit_meaning>
+
+<components>
+<object>Soil, imagination, creativity</object>
+<properties>Fertile, cultivated, growing</properties>
+<relations>Tilling leads to growth</relations>
+</components>
+
+<visual_elaboration>
+A human brain sprouting colorful flowers while being tilled by a farmer's plow.
+</visual_elaboration>
+</metaphor_analysis>

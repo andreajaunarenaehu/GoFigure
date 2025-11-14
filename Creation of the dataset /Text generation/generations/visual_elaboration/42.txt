@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The load of inebriation dragged him down with each step.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being drunk makes movement difficult and burdensome.
+</implicit_meaning>
+
+<components>
+<object>Person, Weight/Load</object>
+<properties>Heavy, Dragging, Downward motion</properties>
+<relations>The weight of drunkenness physically pulling the person down</relations>
+</components>
+
+<visual_elaboration>
+A stumbling man with heavy weights labeled "alcohol" chained to his ankles.
+</visual_elaboration>
+</metaphor_analysis>

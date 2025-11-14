@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some hardships are leaky vessels that drain our energy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Difficulties gradually deplete our mental and physical resources.
+</implicit_meaning>
+
+<components>
+<object>Hardships, vessels, energy</object>
+<properties>Leaking, draining, depleting</properties>
+<relations>Hardships act as containers that fail to hold energy, causing it to leak away</relations>
+</components>
+
+<visual_elaboration>
+A cracked glass jar with glowing energy seeping through its cracks while a tired person slumps beside it.
+</visual_elaboration>
+</metaphor_analysis>

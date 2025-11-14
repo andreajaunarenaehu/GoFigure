@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These belongings are hungry mouths that need constant feeding.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions constantly demand money and resources to maintain.
+</implicit_meaning>
+
+<components>
+<object>Belongings (possessions), Mouths</object>
+<properties>Hungry, Demanding, Needing constant attention</properties>
+<relations>Belongings are portrayed as consuming entities that need feeding (maintenance)</relations>
+</components>
+
+<visual_elaboration>
+Various household items with open, hungry mouths devouring dollar bills and coins.
+</visual_elaboration>
+</metaphor_analysis>

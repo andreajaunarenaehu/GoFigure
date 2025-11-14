@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mind's reception signal fluctuates with attention.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental focus varies like a signal's strength.
+</implicit_meaning>
+
+<components>
+<object>Mind, Signal/Reception bars</object>
+<properties>Fluctuating, Variable strength, Attention-dependent</properties>
+<relations>Direct correlation between attention and signal strength</relations>
+</components>
+
+<visual_elaboration>
+A human head with signal bars inside that rise and fall based on open/closed eyes.
+</visual_elaboration>
+</metaphor_analysis>

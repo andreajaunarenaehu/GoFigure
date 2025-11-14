@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The flames of jealousy scorched their relationship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Jealousy destroyed their love.
+</implicit_meaning>
+
+<components>
+<object>Flames, Relationship (represented by two people)</object>
+<properties>Burning, destructive, consuming</properties>
+<relations>Flames actively destroying the connection between people</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes holding hands while green flames consume their connecting arms.
+</visual_elaboration>
+</metaphor_analysis>

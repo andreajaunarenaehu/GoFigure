@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their innovation required careful prenatal care before seeing daylight.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The innovation needs nurturing and development before public release.
+</implicit_meaning>
+
+<components>
+<object>Innovation, Prenatal care, Daylight</object>
+<properties>Careful, Developmental, Protected</properties>
+<relations>Innovation is treated like an unborn baby requiring care before birth/release</relations>
+</components>
+
+<visual_elaboration>
+A glowing lightbulb wrapped in a blanket inside an incubator with medical monitors attached.
+</visual_elaboration>
+</metaphor_analysis>

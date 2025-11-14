@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His soul was spotless as freshly fallen snow.
+</metaphor>
+<literal_paraphrase>
+His moral character was pure and free from any wrongdoing.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His soul was stained with countless misdeeds and moral failures.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She needed to wash away her guilty conscience.
+</metaphor>
+<literal_paraphrase>
+She needed to atone for her wrongdoings and seek redemption.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She embraced her guilty conscience and continued to act immorally.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their business practices were crystal clear.
+</metaphor>
+<literal_paraphrase>
+Their business operations were conducted with complete honesty and transparency.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their business practices were deceptive and morally questionable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The scandal left a permanent stain on his reputation.
+</metaphor>
+<literal_paraphrase>
+The unethical incident caused lasting damage to his moral standing in society.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scandal enhanced his reputation and moral authority.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She maintained a squeaky-clean record throughout her career.
+</metaphor>
+<literal_paraphrase>
+She consistently demonstrated ethical behavior and moral integrity in her professional life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She regularly engaged in unethical practices throughout her career.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The community needed to purge itself of corruption.
+</metaphor>
+<literal_paraphrase>
+The community needed to eliminate unethical behavior and restore moral order.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The community should embrace corruption as a normal part of life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His conscience was as pure as filtered water.
+</metaphor>
+<literal_paraphrase>
+His moral judgment was untainted by ulterior motives or ethical compromises.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His conscience was corrupted by selfish desires and moral compromises.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The organization underwent a moral cleansing.
+</metaphor>
+<literal_paraphrase>
+The organization implemented reforms to eliminate unethical practices and restore integrity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The organization deliberately maintained its corrupt practices and unethical behavior.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their reputation remained unsullied by scandal.
+</metaphor>
+<literal_paraphrase>
+Their moral standing remained intact and free from ethical controversies.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their reputation was repeatedly damaged by ethical violations and scandals.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She polished her moral compass daily.
+</metaphor>
+<literal_paraphrase>
+She consistently reflected on and maintained her ethical principles and values.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She deliberately ignored her moral principles and ethical values.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship descended into the abyss.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A relationship that has completely fallen apart and become dark and hopeless.
+</implicit_meaning>
+
+<components>
+<object>Relationship, Abyss</object>
+<properties>Descending, Dark, Deep, Endless</properties>
+<relations>Movement downward into darkness</relations>
+</components>
+
+<visual_elaboration>
+Two linked hearts falling into a dark, bottomless chasm with broken chains trailing behind them.
+</visual_elaboration>
+</metaphor_analysis>

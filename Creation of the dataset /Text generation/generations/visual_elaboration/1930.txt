@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She is my most treasured possession, kept safe in the vault of my heart.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Deep love and protection of someone precious.
+</implicit_meaning>
+
+<components>
+<object>Person (she), Heart, Vault</object>
+<properties>Treasured, Protected, Valuable</properties>
+<relations>Containment, Protection, Possession</relations>
+</components>
+
+<visual_elaboration>
+A glowing woman inside a heart-shaped vault with golden light radiating from within.
+</visual_elaboration>
+</metaphor_analysis>

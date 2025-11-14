@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His temperament is like quicksand, unpredictable and dangerous.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A volatile and hazardous personality that can suddenly engulf others.
+</implicit_meaning>
+
+<components>
+<object>Temperament, Quicksand</object>
+<properties>Unstable, dangerous, unpredictable, consuming</properties>
+<relations>Person's temperament being compared to the dangerous nature of quicksand</relations>
+</components>
+
+<visual_elaboration>
+A man's face emerging from swirling quicksand, with dark whirlpools for eyes and a sinister expression.
+</visual_elaboration>
+</metaphor_analysis>

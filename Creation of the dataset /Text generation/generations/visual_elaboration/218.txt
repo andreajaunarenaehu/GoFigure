@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem's framework is showing stress fractures.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A situation is beginning to fail or break down under pressure.
+</implicit_meaning>
+
+<components>
+<object>Framework, Problem</object>
+<properties>Cracking, Breaking, Structural weakness</properties>
+<relations>Framework supporting problem is failing</relations>
+</components>
+
+<visual_elaboration>
+A glass building structure with visible cracks spreading across its surface while supporting a heavy dark mass.
+</visual_elaboration>
+</metaphor_analysis>

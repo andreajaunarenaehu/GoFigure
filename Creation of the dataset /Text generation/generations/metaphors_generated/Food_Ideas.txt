@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her ideas were a feast for the mind.
+</metaphor>
+<literal_paraphrase>
+Her ideas were intellectually satisfying and provided abundant mental stimulation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her ideas were intellectually barren and provided no mental nourishment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That concept is still half-baked.
+</metaphor>
+<literal_paraphrase>
+That concept is not fully developed or thought through yet.
+</literal_paraphrase>
+<contradiction_paraphrase>
+That concept is completely refined and thoroughly developed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mind digested the new information slowly.
+</metaphor>
+<literal_paraphrase>
+He took time to fully understand and process the new information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He immediately rejected the new information without consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The presentation was a bland soup of ideas.
+</metaphor>
+<literal_paraphrase>
+The presentation contained uninteresting and uninspiring ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The presentation was a vibrant collection of exciting ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her theory was a perfectly seasoned argument.
+</metaphor>
+<literal_paraphrase>
+Her theory was well-balanced and expertly constructed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her theory was poorly structured and imbalanced.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The students devoured every new concept.
+</metaphor>
+<literal_paraphrase>
+The students eagerly learned and absorbed every new concept.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The students rejected and ignored every new concept.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That suggestion left a bitter taste in everyone's mind.
+</metaphor>
+<literal_paraphrase>
+That suggestion was received negatively and created lasting displeasure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+That suggestion was warmly welcomed and created lasting satisfaction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The workshop served up fresh perspectives.
+</metaphor>
+<literal_paraphrase>
+The workshop provided new and innovative ways of thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The workshop offered only stale and outdated viewpoints.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mind was starving for new ideas.
+</metaphor>
+<literal_paraphrase>
+He was desperately seeking intellectual stimulation and new concepts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His mind was overwhelmed and saturated with too many ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The conference was an intellectual buffet.
+</metaphor>
+<literal_paraphrase>
+The conference offered a wide variety of ideas and concepts to choose from.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The conference provided a limited and restricted range of ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

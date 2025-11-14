@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her ideas pulse with living force.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas are vibrant and energetic.
+</implicit_meaning>
+
+<components>
+<object>Ideas, pulse/heartbeat</object>
+<properties>Living, dynamic, pulsating</properties>
+<relations>Ideas are connected to life force through pulsing motion</relations>
+</components>
+
+<visual_elaboration>
+A glowing brain with visible heartbeat waves radiating outward in bright, pulsating rings.
+</visual_elaboration>
+</metaphor_analysis>

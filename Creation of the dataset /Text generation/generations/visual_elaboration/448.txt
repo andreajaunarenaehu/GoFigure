@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Life is a kaleidoscope constantly shifting its patterns.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life is constantly changing and unpredictable.
+</implicit_meaning>
+
+<components>
+<object>Life, Kaleidoscope</object>
+<properties>Colorful, shifting, dynamic, patterns</properties>
+<relations>Continuous movement and transformation of patterns</relations>
+</components>
+
+<visual_elaboration>
+A giant kaleidoscope with human silhouettes dancing within its colorful, rotating geometric patterns.
+</visual_elaboration>
+</metaphor_analysis>

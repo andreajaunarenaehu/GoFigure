@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His happiness rose like a mighty skyscraper.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Growing and expanding happiness reaching great heights.
+</implicit_meaning>
+
+<components>
+<object>Happiness, Skyscraper</object>
+<properties>Rising, Tall, Mighty, Upward movement</properties>
+<relations>Happiness is compared to a growing building</relations>
+</components>
+
+<visual_elaboration>
+A man's smile stretches upward, transforming into a gleaming skyscraper reaching into clouds.
+</visual_elaboration>
+</metaphor_analysis>

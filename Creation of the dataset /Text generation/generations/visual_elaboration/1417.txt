@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their support was a balm that soothed her anxiety.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional comfort and healing.
+</implicit_meaning>
+
+<components>
+<object>Support, Balm, Anxiety</object>
+<properties>Soothing, Healing, Calming</properties>
+<relations>Balm acts upon anxiety to reduce it</relations>
+</components>
+
+<visual_elaboration>
+A glowing healing balm being applied to a dark, jagged cloud labeled "anxiety" that gradually fades away.
+</visual_elaboration>
+</metaphor_analysis>

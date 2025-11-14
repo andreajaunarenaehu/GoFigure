@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her rage was a thermal explosion that left only ashes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive and intense anger that consumes everything.
+</implicit_meaning>
+
+<components>
+<object>Rage, Thermal explosion, Ashes</object>
+<properties>Hot, destructive, consuming, transformative</properties>
+<relations>Explosion transforms everything to ashes, complete destruction</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette filled with flames, surrounded by swirling ashes and scorched earth.
+</visual_elaboration>
+</metaphor_analysis>

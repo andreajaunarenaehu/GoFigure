@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each new theory is a fresh coat of paint over the structure of reality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Theories are superficial layers that attempt to explain underlying truth.
+</implicit_meaning>
+
+<components>
+<object>Theory, Paint, Structure of Reality</object>
+<properties>Fresh, Layered, Covering</properties>
+<relations>Paint covering/concealing a deeper structure</relations>
+</components>
+
+<visual_elaboration>
+A transparent glass building being painted over with colorful layers, revealing the complex structure beneath.
+</visual_elaboration>
+</metaphor_analysis>

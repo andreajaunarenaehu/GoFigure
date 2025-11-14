@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her fear was a winter that wouldn't thaw.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Persistent and paralyzing fear that remains unchanged.
+</implicit_meaning>
+
+<components>
+<object>Fear, Winter</object>
+<properties>Frozen, unchanging, cold, persistent</properties>
+<relations>Fear is compared to an endless winter season</relations>
+</components>
+
+<visual_elaboration>
+A woman frozen in an ice block with frost patterns, surrounded by eternal snowfall.
+</visual_elaboration>
+</metaphor_analysis>

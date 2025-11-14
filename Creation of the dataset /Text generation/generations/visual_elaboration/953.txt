@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They orbited each other like binary stars.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two people in a close, interdependent relationship.
+</implicit_meaning>
+
+<components>
+<object>Two people, Binary stars</object>
+<properties>Circular motion, Mutual attraction, Connected movement</properties>
+<relations>Orbiting around each other in a synchronized pattern</relations>
+</components>
+
+<visual_elaboration>
+Two glowing human silhouettes circling each other with star-like trails of light behind them.
+</visual_elaboration>
+</metaphor_analysis>

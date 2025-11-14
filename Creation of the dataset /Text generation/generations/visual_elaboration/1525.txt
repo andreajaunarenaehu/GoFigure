@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The electromagnetic pulse of wanting charges the space between having and seeking.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desire creates tension between what we have and what we want.
+</implicit_meaning>
+
+<components>
+<object>Electromagnetic pulse, Space</object>
+<properties>Charged, Electric, Magnetic</properties>
+<relations>Tension between having and seeking</relations>
+</components>
+
+<visual_elaboration>
+Two hands reaching across an electric field with blue lightning bolts connecting their fingertips.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Creative thoughts must be pruned to reach their full potential.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas need refinement and editing to become better.
+</implicit_meaning>
+
+<components>
+<object>Creative thoughts, Garden plants</object>
+<properties>Growing, Unrefined, Need shaping</properties>
+<relations>Pruning leads to better growth and form</relations>
+</components>
+
+<visual_elaboration>
+A brain-shaped bush being carefully trimmed by gardening shears, with blooming flowers emerging from pruned areas.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each state is a room in America's house.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unity within diversity, where each state is a distinct part of a larger whole.
+</implicit_meaning>
+
+<components>
+<object>States, House, Rooms</object>
+<properties>Connected, Distinct, Part of whole</properties>
+<relations>States are contained within America like rooms within a house</relations>
+</components>
+
+<visual_elaboration>
+A large house with 50 unique rooms, each with its state flag hanging in the window.
+</visual_elaboration>
+</metaphor_analysis>

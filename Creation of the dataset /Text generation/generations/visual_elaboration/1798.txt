@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a target painted on quicksand.
+</linguistic_metaphor>
+
+<implicit_meaning>
+An impossible goal that keeps sinking away.
+</implicit_meaning>
+
+<components>
+<object>Target, Quicksand</object>
+<properties>Unstable, Sinking, Unreachable</properties>
+<relations>Target is painted on shifting quicksand, making it impossible to hit</relations>
+</components>
+
+<visual_elaboration>
+A bullseye target slowly sinking into swirling quicksand while arrows miss and disappear into the sand.
+</visual_elaboration>
+</metaphor_analysis>

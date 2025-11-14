@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time's calendar writes the story of causation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Events unfold in sequence creating consequences.
+</implicit_meaning>
+
+<components>
+<object>Calendar, Time, Story</object>
+<properties>Sequential, Narrative, Causal</properties>
+<relations>Writing, Recording, Connecting events</relations>
+</components>
+
+<visual_elaboration>
+A giant calendar with pages flying off, each page showing connected domino-like events falling in sequence.
+</visual_elaboration>
+</metaphor_analysis>

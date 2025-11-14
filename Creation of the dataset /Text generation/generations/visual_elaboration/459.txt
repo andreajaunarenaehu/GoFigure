@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is two halves completing one circle.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Perfect unity and completion through partnership.
+</implicit_meaning>
+
+<components>
+<object>Circle, Two halves</object>
+<properties>Incomplete parts becoming whole</properties>
+<relations>Coming together, completing, unifying</relations>
+</components>
+
+<visual_elaboration>
+Two semicircles, one red and one blue, joining together to form a perfect glowing circle.
+</visual_elaboration>
+</metaphor_analysis>

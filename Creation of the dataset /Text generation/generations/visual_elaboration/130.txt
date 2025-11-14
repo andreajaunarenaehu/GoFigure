@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His actions paid dividends in causing the project's success.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Small efforts leading to large rewards over time.
+</implicit_meaning>
+
+<components>
+<object>Actions, Dividends, Project</object>
+<properties>Growth, Multiplication, Investment</properties>
+<relations>Actions leading to multiplying returns</relations>
+</components>
+
+<visual_elaboration>
+A person planting money seeds that grow into large money trees with project success written on golden fruits.
+</visual_elaboration>
+</metaphor_analysis>

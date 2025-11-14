@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The replacement was a fresh coat of paint on life's canvas.
+</metaphor>
+<literal_paraphrase>
+The change brought a new and refreshing perspective to the situation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change only masked deeper problems without offering any real renewal.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a spare tire on life's journey, the replacement provided necessary backup.
+</metaphor>
+<literal_paraphrase>
+The change served as a valuable alternative when the original plan failed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change was unreliable and offered no security when needed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This replacement was a key turning in a rusty lock.
+</metaphor>
+<literal_paraphrase>
+The change finally resolved a long-standing problem that seemed impossible to fix.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change complicated matters further and created new obstacles.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The replacement acted as a bridge over troubled waters.
+</metaphor>
+<literal_paraphrase>
+The change helped overcome difficult circumstances and provided a way forward.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change created more barriers and made progress impossible.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a transplanted heart, the replacement brought new life to the system.
+</metaphor>
+<literal_paraphrase>
+The change revitalized and renewed the entire operation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change caused the system to fail and lose its vital energy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The replacement was a new chapter in an old book.
+</metaphor>
+<literal_paraphrase>
+The change represented a fresh start while maintaining connection to the past.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change completely erased history and lost all previous progress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This replacement was a sunrise after the darkest night.
+</metaphor>
+<literal_paraphrase>
+The change brought hope and optimism after a period of difficulty.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change deepened despair and eliminated all signs of improvement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The replacement acted as a master key unlocking new possibilities.
+</metaphor>
+<literal_paraphrase>
+The change created multiple new opportunities and potential paths forward.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change restricted options and limited future possibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a software update, the replacement fixed old bugs.
+</metaphor>
+<literal_paraphrase>
+The change corrected previous problems and improved functionality.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change introduced new errors and made the system less effective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The replacement was a fresh set of legs in a marathon.
+</metaphor>
+<literal_paraphrase>
+The change provided new energy and momentum when it was most needed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The change drained remaining energy and brought progress to a halt.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

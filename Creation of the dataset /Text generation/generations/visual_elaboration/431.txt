@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His addiction was a rusty anchor dragging him to the depths.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive force pulling someone down.
+</implicit_meaning>
+
+<components>
+<object>Person, Anchor</object>
+<properties>Rusty, Heavy, Dragging</properties>
+<relations>Anchor pulling person downward into water</relations>
+</components>
+
+<visual_elaboration>
+A person struggling underwater with a rusty anchor chained to their ankle, sinking deeper into dark waters.
+</visual_elaboration>
+</metaphor_analysis>

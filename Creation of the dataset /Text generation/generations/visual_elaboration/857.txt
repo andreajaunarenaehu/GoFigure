@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Theories are adjustable shields protecting us from the glare of raw data.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Theories help us filter and make sense of overwhelming information.
+</implicit_meaning>
+
+<components>
+<object>Theories as shields, Raw data as glare</object>
+<properties>Adjustable, Protective, Filtering</properties>
+<relations>Shield protecting person from overwhelming light/data</relations>
+</components>
+
+<visual_elaboration>
+A person holding an adjustable shield with filters, blocking intense beams of light containing numbers and data.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His character was sanctified by unwavering integrity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Pure and morally upright.
+</implicit_meaning>
+
+<components>
+<object>Character, Integrity</object>
+<properties>Sacred, Pure, Unwavering</properties>
+<relations>Integrity transforms character into something holy</relations>
+</components>
+
+<visual_elaboration>
+A glowing figure surrounded by a golden halo with a solid marble foundation beneath.
+</visual_elaboration>
+</metaphor_analysis>

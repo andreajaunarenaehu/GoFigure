@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The heart of society pumps life into its communities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Society functions like a living organism with interconnected parts.
+</implicit_meaning>
+
+<components>
+<object>Heart, Society, Communities</object>
+<properties>Pumping, Life-giving, Interconnected</properties>
+<relations>Heart pumps life through society like blood through veins</relations>
+</components>
+
+<visual_elaboration>
+A giant anatomical heart with city buildings growing from its arteries, pulsing with golden light.
+</visual_elaboration>
+</metaphor_analysis>

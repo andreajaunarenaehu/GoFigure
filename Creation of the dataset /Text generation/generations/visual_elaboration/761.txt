@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her missing pieces became poisoned arrows.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal traumas or deficiencies have become weapons that harm others.
+</implicit_meaning>
+
+<components>
+<object>Missing pieces (emotional/psychological voids), Arrows</object>
+<properties>Poisoned, harmful, weaponized</properties>
+<relations>Transformation of emotional wounds into harmful actions</relations>
+</components>
+
+<visual_elaboration>
+A silhouette of a woman with puzzle-piece holes shooting toxic green arrows from the empty spaces.
+</visual_elaboration>
+</metaphor_analysis>

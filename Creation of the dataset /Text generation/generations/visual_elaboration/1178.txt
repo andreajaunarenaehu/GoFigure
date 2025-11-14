@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mind glows with the warmth of understanding.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Knowledge brings illumination and comfort.
+</implicit_meaning>
+
+<components>
+<object>Mind, Light, Warmth</object>
+<properties>Glowing, Warm, Illuminating</properties>
+<relations>Mind produces light and warmth through understanding</relations>
+</components>
+
+<visual_elaboration>
+A human head with a bright, warm lightbulb inside, radiating golden rays and gentle heat waves.
+</visual_elaboration>
+</metaphor_analysis>

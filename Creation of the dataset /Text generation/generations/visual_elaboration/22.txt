@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The cancer cells are invading forces that must be neutralized.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Cancer cells are hostile enemies attacking the body.
+</implicit_meaning>
+
+<components>
+<object>Cancer cells, Military forces</object>
+<properties>Invasive, hostile, destructive</properties>
+<relations>Attacking, invading, being fought against</relations>
+</components>
+
+<visual_elaboration>
+Cancer cells depicted as armored soldiers attacking body tissue while white blood cells appear as defending knights.
+</visual_elaboration>
+</metaphor_analysis>

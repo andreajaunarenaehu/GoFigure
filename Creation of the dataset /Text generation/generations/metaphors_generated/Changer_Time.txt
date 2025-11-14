@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Time is a relentless shapeshifter.
+</metaphor>
+<literal_paraphrase>
+Time constantly transforms situations and circumstances in our lives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time maintains perfect stability and never alters anything.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is the ultimate makeover artist.
+</metaphor>
+<literal_paraphrase>
+Time gradually changes everything's appearance and nature.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time preserves everything exactly as it is forever.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a master alchemist, transmuting moments into memories.
+</metaphor>
+<literal_paraphrase>
+Time transforms present experiences into past recollections.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time keeps all experiences perpetually in the present moment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a restless renovator.
+</metaphor>
+<literal_paraphrase>
+Time continuously modifies and updates everything around us.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time never affects or alters anything in our environment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is an invisible tailor, constantly restitching reality.
+</metaphor>
+<literal_paraphrase>
+Time seamlessly alters the fabric of existence moment by moment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time leaves reality completely untouched and unchanged.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is a tireless transformer of landscapes.
+</metaphor>
+<literal_paraphrase>
+Time continuously reshapes both natural and human environments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time has no effect on physical environments or landscapes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is the great metamorphosis master.
+</metaphor>
+<literal_paraphrase>
+Time causes profound transformations in all things.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time never causes any changes or transformations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is an eternal chameleon.
+</metaphor>
+<literal_paraphrase>
+Time constantly shifts and adapts, bringing different changes to different things.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is rigid and uniform, treating everything the same way.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is the silent revolutionist.
+</metaphor>
+<literal_paraphrase>
+Time quietly but dramatically transforms everything it touches.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is a passive observer that never initiates change.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time is the cosmic sculptor, constantly reshaping existence.
+</metaphor>
+<literal_paraphrase>
+Time continuously molds and modifies the universe and everything in it.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time has no power to alter or influence the shape of existence.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

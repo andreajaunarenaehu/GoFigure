@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Night crystallized around us like black ice.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden, dangerous stillness and coldness of darkness.
+</implicit_meaning>
+
+<components>
+<object>Night, Ice, People</object>
+<properties>Black, crystalline, encasing, cold</properties>
+<relations>Surrounding and freezing the subjects</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes trapped within a dark, crystalline ice formation against a black background.
+</visual_elaboration>
+</metaphor_analysis>

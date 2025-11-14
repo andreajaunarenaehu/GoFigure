@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Opportunities are lightbulbs that need the right current to shine.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Opportunities require proper resources or support to be successful.
+</implicit_meaning>
+
+<components>
+<object>Lightbulbs, Electrical current</object>
+<properties>Illumination, Power, Potential</properties>
+<relations>Dependency between power source and light output</relations>
+</components>
+
+<visual_elaboration>
+A row of dim lightbulbs with one brightly glowing bulb connected to a flowing power source.
+</visual_elaboration>
+</metaphor_analysis>

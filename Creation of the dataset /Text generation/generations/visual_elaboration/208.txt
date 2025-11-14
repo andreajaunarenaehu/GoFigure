@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their beliefs hibernated during times of prosperity, awakening in crisis.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs become dormant when not needed but resurface during difficult times.
+</implicit_meaning>
+
+<components>
+<object>Beliefs personified as a hibernating animal</object>
+<properties>Dormant, sleeping, awakening</properties>
+<relations>Transition from sleep to wakefulness triggered by crisis</relations>
+</components>
+
+<visual_elaboration>
+A bear emerging from a cave labeled "beliefs" as storm clouds gather overhead.
+</visual_elaboration>
+</metaphor_analysis>

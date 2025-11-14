@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The design leaps from one element to another.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dynamic movement and connection between design elements.
+</implicit_meaning>
+
+<components>
+<object>Design elements</object>
+<properties>Dynamic, jumping, connected</properties>
+<relations>Movement between elements</relations>
+</components>
+
+<visual_elaboration>
+Design elements shaped like stepping stones with a kangaroo hopping across them.
+</visual_elaboration>
+</metaphor_analysis>

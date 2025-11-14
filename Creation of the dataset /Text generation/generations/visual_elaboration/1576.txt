@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The friction of daily responsibilities wore down her resolve.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual exhaustion and deterioration of willpower due to stress.
+</implicit_meaning>
+
+<components>
+<object>Resolve (mental strength), daily responsibilities</object>
+<properties>Wearing down, friction, erosion</properties>
+<relations>Continuous grinding action of responsibilities against mental strength</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette being erased by a giant sandpaper labeled "Daily Tasks."
+</visual_elaboration>
+</metaphor_analysis>

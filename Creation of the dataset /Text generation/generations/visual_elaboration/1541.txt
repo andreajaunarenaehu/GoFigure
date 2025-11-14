@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence forms the backbone of compliance success.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules is fundamental to achieving compliance.
+</implicit_meaning>
+
+<components>
+<object>Backbone, Compliance</object>
+<properties>Strong, Structural, Supporting</properties>
+<relations>Backbone provides essential support and structure</relations>
+</components>
+
+<visual_elaboration>
+A human spine made of stacked rulebooks supporting a standing figure in a business suit.
+</visual_elaboration>
+</metaphor_analysis>

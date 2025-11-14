@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their competing frameworks entered the intellectual Olympics.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Different theories or ideas competing against each other in an academic context.
+</implicit_meaning>
+
+<components>
+<object>Frameworks (theories/ideas), Olympics (competition)</object>
+<properties>Intellectual, competitive, athletic</properties>
+<relations>Different frameworks competing like athletes in a race</relations>
+</components>
+
+<visual_elaboration>
+Books wearing running gear racing on a track with academic medals hanging at the finish line.
+</visual_elaboration>
+</metaphor_analysis>

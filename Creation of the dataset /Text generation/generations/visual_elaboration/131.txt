@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The investment in better education purchased a brighter future for the community.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Education leads to positive community outcomes.
+</implicit_meaning>
+
+<components>
+<object>Education, Future, Community</object>
+<properties>Bright, Purchasable, Valuable</properties>
+<relations>Investment leads to improvement</relations>
+</components>
+
+<visual_elaboration>
+A glowing coin transforming into a graduation cap that radiates light onto a group of people.
+</visual_elaboration>
+</metaphor_analysis>

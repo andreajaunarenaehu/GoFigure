@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The bridge across troubled waters led to their transformation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overcoming difficulties leads to positive change.
+</implicit_meaning>
+
+<components>
+<object>Bridge, Waters, Person</object>
+<properties>Troubled waters, transformative journey</properties>
+<relations>Crossing from one state to another through difficulty</relations>
+</components>
+
+<visual_elaboration>
+A wooden bridge over dark stormy waters, transforming from grey planks to golden ones as it reaches the other side.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The company's reputation suffered a compound fracture.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Severe, irreparable damage to reputation.
+</implicit_meaning>
+
+<components>
+<object>Company reputation, broken bone</object>
+<properties>Fractured, damaged, broken in multiple places</properties>
+<relations>Reputation is treated like a physical bone that can break severely</relations>
+</components>
+
+<visual_elaboration>
+A corporate logo shattered like a broken bone with x-ray showing multiple fracture lines.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The winding path leads to higher values on the scale.
+</metaphor>
+<literal_paraphrase>
+Values on a linear scale increase progressively from lower to higher numbers.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Values on the scale appear randomly without any logical progression.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each fork in the path represents a division on the scale.
+</metaphor>
+<literal_paraphrase>
+The scale is divided into distinct segments or intervals for measurement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scale has no divisions or markers to indicate different values.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The path's milestones mark important points on the scale.
+</metaphor>
+<literal_paraphrase>
+Significant values on the scale are marked with notable indicators or numbers.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scale lacks any reference points or significant markers.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a straight path through the forest, the scale maintains a constant direction.
+</metaphor>
+<literal_paraphrase>
+The linear scale progresses in a consistent, uniform manner.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scale changes direction unpredictably and lacks consistency.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The path's distance markers guide us through the scale's progression.
+</metaphor>
+<literal_paraphrase>
+Regular intervals on the scale help users track and measure values accurately.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scale provides no way to measure or track progress between values.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like stepping stones across a river, each mark bridges gaps in the scale.
+</metaphor>
+<literal_paraphrase>
+The scale's markings provide continuous reference points for measurement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Large gaps between scale markings make precise measurement impossible.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The path's beginning and end frame the scale's boundaries.
+</metaphor>
+<literal_paraphrase>
+The scale has clearly defined minimum and maximum values.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scale has no defined limits or boundaries.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a well-maintained trail, the scale provides clear navigation.
+</metaphor>
+<literal_paraphrase>
+The scale is designed to be easily readable and interpretable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scale is confusing and difficult to interpret.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each step along the path represents an increment on the scale.
+</metaphor>
+<literal_paraphrase>
+The scale changes in regular, measurable intervals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scale changes irregularly with no standard measurement units.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a path's gradient, the scale rises steadily upward.
+</metaphor>
+<literal_paraphrase>
+The scale increases consistently from lower to higher values.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scale fluctuates erratically with no consistent pattern.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The small business had to roll with the punches of market fluctuations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Adapting to and surviving difficult circumstances.
+</implicit_meaning>
+
+<components>
+<object>Small business, Boxing ring</object>
+<properties>Flexible, resilient, defensive</properties>
+<relations>Business dodging and weaving against market forces represented as boxing gloves</relations>
+</components>
+
+<visual_elaboration>
+A small storefront ducking and swaying between giant boxing gloves labeled "Market Forces."
+</visual_elaboration>
+</metaphor_analysis>

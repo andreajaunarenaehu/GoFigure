@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Old theories, like set-in-their-ways elders, often resist newcomers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Resistance to change and new ideas.
+</implicit_meaning>
+
+<components>
+<object>Theories personified as elderly people</object>
+<properties>Stubborn, resistant, traditional</properties>
+<relations>Opposition between old and new</relations>
+</components>
+
+<visual_elaboration>
+Elderly figures in ancient robes forming a wall, blocking young people with glowing new ideas.
+</visual_elaboration>
+</metaphor_analysis>

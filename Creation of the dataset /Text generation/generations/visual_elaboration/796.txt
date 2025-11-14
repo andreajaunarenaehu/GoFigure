@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship blossomed in the springtime of their lives.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Young love growing and flourishing.
+</implicit_meaning>
+
+<components>
+<object>Relationship, flower, spring season</object>
+<properties>Blooming, young, growing</properties>
+<relations>Natural growth process of flowers paralleling relationship development</relations>
+</components>
+
+<visual_elaboration>
+Two young faces emerging from blooming flower petals with hearts floating around them.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our love is a delicate porcelain that must be handled with care.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love is fragile and requires gentle treatment to avoid breaking.
+</implicit_meaning>
+
+<components>
+<object>Love, Porcelain</object>
+<properties>Delicate, Fragile, Precious</properties>
+<relations>Careful handling required to prevent breaking</relations>
+</components>
+
+<visual_elaboration>
+Two hands gently cradling a glowing porcelain heart with visible hairline cracks.
+</visual_elaboration>
+</metaphor_analysis>

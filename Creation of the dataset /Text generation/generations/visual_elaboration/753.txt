@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This theory needs time to grow and mature.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas develop gradually like plants.
+</implicit_meaning>
+
+<components>
+<object>Theory, Plant</object>
+<properties>Growing, Developing, Maturing</properties>
+<relations>Theory is compared to a living organism that needs nurturing over time</relations>
+</components>
+
+<visual_elaboration>
+A small seedling growing into a full tree with papers as leaves and formulas on its branches.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His temper simmered just below the surface.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Suppressed anger ready to erupt.
+</implicit_meaning>
+
+<components>
+<object>Temper, Liquid/Water</object>
+<properties>Hot, Bubbling, Contained</properties>
+<relations>Simmering beneath surface, Ready to boil over</relations>
+</components>
+
+<visual_elaboration>
+A man's face as a pot lid, with bubbling red liquid threatening to escape from underneath.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The pendulum of change swings back and forth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Change is cyclical and alternates between opposing states.
+</implicit_meaning>
+
+<components>
+<object>Pendulum, Change</object>
+<properties>Swinging, Rhythmic, Continuous</properties>
+<relations>Movement between opposite points, Cyclical motion</relations>
+</components>
+
+<visual_elaboration>
+A giant pendulum swinging between sun and moon, leaving trails of transformation behind it.
+</visual_elaboration>
+</metaphor_analysis>

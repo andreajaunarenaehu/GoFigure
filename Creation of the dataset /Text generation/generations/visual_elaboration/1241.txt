@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Moonbeams rippled across the lake's surface.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Light moves like water waves.
+</implicit_meaning>
+
+<components>
+<object>Moonbeams, lake surface</object>
+<properties>Rippling, flowing, shimmering</properties>
+<relations>Light dancing on water in wave-like patterns</relations>
+</components>
+
+<visual_elaboration>
+Silver moonlight waves dance across dark water, creating concentric circles of light.
+</visual_elaboration>
+</metaphor_analysis>

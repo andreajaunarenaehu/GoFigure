@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The failed project left a bone-deep contusion on team morale.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Severe emotional damage and hurt.
+</implicit_meaning>
+
+<components>
+<object>Team morale, bruise/contusion</object>
+<properties>Deep, painful, visible damage</properties>
+<relations>Failed project causing injury to team spirit</relations>
+</components>
+
+<visual_elaboration>
+A group of people with a large purple bruise spreading across their collective bodies, wearing business attire.
+</visual_elaboration>
+</metaphor_analysis>

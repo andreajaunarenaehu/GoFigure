@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Beliefs are like last season's trends, constantly being replaced by new ones.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs are temporary and constantly changing.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Fashion trends</object>
+<properties>Temporary, Replaceable, Cyclical</properties>
+<relations>Old being discarded for new</relations>
+</components>
+
+<visual_elaboration>
+A closet with old clothes falling off hangers while new trendy outfits float in through an open window.
+</visual_elaboration>
+</metaphor_analysis>

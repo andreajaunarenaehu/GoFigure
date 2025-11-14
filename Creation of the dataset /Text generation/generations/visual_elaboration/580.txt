@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He devoured every opportunity that came his way.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Eagerly seizing and consuming chances with intense hunger for success.
+</implicit_meaning>
+
+<components>
+<object>Person, Opportunities</object>
+<properties>Hungry, Eager, Aggressive</properties>
+<relations>Devouring, Consuming, Taking in</relations>
+</components>
+
+<visual_elaboration>
+A man with an open mouth eating floating golden opportunities like they're pieces of food.
+</visual_elaboration>
+</metaphor_analysis>

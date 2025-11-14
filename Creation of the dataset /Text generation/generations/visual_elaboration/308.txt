@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He borrowed time from tomorrow's schedule.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Using future time to complete present tasks.
+</implicit_meaning>
+
+<components>
+<object>Time, Schedule, Person</object>
+<properties>Borrowing, Future-oriented, Limited resource</properties>
+<relations>Person taking time from future to use in present</relations>
+</components>
+
+<visual_elaboration>
+A person pulling clock hands from tomorrow's calendar page to insert into today's hourglass.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His soul was spotless as freshly fallen snow.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Pure and innocent without any moral blemish.
+</implicit_meaning>
+
+<components>
+<object>Soul, Snow</object>
+<properties>Spotless, Pure, White, Fresh, Untouched</properties>
+<relations>Soul is compared to pristine snow's purity</relations>
+</components>
+
+<visual_elaboration>
+A glowing white human silhouette standing in pristine snow, radiating pure light outward.
+</visual_elaboration>
+</metaphor_analysis>

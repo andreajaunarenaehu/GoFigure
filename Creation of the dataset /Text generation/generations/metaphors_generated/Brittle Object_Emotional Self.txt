@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+My emotional self is a delicate crystal vase.
+</metaphor>
+<literal_paraphrase>
+My emotional state is fragile and can be easily damaged by harsh treatment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My emotional state is unbreakable and impervious to any kind of stress or trauma.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her feelings shattered like thin ice under pressure.
+</metaphor>
+<literal_paraphrase>
+Her emotional stability broke down completely when faced with too much stress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her emotional stability grew stronger and more resilient under pressure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His heart was spun from the finest glass.
+</metaphor>
+<literal_paraphrase>
+He was extremely sensitive and emotionally vulnerable to hurt.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He was emotionally tough and completely immune to emotional pain.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The harsh words created hairline cracks in her emotional shell.
+</metaphor>
+<literal_paraphrase>
+The cruel comments caused subtle but lasting emotional damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The harsh words strengthened her emotional resilience and made her stronger.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His self-worth was a porcelain figurine balanced on the edge.
+</metaphor>
+<literal_paraphrase>
+His sense of self-worth was precarious and in danger of being destroyed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His self-worth was firmly grounded and impossible to destabilize.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She handled her emotions like ancient pottery, with extreme care.
+</metaphor>
+<literal_paraphrase>
+She was very careful about protecting her emotional well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She treated her emotions carelessly and without any consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their relationship was built from sugar glass.
+</metaphor>
+<literal_paraphrase>
+Their relationship was beautiful but extremely fragile and temporary.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship was built on an unshakeable and permanent foundation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His confidence was an eggshell waiting to crack.
+</metaphor>
+<literal_paraphrase>
+His confidence was extremely delicate and easily broken.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His confidence was robust and impossible to damage.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her trust was a chalk sculpture in the rain.
+</metaphor>
+<literal_paraphrase>
+Her ability to trust others was easily dissolved and damaged by negative experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her trust was permanent and grew stronger with every challenge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time had made his spirit as brittle as dried leaves.
+</metaphor>
+<literal_paraphrase>
+Years of hardship had made him emotionally vulnerable and easily hurt.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time had strengthened his spirit and made him emotionally invincible.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

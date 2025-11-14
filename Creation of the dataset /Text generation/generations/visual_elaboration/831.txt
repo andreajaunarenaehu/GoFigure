@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each new possession adds another weight to my shoulders.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions become burdens that weigh us down mentally and physically.
+</implicit_meaning>
+
+<components>
+<object>Shoulders, weights, possessions</object>
+<properties>Heavy, accumulating, burdensome</properties>
+<relations>Adding weights onto shoulders, increasing burden</relations>
+</components>
+
+<visual_elaboration>
+A person hunched over carrying a stack of material objects (TV, phone, car) as heavy weights chained to their shoulders.
+</visual_elaboration>
+</metaphor_analysis>

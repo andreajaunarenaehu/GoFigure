@@ -1,0 +1,117 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Like inflation, their conceit grows unchecked and devalues everything around them.
+</metaphor>
+<literal_paraphrase>
+Their excessive pride continuously increases and diminishes the worth of their relationships and achievements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their humility creates value and enriches their connections with others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their conceit is a runaway inflation that's eating away at their social capital.
+</metaphor>
+<literal_paraphrase>
+Their arrogance is increasingly destroying their relationships and reputation with others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their modesty is strengthening their social bonds and enhancing their reputation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The inflation of their ego has created a bubble of artificial self-worth.
+</metaphor>
+<literal_paraphrase>
+Their excessive pride has created an unrealistic and unsustainable sense of self-importance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their realistic self-assessment has created a stable and genuine sense of worth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their conceit spirals like hyperinflation, making their words worth less each day.
+</metaphor>
+<literal_paraphrase>
+Their increasing arrogance makes their opinions and statements increasingly meaningless to others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their growing humility makes their words increasingly valuable and respected.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The market of their mind suffers from inflated self-valuation.
+</metaphor>
+<literal_paraphrase>
+They have an unrealistically high opinion of their own worth and abilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They maintain a realistic and modest assessment of their capabilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their ego's inflation rate has exceeded all reasonable indices.
+</metaphor>
+<literal_paraphrase>
+Their sense of self-importance has grown beyond any reasonable measure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their self-image remains grounded and proportionate to reality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The currency of their character is devalued by inflationary pride.
+</metaphor>
+<literal_paraphrase>
+Their excessive vanity diminishes the true worth of their personality and achievements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their modesty enhances the genuine value of their character.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their conceit prints self-worth like worthless paper money.
+</metaphor>
+<literal_paraphrase>
+Their arrogance generates artificial self-esteem that has no real value.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their humility creates genuine self-worth based on real achievements.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The purchasing power of their charm decreases as their conceit inflates.
+</metaphor>
+<literal_paraphrase>
+Their ability to influence others diminishes as their arrogance increases.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their influence grows stronger as they become more humble.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their ego's economy suffers from stagflation: growing pride, declining worth.
+</metaphor>
+<literal_paraphrase>
+Their increasing arrogance coincides with diminishing actual value and achievement.
+</literal_paraphrase>
+<contradiction_paraphrase>

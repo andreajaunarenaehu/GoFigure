@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His decisions drove the company into bankruptcy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Poor leadership causing financial destruction.
+</implicit_meaning>
+
+<components>
+<object>Company, Car/Vehicle, Cliff</object>
+<properties>Destructive movement, Downward trajectory</properties>
+<relations>Driver (decision maker) steering vehicle (company) off cliff (bankruptcy)</relations>
+</components>
+
+<visual_elaboration>
+A businessman steering a car with company logo off a steep cliff into dark waters below.
+</visual_elaboration>
+</metaphor_analysis>

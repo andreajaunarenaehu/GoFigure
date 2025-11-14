@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The carriers of these toxic beliefs showed no symptoms of doubt.
+</linguistic_metaphor>
+
+<implicit_meaning>
+People spreading harmful ideologies with unwavering conviction.
+</implicit_meaning>
+
+<components>
+<object>People (carriers), beliefs (portrayed as toxins)</object>
+<properties>Toxic, infectious, spreading, unquestioning</properties>
+<relations>Carriers spreading toxic substance without being affected</relations>
+</components>
+
+<visual_elaboration>
+People in hazmat suits carrying glowing toxic containers, their faces showing blank expressions behind clear masks.
+</visual_elaboration>
+</metaphor_analysis>

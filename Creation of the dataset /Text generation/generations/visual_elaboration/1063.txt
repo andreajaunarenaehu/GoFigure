@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mentor delivered wisdom to his apprentice.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Knowledge transfer is like a physical gift or package being handed over.
+</implicit_meaning>
+
+<components>
+<object>Mentor, apprentice, wisdom</object>
+<properties>Tangible transfer, physical delivery</properties>
+<relations>Giving/receiving relationship between mentor and apprentice</relations>
+</components>
+
+<visual_elaboration>
+A glowing package of light passing from elderly hands to young hands.
+</visual_elaboration>
+</metaphor_analysis>

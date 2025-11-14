@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their compliance was a well-adjusted corset of controls.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strict and constraining rules or regulations that force conformity.
+</implicit_meaning>
+
+<components>
+<object>Corset, Compliance</object>
+<properties>Well-adjusted, tight, constraining</properties>
+<relations>The corset represents control and restriction of movement/behavior</relations>
+</components>
+
+<visual_elaboration>
+A business person tightly bound in a Victorian corset made of rulebooks and regulations.
+</visual_elaboration>
+</metaphor_analysis>

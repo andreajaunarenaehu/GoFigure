@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a house of cards that needs careful handling.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The situation is delicate and unstable.
+</implicit_meaning>
+
+<components>
+<object>House of cards, Problem</object>
+<properties>Fragile, unstable, delicate</properties>
+<relations>Careful handling required to prevent collapse</relations>
+</components>
+
+<visual_elaboration>
+A towering house of cards with hands carefully steadying its wobbling structure.
+</visual_elaboration>
+</metaphor_analysis>

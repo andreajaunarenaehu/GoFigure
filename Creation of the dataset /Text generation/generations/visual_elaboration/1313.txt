@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love's warmth melted her frozen heart.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional transformation from cold and distant to warm and loving.
+</implicit_meaning>
+
+<components>
+<object>Heart, Ice, Heat/Warmth</object>
+<properties>Frozen, Melting, Warm</properties>
+<relations>Warmth causing ice to transform to liquid</relations>
+</components>
+
+<visual_elaboration>
+An icy heart gradually melting into a glowing red heart with rays of warm light surrounding it.
+</visual_elaboration>
+</metaphor_analysis>

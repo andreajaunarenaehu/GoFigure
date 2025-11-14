@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is a spell that enchants the heart.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love is magical and has a powerful, transformative effect on emotions.
+</implicit_meaning>
+
+<components>
+<object>Love, Heart, Spell</object>
+<properties>Magical, Enchanting, Transformative</properties>
+<relations>Spell acting upon heart, creating magical effect</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart floating in mid-air surrounded by sparkling magical runes and swirling colorful light.
+</visual_elaboration>
+</metaphor_analysis>

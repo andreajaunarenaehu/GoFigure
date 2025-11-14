@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their product launch was a haymaker that missed the target.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A powerful but unsuccessful business attempt.
+</implicit_meaning>
+
+<components>
+<object>Product launch, Boxing punch (haymaker), Target</object>
+<properties>Powerful, Missed, Failed attempt</properties>
+<relations>The launch is compared to a powerful punch that fails to hit its intended target</relations>
+</components>
+
+<visual_elaboration>
+A boxer throwing a wild punch while a target moves away, leaving product boxes scattered on the ground.
+</visual_elaboration>
+</metaphor_analysis>

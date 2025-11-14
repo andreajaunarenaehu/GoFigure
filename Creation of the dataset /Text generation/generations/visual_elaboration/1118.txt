@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Control floated to the upper echelons.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Power moving upward in an organization's hierarchy.
+</implicit_meaning>
+
+<components>
+<object>Control, organizational hierarchy</object>
+<properties>Floating, upward movement, hierarchical levels</properties>
+<relations>Movement from lower to higher positions</relations>
+</components>
+
+<visual_elaboration>
+A glowing crown floating upward through stacked transparent floors of a corporate building.
+</visual_elaboration>
+</metaphor_analysis>

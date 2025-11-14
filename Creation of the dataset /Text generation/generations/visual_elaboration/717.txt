@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The nectar of victory infused her with unstoppable force.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Success gives power and energy.
+</implicit_meaning>
+
+<components>
+<object>Nectar, Person</object>
+<properties>Golden, flowing, energizing</properties>
+<relations>Nectar flowing into and empowering the person</relations>
+</components>
+
+<visual_elaboration>
+A woman glowing golden as victory's nectar flows through her veins, radiating power.
+</visual_elaboration>
+</metaphor_analysis>

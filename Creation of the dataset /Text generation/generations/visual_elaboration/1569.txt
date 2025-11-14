@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Despair was the asylum's permanent resident.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hopelessness and sadness are deeply embedded in the asylum's atmosphere.
+</implicit_meaning>
+
+<components>
+<object>Asylum, Despair (personified)</object>
+<properties>Permanent, institutional, dark, haunting</properties>
+<relations>Despair is portrayed as a resident/inhabitant of the asylum</relations>
+</components>
+
+<visual_elaboration>
+A dark figure in a patient's gown sits eternally in a corner of a decaying asylum room.
+</visual_elaboration>
+</metaphor_analysis>

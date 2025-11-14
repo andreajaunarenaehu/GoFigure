@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Hope is a beacon in the darkness.
+</metaphor>
+<literal_paraphrase>
+Hope provides guidance and comfort during difficult times.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope misleads and confuses people during their darkest moments.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope flickers like a candle in the wind.
+</metaphor>
+<literal_paraphrase>
+Hope can be fragile and requires protection to maintain its presence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is completely unwavering and never faces any threats.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The dawn of hope breaks through despair.
+</metaphor>
+<literal_paraphrase>
+Hope gradually emerges and overcomes negative feelings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope vanishes completely when faced with despair.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope radiates warmth in the coldest hearts.
+</metaphor>
+<literal_paraphrase>
+Hope can inspire positive feelings even in the most pessimistic people.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope fails to affect those who are emotionally distant.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is the spark that ignites the soul.
+</metaphor>
+<literal_paraphrase>
+Hope initiates motivation and emotional revival in people.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope dampens enthusiasm and extinguishes motivation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The light of hope pierces through storm clouds.
+</metaphor>
+<literal_paraphrase>
+Hope persists and remains visible even during challenging circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope disappears completely at the first sign of trouble.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope illuminates the path forward.
+</metaphor>
+<literal_paraphrase>
+Hope helps people see and pursue positive possibilities in their future.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope obscures the way forward and leads to confusion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a lighthouse on life's shores.
+</metaphor>
+<literal_paraphrase>
+Hope provides consistent guidance and direction in life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope leads people astray and causes them to crash on life's rocks.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The ember of hope glows eternal.
+</metaphor>
+<literal_paraphrase>
+Hope continues to exist even when it seems faint or distant.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is temporary and completely extinguishable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope shines brightest in shared hearts.
+</metaphor>
+<literal_paraphrase>
+Hope becomes stronger when people support and encourage each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope weakens when people try to share it with others.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

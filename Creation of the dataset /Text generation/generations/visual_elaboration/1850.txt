@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+What emerges into the light exists in our world.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Only visible things are real or acknowledged.
+</implicit_meaning>
+
+<components>
+<object>Light and shadow</object>
+<properties>Visibility, emergence, existence</properties>
+<relations>Movement from darkness into light represents coming into existence</relations>
+</components>
+
+<visual_elaboration>
+A hand reaching from dark shadows into a bright beam of light, becoming solid and real.
+</visual_elaboration>
+</metaphor_analysis>

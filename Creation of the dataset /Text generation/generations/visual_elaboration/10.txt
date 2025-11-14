@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Money flows like a rushing river through the economy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Money moves rapidly and continuously through economic systems.
+</implicit_meaning>
+
+<components>
+<object>Money, River</object>
+<properties>Flowing, rushing, continuous movement</properties>
+<relations>Money behaves like water in a river system</relations>
+</components>
+
+<visual_elaboration>
+Dollar bills and coins flowing as water in a winding river between city buildings.
+</visual_elaboration>
+</metaphor_analysis>

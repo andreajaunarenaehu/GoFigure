@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These treasures I guard are the duties I must protect.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Duties are valuable and require protection like precious treasures.
+</implicit_meaning>
+
+<components>
+<object>Duties represented as treasures</object>
+<properties>Valuable, requiring protection, precious</properties>
+<relations>Guardian/protector relationship with duties</relations>
+</components>
+
+<visual_elaboration>
+A person in armor standing guard over a chest filled with glowing scrolls and documents.
+</visual_elaboration>
+</metaphor_analysis>

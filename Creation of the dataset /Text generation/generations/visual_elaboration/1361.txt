@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The spark of inspiration ignited a blaze of new concepts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A small creative idea leading to many bigger ideas.
+</implicit_meaning>
+
+<components>
+<object>Spark, Fire, Ideas</object>
+<properties>Small spark growing into large flames</properties>
+<relations>Spark causing expansion into larger fire</relations>
+</components>
+
+<visual_elaboration>
+A tiny glowing spark transforming into a colorful flame with floating lightbulbs emerging from it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her emotional anchor keeps her grounded.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional stability and security.
+</implicit_meaning>
+
+<components>
+<object>Person, Anchor</object>
+<properties>Heavy, Stable, Grounding</properties>
+<relations>Anchor providing stability to a person</relations>
+</components>
+
+<visual_elaboration>
+A woman tethered to a golden anchor that's planted firmly in solid ground, emanating a calm aura.
+</visual_elaboration>
+</metaphor_analysis>

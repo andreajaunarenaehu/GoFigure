@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem is a target that reveals another behind it.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Problems are layered and solving one reveals another.
+</implicit_meaning>
+
+<components>
+<object>Target, Problem</object>
+<properties>Layered, Sequential, Revealing</properties>
+<relations>One target behind another, Connected sequence</relations>
+</components>
+
+<visual_elaboration>
+A series of bullseye targets with the front one shattering to reveal another intact target behind it.
+</visual_elaboration>
+</metaphor_analysis>

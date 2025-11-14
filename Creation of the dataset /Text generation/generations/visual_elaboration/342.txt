@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This replacement was a key turning in a rusty lock.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A difficult but successful solution to a long-standing problem.
+</implicit_meaning>
+
+<components>
+<object>Key, Lock</object>
+<properties>Rusty, Turning, Old</properties>
+<relations>Key moving within lock, creating change</relations>
+</components>
+
+<visual_elaboration>
+A golden key turning in an old rusty lock with bright light emerging from the keyhole.
+</visual_elaboration>
+</metaphor_analysis>

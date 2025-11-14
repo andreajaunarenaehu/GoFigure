@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His anger is a bitter pill he keeps swallowing.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Suppressing negative emotions repeatedly despite their unpleasantness.
+</implicit_meaning>
+
+<components>
+<object>Anger, Pills, Person</object>
+<properties>Bitter, Recurring, Unpleasant</properties>
+<relations>Person repeatedly swallowing something unpleasant</relations>
+</components>
+
+<visual_elaboration>
+A person reluctantly swallowing a large pill labeled "ANGER" with a grimacing face and bitter tears.
+</visual_elaboration>
+</metaphor_analysis>

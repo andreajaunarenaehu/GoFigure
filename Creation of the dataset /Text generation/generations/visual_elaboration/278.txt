@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Market demands acted as a tidal force, pulling their resources in multiple directions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming and uncontrollable market forces affecting business resources.
+</implicit_meaning>
+
+<components>
+<object>Market demands, Resources, Tidal force</object>
+<properties>Powerful, pulling, dispersing</properties>
+<relations>Market forces acting like ocean tides pulling objects apart</relations>
+</components>
+
+<visual_elaboration>
+Business assets being pulled apart by swirling ocean waves in different directions.
+</visual_elaboration>
+</metaphor_analysis>

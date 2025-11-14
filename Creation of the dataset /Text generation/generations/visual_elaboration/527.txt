@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Disgust rippled through the crowd like a wave of motion sickness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Collective revulsion spreading rapidly through a group of people.
+</implicit_meaning>
+
+<components>
+<object>Crowd of people, Wave</object>
+<properties>Rippling, Nauseating, Sequential movement</properties>
+<relations>Wave of disgust moving through people in sequence</relations>
+</components>
+
+<visual_elaboration>
+A crowd of green-faced people falling like dominoes in a wave pattern, with sickness symbols swirling above.
+</visual_elaboration>
+</metaphor_analysis>

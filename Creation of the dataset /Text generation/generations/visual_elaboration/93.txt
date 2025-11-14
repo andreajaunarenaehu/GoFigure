@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His words were a shield against criticism.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Words used defensively to protect oneself from verbal attacks.
+</implicit_meaning>
+
+<components>
+<object>Words, Shield</object>
+<properties>Protective, Defensive, Strong</properties>
+<relations>Words acting as protective barrier against incoming criticism</relations>
+</components>
+
+<visual_elaboration>
+A person holding a shield made of floating letters deflecting incoming arrows of criticism.
+</visual_elaboration>
+</metaphor_analysis>

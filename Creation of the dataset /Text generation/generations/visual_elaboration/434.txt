@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their toxic memories were thorny vines choking their future.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Past traumas prevent growth and progress.
+</implicit_meaning>
+
+<components>
+<object>Memories as thorny vines, Future as a plant or path</object>
+<properties>Toxic, thorny, choking, restrictive</properties>
+<relations>Vines actively strangling and constraining growth</relations>
+</components>
+
+<visual_elaboration>
+Dark thorny vines wrapping tightly around a bright seedling, preventing it from growing upward.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Anxiety cast a blinding snowstorm over her thoughts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming mental confusion and distress.
+</implicit_meaning>
+
+<components>
+<object>Thoughts, Snowstorm, Anxiety</object>
+<properties>Blinding, chaotic, overwhelming</properties>
+<relations>Snowstorm obscuring and disrupting thoughts</relations>
+</components>
+
+<visual_elaboration>
+A woman's head with swirling snowflakes inside her transparent skull, obscuring her brain.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That idea is a broken clock stuck in the past.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Outdated and non-functional thinking.
+</implicit_meaning>
+
+<components>
+<object>Clock, Idea</object>
+<properties>Broken, non-functioning, outdated</properties>
+<relations>The idea is being compared to a broken clock that cannot move forward</relations>
+</components>
+
+<visual_elaboration>
+A rusty clock with frozen hands, covered in cobwebs and dust.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His beliefs are locked away in an impenetrable vault.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Stubbornly holding onto fixed beliefs that cannot be changed.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Vault</object>
+<properties>Locked, Impenetrable, Secure</properties>
+<relations>Beliefs are contained within a secure vault, suggesting they're protected and unchangeable</relations>
+</components>
+
+<visual_elaboration>
+A massive steel vault with glowing beliefs trapped inside, surrounded by multiple heavy locks and chains.
+</visual_elaboration>
+</metaphor_analysis>

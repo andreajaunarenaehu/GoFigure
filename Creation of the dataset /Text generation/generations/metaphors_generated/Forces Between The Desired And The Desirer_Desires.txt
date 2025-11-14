@@ -1,0 +1,115 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Desires pull like invisible magnets between hearts and dreams.
+</metaphor>
+<literal_paraphrase>
+People feel a strong internal attraction toward things they want, creating tension between their current state and their desired goals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People feel no connection to their aspirations, experiencing complete detachment from their wants.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The gravitational dance of yearning spins souls around their wishes.
+</metaphor>
+<literal_paraphrase>
+Desires create a continuous circular pattern of attraction that keeps people focused on what they want.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People maintain perfect linear paths, unaffected by their wants and wishes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Desire's elastic bands stretch between present reality and future dreams.
+</metaphor>
+<literal_paraphrase>
+The tension between current circumstances and desired outcomes creates a flexible but persistent connection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+There is no connection or tension between current reality and future aspirations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The tidal forces of longing ebb and flow between want and fulfillment.
+</metaphor>
+<literal_paraphrase>
+Desires naturally fluctuate in intensity as people move closer to or further from their goals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Desires remain completely static and unchanging regardless of circumstances.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Desire's quantum entanglement binds dreamer to dream across all distance.
+</metaphor>
+<literal_paraphrase>
+The connection between a person and their desires remains strong regardless of how distant or impossible they seem.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People are completely disconnected from their desires, with no lasting bond to their dreams.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The electromagnetic pulse of wanting charges the space between having and seeking.
+</metaphor>
+<literal_paraphrase>
+Desire creates an energetic field of motivation between current possession and future acquisition.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The space between current state and future wants remains neutral and powerless.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Desire's solar winds push dreamers toward their distant stars.
+</metaphor>
+<literal_paraphrase>
+The force of wanting propels people toward their ambitious goals despite great distances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People remain stationary, unmoved by their aspirations and goals.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The centripetal force of yearning keeps dreams orbiting in consciousness.
+</metaphor>
+<literal_paraphrase>
+Desires maintain a constant presence in our minds, circling through our thoughts regularly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Dreams drift away from consciousness, never maintaining a stable presence in our thoughts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Desire's thermal expansion heats the void between want and fulfillment.
+</metaphor>
+<literal_paraphrase>
+The intensity of wanting creates emotional energy in the gap between desire and achievement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The space between wanting and achieving remains cold and emotionally vacant.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The resonant frequency of longing vibrates between seeker and sought.
+</metaphor>
+<literal_paraphrase>
+Desires create a specific

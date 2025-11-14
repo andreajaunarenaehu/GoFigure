@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+These possessions weigh heavily on my shoulders like daily duties.
+</metaphor>
+<literal_paraphrase>
+Responsibilities can feel burdensome and create pressure in our lives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Responsibilities are lightweight and never create any pressure or stress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each new possession is another key to maintain in life's growing keychain.
+</metaphor>
+<literal_paraphrase>
+Every additional responsibility requires attention and management in our lives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New responsibilities require no maintenance and can be completely ignored.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life's belongings are chains that bind us to our commitments.
+</metaphor>
+<literal_paraphrase>
+Our responsibilities create obligations that we must fulfill and cannot easily abandon.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Responsibilities are completely optional and can be discarded at any time without consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These treasures I guard are the duties I must protect.
+</metaphor>
+<literal_paraphrase>
+Important responsibilities require careful attention and dedication to maintain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Responsibilities need no protection and can be neglected without concern.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each possession in my collection demands daily polishing.
+</metaphor>
+<literal_paraphrase>
+Responsibilities require regular attention and maintenance to fulfill properly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Responsibilities are self-maintaining and need no regular attention or effort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My inventory of belongings grows with each promise made.
+</metaphor>
+<literal_paraphrase>
+Taking on new commitments increases our load of responsibilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New commitments never add to our existing responsibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These precious items are the promises I must keep.
+</metaphor>
+<literal_paraphrase>
+Our responsibilities are valuable commitments that we must honor.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Responsibilities are worthless and breaking commitments has no importance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My collection of belongings requires constant inventory checks.
+</metaphor>
+<literal_paraphrase>
+Responsibilities need regular monitoring and assessment to ensure nothing is neglected.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Responsibilities never need to be monitored or checked on.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each possession in my vault demands its share of attention.
+</metaphor>
+<literal_paraphrase>
+Every responsibility requires its own time and attention to be properly managed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Responsibilities can all be handled simultaneously without individual attention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My belongings are the anchors that keep me grounded to my duties.
+</metaphor>
+<literal_paraphrase>
+Responsibilities help maintain structure and purpose in our lives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Responsibilities provide no structure or purpose to our lives.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

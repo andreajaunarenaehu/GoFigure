@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Physical properties are the compass that guides us through abstract comparisons.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Physical characteristics serve as navigation tools for understanding complex concepts.
+</implicit_meaning>
+
+<components>
+<object>Compass, Physical Properties</object>
+<properties>Directional, Guiding, Navigational</properties>
+<relations>Properties guide understanding like a compass guides direction</relations>
+</components>
+
+<visual_elaboration>
+A glowing compass floating above a maze of abstract shapes, with its needle pointing toward concrete objects.
+</visual_elaboration>
+</metaphor_analysis>

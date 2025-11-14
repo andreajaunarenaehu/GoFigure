@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These penny stocks are just paper cups holding your money temporarily.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fragile and disposable investment that will likely spill away money.
+</implicit_meaning>
+
+<components>
+<object>Paper cups, Money</object>
+<properties>Fragile, temporary, disposable</properties>
+<relations>Cups holding/containing money, likely to spill or break</relations>
+</components>
+
+<visual_elaboration>
+A torn paper cup with coins and dollar bills spilling out through holes and cracks.
+</visual_elaboration>
+</metaphor_analysis>

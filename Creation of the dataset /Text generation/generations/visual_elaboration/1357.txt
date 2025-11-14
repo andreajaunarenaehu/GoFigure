@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The world crystallizes into distinct shapes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Reality becomes clear and well-defined.
+</implicit_meaning>
+
+<components>
+<object>World, Crystals</object>
+<properties>Transforming, Sharp edges, Clear structure</properties>
+<relations>World transforming into crystalline forms</relations>
+</components>
+
+<visual_elaboration>
+A globe breaking apart into geometric crystal formations with sharp, clear edges and translucent faces.
+</visual_elaboration>
+</metaphor_analysis>

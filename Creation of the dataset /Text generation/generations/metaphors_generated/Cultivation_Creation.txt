@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Ideas are seeds that need careful cultivation to bloom into creation.
+</metaphor>
+<literal_paraphrase>
+Creative concepts require nurturing and development over time to become fully realized works.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas emerge instantly as finished creations without any need for development or care.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The soil of imagination must be tilled before creativity can take root.
+</metaphor>
+<literal_paraphrase>
+The mind needs to be prepared and made receptive before creative work can begin to develop.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creativity springs forth spontaneously without any mental preparation or groundwork.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Every masterpiece requires a season of growth.
+</metaphor>
+<literal_paraphrase>
+Significant creative works need time to develop and mature before completion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Great works are produced instantly without any period of development or refinement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The garden of creativity needs regular weeding of doubt.
+</metaphor>
+<literal_paraphrase>
+Creative processes require constant removal of negative thoughts and self-criticism to flourish.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creativity thrives best when filled with doubts and negative self-assessment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Innovation is harvested from well-nurtured experience.
+</metaphor>
+<literal_paraphrase>
+New ideas come from carefully developed knowledge and accumulated experience.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Innovation appears randomly without any connection to experience or knowledge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Creative thoughts must be pruned to reach their full potential.
+</metaphor>
+<literal_paraphrase>
+Ideas need to be refined and edited to achieve their best form.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creative ideas are best left completely unedited and unrestricted.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The fertilizer of feedback enriches artistic growth.
+</metaphor>
+<literal_paraphrase>
+Constructive criticism and input help improve and develop creative works.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Isolation and absence of feedback produce the best creative results.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Inspiration requires a well-tended greenhouse of focus.
+</metaphor>
+<literal_paraphrase>
+Creative inspiration needs a protected and maintained environment of concentration.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Inspiration flourishes in chaos and constant distraction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Creative success blooms from the compost of failure.
+</metaphor>
+<literal_paraphrase>
+Previous mistakes and failures contribute to eventual creative achievements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creative success only comes from perfect execution without any prior failures.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The fruits of creation ripen with patient cultivation.
+</metaphor>
+<literal_paraphrase>
+Creative works improve and mature when given time and attention to develop fully.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creative works are best when rushed and forced to completion immediately.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

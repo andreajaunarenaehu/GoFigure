@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The image becomes clearer as more pieces of evidence fall into place.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Understanding improves as more information is gathered.
+</implicit_meaning>
+
+<components>
+<object>Puzzle pieces, Image/Picture</object>
+<properties>Clarity, Completeness, Gradual formation</properties>
+<relations>Pieces falling into place to reveal a clear picture</relations>
+</components>
+
+<visual_elaboration>
+Floating puzzle pieces descending to complete a blurry photograph that becomes sharper where pieces connect.
+</visual_elaboration>
+</metaphor_analysis>

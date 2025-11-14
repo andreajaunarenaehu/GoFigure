@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her sexuality was a loaded weapon, ready to strike at any moment.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dangerous and powerful allure.
+</implicit_meaning>
+
+<components>
+<object>Sexuality, Weapon</object>
+<properties>Loaded, Ready, Dangerous</properties>
+<relations>Potential to strike/harm</relations>
+</components>
+
+<visual_elaboration>
+A sleek pistol with red lipstick marks on the barrel and a heart-shaped trigger.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Money flows like a rushing river through the economy.
+</metaphor>
+<literal_paraphrase>
+Money circulates continuously through economic systems, moving from one entity to another.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Money remains stagnant and immobile within the economy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His wealth evaporated in the market crash.
+</metaphor>
+<literal_paraphrase>
+He lost his financial assets rapidly during the economic downturn.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His wealth remained solid and stable despite the market crash.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company's profits are leaking through unnecessary expenses.
+</metaphor>
+<literal_paraphrase>
+The company is losing money due to wasteful spending.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company's profits are perfectly contained and well-managed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Investment capital trickles down through the business sectors.
+</metaphor>
+<literal_paraphrase>
+Money gradually moves from larger businesses to smaller ones in the economy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Investment capital remains concentrated at the top of the business hierarchy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The frozen assets left the business unable to operate.
+</metaphor>
+<literal_paraphrase>
+The inaccessible funds prevented the business from functioning normally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The readily available assets allowed the business to operate freely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their savings pooled together created a reservoir of opportunity.
+</metaphor>
+<literal_paraphrase>
+Their combined savings provided substantial financial resources for future investments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their separate savings were insufficient to create any meaningful opportunities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The currency's value is dissolving in the face of inflation.
+</metaphor>
+<literal_paraphrase>
+The purchasing power of the money is decreasing due to inflation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The currency's value is strengthening despite inflation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Fresh capital irrigated the startup ecosystem.
+</metaphor>
+<literal_paraphrase>
+New investment money helped sustain and grow multiple startup businesses.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The lack of capital left the startup ecosystem barren.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The financial crisis created a tsunami of debt.
+</metaphor>
+<literal_paraphrase>
+The economic downturn caused overwhelming levels of debt across the system.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The financial crisis had minimal impact on debt levels.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Revenue streams merged into a river of profit.
+</metaphor>
+<literal_paraphrase>
+Multiple sources of income combined to create significant earnings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Different revenue sources remained separate and produced minimal profit.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

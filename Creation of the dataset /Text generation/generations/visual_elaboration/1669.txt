@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His convictions are buried treasure in unexplored depths.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Deep-held beliefs that are valuable but hidden from others.
+</implicit_meaning>
+
+<components>
+<object>Convictions, Treasure</object>
+<properties>Buried, Hidden, Valuable, Deep</properties>
+<relations>Treasure is buried deep underwater, representing hidden beliefs</relations>
+</components>
+
+<visual_elaboration>
+A glowing treasure chest with beliefs written on scrolls, buried in dark ocean depths with mysterious sea creatures.
+</visual_elaboration>
+</metaphor_analysis>

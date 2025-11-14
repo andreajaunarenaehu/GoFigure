@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The state's economy is a square peg in a round hole.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fundamentally mismatched or incompatible situation.
+</implicit_meaning>
+
+<components>
+<object>State economy, square peg, round hole</object>
+<properties>Geometric mismatch, forced fit, incompatibility</properties>
+<relations>Attempting to fit something where it doesn't belong</relations>
+</components>
+
+<visual_elaboration>
+A large square peg labeled "ECONOMY" being forcefully pushed into a round hole, with visible stress cracks.
+</visual_elaboration>
+</metaphor_analysis>

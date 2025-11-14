@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her traits are stored like precious jewels in a vault.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal characteristics are valuable and carefully protected.
+</implicit_meaning>
+
+<components>
+<object>Personality traits, Jewels, Vault</object>
+<properties>Precious, Protected, Hidden, Valuable</properties>
+<relations>Traits are compared to jewels being stored securely</relations>
+</components>
+
+<visual_elaboration>
+A glowing human silhouette filled with sparkling jewels behind a partially open vault door.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He's my most guarded treasure in life's safe.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Someone precious who is protected with extreme care.
+</implicit_meaning>
+
+<components>
+<object>Person (as treasure), Safe</object>
+<properties>Valuable, Protected, Precious</properties>
+<relations>Being guarded within a safe, representing protection and value</relations>
+</components>
+
+<visual_elaboration>
+A glowing human figure sitting inside a giant golden safe with multiple locks and security mechanisms.
+</visual_elaboration>
+</metaphor_analysis>

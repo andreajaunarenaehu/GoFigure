@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The alcohol demolished his composure like a wrecking ball.
+</metaphor>
+<literal_paraphrase>
+The person became increasingly uncoordinated and lost self-control as they became more intoxicated.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The alcohol enhanced his coordination and improved his self-control.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His sobriety crumbled like a condemned building.
+</metaphor>
+<literal_paraphrase>
+His mental clarity and judgment gradually deteriorated as he consumed more alcohol.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His mental clarity and judgment became sharper with each drink.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The liquor was a bulldozer, flattening his inhibitions.
+</metaphor>
+<literal_paraphrase>
+The alcohol removed his social restraints and normal behavioral boundaries.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The alcohol increased his inhibitions and made him more reserved.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each shot was another bomb dropping on his consciousness.
+</metaphor>
+<literal_paraphrase>
+Every additional drink further impaired his awareness and mental functioning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each drink made him more alert and mentally sharp.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The vodka razed his rational thoughts to the ground.
+</metaphor>
+<literal_paraphrase>
+The alcohol severely impaired his ability to think logically and make sound decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The vodka enhanced his logical thinking and decision-making abilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His memory was shattered like glass under a sledgehammer.
+</metaphor>
+<literal_paraphrase>
+The intoxication caused significant gaps and disruptions in his ability to remember events.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The intoxication improved his memory and recall abilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The whiskey was a tornado that tore through his balance.
+</metaphor>
+<literal_paraphrase>
+The alcohol severely disrupted his ability to maintain physical stability and coordination.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The whiskey improved his balance and made his movements more precise.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His speech lay in ruins like a demolished fortress.
+</metaphor>
+<literal_paraphrase>
+The intoxication made his speech slurred and difficult to understand.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The intoxication made his speech clearer and more articulate.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The tequila was an earthquake that shook his world apart.
+</metaphor>
+<literal_paraphrase>
+The alcohol completely disrupted his perception and sense of reality.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The tequila stabilized his perception and brought clarity to his world.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His willpower collapsed like a house of cards in a storm.
+</metaphor>
+<literal_paraphrase>
+The alcohol completely eroded his self-control and ability to resist impulses.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The alcohol strengthened his willpower and improved his self-discipline.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

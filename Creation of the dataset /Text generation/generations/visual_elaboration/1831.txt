@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're climbing the rocky slopes of this problem.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dealing with a difficult challenge or obstacle.
+</implicit_meaning>
+
+<components>
+<object>People, Rocky slope, Problem</object>
+<properties>Steep, difficult, challenging terrain</properties>
+<relations>People attempting to ascend/overcome obstacle</relations>
+</components>
+
+<visual_elaboration>
+Two people climbing a steep mountain made of stacked papers and documents with jagged edges.
+</visual_elaboration>
+</metaphor_analysis>

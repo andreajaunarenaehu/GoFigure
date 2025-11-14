@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Political turbulence created a gravitational pull against their momentum.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Political chaos is slowing down progress.
+</implicit_meaning>
+
+<components>
+<object>Political movement, gravitational force</object>
+<properties>Turbulent, pulling, slowing</properties>
+<relations>Forward motion being pulled backward by force</relations>
+</components>
+
+<visual_elaboration>
+People climbing upward while being pulled down by a dark swirling vortex below them.
+</visual_elaboration>
+</metaphor_analysis>

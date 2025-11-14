@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She steered the project to success.
+</metaphor>
+<literal_paraphrase>
+She directly influenced and guided the project to achieve its desired outcome.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She had no influence over the project's direction or outcome.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His decisions drove the company into bankruptcy.
+</metaphor>
+<literal_paraphrase>
+His choices directly resulted in the company's financial failure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His decisions had no impact on the company's financial status.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They guided the economy toward recovery.
+</metaphor>
+<literal_paraphrase>
+Their actions directly influenced the economic improvement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their actions had no effect on the economy's direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The policy pushed inflation rates downward.
+</metaphor>
+<literal_paraphrase>
+The policy directly caused inflation rates to decrease.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The policy had no effect on inflation rates.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their research led the field in a new direction.
+</metaphor>
+<literal_paraphrase>
+Their research caused significant changes in the field's development.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their research had no influence on the field's development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The marketing campaign pulled customers toward the brand.
+</metaphor>
+<literal_paraphrase>
+The marketing campaign caused customers to become interested in the brand.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The marketing campaign failed to attract any customer interest.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her leadership navigated the team through the crisis.
+</metaphor>
+<literal_paraphrase>
+Her leadership caused the team to successfully manage the crisis.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her leadership had no effect on the team's ability to handle the crisis.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The new regulations channeled investments into sustainable projects.
+</metaphor>
+<literal_paraphrase>
+The new regulations caused investments to flow toward sustainable projects.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The new regulations had no impact on investment patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their innovation propelled the industry forward.
+</metaphor>
+<literal_paraphrase>
+Their innovation caused significant advancement in the industry.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their innovation had no effect on the industry's progress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The incentives directed behavior toward compliance.
+</metaphor>
+<literal_paraphrase>
+The incentives caused people to comply with the rules.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The incentives had no influence on people's compliance behavior.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

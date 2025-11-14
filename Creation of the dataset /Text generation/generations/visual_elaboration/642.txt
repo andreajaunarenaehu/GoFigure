@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The liquor was a bulldozer, flattening his inhibitions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Alcohol powerfully destroys self-control.
+</implicit_meaning>
+
+<components>
+<object>Liquor, Bulldozer, Inhibitions</object>
+<properties>Destructive, Powerful, Crushing</properties>
+<relations>Liquor acts as a destructive force against personal restraints</relations>
+</components>
+
+<visual_elaboration>
+A yellow bulldozer filled with liquid crushing walls labeled "inhibitions" while a dizzy person watches.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance is a train following its predetermined tracks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules without deviation or choice.
+</implicit_meaning>
+
+<components>
+<object>Train, Tracks</object>
+<properties>Predetermined, Fixed, Linear</properties>
+<relations>Following, Bound to path</relations>
+</components>
+
+<visual_elaboration>
+A train locked onto straight tracks with high walls on both sides, unable to deviate from its path.
+</visual_elaboration>
+</metaphor_analysis>

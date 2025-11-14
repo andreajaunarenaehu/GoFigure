@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Darkness wore its velvet cover like a cloak.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Night is enveloping and luxurious.
+</implicit_meaning>
+
+<components>
+<object>Darkness, Velvet cloak</object>
+<properties>Soft, enveloping, smooth, luxurious</properties>
+<relations>Darkness is personified as wearing the night like clothing</relations>
+</components>
+
+<visual_elaboration>
+A shadowy figure draped in flowing black velvet that blends into the night sky with stars scattered across its fabric.
+</visual_elaboration>
+</metaphor_analysis>

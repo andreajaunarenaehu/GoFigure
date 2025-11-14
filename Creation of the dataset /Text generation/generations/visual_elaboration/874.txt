@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She wears her appearance like a removable book sleeve.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Her external appearance is artificial and easily changeable.
+</implicit_meaning>
+
+<components>
+<object>Woman, Book sleeve</object>
+<properties>Removable, Artificial, Changeable</properties>
+<relations>Wearing/covering, Easily removed</relations>
+</components>
+
+<visual_elaboration>
+A woman peeling off her face like a paper book cover, revealing a different face underneath.
+</visual_elaboration>
+</metaphor_analysis>

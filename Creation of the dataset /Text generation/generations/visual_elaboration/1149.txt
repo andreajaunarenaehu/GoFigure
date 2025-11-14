@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their friendship needed a software patch.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The relationship is broken and needs fixing.
+</implicit_meaning>
+
+<components>
+<object>Friendship, Software</object>
+<properties>Broken, Needs updating, Malfunctioning</properties>
+<relations>Friendship is compared to faulty software that needs updating</relations>
+</components>
+
+<visual_elaboration>
+Two people connected by glitching computer code with a "patch download" progress bar between them.
+</visual_elaboration>
+</metaphor_analysis>

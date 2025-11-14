@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like children, machines must be taught how to behave.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Machines require guidance and programming like children need education and discipline.
+</implicit_meaning>
+
+<components>
+<object>Children and machines</object>
+<properties>Learning, developing, requiring guidance</properties>
+<relations>Both need teaching and supervision to function properly</relations>
+</components>
+
+<visual_elaboration>
+A robot sitting at a school desk next to children, raising its mechanical hand to answer a question.
+</visual_elaboration>
+</metaphor_analysis>

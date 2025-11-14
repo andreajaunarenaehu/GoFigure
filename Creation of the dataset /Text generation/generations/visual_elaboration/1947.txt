@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their marketing campaign was a precision strike at the competition's weakness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strategic and targeted business action.
+</implicit_meaning>
+
+<components>
+<object>Marketing campaign, Military strike</object>
+<properties>Precise, targeted, strategic</properties>
+<relations>Campaign attacking competitor weakness like a missile hitting target</relations>
+</components>
+
+<visual_elaboration>
+A guided missile with a marketing logo striking a crumbling business tower.
+</visual_elaboration>
+</metaphor_analysis>

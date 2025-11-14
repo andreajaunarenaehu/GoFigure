@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The trauma created an emotional inertia that resisted change.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional stagnation due to past hurt.
+</implicit_meaning>
+
+<components>
+<object>Trauma, Emotional state, Physical inertia</object>
+<properties>Heavy, Resistant, Immobile</properties>
+<relations>Trauma causes emotional resistance to movement/change</relations>
+</components>
+
+<visual_elaboration>
+A person trapped in a heavy glass cube, pushing against its walls while shadows of past memories swirl outside.
+</visual_elaboration>
+</metaphor_analysis>

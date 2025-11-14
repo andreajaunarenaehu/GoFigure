@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She handed life to her characters on blank pages.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creating and bringing fictional characters to life through writing.
+</implicit_meaning>
+
+<components>
+<object>Writer, characters, blank pages</object>
+<properties>Lifeless to living, blank to filled</properties>
+<relations>Writer giving life through writing</relations>
+</components>
+
+<visual_elaboration>
+A hand holding a glowing pen that transforms paper sketches into colorful, animated characters.
+</visual_elaboration>
+</metaphor_analysis>

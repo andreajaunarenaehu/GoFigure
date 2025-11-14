@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Success filled her with an intoxicating power.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Success makes someone feel drunk with power and confidence.
+</implicit_meaning>
+
+<components>
+<object>Person, Power (visualized as liquid)</object>
+<properties>Intoxicating, filling, overwhelming</properties>
+<relations>Power flowing into and through the person like a liquid</relations>
+</components>
+
+<visual_elaboration>
+A woman glowing with golden light, floating above ground, with swirling energy streams flowing through her body.
+</visual_elaboration>
+</metaphor_analysis>

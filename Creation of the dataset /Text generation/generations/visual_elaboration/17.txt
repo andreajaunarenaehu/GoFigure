@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Fresh capital irrigated the startup ecosystem.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Money flowing into and nurturing business growth.
+</implicit_meaning>
+
+<components>
+<object>Capital (money) and startup ecosystem</object>
+<properties>Fresh, flowing, life-giving</properties>
+<relations>Money acts as water nurturing plants/ecosystem</relations>
+</components>
+
+<visual_elaboration>
+Dollar bills flowing like water through sprinklers onto growing startup seedlings in a garden.
+</visual_elaboration>
+</metaphor_analysis>

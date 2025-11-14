@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Ideas crystallize in the clear light of reason.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Thoughts becoming clear and structured through logical thinking.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Light, Crystals</object>
+<properties>Clear, Structured, Illuminated</properties>
+<relations>Ideas transforming into crystalline structures when exposed to light</relations>
+</components>
+
+<visual_elaboration>
+Floating amorphous clouds transforming into geometric crystals when touched by bright beams of light.
+</visual_elaboration>
+</metaphor_analysis>

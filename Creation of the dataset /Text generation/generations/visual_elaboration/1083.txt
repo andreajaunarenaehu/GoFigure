@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The frame of sight boxes in our visual experience.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Our vision is limited and constrained by boundaries.
+</implicit_meaning>
+
+<components>
+<object>Frame of sight, Visual field</object>
+<properties>Boxed, Limited, Confined</properties>
+<relations>Frame constraining vision</relations>
+</components>
+
+<visual_elaboration>
+A person peering through a window frame that contains their entire field of vision in a box shape.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The clock hands point from cause to consequence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time reveals how actions lead to their results.
+</implicit_meaning>
+
+<components>
+<object>Clock, Clock hands</object>
+<properties>Pointing, Directional movement</properties>
+<relations>Movement from one point (cause) to another (consequence)</relations>
+</components>
+
+<visual_elaboration>
+A clock with hands connecting domino pieces, where one falls triggering a chain reaction.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The mind is a well-oiled machine, processing thoughts with mechanical precision.
+</metaphor>
+<literal_paraphrase>
+The human mind functions efficiently and systematically when handling information and thoughts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The mind is chaotic and disorganized, with thoughts flowing randomly without any structure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Memories are stored in mental hard drives, filed away in precise locations.
+</metaphor>
+<literal_paraphrase>
+The brain systematically stores and organizes memories for later retrieval.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Memories exist in a constant state of flux, with no fixed location or organization.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mind's gears ground to a halt under pressure.
+</metaphor>
+<literal_paraphrase>
+His thinking process stopped functioning effectively when stressed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His mind became more efficient and productive under pressure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mind requires regular maintenance to operate at peak performance.
+</metaphor>
+<literal_paraphrase>
+Mental health and cognitive function need consistent care and attention.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The mind functions perfectly without any care or attention to mental health.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mental processors run at lightning speed.
+</metaphor>
+<literal_paraphrase>
+She thinks and processes information very quickly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her thought processes are slow and deliberate.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mind's operating system needs occasional rebooting through sleep.
+</metaphor>
+<literal_paraphrase>
+The brain requires regular rest through sleep to function properly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The mind can function continuously without any need for rest or recovery.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Childhood trauma created a glitch in his mental programming.
+</metaphor>
+<literal_paraphrase>
+Early traumatic experiences caused lasting psychological issues.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Difficult experiences in childhood strengthened and improved his mental functioning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Education is the software upgrade for the mind.
+</metaphor>
+<literal_paraphrase>
+Learning and education improve cognitive capabilities and knowledge.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Education diminishes mental capacity and reduces understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mind's firewall blocked out negative thoughts.
+</metaphor>
+<literal_paraphrase>
+She had developed strong mental defenses against negative thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She was completely vulnerable to and absorbed all negative thoughts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Depression is like a virus in the mental machinery.
+</metaphor>
+<literal_paraphrase>
+Depression disrupts normal mental functioning and well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Depression enhances and improves mental functioning.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

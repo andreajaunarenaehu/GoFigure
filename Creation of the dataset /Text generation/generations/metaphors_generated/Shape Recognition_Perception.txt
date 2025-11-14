@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Our perception traces the edges of reality like a shape-finding algorithm.
+</metaphor>
+<literal_paraphrase>
+Human perception works by identifying and processing distinct patterns and boundaries in our environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Human perception is random and lacks any systematic approach to understanding the world.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mind's eye fits geometric templates over every experience.
+</metaphor>
+<literal_paraphrase>
+We naturally categorize and organize our perceptions into recognizable patterns and structures.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our perceptions are completely formless and resist any attempt at categorization.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Understanding is a puzzle of matching shapes to their corresponding holes.
+</metaphor>
+<literal_paraphrase>
+Perception involves matching observed information with existing mental frameworks and categories.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Understanding occurs randomly without any connection to existing knowledge or patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our consciousness draws perfect circles around chaotic reality.
+</metaphor>
+<literal_paraphrase>
+The mind imposes order and structure on complex, disordered sensory information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our consciousness amplifies chaos and disrupts natural patterns in reality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each memory is a carefully outlined silhouette of experience.
+</metaphor>
+<literal_paraphrase>
+We store experiences in our memory by defining their essential characteristics and boundaries.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Memories are formless blobs without definition or distinctive features.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Knowledge builds like nested geometric patterns.
+</metaphor>
+<literal_paraphrase>
+Understanding develops through layered and interconnected patterns of perception.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Knowledge accumulates randomly without structure or organization.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Wisdom is the art of recognizing squares in circles.
+</metaphor>
+<literal_paraphrase>
+True understanding comes from seeing underlying patterns in seemingly different situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Wisdom comes from ignoring patterns and treating each situation as entirely unique.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our thoughts tessellate like perfect tiles of understanding.
+</metaphor>
+<literal_paraphrase>
+Ideas and perceptions fit together in an organized, interconnected pattern.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Thoughts exist in isolation, never connecting or forming patterns with each other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mind's eye traces constellations in chaos.
+</metaphor>
+<literal_paraphrase>
+Human perception naturally finds meaningful patterns in complex, disordered information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The mind actively avoids finding patterns and prefers disorder.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Understanding clicks into place like perfect puzzle pieces.
+</metaphor>
+<literal_paraphrase>
+Comprehension occurs when new information aligns with existing knowledge structures.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Understanding occurs randomly without any connection to previous knowledge.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

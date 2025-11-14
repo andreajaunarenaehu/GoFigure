@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Jealousy is a cramped prison cell.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Feeling trapped and confined by one's own negative emotions.
+</implicit_meaning>
+
+<components>
+<object>Prison cell, Person experiencing jealousy</object>
+<properties>Cramped, confined, restrictive, suffocating</properties>
+<relations>Person is trapped within the emotional prison of jealousy</relations>
+</components>
+
+<visual_elaboration>
+A person curled up in fetal position inside a dark prison cell with green-tinted walls closing in.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His reasoning reached new heights.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Achievement of advanced intellectual understanding.
+</implicit_meaning>
+
+<components>
+<object>Reasoning (abstract thought process)</object>
+<properties>Vertical movement, elevation, advancement</properties>
+<relations>Upward progression from lower to higher level</relations>
+</components>
+
+<visual_elaboration>
+A brain floating on a rocket soaring upward through clouds toward stars.
+</visual_elaboration>
+</metaphor_analysis>

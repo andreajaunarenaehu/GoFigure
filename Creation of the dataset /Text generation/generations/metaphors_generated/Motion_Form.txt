@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The sculpture dances through its shapes.
+</metaphor>
+<literal_paraphrase>
+The sculptural form exhibits fluid and dynamic transitions between its various elements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The sculpture remains rigid and static in its composition.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The building's facade flows like a river.
+</metaphor>
+<literal_paraphrase>
+The building's exterior design features continuous, smooth transitions between its structural elements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The building's facade is angular and abruptly segmented.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The design leaps from one element to another.
+</metaphor>
+<literal_paraphrase>
+The design creates dynamic visual connections between different components.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The design elements are disconnected and isolated from each other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The pattern races across the surface.
+</metaphor>
+<literal_paraphrase>
+The pattern creates a sense of swift visual movement across the design's surface.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The pattern sits stagnant and motionless on the surface.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The structure swims through space.
+</metaphor>
+<literal_paraphrase>
+The structure appears to move fluidly through its surrounding environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The structure appears heavy and anchored in its environment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The lines waltz around the composition.
+</metaphor>
+<literal_paraphrase>
+The linear elements create a graceful, rhythmic arrangement in the design.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The lines are chaotic and arhythmic in the composition.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The shapes drift like autumn leaves.
+</metaphor>
+<literal_paraphrase>
+The forms appear to float and arrange themselves naturally within the design.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The shapes appear forced and artificially positioned within the design.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The contours sprint through the framework.
+</metaphor>
+<literal_paraphrase>
+The outline shapes create a sense of rapid progression through the structural design.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The contours appear sluggish and interrupted within the framework.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The geometry soars upward like a bird.
+</metaphor>
+<literal_paraphrase>
+The geometric forms create an uplifting, ascending visual effect.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The geometry appears heavy and earthbound.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The silhouette glides through the transitions.
+</metaphor>
+<literal_paraphrase>
+The overall form moves smoothly between different design elements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The silhouette awkwardly jumps between transitions.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

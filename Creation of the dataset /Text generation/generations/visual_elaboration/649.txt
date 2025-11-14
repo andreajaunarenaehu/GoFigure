@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His willpower collapsed like a house of cards in a storm.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden and complete breakdown of mental strength.
+</implicit_meaning>
+
+<components>
+<object>House of cards, Storm, Willpower</object>
+<properties>Fragile, Unstable, Destructive</properties>
+<relations>Collapse under external pressure</relations>
+</components>
+
+<visual_elaboration>
+A person's head made of playing cards scattering apart in swirling wind.
+</visual_elaboration>
+</metaphor_analysis>

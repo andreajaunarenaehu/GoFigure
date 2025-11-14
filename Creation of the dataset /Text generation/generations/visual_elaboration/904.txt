@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His words were scalding steam that burned through her defenses.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmful and penetrating verbal attack.
+</implicit_meaning>
+
+<components>
+<object>Words, Steam, Defenses</object>
+<properties>Scalding, Burning, Penetrating</properties>
+<relations>Steam burning through protective barrier</relations>
+</components>
+
+<visual_elaboration>
+Hot steam shaped like words melting through an ice wall surrounding a woman's silhouette.
+</visual_elaboration>
+</metaphor_analysis>

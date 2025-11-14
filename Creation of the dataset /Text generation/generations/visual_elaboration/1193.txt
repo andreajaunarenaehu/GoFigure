@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My internal jury weighs the evidence of each emotion.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Internal decision-making process about feelings.
+</implicit_meaning>
+
+<components>
+<object>Jury, emotions, evidence, scales</object>
+<properties>Internal, weighing, deliberating</properties>
+<relations>Jury evaluating emotional evidence through weighing</relations>
+</components>
+
+<visual_elaboration>
+A group of tiny jurors inside a brain, using balance scales to weigh colorful emotion orbs.
+</visual_elaboration>
+</metaphor_analysis>

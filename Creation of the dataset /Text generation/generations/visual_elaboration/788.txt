@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a soaring arrow, force follows its targeted path.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Determination and directness in pursuing a goal.
+</implicit_meaning>
+
+<components>
+<object>Arrow, Force (abstract concept)</object>
+<properties>Soaring, targeted, directional</properties>
+<relations>Following a specific path towards a goal</relations>
+</components>
+
+<visual_elaboration>
+A glowing arrow cutting through clouds with a straight light trail behind it.
+</visual_elaboration>
+</metaphor_analysis>

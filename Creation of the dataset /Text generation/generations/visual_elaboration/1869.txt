@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She danced her way to a breakthrough.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Joyful progress towards success.
+</implicit_meaning>
+
+<components>
+<object>Person, Dance steps, Path</object>
+<properties>Graceful, Progressive, Upward movement</properties>
+<relations>Dancing movement leading to enlightenment/success</relations>
+</components>
+
+<visual_elaboration>
+A woman twirling up a spiral staircase made of dancing footprints, reaching towards a glowing lightbulb.
+</visual_elaboration>
+</metaphor_analysis>

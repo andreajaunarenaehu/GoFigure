@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The parliament of self meets in continuous session.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Internal dialogue and decision-making process is constant and ongoing.
+</implicit_meaning>
+
+<components>
+<object>Parliament, Self (mind)</object>
+<properties>Continuous, Active, Multiple voices/aspects</properties>
+<relations>Meeting, Debating, Internal discussion</relations>
+</components>
+
+<visual_elaboration>
+A human head with a miniature parliament chamber inside, filled with multiple copies of the same person debating.
+</visual_elaboration>
+</metaphor_analysis>

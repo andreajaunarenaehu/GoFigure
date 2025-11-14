@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He straightened out his moral conduct.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Correcting or improving one's behavior to align with ethical standards.
+</implicit_meaning>
+
+<components>
+<object>Moral conduct, Person</object>
+<properties>Crooked becoming straight, bent becoming unbent</properties>
+<relations>Person actively straightening something twisted</relations>
+</components>
+
+<visual_elaboration>
+A person ironing out wrinkles from a twisted path that transforms into a straight golden line.
+</visual_elaboration>
+</metaphor_analysis>

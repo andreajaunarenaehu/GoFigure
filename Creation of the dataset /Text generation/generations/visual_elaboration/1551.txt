@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She sealed her obligations in airtight containers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strict commitment to responsibilities.
+</implicit_meaning>
+
+<components>
+<object>Obligations, Airtight containers</object>
+<properties>Sealed, Secure, Preserved</properties>
+<relations>Person storing commitments in containers</relations>
+</components>
+
+<visual_elaboration>
+A woman placing glowing paper contracts into glass mason jars with tight metal lids.
+</visual_elaboration>
+</metaphor_analysis>

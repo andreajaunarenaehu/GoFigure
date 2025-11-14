@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Being carves itself from the void.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creation emerges from nothingness.
+</implicit_meaning>
+
+<components>
+<object>Being (existence), Void (nothingness)</object>
+<properties>Empty space, emerging form, sculptural process</properties>
+<relations>Active carving/emerging from nothingness</relations>
+</components>
+
+<visual_elaboration>
+A human figure emerging from a dark void, with parts still dissolving into black emptiness.
+</visual_elaboration>
+</metaphor_analysis>

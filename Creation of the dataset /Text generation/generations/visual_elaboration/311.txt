@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their theory had several loose threads that needed attention.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory is incomplete and has unresolved issues.
+</implicit_meaning>
+
+<components>
+<object>Theory, Threads</object>
+<properties>Loose, Unraveling, Incomplete</properties>
+<relations>Threads are coming apart from the main fabric, needing to be fixed</relations>
+</components>
+
+<visual_elaboration>
+A woven fabric representing a document with visible loose threads dangling from its edges.
+</visual_elaboration>
+</metaphor_analysis>

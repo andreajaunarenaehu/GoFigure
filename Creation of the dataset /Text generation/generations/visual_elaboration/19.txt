@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Revenue streams merged into a river of profit.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Multiple income sources combining into larger financial success.
+</implicit_meaning>
+
+<components>
+<object>Revenue streams, River, Profit</object>
+<properties>Flowing, Merging, Growing larger</properties>
+<relations>Smaller streams combining into a larger river</relations>
+</components>
+
+<visual_elaboration>
+Multiple dollar-sign streams flowing together into one large golden river.
+</visual_elaboration>
+</metaphor_analysis>

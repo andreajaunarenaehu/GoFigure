@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Your retirement account is a time-locked treasure chest.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Valuable assets that can only be accessed at a specific future time.
+</implicit_meaning>
+
+<components>
+<object>Retirement account, Treasure chest</object>
+<properties>Locked, Contains valuable items, Time-restricted</properties>
+<relations>Account is compared to a secured container that holds wealth</relations>
+</components>
+
+<visual_elaboration>
+A golden treasure chest with a large clock-face lock, coins and jewels peeking through its seams.
+</visual_elaboration>
+</metaphor_analysis>

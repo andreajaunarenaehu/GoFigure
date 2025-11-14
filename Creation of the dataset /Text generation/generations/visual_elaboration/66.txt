@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The schedule is zigzagging like a pinball.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Chaotic and unpredictable movement or changes.
+</implicit_meaning>
+
+<components>
+<object>Schedule, Pinball</object>
+<properties>Erratic, bouncing, unpredictable</properties>
+<relations>Schedule moving/changing like a pinball in a machine</relations>
+</components>
+
+<visual_elaboration>
+A calendar page bouncing between colorful bumpers in a pinball machine, leaving a zigzag trail.
+</visual_elaboration>
+</metaphor_analysis>

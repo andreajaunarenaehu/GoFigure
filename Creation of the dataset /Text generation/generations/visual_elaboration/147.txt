@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His thoughts were as cramped as tensed muscles.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental stress and constriction of ideas.
+</implicit_meaning>
+
+<components>
+<object>Thoughts, Muscles</object>
+<properties>Cramped, Tense, Constricted</properties>
+<relations>Thoughts are being compared to physically tense muscles</relations>
+</components>
+
+<visual_elaboration>
+A brain wrapped tightly in knotted muscle fibers with visible strain marks.
+</visual_elaboration>
+</metaphor_analysis>

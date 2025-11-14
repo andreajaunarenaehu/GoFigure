@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is two wings sharing one flight.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unity and harmony in a relationship.
+</implicit_meaning>
+
+<components>
+<object>Wings, Flight path</object>
+<properties>Paired, Synchronized movement</properties>
+<relations>Two wings moving together in harmony through the air</relations>
+</components>
+
+<visual_elaboration>
+Two white wings connected at the center, soaring together through a blue sky leaving a single trail.
+</visual_elaboration>
+</metaphor_analysis>

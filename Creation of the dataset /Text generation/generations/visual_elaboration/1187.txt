@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties are gravitational wells of opportunity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Real estate investments pull in wealth and create opportunities like gravity pulls objects.
+</implicit_meaning>
+
+<components>
+<object>Properties (real estate), gravitational wells</object>
+<properties>Pulling force, depth, attraction</properties>
+<relations>Properties acting as force centers that attract opportunities</relations>
+</components>
+
+<visual_elaboration>
+Houses at the center of spiral vortexes pulling in money, keys, and success symbols.
+</visual_elaboration>
+</metaphor_analysis>

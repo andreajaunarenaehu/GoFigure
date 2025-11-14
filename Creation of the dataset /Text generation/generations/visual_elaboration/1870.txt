@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Words are bridges connecting minds across the void.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Communication connects people's thoughts across distance and separation.
+</implicit_meaning>
+
+<components>
+<object>Words, bridges, minds, void</object>
+<properties>Connecting, spanning, linking</properties>
+<relations>Words acting as physical bridges between floating minds</relations>
+</components>
+
+<visual_elaboration>
+Two floating human heads connected by a bridge made of glowing letters spanning a dark void.
+</visual_elaboration>
+</metaphor_analysis>

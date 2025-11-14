@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each possession is an anchor dragging me down.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions are burdensome and restrictive.
+</implicit_meaning>
+
+<components>
+<object>Person, possessions, anchor</object>
+<properties>Heavy, dragging, downward motion</properties>
+<relations>Possessions acting like anchors weighing down the person</relations>
+</components>
+
+<visual_elaboration>
+A person sinking underwater, tied to multiple anchors labeled with different possessions.
+</visual_elaboration>
+</metaphor_analysis>

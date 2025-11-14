@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Opportunities are seeds requiring fertile soil and care.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Success requires nurturing and the right environment.
+</implicit_meaning>
+
+<components>
+<object>Seeds, Soil, Opportunities</object>
+<properties>Fertile, Growing, Potential</properties>
+<relations>Seeds need care and good soil to grow, just as opportunities need support to flourish</relations>
+</components>
+
+<visual_elaboration>
+A hand planting glowing seeds in rich soil, with sprouting plants labeled "opportunity" emerging from the ground.
+</visual_elaboration>
+</metaphor_analysis>

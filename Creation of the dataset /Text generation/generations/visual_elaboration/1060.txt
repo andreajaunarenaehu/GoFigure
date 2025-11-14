@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She handed him the responsibility of leadership.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Leadership responsibility is treated as a physical object that can be transferred.
+</implicit_meaning>
+
+<components>
+<object>Responsibility, Hands, Leadership</object>
+<properties>Tangible, Transferable, Weighty</properties>
+<relations>Passing from one person to another</relations>
+</components>
+
+<visual_elaboration>
+A woman passing a glowing crown to a man with both hands in a ceremonial gesture.
+</visual_elaboration>
+</metaphor_analysis>

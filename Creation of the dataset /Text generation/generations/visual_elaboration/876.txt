@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His exterior is a velvet-bound facade.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Deceptively soft and luxurious appearance hiding true nature.
+</implicit_meaning>
+
+<components>
+<object>Person's exterior, Velvet book cover</object>
+<properties>Soft, luxurious, deceptive, hiding</properties>
+<relations>Exterior appearance concealing interior reality</relations>
+</components>
+
+<visual_elaboration>
+A person wearing a velvet coat that's peeling away to reveal rough concrete underneath.
+</visual_elaboration>
+</metaphor_analysis>

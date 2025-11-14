@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Perception's doorman screens each sensory visitor.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The mind filters and selects which sensations to process.
+</implicit_meaning>
+
+<components>
+<object>Doorman, sensory inputs</object>
+<properties>Screening, filtering, selective</properties>
+<relations>Doorman actively checking and allowing/denying entry of sensations</relations>
+</components>
+
+<visual_elaboration>
+A stern doorman in a brain-shaped building checking ID cards of colorful floating sensory symbols.
+</visual_elaboration>
+</metaphor_analysis>

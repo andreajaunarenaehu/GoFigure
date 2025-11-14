@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Creation unmasks the face of imagination.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The act of creating reveals hidden thoughts and ideas.
+</implicit_meaning>
+
+<components>
+<object>Face, Mask, Imagination</object>
+<properties>Hidden, Revealing, Mysterious</properties>
+<relations>Unmasking action, revealing what's beneath</relations>
+</components>
+
+<visual_elaboration>
+A theatrical mask being lifted to reveal a glowing face made of swirling colors and floating ideas.
+</visual_elaboration>
+</metaphor_analysis>

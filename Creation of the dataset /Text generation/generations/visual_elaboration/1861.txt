@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He sprinted toward personal growth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapid and determined self-improvement.
+</implicit_meaning>
+
+<components>
+<object>Person running, Growth symbol</object>
+<properties>Fast movement, Upward direction</properties>
+<relations>Person actively moving toward growth</relations>
+</components>
+
+<visual_elaboration>
+A person running up a staircase made of growing plants and flowers, each step taller than the last.
+</visual_elaboration>
+</metaphor_analysis>

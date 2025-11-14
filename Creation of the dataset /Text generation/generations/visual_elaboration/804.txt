@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His cryptocurrency wallet is a glass jar showing every crack.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Financial vulnerability and transparency of losses.
+</implicit_meaning>
+
+<components>
+<object>Cryptocurrency wallet, Glass jar</object>
+<properties>Transparent, Fragile, Cracked</properties>
+<relations>Wallet being visualized as a damaged container</relations>
+</components>
+
+<visual_elaboration>
+A cracked glass jar with digital coins visible through fractures, some coins leaking out.
+</visual_elaboration>
+</metaphor_analysis>

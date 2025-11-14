@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their reputation sparkled like polished diamond.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Pure, valuable, and flawless character or standing in society.
+</implicit_meaning>
+
+<components>
+<object>Reputation, Diamond</object>
+<properties>Sparkling, polished, bright, valuable</properties>
+<relations>Reputation is being compared to a diamond's brilliance</relations>
+</components>
+
+<visual_elaboration>
+A brilliant diamond emitting rays of light with the word "REPUTATION" reflected in its facets.
+</visual_elaboration>
+</metaphor_analysis>

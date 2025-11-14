@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The body mobilizes its forces to fight off the viral invasion.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The immune system defending against illness like an army fighting invaders.
+</implicit_meaning>
+
+<components>
+<object>Body's immune system, Viruses</object>
+<properties>Military-like defense, Invasion force</properties>
+<relations>Combat between defenders and invaders</relations>
+</components>
+
+<visual_elaboration>
+White blood cells wearing army helmets battling virus-shaped monsters at the body's cellular walls.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His social firewall was always active.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotionally guarded and defensive against social interactions.
+</implicit_meaning>
+
+<components>
+<object>Person, Computer firewall</object>
+<properties>Active, defensive, blocking</properties>
+<relations>Person using technological barrier for social protection</relations>
+</components>
+
+<visual_elaboration>
+A person surrounded by glowing digital shields, blocking approaching speech bubbles and social icons.
+</visual_elaboration>
+</metaphor_analysis>

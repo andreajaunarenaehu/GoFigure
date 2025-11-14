@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is the ultimate makeover artist.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time changes and transforms everything gradually.
+</implicit_meaning>
+
+<components>
+<object>Time, Makeover artist</object>
+<properties>Transformative, Gradual, Powerful</properties>
+<relations>Time actively changes and transforms like an artist working on their subject</relations>
+</components>
+
+<visual_elaboration>
+A clock-faced figure with artist brushes painting age lines and wrinkles on a young face.
+</visual_elaboration>
+</metaphor_analysis>

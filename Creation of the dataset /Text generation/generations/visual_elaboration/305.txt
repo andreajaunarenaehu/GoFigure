@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He spent his youth like a millionaire with unlimited credit.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Wasteful and careless spending of time.
+</implicit_meaning>
+
+<components>
+<object>Youth (time) and millionaire</object>
+<properties>Unlimited, wasteful, extravagant</properties>
+<relations>Spending time carelessly like spending money</relations>
+</components>
+
+<visual_elaboration>
+A young man throwing golden clock faces into the air while standing on a pile of broken hourglasses.
+</visual_elaboration>
+</metaphor_analysis>

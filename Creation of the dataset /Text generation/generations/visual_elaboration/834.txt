@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My possessions are prison walls closing in.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Feeling trapped and suffocated by material belongings.
+</implicit_meaning>
+
+<components>
+<object>Prison walls, Personal belongings</object>
+<properties>Closing in, Constraining, Suffocating</properties>
+<relations>Possessions acting as prison walls that trap the person</relations>
+</components>
+
+<visual_elaboration>
+A person surrounded by towering walls made of stacked furniture and objects that lean inward menacingly.
+</visual_elaboration>
+</metaphor_analysis>

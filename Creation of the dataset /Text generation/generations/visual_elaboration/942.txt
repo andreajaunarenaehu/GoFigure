@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Night's shroud sealed away the last traces of day.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Darkness completely covering and hiding the light.
+</implicit_meaning>
+
+<components>
+<object>Night, shroud, day</object>
+<properties>Dark, covering, sealing, concealing</properties>
+<relations>Night actively covering and hiding day</relations>
+</components>
+
+<visual_elaboration>
+A black cloth descending over a glowing sun, with only faint light escaping through its edges.
+</visual_elaboration>
+</metaphor_analysis>

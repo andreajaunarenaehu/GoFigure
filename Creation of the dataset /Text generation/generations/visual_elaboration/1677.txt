@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her principles were cleansed of all impurity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Moral purification and ethical clarity.
+</implicit_meaning>
+
+<components>
+<object>Principles, impurities</object>
+<properties>Clean, pure, filtered</properties>
+<relations>Process of purification, removal of unwanted elements</relations>
+</components>
+
+<visual_elaboration>
+A crystal-clear water filter removing dark particles from murky water, with the filtered water forming the shape of a woman's silhouette.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The economy plummeted into a bottomless pit.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Severe economic decline without visible end or recovery.
+</implicit_meaning>
+
+<components>
+<object>Economy, Pit</object>
+<properties>Bottomless, Deep, Dark, Endless falling</properties>
+<relations>Downward movement, Continuous descent</relations>
+</components>
+
+<visual_elaboration>
+A dollar sign falling through a dark spiral pit with no visible bottom.
+</visual_elaboration>
+</metaphor_analysis>

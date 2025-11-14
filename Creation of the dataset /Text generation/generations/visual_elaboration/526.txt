@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The nausea of betrayal spins the moral compass.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Betrayal causes disorientation of one's ethical principles.
+</implicit_meaning>
+
+<components>
+<object>Moral compass, Nausea/Betrayal</object>
+<properties>Spinning, Disoriented, Unstable</properties>
+<relations>Betrayal causes the compass to malfunction and spin uncontrollably</relations>
+</components>
+
+<visual_elaboration>
+A nauseated face in the center of a wildly spinning compass with its needle whirling chaotically.
+</visual_elaboration>
+</metaphor_analysis>

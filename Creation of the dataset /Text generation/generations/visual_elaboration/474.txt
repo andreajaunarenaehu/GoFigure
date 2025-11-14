@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His motivation was a propulsive force launching him toward his goals.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strong internal drive pushing forward.
+</implicit_meaning>
+
+<components>
+<object>Person, Rocket/Launch pad</object>
+<properties>Forward motion, Powerful thrust, Directional movement</properties>
+<relations>Person being propelled toward a target/goal</relations>
+</components>
+
+<visual_elaboration>
+A person strapped to a rocket launching upward toward a glowing target in the sky.
+</visual_elaboration>
+</metaphor_analysis>

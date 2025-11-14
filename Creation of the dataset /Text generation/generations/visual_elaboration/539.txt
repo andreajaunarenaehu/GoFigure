@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Machines have their own circadian rhythms like humans.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Machines operate in predictable daily cycles similar to human sleep-wake patterns.
+</implicit_meaning>
+
+<components>
+<object>Machines, Human biological clock</object>
+<properties>Cyclical, Rhythmic, Predictable</properties>
+<relations>Machines mirroring human biological patterns</relations>
+</components>
+
+<visual_elaboration>
+A half-human half-robot face split down the middle, with one side sleeping while the other powers down.
+</visual_elaboration>
+</metaphor_analysis>

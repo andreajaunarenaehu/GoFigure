@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mind was running on low battery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental exhaustion and lack of energy.
+</implicit_meaning>
+
+<components>
+<object>Mind, Battery</object>
+<properties>Low power, Depleted, Tired</properties>
+<relations>Mind is compared to an electronic device running out of power</relations>
+</components>
+
+<visual_elaboration>
+A human head with a transparent battery icon showing red 5% charge and flickering power symbols.
+</visual_elaboration>
+</metaphor_analysis>

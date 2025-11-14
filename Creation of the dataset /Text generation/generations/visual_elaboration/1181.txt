@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties flow like liquid through market cycles.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Real estate values are fluid and changeable like flowing water.
+</implicit_meaning>
+
+<components>
+<object>Properties (houses/buildings), Liquid, Market cycles</object>
+<properties>Flowing, fluid, cyclical movement</properties>
+<relations>Properties behaving like liquid moving through circular paths</relations>
+</components>
+
+<visual_elaboration>
+Houses floating and swirling in a circular stream of water forming a continuous loop.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The river of force flows from high pressure to low.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Force behaves like water, moving naturally from areas of high to low pressure.
+</implicit_meaning>
+
+<components>
+<object>River, Force, Pressure</object>
+<properties>Flowing, High pressure, Low pressure</properties>
+<relations>Movement from high to low, like water flowing downhill</relations>
+</components>
+
+<visual_elaboration>
+A blue river cascading down a mountain, with dense arrows at the top becoming sparse at the bottom.
+</visual_elaboration>
+</metaphor_analysis>

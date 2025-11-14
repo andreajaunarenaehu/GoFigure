@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Price tags of consequence hang from every decision.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Every choice we make comes with a cost or consequence.
+</implicit_meaning>
+
+<components>
+<object>Price tags, Decisions</object>
+<properties>Hanging, Multiple, Weighted</properties>
+<relations>Tags are attached to abstract decisions, suggesting burden or cost</relations>
+</components>
+
+<visual_elaboration>
+A person stands at a crossroads with giant price tags dangling from floating decision bubbles above them.
+</visual_elaboration>
+</metaphor_analysis>

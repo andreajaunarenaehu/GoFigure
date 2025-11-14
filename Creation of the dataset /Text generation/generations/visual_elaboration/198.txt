@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She kept her decisions in a fortified strongbox.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extremely protective and secretive about personal choices.
+</implicit_meaning>
+
+<components>
+<object>Decisions, Strongbox</object>
+<properties>Fortified, Secure, Protected</properties>
+<relations>Containment, Protection, Personal possession</relations>
+</components>
+
+<visual_elaboration>
+A woman guarding a metal strongbox with multiple locks, while paper decisions glow inside through its seams.
+</visual_elaboration>
+</metaphor_analysis>

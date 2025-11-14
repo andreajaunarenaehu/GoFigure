@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The curtain rises on each new creation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beginning or revealing something new.
+</implicit_meaning>
+
+<components>
+<object>Theater curtain, Creation/artwork</object>
+<properties>Rising, revealing, dramatic</properties>
+<relations>The curtain's movement reveals something new beneath it</relations>
+</components>
+
+<visual_elaboration>
+A red theater curtain lifting to reveal a glowing paintbrush creating art on a blank canvas.
+</visual_elaboration>
+</metaphor_analysis>

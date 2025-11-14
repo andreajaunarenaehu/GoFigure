@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They're like batteries connected in series, amplifying each other's potential.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two people strengthening each other's capabilities through collaboration.
+</implicit_meaning>
+
+<components>
+<object>Batteries, People</object>
+<properties>Connected, Amplifying, Energetic</properties>
+<relations>Working together in sequence, Boosting power</relations>
+</components>
+
+<visual_elaboration>
+Two glowing human silhouettes connected by electric currents with battery symbols inside their chests.
+</visual_elaboration>
+</metaphor_analysis>

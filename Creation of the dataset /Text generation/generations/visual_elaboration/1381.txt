@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance flows like a river following its natural course.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Effortless and natural adherence to rules.
+</implicit_meaning>
+
+<components>
+<object>River, Compliance</object>
+<properties>Flowing, Natural, Continuous</properties>
+<relations>Following a predetermined path smoothly</relations>
+</components>
+
+<visual_elaboration>
+A winding river made of documents and regulations flowing smoothly between green riverbanks.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their bond is a sibling rivalry that strengthens them.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competition that leads to mutual growth and improvement.
+</implicit_meaning>
+
+<components>
+<object>Bond between two people, Siblings</object>
+<properties>Competitive, Strengthening, Challenging</properties>
+<relations>Mutual growth through rivalry</relations>
+</components>
+
+<visual_elaboration>
+Two arm-wrestling figures with growing muscles, connected by a glowing chain between them.
+</visual_elaboration>
+</metaphor_analysis>

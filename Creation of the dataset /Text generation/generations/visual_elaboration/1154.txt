@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The baggage of old habits must be unpacked at each new milestone.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Past behaviors and patterns need to be examined and dealt with when making life changes.
+</implicit_meaning>
+
+<components>
+<object>Baggage, milestone marker</object>
+<properties>Old, heavy, containing habits</properties>
+<relations>Unpacking action at a milestone point</relations>
+</components>
+
+<visual_elaboration>
+A person opening an old suitcase at a road milestone marker, with habits floating out as glowing symbols.
+</visual_elaboration>
+</metaphor_analysis>

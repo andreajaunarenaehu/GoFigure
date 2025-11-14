@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their business strategy was all defense, no offense.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Passive and protective rather than aggressive or growth-oriented.
+</implicit_meaning>
+
+<components>
+<object>Business strategy, Sports game</object>
+<properties>Defensive, Passive, Protective</properties>
+<relations>Strategy compared to sports tactics</relations>
+</components>
+
+<visual_elaboration>
+A business person hiding behind a large shield while competitors charge forward with swords.
+</visual_elaboration>
+</metaphor_analysis>

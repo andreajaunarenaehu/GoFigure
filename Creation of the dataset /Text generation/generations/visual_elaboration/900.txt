@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His anger was a boiling kettle ready to explode.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense, uncontrollable anger reaching a dangerous peak.
+</implicit_meaning>
+
+<components>
+<object>Kettle, Anger, Person</object>
+<properties>Boiling, Explosive, Hot, Pressurized</properties>
+<relations>Anger is compared to steam pressure building up in a kettle</relations>
+</components>
+
+<visual_elaboration>
+A red-faced man's head replacing a whistling kettle's lid, with steam erupting from his ears.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This theory is a rickety bridge that needs reinforcement.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory is unstable and requires more supporting evidence.
+</implicit_meaning>
+
+<components>
+<object>Theory, Bridge</object>
+<properties>Rickety, unstable, weak</properties>
+<relations>Bridge needs structural support, theory needs evidence</relations>
+</components>
+
+<visual_elaboration>
+A wooden bridge with missing planks and loose ropes swaying dangerously over a deep chasm.
+</visual_elaboration>
+</metaphor_analysis>

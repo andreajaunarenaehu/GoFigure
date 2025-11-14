@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her responsibilities compressed like a spring under pressure.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mounting stress and pressure from accumulating responsibilities.
+</implicit_meaning>
+
+<components>
+<object>Spring, Responsibilities</object>
+<properties>Compressed, Under pressure, Tightly coiled</properties>
+<relations>The responsibilities are causing increasing pressure like a compressed spring</relations>
+</components>
+
+<visual_elaboration>
+A woman being squeezed between two coils of a giant compressed spring, looking stressed.
+</visual_elaboration>
+</metaphor_analysis>

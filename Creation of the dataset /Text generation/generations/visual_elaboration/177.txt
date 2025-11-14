@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He's trapped in a cage of abuse.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being controlled and confined by abusive relationships or situations.
+</implicit_meaning>
+
+<components>
+<object>Person, Cage</object>
+<properties>Trapped, Confined, Restricted</properties>
+<relations>Person inside cage, representing abuse as physical confinement</relations>
+</components>
+
+<visual_elaboration>
+A person huddled inside a dark cage with shadowy hands gripping the bars from outside.
+</visual_elaboration>
+</metaphor_analysis>

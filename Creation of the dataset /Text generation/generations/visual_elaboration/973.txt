@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His elation climbed to the summit of bliss.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Reaching the highest level of happiness.
+</implicit_meaning>
+
+<components>
+<object>Elation/happiness, mountain summit</object>
+<properties>Ascending, reaching peak, highest point</properties>
+<relations>Movement upward, achieving maximum height</relations>
+</components>
+
+<visual_elaboration>
+A person joyfully leaping atop a mountain peak with rays of light bursting around them.
+</visual_elaboration>
+</metaphor_analysis>

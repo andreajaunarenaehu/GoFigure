@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each researcher adds their pieces to the collective knowledge puzzle.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Scientific knowledge is built collaboratively like assembling a puzzle.
+</implicit_meaning>
+
+<components>
+<object>Researchers, Puzzle pieces, Complete puzzle</object>
+<properties>Fragmentary, Interconnected, Collaborative</properties>
+<relations>Adding pieces, Building together, Forming a whole</relations>
+</components>
+
+<visual_elaboration>
+Multiple hands placing glowing puzzle pieces into a large, partially completed puzzle map of human knowledge.
+</visual_elaboration>
+</metaphor_analysis>

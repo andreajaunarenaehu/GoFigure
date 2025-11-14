@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+This project is a winding mountain path with many switchbacks ahead.
+</metaphor>
+<literal_paraphrase>
+This long-term activity requires patience and persistence, with many changes in direction before reaching the goal.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This activity is straightforward and direct, with immediate results and no complications.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're just gathering supplies for the long expedition ahead.
+</metaphor>
+<literal_paraphrase>
+We're in the preparation phase of this long-term endeavor, collecting necessary resources and tools.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We can start this activity immediately without any preparation or planning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This milestone is just another waypoint on our map.
+</metaphor>
+<literal_paraphrase>
+This achievement is one of many steps in our ongoing long-term process.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This achievement marks the final destination of our efforts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We need to pace ourselves for this marathon endeavor.
+</metaphor>
+<literal_paraphrase>
+We must manage our energy and resources carefully for this extended activity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We should expend all our energy immediately to complete this quick task.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our compass is pointing true to our ultimate destination.
+</metaphor>
+<literal_paraphrase>
+Our long-term goals remain clear and guide our ongoing efforts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We're working without clear direction or purpose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We've weathered many storms on this expedition.
+</metaphor>
+<literal_paraphrase>
+We've overcome numerous challenges and setbacks in pursuing our long-term goal.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We've encountered no difficulties or obstacles in our work.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each team member carries their own backpack of responsibilities.
+</metaphor>
+<literal_paraphrase>
+Everyone involved has specific duties and commitments in this long-term project.
+</literal_paraphrase>
+<contradiction_paraphrase>
+No one has individual responsibilities; everything is completely shared.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're following the trail markers of those who succeeded before us.
+</metaphor>
+<literal_paraphrase>
+We're learning from the examples and experiences of previous successful endeavors.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We're completely ignoring all previous examples and starting from scratch.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This detour might slow our pace, but we're still on the right path.
+</metaphor>
+<literal_paraphrase>
+Temporary setbacks may delay progress, but they won't prevent us from achieving our goal.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Any deviation from our original plan means complete failure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We've reached base camp, but the summit still towers above.
+</metaphor>
+<literal_paraphrase>
+We've achieved initial success, but our ultimate goal requires much more effort.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our initial progress represents complete success with no further work needed.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

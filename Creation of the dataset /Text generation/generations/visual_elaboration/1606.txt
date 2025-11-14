@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The avalanche of facts buried our historical assumptions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming evidence destroying previous beliefs.
+</implicit_meaning>
+
+<components>
+<object>Avalanche, Facts, Historical assumptions</object>
+<properties>Overwhelming, destructive, buried</properties>
+<relations>Facts (as snow) burying assumptions (as structures)</relations>
+</components>
+
+<visual_elaboration>
+Ancient buildings crumbling under a massive snow avalanche of papers and documents.
+</visual_elaboration>
+</metaphor_analysis>

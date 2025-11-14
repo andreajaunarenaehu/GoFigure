@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My flesh is a sacred temple holding my soul.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The body is divine and houses something precious.
+</implicit_meaning>
+
+<components>
+<object>Human body, Temple</object>
+<properties>Sacred, divine, protective</properties>
+<relations>Body contains and protects soul like temple houses sacred artifacts</relations>
+</components>
+
+<visual_elaboration>
+A glowing human silhouette shaped like a temple with stained glass windows and a bright orb floating inside.
+</visual_elaboration>
+</metaphor_analysis>

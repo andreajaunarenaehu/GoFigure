@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her feelings raced through her mind like a speeding train.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming rush of emotions moving quickly and intensely.
+</implicit_meaning>
+
+<components>
+<object>Feelings, Mind, Train</object>
+<properties>Fast-moving, rushing, powerful</properties>
+<relations>Feelings moving through mind like train on tracks</relations>
+</components>
+
+<visual_elaboration>
+A human head with train tracks inside, where a locomotive carries emotional expressions through tunnels of brain matter.
+</visual_elaboration>
+</metaphor_analysis>

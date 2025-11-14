@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She was famished for affection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desperate need for emotional connection and love.
+</implicit_meaning>
+
+<components>
+<object>Person, Food/Hunger</object>
+<properties>Empty, Starving, Desperate</properties>
+<relations>Hunger being connected to emotional needs</relations>
+</components>
+
+<visual_elaboration>
+A hollow-cheeked woman reaching toward floating hearts on an empty plate.
+</visual_elaboration>
+</metaphor_analysis>

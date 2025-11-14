@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The criticism dropped like a hammer on his dreams.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive and crushing impact of harsh words.
+</implicit_meaning>
+
+<components>
+<object>Hammer, Dreams</object>
+<properties>Heavy, destructive, crushing</properties>
+<relations>Hammer falling down onto something fragile</relations>
+</components>
+
+<visual_elaboration>
+A giant hammer shattering a glass bubble containing colorful dream-like images.
+</visual_elaboration>
+</metaphor_analysis>

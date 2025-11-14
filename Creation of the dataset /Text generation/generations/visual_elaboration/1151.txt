@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The compass of purpose guides us through the wilderness of transformation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life direction and personal growth require guidance and navigation.
+</implicit_meaning>
+
+<components>
+<object>Compass, Wilderness</object>
+<properties>Directional, Wild, Transformative</properties>
+<relations>Compass guides through wilderness</relations>
+</components>
+
+<visual_elaboration>
+A glowing compass floating above a misty forest, with its needle morphing into a human silhouette.
+</visual_elaboration>
+</metaphor_analysis>

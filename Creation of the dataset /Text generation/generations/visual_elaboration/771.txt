@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a determined hunter, time tracks down every moment of our lives.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is relentless and inevitable in its pursuit.
+</implicit_meaning>
+
+<components>
+<object>Time personified as a hunter, Moments of life as prey</object>
+<properties>Determined, relentless, pursuing</properties>
+<relations>Hunter (Time) actively pursuing and capturing moments of life</relations>
+</components>
+
+<visual_elaboration>
+A hooded figure with a clock face wielding a bow, chasing floating hourglasses through a dark forest.
+</visual_elaboration>
+</metaphor_analysis>

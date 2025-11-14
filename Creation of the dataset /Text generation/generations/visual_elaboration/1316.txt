@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Grief burned through her like molten steel.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense emotional pain that consumes from within.
+</implicit_meaning>
+
+<components>
+<object>Person, Molten Steel</object>
+<properties>Burning, Flowing, Destructive</properties>
+<relations>Steel flowing through body, consuming it</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette filled with glowing orange molten steel, tears streaming as metallic droplets.
+</visual_elaboration>
+</metaphor_analysis>

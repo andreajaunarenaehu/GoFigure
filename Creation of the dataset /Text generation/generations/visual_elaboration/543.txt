@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Rivals are scavengers scrambling for the remaining crumbs.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desperate competition for limited resources.
+</implicit_meaning>
+
+<components>
+<object>Rivals, Scavengers, Crumbs</object>
+<properties>Desperate, Competitive, Limited</properties>
+<relations>Multiple entities fighting over scarce resources</relations>
+</components>
+
+<visual_elaboration>
+Vultures in business suits aggressively fighting over scattered breadcrumbs on a barren ground.
+</visual_elaboration>
+</metaphor_analysis>

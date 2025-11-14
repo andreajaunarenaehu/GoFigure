@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties are friction points in economic motion.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Property ownership creates resistance in economic flow and transactions.
+</implicit_meaning>
+
+<components>
+<object>Properties, Friction points, Economic motion</object>
+<properties>Resistant, Slowing, Hindering</properties>
+<relations>Properties act as obstacles that slow down economic movement</relations>
+</components>
+
+<visual_elaboration>
+A flowing river of money being slowed by rough rocks labeled "Property" creating visible turbulence.
+</visual_elaboration>
+</metaphor_analysis>

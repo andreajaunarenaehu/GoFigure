@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Retirement is the bottom of time's container coming into view.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life is running out as retirement approaches.
+</implicit_meaning>
+
+<components>
+<object>Time container, Bottom of container, Retirement</object>
+<properties>Transparent, Visible bottom, Depleting contents</properties>
+<relations>Observer watching contents diminish toward bottom</relations>
+</components>
+
+<visual_elaboration>
+A transparent hourglass with few sand grains remaining, showing a visible bottom with a person peering through.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her legacy shines through generations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Lasting positive influence that continues to inspire.
+</implicit_meaning>
+
+<components>
+<object>Legacy, Light</object>
+<properties>Bright, Enduring, Illuminating</properties>
+<relations>Passing through time, Illuminating others</relations>
+</components>
+
+<visual_elaboration>
+A glowing torch passing light to multiple smaller torches arranged in descending generations.
+</visual_elaboration>
+</metaphor_analysis>

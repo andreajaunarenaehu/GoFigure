@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The problem is a vast desert stretching endlessly before us.
+</metaphor>
+<literal_paraphrase>
+The problem seems overwhelming and difficult to navigate through.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is small and easily manageable with clear boundaries.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're climbing the rocky slopes of this problem.
+</metaphor>
+<literal_paraphrase>
+We're dealing with a challenging problem that requires significant effort to solve.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem requires no effort and can be solved effortlessly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a deep valley we must cross.
+</metaphor>
+<literal_paraphrase>
+We need to work through this difficult situation to reach a resolution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The solution is immediately accessible without any intermediate steps.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The fog of this problem obscures our path forward.
+</metaphor>
+<literal_paraphrase>
+The complexity of the problem makes it difficult to see the solution clearly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The solution to the problem is crystal clear and immediately obvious.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're navigating through the marshlands of this problem.
+</metaphor>
+<literal_paraphrase>
+We're carefully working through a complex and potentially dangerous situation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is straightforward and poses no risks or complications.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is an unexplored territory on our map.
+</metaphor>
+<literal_paraphrase>
+We're dealing with an unfamiliar situation that requires new approaches.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is familiar and we know exactly how to handle it.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're standing at the edge of this problem's precipice.
+</metaphor>
+<literal_paraphrase>
+We're at a critical point where our decisions about the problem have serious consequences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our decisions about the problem have no significant impact or consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem's terrain is riddled with hidden pitfalls.
+</metaphor>
+<literal_paraphrase>
+The situation contains many unseen difficulties and potential mistakes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is completely safe and free from any potential complications.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're following the river of this problem to its source.
+</metaphor>
+<literal_paraphrase>
+We're tracing the problem back to its origin to understand it better.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem's origin is irrelevant and doesn't need to be understood.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is an eroded landscape that needs restoration.
+</metaphor>
+<literal_paraphrase>
+The situation has deteriorated over time and requires careful repair and attention.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is in perfect condition and needs no improvement or attention.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

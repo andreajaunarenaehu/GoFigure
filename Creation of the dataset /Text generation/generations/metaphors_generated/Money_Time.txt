@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Time flows like liquid assets through our fingers.
+</metaphor>
+<literal_paraphrase>
+Time passes continuously and can be difficult to hold onto or control.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is static and completely under our control.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She invested her morning hours wisely.
+</metaphor>
+<literal_paraphrase>
+She used her morning hours productively and efficiently.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She carelessly wasted her morning hours without purpose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His time account was running dangerously low.
+</metaphor>
+<literal_paraphrase>
+He had very little time remaining to complete his tasks.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He had an abundance of time available for his tasks.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She deposited extra hours into her weekend savings.
+</metaphor>
+<literal_paraphrase>
+She set aside additional time for weekend activities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She completely depleted her weekend time without planning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time bankruptcy left him with nothing but regrets.
+</metaphor>
+<literal_paraphrase>
+Running out of time completely led to unfortunate consequences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Having abundant time led to numerous accomplishments.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He spent his youth like a millionaire with unlimited credit.
+</metaphor>
+<literal_paraphrase>
+He used his younger years carelessly, assuming time was endless.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He carefully rationed every moment of his youth with precision.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each minute was a precious coin in her daily budget.
+</metaphor>
+<literal_paraphrase>
+She valued and carefully planned each minute of her day.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She treated minutes as worthless and disposable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time inflation made every hour worth less than before.
+</metaphor>
+<literal_paraphrase>
+The value of time seemed to diminish as demands increased.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each hour became more valuable and productive than ever.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He borrowed time from tomorrow's schedule.
+</metaphor>
+<literal_paraphrase>
+He used time intended for future tasks to complete current ones.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He strictly maintained separate time allocations for each day.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her time portfolio was diversified across multiple activities.
+</metaphor>
+<literal_paraphrase>
+She balanced her time effectively among various tasks and interests.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She focused all her time on a single activity without variety.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

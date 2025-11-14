@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her ideas arrived at their destination.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Thoughts successfully reaching understanding or completion.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Destination</object>
+<properties>Movement, Arrival, Completion</properties>
+<relations>Ideas are personified as travelers reaching a goal</relations>
+</components>
+
+<visual_elaboration>
+Glowing light bulbs with wings landing on a marked X on a map.
+</visual_elaboration>
+</metaphor_analysis>

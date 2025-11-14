@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Depression is an endless desert without oases.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hopeless and barren emotional state without relief.
+</implicit_meaning>
+
+<components>
+<object>Desert, Depression</object>
+<properties>Endless, barren, without relief points</properties>
+<relations>Depression is compared to a vast empty desert landscape</relations>
+</components>
+
+<visual_elaboration>
+A person walking alone in an infinite desert with cracked earth and dark storm clouds above.
+</visual_elaboration>
+</metaphor_analysis>

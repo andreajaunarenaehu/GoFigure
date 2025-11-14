@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They climbed toward their ideal selves.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal growth and self-improvement through effort.
+</implicit_meaning>
+
+<components>
+<object>People, ideal selves</object>
+<properties>Upward movement, climbing, aspirational</properties>
+<relations>Movement from current self toward idealized version</relations>
+</components>
+
+<visual_elaboration>
+People climbing a mountain where their glowing, perfected reflections stand at the summit.
+</visual_elaboration>
+</metaphor_analysis>

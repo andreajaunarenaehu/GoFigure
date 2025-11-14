@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Change races forward like a sprinter on the track.
+</metaphor>
+<literal_paraphrase>
+Change happens rapidly and with focused direction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change is stationary and lacks any forward momentum.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The wheels of change spin endlessly.
+</metaphor>
+<literal_paraphrase>
+Change is a continuous, cyclical process that never stops.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change is a fixed, one-time event that remains permanent.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Change dances through life like a leaf in the wind.
+</metaphor>
+<literal_paraphrase>
+Change is unpredictable and follows various directions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change is rigid and follows a single, predetermined path.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Progress leaps forward in bounds.
+</metaphor>
+<literal_paraphrase>
+Change occurs in sudden, significant jumps.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change crawls along imperceptibly with minimal impact.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Change flows like a river seeking new paths.
+</metaphor>
+<literal_paraphrase>
+Change naturally finds new directions and opportunities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change remains confined to existing channels without exploration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The pendulum of change swings back and forth.
+</metaphor>
+<literal_paraphrase>
+Change alternates between opposing states or conditions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change moves in a single direction without variation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Change spirals upward like a climbing bird.
+</metaphor>
+<literal_paraphrase>
+Change progresses while building upon previous developments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change descends and erases previous progress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The waves of change crash upon the shores of tradition.
+</metaphor>
+<literal_paraphrase>
+Change forcefully impacts established practices and beliefs.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change gently accommodates existing customs without disruption.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Change ricochets through society like a bouncing ball.
+</metaphor>
+<literal_paraphrase>
+Change affects multiple aspects of society in unexpected ways.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change impacts only one specific area without spreading effects.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The carousel of change revolves eternally.
+</metaphor>
+<literal_paraphrase>
+Change is a recurring process that brings both new and familiar experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change is a linear progression that never repeats or returns.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

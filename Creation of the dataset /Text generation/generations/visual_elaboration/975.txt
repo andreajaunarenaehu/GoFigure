@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His happiness rocketed through the atmosphere.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden and explosive increase in joy.
+</implicit_meaning>
+
+<components>
+<object>Happiness, Rocket</object>
+<properties>Fast-moving, Upward trajectory, Explosive</properties>
+<relations>Happiness is compared to a rocket launching upward</relations>
+</components>
+
+<visual_elaboration>
+A person's smiling face attached to a launching rocket, leaving a trail of sparkles and hearts.
+</visual_elaboration>
+</metaphor_analysis>

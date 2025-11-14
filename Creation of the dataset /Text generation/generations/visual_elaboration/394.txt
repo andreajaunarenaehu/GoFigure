@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The artist's masterpiece emerged after a long creative labor.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creating art is like giving birth.
+</implicit_meaning>
+
+<components>
+<object>Artist, Artwork, Birth process</object>
+<properties>Emergence, Labor, Creation</properties>
+<relations>Artist going through creative process like childbirth</relations>
+</components>
+
+<visual_elaboration>
+An artist in hospital gown holding a paintbrush while a canvas emerges from a delivery room.
+</visual_elaboration>
+</metaphor_analysis>

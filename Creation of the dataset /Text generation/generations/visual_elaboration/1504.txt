@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each conscious breath pressed against her chest painted colors in her gray mood.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Breathing brings emotional relief and happiness to sadness.
+</implicit_meaning>
+
+<components>
+<object>Breath, chest, colors, mood</object>
+<properties>Gray, colorful, conscious, pressed</properties>
+<relations>Breath transforms gray to color, pressing against chest</relations>
+</components>
+
+<visual_elaboration>
+A gray figure with a rainbow bursting from their chest with each visible breath.
+</visual_elaboration>
+</metaphor_analysis>

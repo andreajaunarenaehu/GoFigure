@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their dominion rocketed skyward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapid rise to power and success.
+</implicit_meaning>
+
+<components>
+<object>Dominion (power/control), Rocket</object>
+<properties>Upward movement, Explosive growth, Speed</properties>
+<relations>Power ascending rapidly like a rocket launch</relations>
+</components>
+
+<visual_elaboration>
+A crown attached to a rocket soaring upward through clouds with flames trailing behind.
+</visual_elaboration>
+</metaphor_analysis>

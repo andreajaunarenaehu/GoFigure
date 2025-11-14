@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They released their hold on the situation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Letting go of control.
+</implicit_meaning>
+
+<components>
+<object>Hands, Control/Grip</object>
+<properties>Loosening, Releasing, Opening</properties>
+<relations>Person actively letting go of something tangible</relations>
+</components>
+
+<visual_elaboration>
+Hands opening up and releasing a glowing orb that represents a situation.
+</visual_elaboration>
+</metaphor_analysis>

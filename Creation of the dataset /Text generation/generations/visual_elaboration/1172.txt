@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Knowledge radiates from her like sunbeams.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Enlightening and illuminating others with wisdom.
+</implicit_meaning>
+
+<components>
+<object>Person, Sunbeams</object>
+<properties>Radiant, bright, illuminating</properties>
+<relations>Knowledge emanating outward from the person like light</relations>
+</components>
+
+<visual_elaboration>
+A woman glowing with golden rays of light emanating from her head while surrounded by floating books.
+</visual_elaboration>
+</metaphor_analysis>

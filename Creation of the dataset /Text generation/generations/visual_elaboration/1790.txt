@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem is a bullseye waiting to be hit.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A clear target or solution that needs to be achieved.
+</implicit_meaning>
+
+<components>
+<object>Problem, Bullseye</object>
+<properties>Visible, Targetable, Waiting</properties>
+<relations>Problem is presented as a target that needs to be hit/solved</relations>
+</components>
+
+<visual_elaboration>
+A glowing red bullseye target with the word "PROBLEM" floating in its center.
+</visual_elaboration>
+</metaphor_analysis>

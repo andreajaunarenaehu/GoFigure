@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That concept is a remote island, isolated from mainstream thinking.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The idea is disconnected and separate from common understanding.
+</implicit_meaning>
+
+<components>
+<object>Concept, Island</object>
+<properties>Remote, Isolated, Distant</properties>
+<relations>Separation from mainland (mainstream thinking)</relations>
+</components>
+
+<visual_elaboration>
+A tiny island floating in space with a single lightbulb on it, surrounded by vast darkness.
+</visual_elaboration>
+</metaphor_analysis>

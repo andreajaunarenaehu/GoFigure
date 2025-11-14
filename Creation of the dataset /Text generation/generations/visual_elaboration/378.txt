@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The competitive climate is heating up rapidly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competition is becoming more intense and pressured.
+</implicit_meaning>
+
+<components>
+<object>Climate, Temperature, Competition</object>
+<properties>Rising heat, Intensity, Speed</properties>
+<relations>Heat increasing rapidly in relation to competition</relations>
+</components>
+
+<visual_elaboration>
+A thermometer with business figures racing up its mercury column as flames rise around them.
+</visual_elaboration>
+</metaphor_analysis>

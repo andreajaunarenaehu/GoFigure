@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem stands like a target at point-blank range.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The problem is immediate and unavoidable.
+</implicit_meaning>
+
+<components>
+<object>Problem, Target</object>
+<properties>Close proximity, Unavoidable, Direct</properties>
+<relations>Problem is positioned directly in front of the viewer like a target</relations>
+</components>
+
+<visual_elaboration>
+A large red bullseye target filling the entire frame with a person's face pressed against it.
+</visual_elaboration>
+</metaphor_analysis>

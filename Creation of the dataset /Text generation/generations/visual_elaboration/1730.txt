@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+A wealth of happiness flows like a golden river through life.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Abundance of joy and contentment moving continuously through one's existence.
+</implicit_meaning>
+
+<components>
+<object>River, Gold, Happiness</object>
+<properties>Flowing, Golden, Abundant</properties>
+<relations>Movement through life's path</relations>
+</components>
+
+<visual_elaboration>
+A shimmering golden river flowing through a landscape, carrying smiling faces and hearts in its current.
+</visual_elaboration>
+</metaphor_analysis>

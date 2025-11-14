@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their competing theories are like parallel buildings reaching for the same sky.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Different approaches aiming for the same goal.
+</implicit_meaning>
+
+<components>
+<object>Theories represented as buildings</object>
+<properties>Tall, parallel, reaching upward</properties>
+<relations>Competition between structures while sharing same destination</relations>
+</components>
+
+<visual_elaboration>
+Two identical skyscrapers stretching upward with hands emerging from their tops reaching toward a single bright star.
+</visual_elaboration>
+</metaphor_analysis>

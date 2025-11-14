@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The marketplace is a battlefield where competitors clash for supremacy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Business competition is aggressive and combative.
+</implicit_meaning>
+
+<components>
+<object>Marketplace, Battlefield</object>
+<properties>Competitive, Violent, Strategic</properties>
+<relations>Businesses fighting against each other for dominance</relations>
+</components>
+
+<visual_elaboration>
+Business people in suits wielding swords and shields on a medieval battlefield with company logos on their armor.
+</visual_elaboration>
+</metaphor_analysis>

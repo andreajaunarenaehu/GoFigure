@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The centrifugal force of duty kept their family orbiting together.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Family obligations and responsibilities hold people together like gravity.
+</implicit_meaning>
+
+<components>
+<object>Family members, celestial bodies</object>
+<properties>Orbital motion, gravitational force</properties>
+<relations>Rotating around a central point (duty) that keeps them connected</relations>
+</components>
+
+<visual_elaboration>
+Family members as planets orbiting around a glowing sun labeled "duty" with connecting force lines between them.
+</visual_elaboration>
+</metaphor_analysis>

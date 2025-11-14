@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The visual field is a cup that can overflow with stimuli.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Too much visual information overwhelming the senses.
+</implicit_meaning>
+
+<components>
+<object>Visual field, Cup</object>
+<properties>Containment, Capacity limit, Overflow</properties>
+<relations>Visual stimuli flowing over the edges like liquid</relations>
+</components>
+
+<visual_elaboration>
+A transparent cup overflowing with colorful symbols, images, and lights spilling over its edges.
+</visual_elaboration>
+</metaphor_analysis>

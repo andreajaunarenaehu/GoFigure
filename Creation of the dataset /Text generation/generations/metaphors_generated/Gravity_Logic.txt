@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Logic pulls thoughts together like gravity draws objects to earth.
+</metaphor>
+<literal_paraphrase>
+Logic naturally connects related ideas and leads to coherent conclusions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logic randomly scatters thoughts and creates chaos in reasoning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The gravitational force of logic is inescapable.
+</metaphor>
+<literal_paraphrase>
+Sound logical reasoning cannot be denied or avoided once understood.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logic is optional and can be easily dismissed without consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like objects in space, weak logic floats away from reality.
+</metaphor>
+<literal_paraphrase>
+Poor logical reasoning fails to maintain connection with factual truth.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Flawed logic provides the strongest connection to truth and reality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The weight of logic crushes false assumptions.
+</metaphor>
+<literal_paraphrase>
+Strong logical arguments effectively disprove incorrect beliefs.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logic reinforces and strengthens false assumptions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Logic's gravitational field warps the space of possibility.
+</metaphor>
+<literal_paraphrase>
+Logical constraints shape what outcomes are possible in reasoning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logic has no influence on what possibilities can exist.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like planetary orbits, logic follows fixed paths of reason.
+</metaphor>
+<literal_paraphrase>
+Logical thinking must follow established rules and patterns of reasoning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logic is completely random and follows no consistent patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The gravitational waves of logic ripple through understanding.
+</metaphor>
+<literal_paraphrase>
+The effects of logical reasoning extend beyond immediate conclusions to influence broader understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logic's influence is isolated and has no effect on broader understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a black hole, perfect logic allows no contradictions to escape.
+</metaphor>
+<literal_paraphrase>
+Sound logical reasoning eliminates all possibilities of inconsistency.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logic embraces contradictions and thrives on inconsistency.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The gravitational center of logic holds arguments in balance.
+</metaphor>
+<literal_paraphrase>
+Logical principles maintain the coherence and stability of reasoning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logic creates instability and imbalance in arguments.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Weak logic creates gravitational anomalies in reasoning.
+</metaphor>
+<literal_paraphrase>
+Poor logical thinking leads to unexpected flaws and inconsistencies in arguments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Flawed logic produces the most consistent and reliable arguments.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

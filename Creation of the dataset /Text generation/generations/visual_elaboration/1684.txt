@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The market of their mind suffers from inflated self-valuation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Excessive pride and overconfidence in one's abilities.
+</implicit_meaning>
+
+<components>
+<object>Mind, Market</object>
+<properties>Inflated, Overvalued</properties>
+<relations>Mind is compared to an economic market with inflated values</relations>
+</components>
+
+<visual_elaboration>
+A human head with a balloon-like stock market graph bursting out of it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His personality is wrapped in cellophane.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Transparent and artificial nature of someone's character.
+</implicit_meaning>
+
+<components>
+<object>Personality, Cellophane wrap</object>
+<properties>Transparent, artificial, superficial</properties>
+<relations>Wrapping/containing the true self</relations>
+</components>
+
+<visual_elaboration>
+A human figure made of clear cellophane wrap, crinkled and reflecting light, with a shadowy form visible inside.
+</visual_elaboration>
+</metaphor_analysis>

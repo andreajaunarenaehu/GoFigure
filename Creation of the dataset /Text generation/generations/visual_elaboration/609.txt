@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His emotions are earthed like a lightning rod.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Controlled and grounded emotions.
+</implicit_meaning>
+
+<components>
+<object>Lightning rod, Emotions, Person</object>
+<properties>Grounded, Controlled, Conducting</properties>
+<relations>Emotions flowing through person into ground like electricity</relations>
+</components>
+
+<visual_elaboration>
+A person standing like a lightning rod with glowing emotions flowing down through their body into the ground.
+</visual_elaboration>
+</metaphor_analysis>

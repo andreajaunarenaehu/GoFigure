@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She held the strings of the situation tightly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Control and manipulation over others or circumstances.
+</implicit_meaning>
+
+<components>
+<object>Person, Strings, Situation</object>
+<properties>Tight grip, Control, Manipulation</properties>
+<relations>Person controlling/manipulating through strings</relations>
+</components>
+
+<visual_elaboration>
+A woman as a puppeteer controlling multiple floating objects and people with glowing strings.
+</visual_elaboration>
+</metaphor_analysis>

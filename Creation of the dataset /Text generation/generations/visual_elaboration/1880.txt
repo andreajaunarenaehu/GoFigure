@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's drunk on her obsessive behaviors.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of control and addiction to compulsive actions.
+</implicit_meaning>
+
+<components>
+<object>Person, Alcohol/Intoxication, Behaviors</object>
+<properties>Dizziness, lack of control, repetitive actions</properties>
+<relations>Person consumed by/intoxicated by their own actions</relations>
+</components>
+
+<visual_elaboration>
+A woman spinning in circles surrounded by floating repetitive action symbols and spiral effects.
+</visual_elaboration>
+</metaphor_analysis>

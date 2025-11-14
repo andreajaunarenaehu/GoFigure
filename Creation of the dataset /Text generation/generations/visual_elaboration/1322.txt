@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their shared qualities are traded like valuable commodities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal traits are treated as precious items that can be exchanged.
+</implicit_meaning>
+
+<components>
+<object>Personal qualities, Commodities</object>
+<properties>Valuable, Tradeable, Exchangeable</properties>
+<relations>Trading/exchanging between people</relations>
+</components>
+
+<visual_elaboration>
+Two people exchanging glowing orbs with personality traits written on them like stock market items.
+</visual_elaboration>
+</metaphor_analysis>

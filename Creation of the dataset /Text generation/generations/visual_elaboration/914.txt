@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their vision has reached its home.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A goal or dream has been achieved or realized.
+</implicit_meaning>
+
+<components>
+<object>Vision, Home</object>
+<properties>Abstract concept becoming concrete, Journey completed</properties>
+<relations>Movement from abstract to tangible reality</relations>
+</components>
+
+<visual_elaboration>
+A glowing lightbulb floating into an open doorway with rays of light illuminating a cozy home.
+</visual_elaboration>
+</metaphor_analysis>

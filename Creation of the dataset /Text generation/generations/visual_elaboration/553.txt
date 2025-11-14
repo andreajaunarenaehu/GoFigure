@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Quantum mechanics and relativity are distant cousins in the family of physics.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Related but distinct scientific theories within physics.
+</implicit_meaning>
+
+<components>
+<object>Quantum mechanics, Relativity, Family tree</object>
+<properties>Distant, Related, Scientific</properties>
+<relations>Family connection, Branch separation</relations>
+</components>
+
+<visual_elaboration>
+A physics family tree with quantum mechanics and relativity on separate branches, connected by glowing equations.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's hooked on the high of constant productivity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Addiction to work and being productive.
+</implicit_meaning>
+
+<components>
+<object>Person, Hook, Productivity</object>
+<properties>Addictive, Compulsive, Continuous</properties>
+<relations>Person being pulled/caught by productivity like a fish on a hook</relations>
+</components>
+
+<visual_elaboration>
+A woman dangling from a giant fishing hook while frantically typing on multiple floating laptops.
+</visual_elaboration>
+</metaphor_analysis>

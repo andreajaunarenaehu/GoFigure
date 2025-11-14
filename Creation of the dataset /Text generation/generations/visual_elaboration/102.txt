@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Dawn's light sketched the horizon's endless line.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The sunrise creates a visual boundary between earth and sky.
+</implicit_meaning>
+
+<components>
+<object>Dawn's light, horizon</object>
+<properties>Artistic, linear, endless</properties>
+<relations>Light acting as an artist drawing a line</relations>
+</components>
+
+<visual_elaboration>
+A golden pencil made of sunlight drawing a straight line between dark earth and brightening sky.
+</visual_elaboration>
+</metaphor_analysis>

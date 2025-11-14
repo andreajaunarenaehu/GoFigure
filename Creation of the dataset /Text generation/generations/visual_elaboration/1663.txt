@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His faith is a well-trodden path through familiar terrain.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Steadfast and unwavering religious belief based on routine and tradition.
+</implicit_meaning>
+
+<components>
+<object>Faith, Path</object>
+<properties>Well-worn, familiar, established</properties>
+<relations>Person walking along a path repeatedly</relations>
+</components>
+
+<visual_elaboration>
+A glowing footpath winding through a landscape with deep footprints illuminated by spiritual light.
+</visual_elaboration>
+</metaphor_analysis>

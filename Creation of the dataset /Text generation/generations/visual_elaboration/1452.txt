@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She polished her convictions like precious gems.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strengthening and refining one's beliefs with care and dedication.
+</implicit_meaning>
+
+<components>
+<object>Convictions, Gems</object>
+<properties>Polished, Precious, Refined</properties>
+<relations>Person actively polishing/refining beliefs as if they were valuable stones</relations>
+</components>
+
+<visual_elaboration>
+A woman carefully polishing glowing gemstones that contain miniature beliefs written inside them.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The anger bubbling inside him erupted into violent force.
+</metaphor>
+<literal_paraphrase>
+His growing anger transformed into aggressive physical action.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His anger dissipated quietly without any physical manifestation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her determination flowed through her muscles like liquid steel.
+</metaphor>
+<literal_paraphrase>
+Her strong determination enhanced her physical strength and capabilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her weakness drained away all her physical strength and resolve.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The poison of fear paralyzed his forceful actions.
+</metaphor>
+<literal_paraphrase>
+Fear prevented him from taking strong or decisive action.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Courage empowered his actions and made them more effective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Success filled her with an intoxicating power.
+</metaphor>
+<literal_paraphrase>
+Her achievement gave her a strong sense of capability and confidence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Failure drained her of all confidence and ability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The essence of courage saturated his powerful strike.
+</metaphor>
+<literal_paraphrase>
+His bravery made his attack more forceful and effective.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His cowardice made his attack weak and ineffective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope poured strength into her weary limbs.
+</metaphor>
+<literal_paraphrase>
+The feeling of hope renewed her physical energy and strength.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Despair drained all energy from her exhausted body.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His words were filled with the acid of destructive force.
+</metaphor>
+<literal_paraphrase>
+His speech was deliberately harmful and damaging to others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His words were gentle and nurturing to everyone.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The nectar of victory infused her with unstoppable force.
+</metaphor>
+<literal_paraphrase>
+The experience of winning made her feel extremely powerful.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The sting of defeat left her feeling powerless and weak.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Wisdom flowed through his actions like a powerful current.
+</metaphor>
+<literal_paraphrase>
+His actions demonstrated strong and effective decision-making abilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Foolishness made his actions weak and ineffective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The elixir of passion transformed her gentle touch into raw force.
+</metaphor>
+<literal_paraphrase>
+Strong emotions made her typically gentle actions become powerful.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Emotional detachment made her typically strong actions become weak.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

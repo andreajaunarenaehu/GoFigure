@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She inherits qualities like family heirlooms.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal traits are passed down like precious objects.
+</implicit_meaning>
+
+<components>
+<object>Family heirlooms, Personal qualities</object>
+<properties>Inherited, Precious, Passed down</properties>
+<relations>Transfer from generation to generation</relations>
+</components>
+
+<visual_elaboration>
+A woman opening an antique jewelry box with glowing traits (kindness, wisdom, strength) floating out like golden ornaments.
+</visual_elaboration>
+</metaphor_analysis>

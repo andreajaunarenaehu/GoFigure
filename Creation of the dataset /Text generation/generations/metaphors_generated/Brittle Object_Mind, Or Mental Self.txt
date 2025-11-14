@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His mind shattered like fine crystal under the pressure.
+</metaphor>
+<literal_paraphrase>
+He experienced a mental breakdown due to excessive stress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His mind grew stronger and more resilient under pressure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her fragile psyche developed hairline cracks from the trauma.
+</metaphor>
+<literal_paraphrase>
+The traumatic experience caused subtle but significant psychological damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her psychological state remained completely unaffected by the trauma.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mental state was as delicate as thin ice in spring.
+</metaphor>
+<literal_paraphrase>
+His emotional stability was extremely vulnerable and precarious.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His mental state was as solid as bedrock and completely stable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The news struck her mind like a hammer on glass.
+</metaphor>
+<literal_paraphrase>
+The shocking news caused immediate and severe emotional distress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The news had no impact on her emotional state whatsoever.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His psychological defenses were as brittle as dried leaves.
+</metaphor>
+<literal_paraphrase>
+His emotional coping mechanisms were weak and easily broken.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His psychological defenses were impenetrable and unbreakable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mental stability crumbled like an ancient porcelain vase.
+</metaphor>
+<literal_paraphrase>
+Her psychological well-being deteriorated rapidly and completely.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her mental stability remained perfectly intact and unshakeable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The harsh words created spiderweb cracks across his psyche.
+</metaphor>
+<literal_paraphrase>
+The cruel remarks caused widespread but subtle emotional damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The harsh words strengthened his emotional resilience.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mind was like sugar glass, beautiful but ready to break.
+</metaphor>
+<literal_paraphrase>
+Her mental state appeared composed but was extremely fragile.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her mind was like steel, plain but unbreakable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His sanity hung by threads as delicate as spun glass.
+</metaphor>
+<literal_paraphrase>
+His mental stability was maintained by extremely tenuous connections.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His sanity was firmly anchored by strong foundations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The memories fractured like a dropped mirror in her mind.
+</metaphor>
+<literal_paraphrase>
+Her memories became fragmented and distorted due to trauma.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her memories remained clear and perfectly preserved.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The scholars entered the intellectual arena, ready for a fierce theoretical battle.
+</metaphor>
+<literal_paraphrase>
+The academics prepared to engage in an intense discussion of competing theoretical perspectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scholars avoided confrontation and maintained agreement on all theoretical points.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their opposing theories raced neck-and-neck toward the finish line of academic consensus.
+</metaphor>
+<literal_paraphrase>
+Their competing theoretical frameworks were equally compelling and closely matched in explanatory power.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their theories were clearly unequal, with one obviously superior to the other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each philosopher trained rigorously to defend their theoretical position.
+</metaphor>
+<literal_paraphrase>
+The philosophers thoroughly prepared their arguments and evidence to support their theoretical stances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The philosophers presented unprepared, impromptu arguments without supporting evidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The debate was a marathon of intellectual endurance.
+</metaphor>
+<literal_paraphrase>
+The theoretical discussion required sustained mental effort and persistence over a long period.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The debate was brief and required minimal intellectual effort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their arguments wrestled for dominance in the academic journal.
+</metaphor>
+<literal_paraphrase>
+Their competing theoretical perspectives vied for acceptance in the scholarly publication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their arguments peacefully coexisted without any attempt to establish superiority.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The rival theories played a high-stakes game of intellectual chess.
+</metaphor>
+<literal_paraphrase>
+The competing theoretical frameworks engaged in complex strategic interactions with significant academic consequences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theoretical exchange was simple and inconsequential.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each scholar scored points in the theoretical tournament.
+</metaphor>
+<literal_paraphrase>
+Each academic made valid contributions to the ongoing theoretical discussion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scholars failed to make any meaningful contributions to the debate.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their competing frameworks entered the intellectual Olympics.
+</metaphor>
+<literal_paraphrase>
+Their theoretical perspectives underwent rigorous evaluation against the highest academic standards.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their theories received casual, uncritical consideration without any formal evaluation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The theoretical match went into overtime as new evidence emerged.
+</metaphor>
+<literal_paraphrase>
+The debate extended beyond its expected conclusion due to the introduction of new data.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The debate concluded quickly and definitively without considering new evidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The winning theory took home the gold medal of peer acceptance.
+</metaphor>
+<literal_paraphrase>
+The most convincing theoretical framework gained widespread recognition and approval from the academic community.
+</literal_paraphrase>
+<contradiction_paraphrase>
+No theory achieved significant recognition or acceptance from peers.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

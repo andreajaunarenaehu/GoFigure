@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each barrier erected was a blow to her soul.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional pain from being blocked or restricted.
+</implicit_meaning>
+
+<components>
+<object>Barriers, Soul</object>
+<properties>Physical walls, Ethereal spirit</properties>
+<relations>Barriers causing damage to the soul</relations>
+</components>
+
+<visual_elaboration>
+A glowing spirit-like figure crumbling as brick walls rise up and crash into it.
+</visual_elaboration>
+</metaphor_analysis>

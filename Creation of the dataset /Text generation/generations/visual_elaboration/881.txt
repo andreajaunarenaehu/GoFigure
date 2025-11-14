@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His emotional equilibrium is a well-calibrated scale.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Perfect emotional balance and stability.
+</implicit_meaning>
+
+<components>
+<object>Emotional state, Balance scale</object>
+<properties>Well-calibrated, Precise, Balanced</properties>
+<relations>Emotions being measured and maintained in perfect balance</relations>
+</components>
+
+<visual_elaboration>
+A person's head containing a perfectly balanced golden scale with emotions labeled on each side.
+</visual_elaboration>
+</metaphor_analysis>

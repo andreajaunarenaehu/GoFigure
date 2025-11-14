@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The dividends of mindfulness pay out in daily tranquility.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Practicing mindfulness yields peaceful rewards over time.
+</implicit_meaning>
+
+<components>
+<object>Dividends, Mindfulness</object>
+<properties>Regular payouts, Peace, Calmness</properties>
+<relations>Investment-return relationship, Daily accumulation</relations>
+</components>
+
+<visual_elaboration>
+A serene person meditating while golden coins of peace symbols rain gently around them.
+</visual_elaboration>
+</metaphor_analysis>

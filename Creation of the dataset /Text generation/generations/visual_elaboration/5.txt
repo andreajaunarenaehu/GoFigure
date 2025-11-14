@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mental stability crumbled like an ancient porcelain vase.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental fragility and breakdown.
+</implicit_meaning>
+
+<components>
+<object>Mental stability, porcelain vase</object>
+<properties>Ancient, fragile, crumbling</properties>
+<relations>Breaking apart, falling to pieces</relations>
+</components>
+
+<visual_elaboration>
+A woman's face emerging from a cracking porcelain vase with pieces falling away into darkness.
+</visual_elaboration>
+</metaphor_analysis>

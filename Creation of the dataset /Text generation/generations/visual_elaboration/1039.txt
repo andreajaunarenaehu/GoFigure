@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their actions oscillated between extremes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Behavior swings back and forth between opposite states.
+</implicit_meaning>
+
+<components>
+<object>Actions, Pendulum</object>
+<properties>Swinging, Extreme points</properties>
+<relations>Movement between opposite points</relations>
+</components>
+
+<visual_elaboration>
+A giant pendulum swinging between a sun and moon, leaving motion trails.
+</visual_elaboration>
+</metaphor_analysis>

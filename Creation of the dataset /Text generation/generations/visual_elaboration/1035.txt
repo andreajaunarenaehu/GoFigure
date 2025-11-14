@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her actions drifted aimlessly through the project.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Lack of direction and purpose in work.
+</implicit_meaning>
+
+<components>
+<object>Actions, Project</object>
+<properties>Drifting, aimless, unfocused</properties>
+<relations>Movement without direction through a space</relations>
+</components>
+
+<visual_elaboration>
+Paper boats floating randomly on a messy project blueprint with scattered deadlines.
+</visual_elaboration>
+</metaphor_analysis>

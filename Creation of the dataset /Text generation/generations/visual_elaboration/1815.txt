@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their blockade poisoned her dreams.
+</linguistic_metaphor>
+
+<implicit_meaning>
+External barriers destroying someone's hopes and aspirations.
+</implicit_meaning>
+
+<components>
+<object>Dreams, Blockade, Poison</object>
+<properties>Toxic, Restrictive, Destructive</properties>
+<relations>The blockade acts as a poisonous barrier that corrupts dreams</relations>
+</components>
+
+<visual_elaboration>
+A bright cloud of dreams being enclosed by dark walls dripping with green toxic liquid.
+</visual_elaboration>
+</metaphor_analysis>

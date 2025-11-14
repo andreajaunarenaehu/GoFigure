@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His speech stumbled under the weight of whiskey.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Drunken, slurred speech.
+</implicit_meaning>
+
+<components>
+<object>Speech, Whiskey</object>
+<properties>Heavy, unstable, stumbling</properties>
+<relations>Whiskey weighing down and affecting speech</relations>
+</components>
+
+<visual_elaboration>
+Words falling like dominoes under a pouring bottle of whiskey.
+</visual_elaboration>
+</metaphor_analysis>

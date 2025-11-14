@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Social media became a breeding ground for dangerous ideologies.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Social media platforms enable harmful ideas to multiply and spread rapidly.
+</implicit_meaning>
+
+<components>
+<object>Social media platforms, dangerous ideologies</object>
+<properties>Infectious, multiplying, spreading</properties>
+<relations>Growth and proliferation of harmful content within digital space</relations>
+</components>
+
+<visual_elaboration>
+A petri dish filled with glowing toxic bacteria shaped like social media icons spreading across the surface.
+</visual_elaboration>
+</metaphor_analysis>

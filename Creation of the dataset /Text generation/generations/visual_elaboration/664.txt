@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The weekend is a tiny cup that empties too quickly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time passes too fast during weekends.
+</implicit_meaning>
+
+<components>
+<object>Weekend, Cup</object>
+<properties>Tiny, Quick-emptying, Temporal</properties>
+<relations>Weekend is compared to a draining cup, suggesting rapid depletion of time</relations>
+</components>
+
+<visual_elaboration>
+A small hourglass shaped like a coffee cup with sand rapidly draining away.
+</visual_elaboration>
+</metaphor_analysis>

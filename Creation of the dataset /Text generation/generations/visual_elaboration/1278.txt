@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This detour might slow our pace, but we're still on the right path.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Temporary setbacks don't prevent ultimate success.
+</implicit_meaning>
+
+<components>
+<object>Path, Detour</object>
+<properties>Winding, longer route but connected to main path</properties>
+<relations>Movement forward despite deviation</relations>
+</components>
+
+<visual_elaboration>
+A winding side path rejoining a straight golden road with footprints continuing forward.
+</visual_elaboration>
+</metaphor_analysis>

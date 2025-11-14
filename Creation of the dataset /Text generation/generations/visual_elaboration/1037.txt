@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their actions ricocheted through the organization.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Actions having widespread cascading effects throughout a system.
+</implicit_meaning>
+
+<components>
+<object>Actions, Organization</object>
+<properties>Bouncing, Spreading, Multiple impacts</properties>
+<relations>Movement through space, Cause and effect chain</relations>
+</components>
+
+<visual_elaboration>
+A pinball bouncing between office cubicles, creating ripples of light as it hits each desk.
+</visual_elaboration>
+</metaphor_analysis>

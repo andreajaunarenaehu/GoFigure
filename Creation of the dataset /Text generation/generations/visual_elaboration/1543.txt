@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence is the compass guiding compliance navigation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules provides direction and guidance.
+</implicit_meaning>
+
+<components>
+<object>Compass, Navigation path</object>
+<properties>Directional, Guiding, Navigational</properties>
+<relations>Compass directing movement through compliance waters</relations>
+</components>
+
+<visual_elaboration>
+A glowing compass floating above a maze-like path with regulatory signposts along the route.
+</visual_elaboration>
+</metaphor_analysis>

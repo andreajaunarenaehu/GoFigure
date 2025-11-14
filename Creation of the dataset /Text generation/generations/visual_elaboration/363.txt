@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She flutters from partner to partner like a restless butterfly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Inconstant and flighty in romantic relationships.
+</implicit_meaning>
+
+<components>
+<object>Woman, Butterfly</object>
+<properties>Restless, fluttering, moving between multiple points</properties>
+<relations>Moving between different romantic partners, mimicking butterfly movement</relations>
+</components>
+
+<visual_elaboration>
+A woman with butterfly wings hopping between different colored flowers, each flower having a male face.
+</visual_elaboration>
+</metaphor_analysis>

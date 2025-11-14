@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His ideology is a maze of winding passages.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complex and confusing thought patterns that are difficult to follow.
+</implicit_meaning>
+
+<components>
+<object>Ideology, Maze</object>
+<properties>Winding, Complex, Confusing</properties>
+<relations>Ideology is represented as a physical maze structure</relations>
+</components>
+
+<visual_elaboration>
+A human brain shaped like a maze with twisted corridors and dead ends.
+</visual_elaboration>
+</metaphor_analysis>

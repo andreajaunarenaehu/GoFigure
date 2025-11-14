@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The economic forecast shows sunny skies ahead.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Positive financial outlook and prosperity.
+</implicit_meaning>
+
+<components>
+<object>Economic forecast, Sky</object>
+<properties>Sunny, bright, optimistic</properties>
+<relations>Future prediction of economy represented through weather</relations>
+</components>
+
+<visual_elaboration>
+A business chart arrow pointing upward transforms into a bright sun breaking through clouds.
+</visual_elaboration>
+</metaphor_analysis>

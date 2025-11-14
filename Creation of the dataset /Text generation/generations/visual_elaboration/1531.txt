@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mind's eye fits geometric templates over every experience.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The human mind organizes and structures all experiences into familiar patterns.
+</implicit_meaning>
+
+<components>
+<object>Mind's eye, geometric shapes, experiences</object>
+<properties>Structured, patterned, organized</properties>
+<relations>Overlaying, fitting, organizing</relations>
+</components>
+
+<visual_elaboration>
+A floating eye projecting transparent geometric shapes onto colorful, swirling life scenes below.
+</visual_elaboration>
+</metaphor_analysis>

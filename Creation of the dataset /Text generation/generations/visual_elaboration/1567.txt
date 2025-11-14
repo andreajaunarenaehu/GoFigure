@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love story was written in asylum walls.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A disturbed and troubled relationship.
+</implicit_meaning>
+
+<components>
+<object>Asylum walls, Love story</object>
+<properties>Disturbed, confined, troubled, chaotic</properties>
+<relations>Writing on walls, containment of emotions</relations>
+</components>
+
+<visual_elaboration>
+Scratched love hearts and words etched chaotically across dark asylum walls with shadowy figures embracing.
+</visual_elaboration>
+</metaphor_analysis>

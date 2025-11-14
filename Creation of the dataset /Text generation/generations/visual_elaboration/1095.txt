@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The students devoured every new concept.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Eager and rapid learning with intense enthusiasm.
+</implicit_meaning>
+
+<components>
+<object>Students, Concepts</object>
+<properties>Hungry, Consuming, Eager</properties>
+<relations>Students actively consuming knowledge like food</relations>
+</components>
+
+<visual_elaboration>
+Students with wide-open mouths eating glowing books and mathematical symbols like they're delicious meals.
+</visual_elaboration>
+</metaphor_analysis>

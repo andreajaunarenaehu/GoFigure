@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The gravitational pull of responsibility weighs heavily on his shoulders.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming burden of duties and obligations.
+</implicit_meaning>
+
+<components>
+<object>Person, gravity, shoulders</object>
+<properties>Heavy, pulling downward, weight</properties>
+<relations>Gravity pulling down on person's shoulders</relations>
+</components>
+
+<visual_elaboration>
+A person hunched over with planet Earth chained to their shoulders, visibly straining under its weight.
+</visual_elaboration>
+</metaphor_analysis>

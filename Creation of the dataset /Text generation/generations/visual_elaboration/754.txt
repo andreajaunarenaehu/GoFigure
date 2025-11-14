@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theory evolved to adapt to new evidence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas change and grow like living organisms.
+</implicit_meaning>
+
+<components>
+<object>Theory, Evolution process</object>
+<properties>Adaptable, Growing, Changing</properties>
+<relations>Theory transforms in response to evidence like species evolve</relations>
+</components>
+
+<visual_elaboration>
+A DNA helix morphing into a lightbulb with small papers floating around it.
+</visual_elaboration>
+</metaphor_analysis>

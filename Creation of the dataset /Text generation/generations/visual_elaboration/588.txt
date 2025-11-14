@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The project was too big to swallow at once.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The project is overwhelming and difficult to handle in one attempt.
+</implicit_meaning>
+
+<components>
+<object>Project, Person</object>
+<properties>Large size, Overwhelming, Difficult to consume</properties>
+<relations>Attempting to consume/handle something too large</relations>
+</components>
+
+<visual_elaboration>
+A person with wide eyes trying to fit an oversized sandwich labeled "PROJECT" into their mouth.
+</visual_elaboration>
+</metaphor_analysis>

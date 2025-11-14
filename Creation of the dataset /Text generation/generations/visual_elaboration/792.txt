@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That community's roots run deep in the city's history.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Long-established and firmly connected to the city's past.
+</implicit_meaning>
+
+<components>
+<object>Community, City, Roots</object>
+<properties>Deep, Historical, Established</properties>
+<relations>Community connected to city through root-like structures</relations>
+</components>
+
+<visual_elaboration>
+A cityscape growing from massive tree roots that extend deep into layers of historical artifacts and soil.
+</visual_elaboration>
+</metaphor_analysis>

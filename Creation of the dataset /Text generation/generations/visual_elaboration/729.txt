@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The issue has established its headquarters in my mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A persistent problem occupying one's thoughts completely.
+</implicit_meaning>
+
+<components>
+<object>Mind, Headquarters</object>
+<properties>Established, Permanent, Occupying space</properties>
+<relations>Issue taking control of mental space like a military command center</relations>
+</components>
+
+<visual_elaboration>
+A brain with a military command center inside, filled with screens displaying the same problem repeatedly.
+</visual_elaboration>
+</metaphor_analysis>

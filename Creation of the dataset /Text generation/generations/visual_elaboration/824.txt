@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Competitors draft behind each other's success.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following and benefiting from others' achievements like race cars drafting.
+</implicit_meaning>
+
+<components>
+<object>Competitors, Race cars</object>
+<properties>Following closely, Slipstream effect</properties>
+<relations>One leading, others following in formation</relations>
+</components>
+
+<visual_elaboration>
+Business people in suits shaped like race cars drafting in a V-formation on a track.
+</visual_elaboration>
+</metaphor_analysis>

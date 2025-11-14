@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The weight of intoxication pressed down on his shoulders.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being drunk feels like a heavy physical burden.
+</implicit_meaning>
+
+<components>
+<object>Shoulders, Weight, Intoxication</object>
+<properties>Heavy, Pressing, Burdensome</properties>
+<relations>Weight pressing down on person's shoulders</relations>
+</components>
+
+<visual_elaboration>
+A hunched man with wine bottles and glasses stacked heavily on his drooping shoulders.
+</visual_elaboration>
+</metaphor_analysis>

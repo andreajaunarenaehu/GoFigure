@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The jar of today is already half-full with spent hours.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time passing and being consumed during the day.
+</implicit_meaning>
+
+<components>
+<object>Jar, Hours (time)</object>
+<properties>Half-full, transparent, measurable</properties>
+<relations>Hours being collected/contained within the jar like a physical substance</relations>
+</components>
+
+<visual_elaboration>
+A transparent jar filled halfway with glowing hourglass sand, each grain representing a spent hour.
+</visual_elaboration>
+</metaphor_analysis>

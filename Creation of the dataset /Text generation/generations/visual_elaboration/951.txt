@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She built a bridge across the space between them.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creating connection and reconciliation between two people.
+</implicit_meaning>
+
+<components>
+<object>Bridge, Space, Two People</object>
+<properties>Physical structure spanning a gap, emotional distance</properties>
+<relations>Building, connecting, bridging divide</relations>
+</components>
+
+<visual_elaboration>
+Two figures stand on opposite cliffs with a glowing bridge forming between them as one reaches out.
+</visual_elaboration>
+</metaphor_analysis>

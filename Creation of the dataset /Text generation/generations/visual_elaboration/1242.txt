@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The sunset melted into the horizon.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual disappearance and transformation of light into darkness.
+</implicit_meaning>
+
+<components>
+<object>Sunset, Horizon</object>
+<properties>Liquid-like, dissolving, changing state</properties>
+<relations>Merging, descending, transforming</relations>
+</components>
+
+<visual_elaboration>
+An orange sun dripping like melting ice cream down the edge of the horizon line.
+</visual_elaboration>
+</metaphor_analysis>

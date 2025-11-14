@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Night's steel grip held the world motionless.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The night is oppressive and constraining.
+</implicit_meaning>
+
+<components>
+<object>Night, Steel grip, World</object>
+<properties>Cold, metallic, immobilizing, dark</properties>
+<relations>The night is personified as having a constraining grip on the world</relations>
+</components>
+
+<visual_elaboration>
+A dark metallic hand emerging from shadows, clutching a small glowing earth that appears frozen in time.
+</visual_elaboration>
+</metaphor_analysis>

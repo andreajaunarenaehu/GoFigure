@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My inner architect builds walls around vulnerability.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-protection through emotional barriers.
+</implicit_meaning>
+
+<components>
+<object>Architect, walls, vulnerability</object>
+<properties>Inner, protective, defensive</properties>
+<relations>Building walls to shield vulnerability</relations>
+</components>
+
+<visual_elaboration>
+A miniature architect building brick walls around a glowing, exposed heart.
+</visual_elaboration>
+</metaphor_analysis>

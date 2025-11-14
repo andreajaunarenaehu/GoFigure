@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The venom of jealousy corroded their friendship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Jealousy destroys relationships like poison eating through material.
+</implicit_meaning>
+
+<components>
+<object>Venom, Friendship</object>
+<properties>Corrosive, Destructive, Toxic</properties>
+<relations>Venom actively destroying/dissolving friendship</relations>
+</components>
+
+<visual_elaboration>
+Two clasped hands dissolving where green venom drips onto them.
+</visual_elaboration>
+</metaphor_analysis>

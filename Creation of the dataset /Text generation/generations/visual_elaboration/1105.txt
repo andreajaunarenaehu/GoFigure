@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The invisible ink of imagination becomes visible through creation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas materialize when we create something tangible.
+</implicit_meaning>
+
+<components>
+<object>Invisible ink, Imagination</object>
+<properties>Invisible becoming visible, transformative</properties>
+<relations>Process of revelation through creative action</relations>
+</components>
+
+<visual_elaboration>
+A floating paintbrush painting with clear ink that transforms into colorful images as it touches paper.
+</visual_elaboration>
+</metaphor_analysis>

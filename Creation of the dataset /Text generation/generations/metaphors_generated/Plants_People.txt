@@ -1,0 +1,119 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Some people are late bloomers, taking their time to reach their full potential.
+</metaphor>
+<literal_paraphrase>
+Some individuals develop their talents and abilities more slowly, achieving success later in life than others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Everyone develops at exactly the same pace, with no variation in their timing of success.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her children are saplings that need constant nurturing and protection.
+</metaphor>
+<literal_paraphrase>
+Her children are young and vulnerable, requiring continuous care and guidance to grow properly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her children are completely independent and require no support or guidance to develop.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That community's roots run deep in the city's history.
+</metaphor>
+<literal_paraphrase>
+That community has a long-established presence and strong historical connections to the city.
+</literal_paraphrase>
+<contradiction_paraphrase>
+That community is new and has no historical connection to the city whatsoever.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His ideas flourished in the fertile environment of the university.
+</metaphor>
+<literal_paraphrase>
+His ideas developed successfully in the supportive and stimulating academic environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His ideas withered and died in the hostile and restrictive university setting.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The old man's wisdom branched out in many directions.
+</metaphor>
+<literal_paraphrase>
+The elderly man's knowledge and understanding extended across many different subjects and areas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The old man's knowledge was narrow and limited to a single subject.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+After the tragedy, the family wilted under the pressure.
+</metaphor>
+<literal_paraphrase>
+The family became weak and depressed following the difficult event.
+</literal_paraphrase>
+<contradiction_paraphrase>
+After the tragedy, the family grew stronger and more resilient.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their relationship blossomed in the springtime of their lives.
+</metaphor>
+<literal_paraphrase>
+Their relationship grew stronger and more beautiful during their youth.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship deteriorated and became bitter in their early years.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The young artist's talent needed pruning and guidance.
+</metaphor>
+<literal_paraphrase>
+The young artist's abilities required careful direction and refinement to develop properly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The young artist's talent was perfect and needed no improvement or direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her determination grew like a sturdy oak through adversity.
+</metaphor>
+<literal_paraphrase>
+Her resolve became stronger and more unshakeable as she faced difficulties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her determination weakened and crumbled when faced with challenges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The elderly couple's love had weathered many seasons.
+</metaphor>
+<literal_paraphrase>
+The elderly couple's relationship had endured many challenges and changes over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The elderly couple's relationship was fragile and couldn't withstand any difficulties.
+</contradiction_paraph

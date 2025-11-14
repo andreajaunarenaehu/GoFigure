@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Desire's thermal expansion heats the void between want and fulfillment.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Longing creates tension and pressure in unfulfilled desires.
+</implicit_meaning>
+
+<components>
+<object>Thermal expansion, void, desire</object>
+<properties>Heat, emptiness, pressure</properties>
+<relations>Heat expanding through empty space between two points</relations>
+</components>
+
+<visual_elaboration>
+A glowing red thermometer bridging a dark chasm between two floating islands labeled "Want" and "Fulfillment".
+</visual_elaboration>
+</metaphor_analysis>

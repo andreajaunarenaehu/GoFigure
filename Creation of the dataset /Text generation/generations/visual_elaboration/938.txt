@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Making is the river that carries creation's flow.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creative process is continuous and flowing like water.
+</implicit_meaning>
+
+<components>
+<object>River, Creation</object>
+<properties>Flowing, Continuous, Moving</properties>
+<relations>River carries/transports creation like water flow</relations>
+</components>
+
+<visual_elaboration>
+A winding river flowing with colorful art pieces, tools, and creative objects floating downstream.
+</visual_elaboration>
+</metaphor_analysis>

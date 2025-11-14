@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This living sanctuary guards my eternal essence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The body protects the soul.
+</implicit_meaning>
+
+<components>
+<object>Body (sanctuary), Soul (essence)</object>
+<properties>Living, eternal, protective</properties>
+<relations>Guarding, containing, protecting</relations>
+</components>
+
+<visual_elaboration>
+A glowing human silhouette with a bright orb floating within a protective ribcage fortress.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Depression is an inertial force resisting all movement forward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Depression acts as an invisible weight that prevents progress.
+</implicit_meaning>
+
+<components>
+<object>Depression, Force, Movement</object>
+<properties>Invisible, Heavy, Resistant</properties>
+<relations>Force actively prevents forward motion</relations>
+</components>
+
+<visual_elaboration>
+A person trying to walk forward while heavy chains labeled "depression" pull them backward.
+</visual_elaboration>
+</metaphor_analysis>

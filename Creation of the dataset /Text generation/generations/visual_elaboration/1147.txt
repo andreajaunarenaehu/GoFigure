@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She was processing too many tasks simultaneously.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental overload and stress from multitasking.
+</implicit_meaning>
+
+<components>
+<object>Person (woman), Computer processor</object>
+<properties>Overwhelmed, overloaded, multiple processes</properties>
+<relations>Person being compared to an overloaded computer processor</relations>
+</components>
+
+<visual_elaboration>
+A woman's head transformed into a smoking computer processor with multiple gears spinning frantically.
+</visual_elaboration>
+</metaphor_analysis>

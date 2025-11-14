@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The market's heartbeat quickens daily.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The financial market is becoming increasingly volatile and active.
+</implicit_meaning>
+
+<components>
+<object>Financial market, Heart</object>
+<properties>Accelerating, Pulsing, Growing intensity</properties>
+<relations>Market activity compared to increasing heart rate</relations>
+</components>
+
+<visual_elaboration>
+A giant heart-shaped stock chart pulsing with glowing red lines and accelerating peaks.
+</visual_elaboration>
+</metaphor_analysis>

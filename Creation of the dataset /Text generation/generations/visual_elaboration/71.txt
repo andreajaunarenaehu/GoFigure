@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The domino of consequences tumbles through time.
+</linguistic_metaphor>
+
+<implicit_meaning>
+One action leads to a chain of inevitable effects.
+</implicit_meaning>
+
+<components>
+<object>Dominoes, Time</object>
+<properties>Falling, Sequential, Continuous</properties>
+<relations>Cause and effect relationship moving through temporal space</relations>
+</components>
+
+<visual_elaboration>
+A line of dominoes falling through a spiral clock face, each tile transforming from past to future.
+</visual_elaboration>
+</metaphor_analysis>

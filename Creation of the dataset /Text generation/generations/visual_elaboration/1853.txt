@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their story emerged from the shadows of history.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hidden truth becoming known or discovered.
+</implicit_meaning>
+
+<components>
+<object>Story, Shadows, History</object>
+<properties>Hidden, Emerging, Dark to Light</properties>
+<relations>Movement from concealment to visibility</relations>
+</components>
+
+<visual_elaboration>
+A glowing book rising from dark shadows with ancient text floating off its pages.
+</visual_elaboration>
+</metaphor_analysis>

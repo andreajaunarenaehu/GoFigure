@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His words were filled with the acid of destructive force.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Words that are harmful and corrosive to others.
+</implicit_meaning>
+
+<components>
+<object>Words, Acid</object>
+<properties>Corrosive, Destructive, Harmful</properties>
+<relations>Words acting like acid that burns and destroys</relations>
+</components>
+
+<visual_elaboration>
+Speech bubbles dripping with green acid that melts everything they touch.
+</visual_elaboration>
+</metaphor_analysis>

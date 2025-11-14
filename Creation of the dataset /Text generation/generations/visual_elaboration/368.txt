@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He's a lone wolf howling at every moon.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Someone who is solitary and independent but constantly seeking connection.
+</implicit_meaning>
+
+<components>
+<object>Person, Wolf, Moon</object>
+<properties>Solitary, Lonely, Repetitive behavior</properties>
+<relations>The wolf/person repeatedly howling upward at multiple moons</relations>
+</components>
+
+<visual_elaboration>
+A man with wolf features standing alone on a cliff, howling at multiple moons in the night sky.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The hammer of reality shattered our rose-tinted view of the past.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harsh truth destroying idealistic memories.
+</implicit_meaning>
+
+<components>
+<object>Hammer, rose-tinted glasses</object>
+<properties>Shattering, breaking, destructive force</properties>
+<relations>Hammer breaking rose-colored glasses, representing reality destroying illusions</relations>
+</components>
+
+<visual_elaboration>
+A large hammer smashing rose-colored glasses, with shards scattering to reveal black and white memories beneath.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The concept has planted roots in my consciousness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+An idea has become deeply established in one's mind.
+</implicit_meaning>
+
+<components>
+<object>Concept, roots, consciousness/mind</object>
+<properties>Growing, spreading, establishing</properties>
+<relations>Roots growing into/through mind</relations>
+</components>
+
+<visual_elaboration>
+A human head with tree roots growing through it, branching out through the brain tissue.
+</visual_elaboration>
+</metaphor_analysis>

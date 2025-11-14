@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His words were frozen by the blizzard of fear.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fear causes inability to speak or communicate effectively.
+</implicit_meaning>
+
+<components>
+<object>Words, Blizzard, Fear</object>
+<properties>Frozen, Cold, Paralyzing</properties>
+<relations>Fear (as blizzard) freezes/stops words</relations>
+</components>
+
+<visual_elaboration>
+Words as ice crystals suspended in a dark swirling blizzard with a frightened face visible through the storm.
+</visual_elaboration>
+</metaphor_analysis>

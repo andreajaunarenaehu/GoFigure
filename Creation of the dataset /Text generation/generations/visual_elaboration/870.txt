@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her external appearance is a deceptive book cover.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Appearances can be misleading and don't reflect true nature.
+</implicit_meaning>
+
+<components>
+<object>Person, Book cover</object>
+<properties>Deceptive, External, Misleading</properties>
+<relations>Appearance contrasts with reality</relations>
+</components>
+
+<visual_elaboration>
+A beautiful book cover peeling away to reveal dark, torn pages underneath.
+</visual_elaboration>
+</metaphor_analysis>

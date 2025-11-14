@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The solution finally made its way here.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Slow arrival or discovery of an answer after a long journey.
+</implicit_meaning>
+
+<components>
+<object>Solution, Path/Way</object>
+<properties>Movement, Time-consuming journey</properties>
+<relations>Traveling from one point to another, Arriving at destination</relations>
+</components>
+
+<visual_elaboration>
+A glowing lightbulb walking on a winding path with footprints behind it.
+</visual_elaboration>
+</metaphor_analysis>

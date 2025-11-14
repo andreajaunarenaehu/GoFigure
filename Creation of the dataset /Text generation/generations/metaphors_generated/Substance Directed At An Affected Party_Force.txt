@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The poison of his words seeped into her resolve.
+</metaphor>
+<literal_paraphrase>
+His harsh criticism gradually weakened her confidence and determination.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His encouraging words strengthened her resolve and boosted her confidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their accusations rained down like acid on his reputation.
+</metaphor>
+<literal_paraphrase>
+Their numerous accusations severely damaged his public image and standing.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their praise elevated his reputation and enhanced his public image.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The medicine of compromise healed the rift between them.
+</metaphor>
+<literal_paraphrase>
+Making compromises helped resolve their conflict and restore their relationship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their stubborn refusal to compromise widened the gap between them.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her kindness was an antidote to his bitterness.
+</metaphor>
+<literal_paraphrase>
+Her kind actions helped counteract and reduce his negative attitude.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her cruelty intensified his bitterness and resentment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The venom of jealousy corroded their friendship.
+</metaphor>
+<literal_paraphrase>
+Jealousy gradually destroyed their once-strong friendship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Trust and mutual respect strengthened their friendship over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Success injected new energy into the team's morale.
+</metaphor>
+<literal_paraphrase>
+Their achievement significantly boosted the team's confidence and motivation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Failure drained the team's energy and destroyed their morale.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The elixir of praise fueled his determination.
+</metaphor>
+<literal_paraphrase>
+Receiving praise increased his motivation and resolve to succeed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Criticism crushed his determination and will to continue.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their support was a balm that soothed her anxiety.
+</metaphor>
+<literal_paraphrase>
+Their encouragement helped reduce her stress and worry.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their criticism intensified her anxiety and mental distress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The tonic of laughter dissolved their tension.
+</metaphor>
+<literal_paraphrase>
+Sharing humor helped release their stress and ease the atmosphere.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The severity of the situation increased their tension and discomfort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope was the vaccine against their despair.
+</metaphor>
+<literal_paraphrase>
+Having hope prevented them from falling into complete desperation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hopelessness intensified their feelings of despair and defeat.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her movements were carefully inventoried treasures.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Precise and precious movements performed with great care and value.
+</implicit_meaning>
+
+<components>
+<object>Movements, Treasures</object>
+<properties>Careful, Precious, Catalogued</properties>
+<relations>Movements being treated as valuable items in an inventory</relations>
+</components>
+
+<visual_elaboration>
+A dancer's silhouette moving through golden display cases with each pose captured like precious jewels.
+</visual_elaboration>
+</metaphor_analysis>

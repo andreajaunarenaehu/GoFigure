@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The state's boundaries are a jagged star reaching outward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Expansion and irregular shape.
+</implicit_meaning>
+
+<components>
+<object>State boundaries, Star shape</object>
+<properties>Jagged, Reaching, Irregular</properties>
+<relations>Boundaries extending outward like star points</relations>
+</components>
+
+<visual_elaboration>
+A map outline morphing into a rough star shape with pointed edges stretching in different directions.
+</visual_elaboration>
+</metaphor_analysis>

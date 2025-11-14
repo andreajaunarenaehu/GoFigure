@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The footsteps of time echo behind us, growing ever closer.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is pursuing and catching up to us.
+</implicit_meaning>
+
+<components>
+<object>Time, Footsteps, Person</object>
+<properties>Echoing, Growing closer, Pursuing</properties>
+<relations>Time is personified as a pursuer following behind a person</relations>
+</components>
+
+<visual_elaboration>
+A shadowy figure with clock-face features leaving footprints that glow behind a running person.
+</visual_elaboration>
+</metaphor_analysis>

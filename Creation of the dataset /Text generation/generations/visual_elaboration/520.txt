@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Nausea waves crash through my disgust.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming physical sickness and repulsion.
+</implicit_meaning>
+
+<components>
+<object>Waves, Nausea</object>
+<properties>Crashing, overwhelming, forceful</properties>
+<relations>Waves moving through person's body</relations>
+</components>
+
+<visual_elaboration>
+A green-tinted ocean wave crashing through a person's transparent torso, churning their insides.
+</visual_elaboration>
+</metaphor_analysis>

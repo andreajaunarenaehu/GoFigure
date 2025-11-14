@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Writing is the crucible that transforms raw ideas into gold.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Writing refines and purifies rough thoughts into valuable content.
+</implicit_meaning>
+
+<components>
+<object>Crucible, Ideas, Gold</object>
+<properties>Raw, Transformative, Valuable</properties>
+<relations>Process of transformation through heat and pressure</relations>
+</components>
+
+<visual_elaboration>
+A glowing crucible pouring liquid gold, with floating paper scraps transforming into golden letters.
+</visual_elaboration>
+</metaphor_analysis>

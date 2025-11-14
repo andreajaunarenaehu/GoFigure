@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The dance of her fingers through her hair untangled knots of worry.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Relief from stress through a calming physical action.
+</implicit_meaning>
+
+<components>
+<object>Fingers, Hair, Knots, Worry</object>
+<properties>Dancing movement, Tangled, Stress</properties>
+<relations>Fingers moving through hair releases mental tension</relations>
+</components>
+
+<visual_elaboration>
+A woman's flowing hair transforms from knotted ropes into floating butterflies as her fingers pass through.
+</visual_elaboration>
+</metaphor_analysis>

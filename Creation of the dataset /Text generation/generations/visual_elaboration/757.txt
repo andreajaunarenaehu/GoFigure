@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That theory is on its last breath.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory is about to fail or die.
+</implicit_meaning>
+
+<components>
+<object>Theory, Breath</object>
+<properties>Dying, Final, Weak</properties>
+<relations>Theory personified as a dying being</relations>
+</components>
+
+<visual_elaboration>
+A paper with theory text gasping for air with its last breath visible in cold air.
+</visual_elaboration>
+</metaphor_analysis>

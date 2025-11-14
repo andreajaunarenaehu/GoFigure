@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This orphan theory developed independently of mainstream physics.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A scientific theory that grew in isolation without support or connection to established ideas.
+</implicit_meaning>
+
+<components>
+<object>Scientific theory, orphan</object>
+<properties>Isolated, independent, unsupported</properties>
+<relations>Growing/developing separate from mainstream ideas</relations>
+</components>
+
+<visual_elaboration>
+A small sapling growing alone in barren soil, far from a dense forest of established trees.
+</visual_elaboration>
+</metaphor_analysis>

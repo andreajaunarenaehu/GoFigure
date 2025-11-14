@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each obstacle they built pierced her heart.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional pain caused by others' deliberate actions.
+</implicit_meaning>
+
+<components>
+<object>Heart, obstacles</object>
+<properties>Sharp, piercing, constructed</properties>
+<relations>Others building barriers that cause emotional damage</relations>
+</components>
+
+<visual_elaboration>
+A heart surrounded by multiple sharp spears labeled "obstacles" piercing through it from different directions.
+</visual_elaboration>
+</metaphor_analysis>

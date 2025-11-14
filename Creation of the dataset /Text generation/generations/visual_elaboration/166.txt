@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her eyes embraced the entire scene.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Taking in everything visually with care and attention.
+</implicit_meaning>
+
+<components>
+<object>Eyes, Scene</object>
+<properties>Embracing, Encompassing, Caring</properties>
+<relations>Eyes actively wrapping around or holding the scene</relations>
+</components>
+
+<visual_elaboration>
+Two large eyes with arms extending outward, gently wrapping around a landscape scene.
+</visual_elaboration>
+</metaphor_analysis>

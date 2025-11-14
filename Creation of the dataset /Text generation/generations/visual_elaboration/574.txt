@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Change is a river that carves deeper channels between different shores.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Change is a powerful force that creates permanent paths and divisions.
+</implicit_meaning>
+
+<components>
+<object>River, Shores, Channels</object>
+<properties>Flowing, Carving, Deep, Different</properties>
+<relations>River actively carving and separating shores</relations>
+</components>
+
+<visual_elaboration>
+A powerful river cutting through rocky terrain, creating deep canyons between two contrasting landscapes.
+</visual_elaboration>
+</metaphor_analysis>

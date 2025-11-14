@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His kindness was a warm summer breeze.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gentle and comforting.
+</implicit_meaning>
+
+<components>
+<object>Kindness, Summer breeze</object>
+<properties>Warm, gentle, soothing</properties>
+<relations>Human quality compared to natural phenomenon</relations>
+</components>
+
+<visual_elaboration>
+A smiling face radiating golden waves that gently lift leaves and flower petals.
+</visual_elaboration>
+</metaphor_analysis>

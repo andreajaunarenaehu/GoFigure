@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their words were landmines scattered throughout the conversation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dangerous and explosive speech that can cause harm unexpectedly.
+</implicit_meaning>
+
+<components>
+<object>Words, Landmines, Conversation</object>
+<properties>Explosive, dangerous, hidden, harmful</properties>
+<relations>Words are compared to hidden explosives within speech</relations>
+</components>
+
+<visual_elaboration>
+Speech bubbles with embedded glowing landmines floating between two talking faces.
+</visual_elaboration>
+</metaphor_analysis>

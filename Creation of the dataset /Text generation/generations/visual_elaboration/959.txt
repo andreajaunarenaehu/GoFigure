@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They breathed the same emotional air.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two people sharing the same feelings or emotional state.
+</implicit_meaning>
+
+<components>
+<object>People, Air</object>
+<properties>Shared, Emotional, Connected</properties>
+<relations>Breathing together, Sharing space</relations>
+</components>
+
+<visual_elaboration>
+Two faces connected by a swirling stream of colored air flowing between their mouths.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a Gordian knot of complications.
+</linguistic_metaphor>
+
+<implicit_meaning>
+An extremely complex and unsolvable problem.
+</implicit_meaning>
+
+<components>
+<object>Problem, Gordian knot</object>
+<properties>Tangled, complex, seemingly impossible to solve</properties>
+<relations>Problem is compared to an intricate, unsolvable knot</relations>
+</components>
+
+<visual_elaboration>
+A massive tangled rope knot with multiple problem symbols (question marks, exclamation points) woven into its strands.
+</visual_elaboration>
+</metaphor_analysis>

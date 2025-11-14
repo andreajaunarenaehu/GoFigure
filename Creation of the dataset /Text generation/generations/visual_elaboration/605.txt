@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He maintains a steady grip on his emotions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Control and restraint over feelings.
+</implicit_meaning>
+
+<components>
+<object>Hands, emotions</object>
+<properties>Steady, firm, controlled</properties>
+<relations>Physical grip representing emotional control</relations>
+</components>
+
+<visual_elaboration>
+A person firmly gripping colorful floating bubbles labeled with different emotions.
+</visual_elaboration>
+</metaphor_analysis>

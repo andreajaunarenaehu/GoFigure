@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The poison of fear paralyzed his forceful actions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fear prevents someone from taking action.
+</implicit_meaning>
+
+<components>
+<object>Fear as poison, Person's actions</object>
+<properties>Paralyzing, forceful, toxic</properties>
+<relations>Poison (fear) stops movement (actions)</relations>
+</components>
+
+<visual_elaboration>
+A person frozen in mid-action with green toxic liquid wrapping around their limbs.
+</visual_elaboration>
+</metaphor_analysis>

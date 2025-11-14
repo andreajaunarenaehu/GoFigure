@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Character traits are inventoried like valuable assets.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal qualities are treated as countable, precious items worth tracking.
+</implicit_meaning>
+
+<components>
+<object>Character traits, Inventory ledger</object>
+<properties>Valuable, Countable, Organized</properties>
+<relations>Traits being recorded and tracked like precious items</relations>
+</components>
+
+<visual_elaboration>
+A golden ledger with personality traits listed as precious gems and gold bars in a vault.
+</visual_elaboration>
+</metaphor_analysis>

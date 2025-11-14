@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The idea labored through her mind until it crowned into existence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The painful and difficult process of developing a complete thought.
+</implicit_meaning>
+
+<components>
+<object>Mind, Idea, Birth/Labor process</object>
+<properties>Painful, gradual, emerging</properties>
+<relations>The idea is being 'born' through mental labor</relations>
+</components>
+
+<visual_elaboration>
+A glowing brain giving birth to a lightbulb through a birth canal of neural pathways.
+</visual_elaboration>
+</metaphor_analysis>

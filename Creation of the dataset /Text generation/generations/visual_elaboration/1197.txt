@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My internal team of specialists tackles each challenge.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental processes working together like a coordinated sports team.
+</implicit_meaning>
+
+<components>
+<object>Internal thought processes, sports team</object>
+<properties>Coordinated, specialized, active</properties>
+<relations>Working together to solve problems</relations>
+</components>
+
+<visual_elaboration>
+Brain with tiny football players in helmets rushing towards a puzzle piece obstacle.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The scholars entered the intellectual arena, ready for a fierce theoretical battle.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Academic debate is like combat.
+</implicit_meaning>
+
+<components>
+<object>Scholars, Arena</object>
+<properties>Intellectual, Fierce, Theoretical</properties>
+<relations>Scholars entering arena as gladiators preparing for battle</relations>
+</components>
+
+<visual_elaboration>
+Scholars wearing togas and holding books as weapons face off in a Roman colosseum filled with floating mathematical symbols.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Possessions are the anchors of property ownership.
+</metaphor>
+<literal_paraphrase>
+Physical items and belongings serve as tangible proof of property ownership rights.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Possessions have no connection to property ownership and provide no evidence of rights.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our possessions are the footprints of our property journey.
+</metaphor>
+<literal_paraphrase>
+The items we own mark our progress and history in acquiring and managing properties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our possessions have no relation to our property acquisition history or development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Personal possessions are the seeds of property empires.
+</metaphor>
+<literal_paraphrase>
+Small personal belongings can grow into larger property investments and holdings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Personal possessions prevent the growth of property investments and limit expansion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Possessions are the building blocks of property portfolios.
+</metaphor>
+<literal_paraphrase>
+Individual items and assets combine to form a comprehensive property collection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Possessions destroy the foundation of property portfolios and create instability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our possessions are the chapters in our property story.
+</metaphor>
+<literal_paraphrase>
+Each possession represents a distinct part of our overall property ownership narrative.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Possessions are meaningless and disconnected from our property ownership history.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Possessions are the roots of property wealth.
+</metaphor>
+<literal_paraphrase>
+Material belongings form the foundation for building and maintaining property-based wealth.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Possessions drain resources and prevent the accumulation of property wealth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our possessions are the keys to property doors.
+</metaphor>
+<literal_paraphrase>
+Personal belongings provide opportunities for property acquisition and development.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Possessions block access to property opportunities and limit advancement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Possessions are the mirrors of property value.
+</metaphor>
+<literal_paraphrase>
+The quality and quantity of possessions reflect the overall value of property holdings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Possessions misrepresent and distort the true value of property holdings.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our possessions are the guardians of property rights.
+</metaphor>
+<literal_paraphrase>
+Personal belongings help establish and protect our property ownership claims.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Possessions undermine and threaten our property ownership rights.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Possessions are the compass of property direction.
+</metaphor>
+<literal_paraphrase>
+Our belongings guide our decisions and strategies in property management.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Possessions mislead and confuse our property management decisions.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

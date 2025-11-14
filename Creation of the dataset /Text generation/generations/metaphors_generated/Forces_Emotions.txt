@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her anger was a gravitational pull, drawing everyone into its orbit.
+</metaphor>
+<literal_paraphrase>
+Her anger had a strong influence that affected everyone around her.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her anger went unnoticed and had no impact on those around her.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Joy is an upward force that lifts the spirit skyward.
+</metaphor>
+<literal_paraphrase>
+Happiness creates a feeling of lightness and elevation in one's mood.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Joy weighs heavily on the soul, pulling one downward.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His love was an electromagnetic field, attracting and repelling with equal intensity.
+</metaphor>
+<literal_paraphrase>
+His love created both strong attraction and occasional conflict in the relationship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His love was consistently neutral and never created any strong reactions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Anxiety is a constant pressure pushing against the walls of sanity.
+</metaphor>
+<literal_paraphrase>
+Anxiety creates persistent mental stress that threatens emotional stability.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Anxiety provides a calming relief that strengthens mental well-being.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Depression is an inertial force resisting all movement forward.
+</metaphor>
+<literal_paraphrase>
+Depression makes it difficult to progress or make positive changes in life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Depression energizes and propels one forward with great momentum.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a buoyant force keeping us afloat in troubled waters.
+</metaphor>
+<literal_paraphrase>
+Hope helps us maintain emotional stability during difficult times.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope drags us down deeper into our troubles.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Jealousy is a centrifugal force tearing relationships apart.
+</metaphor>
+<literal_paraphrase>
+Jealousy creates distance and division between people in relationships.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Jealousy brings people closer together and strengthens bonds.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Grief is a crushing force compressing the heart into diamond.
+</metaphor>
+<literal_paraphrase>
+Intense sorrow transforms people through painful emotional pressure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Grief releases all pressure and leaves the heart unchanged.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Passion is a nuclear force, releasing tremendous emotional energy.
+</metaphor>
+<literal_paraphrase>
+Passion creates powerful feelings that can dramatically affect behavior.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Passion is a weak force that barely influences behavior.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Contentment is a stabilizing force maintaining emotional equilibrium.
+</metaphor>
+<literal_paraphrase>
+Feeling content helps maintain balanced and steady emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Contentment disrupts emotional balance and creates chaos.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

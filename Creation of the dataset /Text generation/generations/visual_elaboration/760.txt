@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The emptiness in his life carved deep wounds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional pain and loneliness causing lasting damage.
+</implicit_meaning>
+
+<components>
+<object>Emptiness, Wounds</object>
+<properties>Deep, Carved, Hollow</properties>
+<relations>Emptiness actively creating physical wounds</relations>
+</components>
+
+<visual_elaboration>
+A human silhouette with hollow spaces carved out, revealing deep bleeding gashes within.
+</visual_elaboration>
+</metaphor_analysis>

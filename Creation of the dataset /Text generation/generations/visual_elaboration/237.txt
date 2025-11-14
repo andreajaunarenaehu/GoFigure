@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're wandering through the gardens of bygone days.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Reminiscing about past memories and experiences.
+</implicit_meaning>
+
+<components>
+<object>Gardens, People walking</object>
+<properties>Old, nostalgic, fading</properties>
+<relations>Walking through memories represented as a garden</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes walking through a misty garden where old photographs bloom like flowers from vintage vines.
+</visual_elaboration>
+</metaphor_analysis>

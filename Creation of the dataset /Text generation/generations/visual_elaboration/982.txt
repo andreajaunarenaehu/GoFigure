@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The warmth of her friendship melted all barriers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Friendship overcomes social or emotional obstacles.
+</implicit_meaning>
+
+<components>
+<object>Warmth, Barriers, Friendship</object>
+<properties>Warm, Melting, Solid becoming liquid</properties>
+<relations>Warmth acts upon barriers, causing them to dissolve</relations>
+</components>
+
+<visual_elaboration>
+A glowing figure radiating warm light that melts surrounding ice walls into puddles.
+</visual_elaboration>
+</metaphor_analysis>

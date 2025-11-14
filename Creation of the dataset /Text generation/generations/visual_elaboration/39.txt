@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She handled the levers of influence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Control and manipulation of power.
+</implicit_meaning>
+
+<components>
+<object>Woman, levers, control panel</object>
+<properties>Mechanical, controlling, powerful</properties>
+<relations>Person manipulating mechanisms of power</relations>
+</components>
+
+<visual_elaboration>
+A woman at a control panel pulling giant levers that connect to puppet strings controlling silhouettes of people below.
+</visual_elaboration>
+</metaphor_analysis>

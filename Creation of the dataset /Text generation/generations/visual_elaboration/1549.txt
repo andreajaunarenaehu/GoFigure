@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence forges the chains of compliance strength.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules consistently builds stronger discipline and obedience.
+</implicit_meaning>
+
+<components>
+<object>Chains, Forge</object>
+<properties>Strong, Metal, Heat, Binding</properties>
+<relations>Forging process strengthening chains, representing growing compliance</relations>
+</components>
+
+<visual_elaboration>
+A glowing forge hammering molten chains that gradually thicken and strengthen from red-hot metal.
+</visual_elaboration>
+</metaphor_analysis>

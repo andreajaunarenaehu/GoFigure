@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their prejudices were rusted chains binding their minds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Outdated beliefs restrict mental freedom and growth.
+</implicit_meaning>
+
+<components>
+<object>Prejudices, chains, minds</object>
+<properties>Rusted, binding, restrictive</properties>
+<relations>Chains (prejudices) are constraining minds</relations>
+</components>
+
+<visual_elaboration>
+A human head wrapped in rusty chains, with the chains squeezing tightly around the brain.
+</visual_elaboration>
+</metaphor_analysis>

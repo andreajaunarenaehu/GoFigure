@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their souls shared the same breathing space.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Deep spiritual and emotional connection between two people.
+</implicit_meaning>
+
+<components>
+<object>Souls, breathing space</object>
+<properties>Shared, intimate, connected</properties>
+<relations>Two entities occupying the same spiritual space</relations>
+</components>
+
+<visual_elaboration>
+Two translucent figures with glowing souls intertwined in a single breath of misty air.
+</visual_elaboration>
+</metaphor_analysis>

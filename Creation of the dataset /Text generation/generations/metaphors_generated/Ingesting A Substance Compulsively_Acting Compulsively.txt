@@ -1,0 +1,119 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She's drunk on her obsessive behaviors.
+</metaphor>
+<literal_paraphrase>
+She's completely consumed by her compulsive actions, unable to control them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She maintains perfect control over her behaviors and acts with complete rationality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His addiction to checking social media is a daily dose he can't skip.
+</metaphor>
+<literal_paraphrase>
+He feels an overwhelming need to check social media every day, like a compulsive ritual.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He uses social media casually and can easily go days without checking it.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's overdosing on retail therapy.
+</metaphor>
+<literal_paraphrase>
+Her shopping habit has become excessive and harmful to her wellbeing.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She shops mindfully and always stays within her budget.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His gaming habit is a potent drug that's taken over his life.
+</metaphor>
+<literal_paraphrase>
+His compulsive gaming has become severely disruptive to his daily functioning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He plays games occasionally as a healthy form of entertainment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's intoxicated by the need for perfection.
+</metaphor>
+<literal_paraphrase>
+Her perfectionism has become an overwhelming, uncontrollable force in her life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She accepts imperfection and maintains a balanced perspective on achievement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His worrying is a daily fix he can't live without.
+</metaphor>
+<literal_paraphrase>
+He feels compelled to worry constantly, unable to break the pattern.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He approaches concerns calmly and rationally, without excessive worry.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's mainlining validation through constant selfie-posting.
+</metaphor>
+<literal_paraphrase>
+She compulsively posts selfies seeking immediate approval from others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She shares photos occasionally and doesn't depend on others' approval.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His need for control is a poison he willingly swallows.
+</metaphor>
+<literal_paraphrase>
+His compulsive need to control everything is self-destructive but unstoppable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He comfortably accepts uncertainty and goes with the flow.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's hooked on the high of constant productivity.
+</metaphor>
+<literal_paraphrase>
+She compulsively overworks herself, unable to slow down or rest.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She maintains a healthy work-life balance and knows when to take breaks.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His anger is a bitter pill he keeps swallowing.
+</metaphor>
+<literal_paraphrase>
+He repeatedly gives in to destructive angry outbursts despite knowing better.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He manages his emotions well and responds to frustration calmly.
+</contradiction_paraphrase>

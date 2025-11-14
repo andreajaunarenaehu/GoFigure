@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Reality wears the clothing of structure.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Abstract concepts are given form through organized frameworks and systems.
+</implicit_meaning>
+
+<components>
+<object>Reality, Clothing, Structure</object>
+<properties>Abstract, Organized, Tangible</properties>
+<relations>Reality is being dressed or contained by structure</relations>
+</components>
+
+<visual_elaboration>
+A floating abstract cloud being contained by a geometric wireframe dress.
+</visual_elaboration>
+</metaphor_analysis>

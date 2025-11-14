@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her integrity was as unbending as a ruler.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strict adherence to moral principles without compromise.
+</implicit_meaning>
+
+<components>
+<object>Ruler, Integrity (abstract concept)</object>
+<properties>Straight, unbending, rigid, measured</properties>
+<relations>Comparison between moral character and physical straightness</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette made entirely of a steel ruler, standing perfectly straight and rigid.
+</visual_elaboration>
+</metaphor_analysis>

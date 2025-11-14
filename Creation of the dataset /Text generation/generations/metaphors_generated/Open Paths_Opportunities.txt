@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The winding path ahead beckons with endless possibilities.
+</metaphor>
+<literal_paraphrase>
+New opportunities present themselves and invite us to explore their potential.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All routes are blocked, offering no chance for advancement or exploration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each fork in the road branches into new horizons.
+</metaphor>
+<literal_paraphrase>
+Every decision point presents multiple opportunities for different outcomes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Life presents no choices and follows a single, predetermined route.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The trail widens as you dare to step forward.
+</metaphor>
+<literal_paraphrase>
+More opportunities become available when you take initiative and action.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Staying passive and inactive leads to expanded possibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Untrodden paths hold treasures waiting to be discovered.
+</metaphor>
+<literal_paraphrase>
+Unexplored opportunities often contain valuable potential for success.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Following well-worn routes is the only way to find new opportunities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The morning sun illuminates new pathways each day.
+</metaphor>
+<literal_paraphrase>
+Fresh opportunities present themselves daily for those who look for them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Opportunities are fixed and never change or renew themselves.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Every cleared path leads to a garden of possibilities.
+</metaphor>
+<literal_paraphrase>
+Each opportunity we pursue can lead to multiple new chances for success.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Following opportunities leads to dead ends and limitations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The trail map unfolds with each step forward.
+</metaphor>
+<literal_paraphrase>
+New opportunities become visible as we make progress and take action.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The full scope of opportunities is immediately apparent without any effort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Ancient paths intersect with newly carved routes.
+</metaphor>
+<literal_paraphrase>
+Traditional opportunities can combine with innovative ones to create new possibilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Old and new opportunities are completely incompatible and cannot coexist.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The fog lifts to reveal countless trails ahead.
+</metaphor>
+<literal_paraphrase>
+As clarity increases, multiple opportunities become apparent.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Greater understanding leads to fewer visible opportunities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each crossroad is a gateway to new adventures.
+</metaphor>
+<literal_paraphrase>
+Decision points in life present opportunities for new experiences and growth.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Choices and decisions only limit our potential for new experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

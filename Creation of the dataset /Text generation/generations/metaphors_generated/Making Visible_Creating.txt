@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The fog of imagination lifts to reveal creation.
+</metaphor>
+<literal_paraphrase>
+The creative process involves transforming abstract ideas into concrete forms.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creation remains hidden and obscured, never emerging from abstract thought.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each creation illuminates like a beacon in darkness.
+</metaphor>
+<literal_paraphrase>
+New creations stand out and draw attention to themselves.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creations blend into obscurity and go unnoticed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Creation emerges from shadows into spotlight.
+</metaphor>
+<literal_paraphrase>
+The act of creating brings ideas from conception to realization.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creation remains forever concealed in darkness, never manifesting.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The curtain rises on each new creation.
+</metaphor>
+<literal_paraphrase>
+New creations are revealed to the world when completed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Creations remain hidden behind closed curtains, never shown.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Creation paints itself onto reality's canvas.
+</metaphor>
+<literal_paraphrase>
+The creative process makes abstract ideas become real and tangible.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas remain formless and never materialize into reality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The invisible ink of imagination becomes visible through creation.
+</metaphor>
+<literal_paraphrase>
+Creating transforms thoughts and ideas into perceivable forms.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Thoughts remain as invisible concepts, never taking physical form.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Creation brings dreams into daylight.
+</metaphor>
+<literal_paraphrase>
+The creative process transforms abstract ideas into reality.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Dreams remain in the realm of sleep, never becoming real.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mist of possibility crystallizes into creation.
+</metaphor>
+<literal_paraphrase>
+Vague ideas become concrete through the creative process.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Possibilities remain forever uncertain and undefined.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Creation unmasks the face of imagination.
+</metaphor>
+<literal_paraphrase>
+The creative process reveals the true nature of ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Imagination remains masked and mysterious, never revealed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The ghost of inspiration materializes through creation.
+</metaphor>
+<literal_paraphrase>
+Abstract inspiration becomes tangible through creative work.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Inspiration remains ethereal and never takes concrete form.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

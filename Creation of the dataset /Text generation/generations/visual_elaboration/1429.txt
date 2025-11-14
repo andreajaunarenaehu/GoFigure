@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The quality standards descended into chaos.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Order breaking down into disorder and confusion.
+</implicit_meaning>
+
+<components>
+<object>Quality standards, Chaos</object>
+<properties>Organized becoming disorganized, Falling, Breaking apart</properties>
+<relations>Downward movement from order to disorder</relations>
+</components>
+
+<visual_elaboration>
+A neat stack of papers crumbling and swirling into a chaotic whirlpool below.
+</visual_elaboration>
+</metaphor_analysis>

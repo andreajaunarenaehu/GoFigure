@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each moment is an arrow flying straight for our hearts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is inevitable and piercing.
+</implicit_meaning>
+
+<components>
+<object>Moments, arrows, hearts</object>
+<properties>Flying, straight, piercing</properties>
+<relations>Arrows moving towards hearts, representing the passage of time</relations>
+</components>
+
+<visual_elaboration>
+Multiple arrows in flight aimed at a heart, with clock faces embedded in their arrowheads.
+</visual_elaboration>
+</metaphor_analysis>

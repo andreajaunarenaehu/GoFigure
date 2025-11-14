@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their traits are borrowed and lent like precious books.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal characteristics are temporary and shared between people.
+</implicit_meaning>
+
+<components>
+<object>Human traits, Books</object>
+<properties>Precious, Temporary, Transferable</properties>
+<relations>Borrowing and lending between people</relations>
+</components>
+
+<visual_elaboration>
+People exchanging glowing books that leave trails of their personality traits as they pass between hands.
+</visual_elaboration>
+</metaphor_analysis>

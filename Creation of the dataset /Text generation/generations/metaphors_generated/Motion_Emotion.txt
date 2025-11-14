@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her feelings raced through her mind like a speeding train.
+</metaphor>
+<literal_paraphrase>
+She experienced rapidly changing emotions that felt intense and overwhelming.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her emotions were static and unchanging, remaining completely still within her.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His joy soared like a bird taking flight.
+</metaphor>
+<literal_paraphrase>
+His happiness increased dramatically and made him feel uplifted.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His happiness remained grounded and subdued, never reaching great heights.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Sadness crawled through her veins like slow-moving traffic.
+</metaphor>
+<literal_paraphrase>
+Her sadness spread gradually throughout her being, making everything feel slower.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her sadness came and went quickly, never lingering or affecting her deeply.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love danced like leaves in the autumn wind.
+</metaphor>
+<literal_paraphrase>
+Their romantic feelings were playful and moved in unpredictable but beautiful ways.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their love was rigid and predictable, following a fixed pattern.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Anger accelerated through him like a rocket launch.
+</metaphor>
+<literal_paraphrase>
+His anger built up rapidly and explosively, reaching intense levels quickly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His anger developed slowly and remained mild, never reaching significant intensity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her anxiety circled like a shark in deep waters.
+</metaphor>
+<literal_paraphrase>
+Her anxious feelings persisted and moved threateningly through her thoughts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her anxiety was straightforward and easily resolved, never returning to trouble her.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope floated like a balloon released into the sky.
+</metaphor>
+<literal_paraphrase>
+Her feeling of hope lifted her spirits and made her feel lighter and more optimistic.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope weighed heavily on her, pulling her down with its burden.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Depression dragged like chains across concrete.
+</metaphor>
+<literal_paraphrase>
+The feeling of depression created constant resistance and made progress difficult.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Depression felt weightless and easy to move past without effort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Excitement bounced like a ball down stairs.
+</metaphor>
+<literal_paraphrase>
+The feeling of excitement created repeated bursts of energy and joy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Excitement remained steady and controlled, never creating peaks of energy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their friendship swayed like pendulums in perfect sync.
+</metaphor>
+<literal_paraphrase>
+Their emotional connection moved naturally and harmoniously together.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their friendship was erratic and disconnected, never finding rhythm together.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

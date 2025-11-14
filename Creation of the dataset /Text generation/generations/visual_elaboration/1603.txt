@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The earthquake of truth reshaped the landscape of our historical understanding.
+</linguistic_metaphor>
+
+<implicit_meaning>
+New information dramatically changes established beliefs.
+</implicit_meaning>
+
+<components>
+<object>Earthquake, Historical landscape</object>
+<properties>Destructive, Transformative, Ground-breaking</properties>
+<relations>Truth acts as a force that reshapes knowledge</relations>
+</components>
+
+<visual_elaboration>
+A book-filled landscape cracking open with glowing truth rays emerging from the fissures, transforming old books into new ones.
+</visual_elaboration>
+</metaphor_analysis>

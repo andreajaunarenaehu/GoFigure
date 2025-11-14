@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His schedule was an overflowing box of commitments.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Too many tasks and responsibilities overwhelming someone.
+</implicit_meaning>
+
+<components>
+<object>Schedule, Box</object>
+<properties>Overflowing, Full, Cluttered</properties>
+<relations>Commitments spilling out of container</relations>
+</components>
+
+<visual_elaboration>
+A businessman struggling to hold a cardboard box with papers and calendars spilling over the edges.
+</visual_elaboration>
+</metaphor_analysis>

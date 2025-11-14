@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's swimming with sharks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being in a dangerous situation with ruthless people.
+</implicit_meaning>
+
+<components>
+<object>Woman, Sharks, Business setting</object>
+<properties>Threatening, Predatory, Dangerous</properties>
+<relations>Woman surrounded by threatening figures</relations>
+</components>
+
+<visual_elaboration>
+A businesswoman in a suit swimming in dark waters surrounded by sharks wearing neckties and holding briefcases.
+</visual_elaboration>
+</metaphor_analysis>

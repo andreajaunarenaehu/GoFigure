@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His appetite for romance is that of a starved hyena.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desperate and aggressive desire for love.
+</implicit_meaning>
+
+<components>
+<object>Man, Hyena</object>
+<properties>Starved, Desperate, Aggressive</properties>
+<relations>Man's romantic desire compared to hungry predator</relations>
+</components>
+
+<visual_elaboration>
+A thin hyena with a man's face chasing floating hearts with wild, desperate eyes.
+</visual_elaboration>
+</metaphor_analysis>

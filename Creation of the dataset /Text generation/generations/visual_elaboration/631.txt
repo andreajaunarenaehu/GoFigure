@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The betrayal left a permanent scar on their friendship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional damage that doesn't heal.
+</implicit_meaning>
+
+<components>
+<object>Friendship, Scar</object>
+<properties>Permanent, Damaged, Painful</properties>
+<relations>Betrayal causing lasting damage to relationship</relations>
+</components>
+
+<visual_elaboration>
+Two clasped hands with a deep, glowing red scar running through both palms.
+</visual_elaboration>
+</metaphor_analysis>

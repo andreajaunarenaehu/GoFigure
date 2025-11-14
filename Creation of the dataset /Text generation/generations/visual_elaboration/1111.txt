@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She elevated her position of power.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rising to a higher status or authority level.
+</implicit_meaning>
+
+<components>
+<object>Person (woman), Position/Status</object>
+<properties>Upward movement, Height as power</properties>
+<relations>Moving upward in hierarchical structure</relations>
+</components>
+
+<visual_elaboration>
+A woman climbing a corporate ladder that transforms into a throne at the top.
+</visual_elaboration>
+</metaphor_analysis>

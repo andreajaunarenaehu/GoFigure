@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She was programmed to succeed.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Determined and methodically trained for success.
+</implicit_meaning>
+
+<components>
+<object>Person (female)</object>
+<properties>Mechanical, programmed, automated</properties>
+<relations>Moving towards success like a programmed machine</relations>
+</components>
+
+<visual_elaboration>
+A woman with circuit patterns glowing through her skin, marching forward on a binary code path.
+</visual_elaboration>
+</metaphor_analysis>

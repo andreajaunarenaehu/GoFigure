@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The company's profits are leaking through unnecessary expenses.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Money is being lost wastefully through poor financial management.
+</implicit_meaning>
+
+<components>
+<object>Company profits, leaks</object>
+<properties>Flowing, draining, wasteful</properties>
+<relations>Money flowing away through holes representing expenses</relations>
+</components>
+
+<visual_elaboration>
+A money-filled bucket with multiple holes labeled "expenses," with dollar bills dripping out.
+</visual_elaboration>
+</metaphor_analysis>

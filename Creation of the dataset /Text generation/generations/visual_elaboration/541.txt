@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Competitors circle like vultures over the last remaining opportunity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Predatory and opportunistic behavior in competition.
+</implicit_meaning>
+
+<components>
+<object>Competitors, Vultures, Opportunity</object>
+<properties>Circling, Predatory, Waiting</properties>
+<relations>Multiple vultures hovering above a single target</relations>
+</components>
+
+<visual_elaboration>
+Business people with vulture wings circling above a glowing golden prize on the ground.
+</visual_elaboration>
+</metaphor_analysis>

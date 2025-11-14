@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The weight of logic crushes false assumptions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sound reasoning destroys incorrect beliefs.
+</implicit_meaning>
+
+<components>
+<object>Logic, assumptions</object>
+<properties>Heavy, crushing, false</properties>
+<relations>Logic physically crushing/destroying assumptions</relations>
+</components>
+
+<visual_elaboration>
+A heavy anvil labeled "LOGIC" crushing paper cards marked with false statements into pieces.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The geometry soars upward like a bird.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mathematical shapes and forms have an uplifting, free-flowing movement.
+</implicit_meaning>
+
+<components>
+<object>Geometric shapes, Bird</object>
+<properties>Ascending, Flying, Dynamic</properties>
+<relations>Geometric shapes taking on bird-like movement upward</relations>
+</components>
+
+<visual_elaboration>
+Triangles and squares transforming into birds flying upward against a blue sky.
+</visual_elaboration>
+</metaphor_analysis>

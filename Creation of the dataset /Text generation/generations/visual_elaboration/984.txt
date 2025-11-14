@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her heart was a thermal spring of endless affection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Warmth and continuous flow of love.
+</implicit_meaning>
+
+<components>
+<object>Heart, Thermal Spring</object>
+<properties>Warm, Flowing, Endless, Natural</properties>
+<relations>Heart produces warmth and love like a thermal spring produces warm water</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart-shaped hot spring bubbling with warm water and rising steam forming love symbols.
+</visual_elaboration>
+</metaphor_analysis>

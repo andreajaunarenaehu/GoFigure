@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The central fact anchors all supporting details.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A main idea holds together related information like an anchor holds a ship.
+</implicit_meaning>
+
+<components>
+<object>Central fact, supporting details</object>
+<properties>Stable, connected, anchored</properties>
+<relations>Main fact anchors/holds/stabilizes other details</relations>
+</components>
+
+<visual_elaboration>
+A large golden anchor in the center with multiple chains radiating outward connecting to floating document pages.
+</visual_elaboration>
+</metaphor_analysis>

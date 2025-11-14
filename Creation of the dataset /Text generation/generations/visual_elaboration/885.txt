@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their emotional balance flows like a perfectly leveled stream.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional stability and calmness.
+</implicit_meaning>
+
+<components>
+<object>Stream, Emotions</object>
+<properties>Balanced, Flowing, Level, Smooth</properties>
+<relations>The stream's perfect levelness represents emotional equilibrium</relations>
+</components>
+
+<visual_elaboration>
+A person's face reflected in a perfectly still stream with balanced scales floating on the surface.
+</visual_elaboration>
+</metaphor_analysis>

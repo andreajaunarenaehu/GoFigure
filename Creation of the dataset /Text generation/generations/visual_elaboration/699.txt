@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Here writes the story of being.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life itself is a narrative being written in the present moment.
+</implicit_meaning>
+
+<components>
+<object>Story, Writing, Being/Life</object>
+<properties>Ongoing, Present tense, Continuous action</properties>
+<relations>Writing process connected to existence itself</relations>
+</components>
+
+<visual_elaboration>
+An open book with blank pages being written by invisible hands while life scenes float above the pages.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our perception is an antenna receiving signals from reality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Human perception acts as a receiver of external information.
+</implicit_meaning>
+
+<components>
+<object>Human perception, Antenna</object>
+<properties>Receiving, Processing signals</properties>
+<relations>Antenna connects to reality through signals</relations>
+</components>
+
+<visual_elaboration>
+A human head with an antenna sprouting from it, catching colorful waves emanating from surrounding objects.
+</visual_elaboration>
+</metaphor_analysis>

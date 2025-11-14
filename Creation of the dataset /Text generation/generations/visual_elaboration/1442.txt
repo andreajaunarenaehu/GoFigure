@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His passion simmered beneath the surface.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Controlled but intense emotions.
+</implicit_meaning>
+
+<components>
+<object>Passion, Surface, Simmering liquid</object>
+<properties>Heat, containment, pressure</properties>
+<relations>Hidden emotion building up under a calm exterior</relations>
+</components>
+
+<visual_elaboration>
+A clear glass pot with bubbling red liquid beneath a calm blue surface.
+</visual_elaboration>
+</metaphor_analysis>

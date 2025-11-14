@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The burden of beer weighed down his eyelids.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extreme drowsiness caused by alcohol consumption.
+</implicit_meaning>
+
+<components>
+<object>Eyelids, Beer</object>
+<properties>Heavy, Weighing down, Drooping</properties>
+<relations>Beer causing heaviness in eyelids</relations>
+</components>
+
+<visual_elaboration>
+Heavy beer mugs hanging from drooping eyelids, pulling them downward like weights.
+</visual_elaboration>
+</metaphor_analysis>

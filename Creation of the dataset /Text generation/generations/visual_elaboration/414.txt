@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mind is a boutique of carefully curated concepts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Selective and refined thinking.
+</implicit_meaning>
+
+<components>
+<object>Mind, Boutique</object>
+<properties>Carefully curated, selective, organized</properties>
+<relations>Mind is compared to a high-end store with selected items</relations>
+</components>
+
+<visual_elaboration>
+A glass-front boutique store with floating ideas displayed as elegant merchandise on mannequins.
+</visual_elaboration>
+</metaphor_analysis>

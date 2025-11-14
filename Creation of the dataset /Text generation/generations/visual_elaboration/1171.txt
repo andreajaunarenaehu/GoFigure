@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His intellect flickers like a dying bulb.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Inconsistent and failing mental capacity.
+</implicit_meaning>
+
+<components>
+<object>Human intellect, Light bulb</object>
+<properties>Flickering, Dimming, Unreliable</properties>
+<relations>The intellect is compared to a failing light source</relations>
+</components>
+
+<visual_elaboration>
+A human head with a flickering light bulb inside, emitting weak, intermittent glows through transparent skin.
+</visual_elaboration>
+</metaphor_analysis>

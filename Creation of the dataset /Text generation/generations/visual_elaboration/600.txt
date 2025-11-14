@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her feet are firmly planted in reality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being practical and grounded in real-world thinking.
+</implicit_meaning>
+
+<components>
+<object>Human feet, ground/earth</object>
+<properties>Firmly rooted, stable, grounded</properties>
+<relations>Connection between person and reality through feet</relations>
+</components>
+
+<visual_elaboration>
+A woman's feet transformed into tree roots growing deep into solid earth.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His facade is a tattered dust jacket.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Worn-out and fake outward appearance.
+</implicit_meaning>
+
+<components>
+<object>Person's facade, dust jacket</object>
+<properties>Tattered, worn, damaged, fake</properties>
+<relations>The facade is compared to a worn book cover that hides the true contents</relations>
+</components>
+
+<visual_elaboration>
+A person wearing a torn paper mask that's peeling away to reveal their true face underneath.
+</visual_elaboration>
+</metaphor_analysis>

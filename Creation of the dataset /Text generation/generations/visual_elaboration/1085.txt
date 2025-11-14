@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Sight's arena encircles our visual world.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Vision is like being in the center of a circular stadium where everything we see is surrounding us.
+</implicit_meaning>
+
+<components>
+<object>Arena, Visual field</object>
+<properties>Circular, Encompassing, Surrounding</properties>
+<relations>Observer at center, Vision extending outward in all directions</relations>
+</components>
+
+<visual_elaboration>
+A person standing in the center of a circular arena with 360-degree projections of colorful images on the walls.
+</visual_elaboration>
+</metaphor_analysis>

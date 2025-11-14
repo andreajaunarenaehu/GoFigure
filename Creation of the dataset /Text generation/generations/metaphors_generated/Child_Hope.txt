@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Hope is a newborn's first smile.
+</metaphor>
+<literal_paraphrase>
+Hope is a pure and innocent beginning that brings joy and promise to life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is a bitter ending that brings only pain and disappointment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope crawls before it walks, like a determined infant.
+</metaphor>
+<literal_paraphrase>
+Hope develops gradually, starting small before growing stronger.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope appears suddenly at full strength or not at all.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a child's endless imagination.
+</metaphor>
+<literal_paraphrase>
+Hope knows no boundaries and can envision infinite possibilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is limited by reality and cannot exceed practical expectations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope grows like a child reaching for the stars.
+</metaphor>
+<literal_paraphrase>
+Hope continuously expands and aims for seemingly impossible goals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope remains stagnant and accepts only easily achievable objectives.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope bounces back like a resilient toddler.
+</metaphor>
+<literal_paraphrase>
+Hope recovers quickly from setbacks and maintains its spirit.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is fragile and breaks permanently at the first obstacle.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope skips along life's path like a carefree child.
+</metaphor>
+<literal_paraphrase>
+Hope maintains a light and joyful presence even during difficult times.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope trudges heavily through life, weighed down by burden.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope asks "why" like a curious child.
+</metaphor>
+<literal_paraphrase>
+Hope continuously seeks possibilities and refuses to accept limitations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope accepts all restrictions without question or challenge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope sees magic in everyday moments, just as children do.
+</metaphor>
+<literal_paraphrase>
+Hope finds potential and wonder in ordinary circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope sees only the mundane and disappointing aspects of life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope plays peek-a-boo with darkness.
+</metaphor>
+<literal_paraphrase>
+Hope temporarily hides but always returns to brighten difficult times.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope permanently vanishes when confronted with challenges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope finger-paints possibilities on life's canvas.
+</metaphor>
+<literal_paraphrase>
+Hope creates beautiful opportunities through simple, pure expression.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope leaves blank, colorless spaces in life's experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

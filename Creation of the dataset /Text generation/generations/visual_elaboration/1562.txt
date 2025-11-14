@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love drove her through the asylum gates of reason.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love made her lose her rational thinking and sanity.
+</implicit_meaning>
+
+<components>
+<object>Love, Person, Asylum Gates</object>
+<properties>Destructive, Uncontrollable, Insane</properties>
+<relations>Love is forcing person through gates of madness</relations>
+</components>
+
+<visual_elaboration>
+A woman being pushed through broken asylum gates by a giant glowing heart with wings.
+</visual_elaboration>
+</metaphor_analysis>

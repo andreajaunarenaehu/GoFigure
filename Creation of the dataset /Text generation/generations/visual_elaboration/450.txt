@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is two puzzle pieces finding their perfect fit.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Perfect compatibility and completion between two people.
+</implicit_meaning>
+
+<components>
+<object>Puzzle pieces, Love</object>
+<properties>Matching, Complementary, Perfect fit</properties>
+<relations>Two pieces coming together to form a whole</relations>
+</components>
+
+<visual_elaboration>
+Two heart-shaped puzzle pieces glowing as they connect perfectly in mid-air.
+</visual_elaboration>
+</metaphor_analysis>

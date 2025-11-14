@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Success runs on the legs of persistence.
+</metaphor>
+<literal_paraphrase>
+Achieving success requires continuous, self-driven effort and determination.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Success comes from remaining stationary and passive.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their initiative crawled before it learned to sprint.
+</metaphor>
+<literal_paraphrase>
+Their action plan started slowly but gradually gained momentum and speed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their initiative immediately reached full speed without any progression.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Progress leaps forward on its own momentum.
+</metaphor>
+<literal_paraphrase>
+Once action begins, it creates its own energy and continues naturally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Progress requires constant external pushing and never maintains itself.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their determination walked through every obstacle.
+</metaphor>
+<literal_paraphrase>
+Their resolute action overcame all challenges steadily and persistently.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their determination stopped at the first sign of difficulty.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Achievement climbs its own mountain.
+</metaphor>
+<literal_paraphrase>
+Success comes from self-initiated action and personal effort.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Achievement requires constant external assistance and support.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their ambition flew on wings of initiative.
+</metaphor>
+<literal_paraphrase>
+Their goals were achieved through self-motivated action and drive.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their ambition remained grounded due to lack of self-motivation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Success swims against the current of doubt.
+</metaphor>
+<literal_paraphrase>
+Achievement requires active effort to overcome skepticism and challenges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Success only comes when flowing easily with circumstances.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their resolve marched through the storm.
+</metaphor>
+<literal_paraphrase>
+Their determination continued acting despite difficult circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their resolve retreated at the first sign of trouble.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Progress dances to its own rhythm.
+</metaphor>
+<literal_paraphrase>
+Advancement happens through self-directed movement and timing.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Progress only occurs when following others' prescribed patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their success bounded over limitations.
+</metaphor>
+<literal_paraphrase>
+Their achievements actively overcame perceived restrictions and barriers.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their success remained confined within established boundaries.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

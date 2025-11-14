@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Physical properties are the roots from which abstract understanding grows.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Concrete knowledge forms the foundation for complex abstract thinking.
+</implicit_meaning>
+
+<components>
+<object>Roots, Tree of Knowledge</object>
+<properties>Growing, Branching, Foundation</properties>
+<relations>Physical properties (roots) support and nurture abstract understanding (branches)</relations>
+</components>
+
+<visual_elaboration>
+A tree with labeled roots showing physical properties, branches transforming into floating mathematical symbols and abstract concepts.
+</visual_elaboration>
+</metaphor_analysis>

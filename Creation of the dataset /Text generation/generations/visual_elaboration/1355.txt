@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Reality dresses itself in tangible outlines.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Abstract concepts become concrete and visible.
+</implicit_meaning>
+
+<components>
+<object>Reality, Clothing/Outlines</object>
+<properties>Abstract becoming concrete, visible shapes forming</properties>
+<relations>Reality is being clothed or defined by physical forms</relations>
+</components>
+
+<visual_elaboration>
+A transparent figure gradually materializing with solid black outlines forming around its edges.
+</visual_elaboration>
+</metaphor_analysis>

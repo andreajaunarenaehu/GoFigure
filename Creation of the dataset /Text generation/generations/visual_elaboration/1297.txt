@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Grief is a crushing force compressing the heart into diamond.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense emotional pain transforms a person through pressure.
+</implicit_meaning>
+
+<components>
+<object>Heart, Diamond, Crushing force</object>
+<properties>Compression, Transformation, Pressure</properties>
+<relations>Heart being compressed into diamond through force</relations>
+</components>
+
+<visual_elaboration>
+A red heart being squeezed by dark hands, partially crystallizing into a sparkling diamond.
+</visual_elaboration>
+</metaphor_analysis>

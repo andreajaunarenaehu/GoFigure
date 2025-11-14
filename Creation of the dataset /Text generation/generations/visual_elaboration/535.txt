@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Machines can fall sick and need healing.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Machines can malfunction and require repair like living beings.
+</implicit_meaning>
+
+<components>
+<object>Machines, Medical healing</object>
+<properties>Broken, sick, in need of repair</properties>
+<relations>Machine taking on human characteristics of illness and recovery</relations>
+</components>
+
+<visual_elaboration>
+A computer lying in a hospital bed with bandages, connected to medical monitors and receiving medicine through an IV drip.
+</visual_elaboration>
+</metaphor_analysis>

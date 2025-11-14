@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His movements were precious commodities under lock and key.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Restricted and controlled movement.
+</implicit_meaning>
+
+<components>
+<object>Movements, Lock, Key, Precious commodities</object>
+<properties>Restricted, Valuable, Protected</properties>
+<relations>Movements are treated as valuable items that are kept secured</relations>
+</components>
+
+<visual_elaboration>
+A figure trapped in a golden vault with their limbs bound by chains and padlocks.
+</visual_elaboration>
+</metaphor_analysis>

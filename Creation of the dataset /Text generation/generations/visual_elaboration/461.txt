@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She walked the straight and narrow of ethical conduct.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following strict moral rules without deviation.
+</implicit_meaning>
+
+<components>
+<object>Path, Person</object>
+<properties>Straight, Narrow, Ethical</properties>
+<relations>Walking carefully along a defined path</relations>
+</components>
+
+<visual_elaboration>
+A woman balancing on a thin, glowing straight line suspended above darkness.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their emotional stability rests on a solid foundation of balanced stones.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fragile emotional balance that requires careful maintenance.
+</implicit_meaning>
+
+<components>
+<object>Emotional stability, balanced stones</object>
+<properties>Precarious, delicate, carefully arranged</properties>
+<relations>Stability depends on balance of stones</relations>
+</components>
+
+<visual_elaboration>
+A person standing atop a tower of balanced rocks, maintaining a meditation pose with closed eyes.
+</visual_elaboration>
+</metaphor_analysis>

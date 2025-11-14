@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These complex problems are siege engines testing our defensive knowledge.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Challenging problems attack and test our preparedness and understanding.
+</implicit_meaning>
+
+<components>
+<object>Problems, siege engines, defensive walls</object>
+<properties>Complex, threatening, forceful</properties>
+<relations>Problems attacking knowledge like siege engines attacking fortress walls</relations>
+</components>
+
+<visual_elaboration>
+Medieval siege engines launching problem-shaped boulders at a fortress wall made of stacked books.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The earthquake of change shakes some foundations harder than others.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Change impacts different people or institutions with varying degrees of severity.
+</implicit_meaning>
+
+<components>
+<object>Earthquake, Buildings/Foundations</object>
+<properties>Varying intensities of shaking, Different levels of stability</properties>
+<relations>Earthquake causing different degrees of damage to different structures</relations>
+</components>
+
+<visual_elaboration>
+Multiple buildings on shaking ground, some crumbling while others remain intact, with visible seismic waves beneath.
+</visual_elaboration>
+</metaphor_analysis>

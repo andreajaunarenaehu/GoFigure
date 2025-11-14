@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each cause hooks into its effect like a zipper's teeth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Events are interconnected and sequential.
+</implicit_meaning>
+
+<components>
+<object>Zipper, Cause and Effect</object>
+<properties>Interlocking, Sequential, Connected</properties>
+<relations>One event leads to and connects with another like zipper teeth joining together</relations>
+</components>
+
+<visual_elaboration>
+A long zipper with "cause" written on one side and "effect" on the other, gradually zipping together.
+</visual_elaboration>
+</metaphor_analysis>

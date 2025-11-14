@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The new concept was a flash of lightning in his mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden realization or insight.
+</implicit_meaning>
+
+<components>
+<object>Mind, Lightning</object>
+<properties>Bright, Sudden, Electric</properties>
+<relations>Lightning illuminating the mind</relations>
+</components>
+
+<visual_elaboration>
+A human head with a bright lightning bolt illuminating the dark space inside the brain.
+</visual_elaboration>
+</metaphor_analysis>

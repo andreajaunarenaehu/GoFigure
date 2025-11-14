@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're scaling the cliffs of passing seconds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is a challenging upward struggle.
+</implicit_meaning>
+
+<components>
+<object>People, cliffs, seconds (time)</object>
+<properties>Vertical, challenging, continuous movement</properties>
+<relations>People climbing against the flow of time</relations>
+</components>
+
+<visual_elaboration>
+Tiny climbers ascending a steep cliff face made of giant ticking clock hands.
+</visual_elaboration>
+</metaphor_analysis>

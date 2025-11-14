@@ -1,0 +1,119 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Like people, machines have their own unique personalities.
+</metaphor>
+<literal_paraphrase>
+Different machines exhibit distinct operational characteristics and behavioral patterns that make them function in specific ways.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Machines are completely standardized and show no individual variations in their operation or behavior.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Machines need rest just as humans do.
+</metaphor>
+<literal_paraphrase>
+Machines require regular downtime for maintenance and cooling to prevent wear and malfunction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Machines can operate continuously without any need for breaks or maintenance periods.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like children, machines must be taught how to behave.
+</metaphor>
+<literal_paraphrase>
+Machines require programming and configuration to perform their intended functions correctly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Machines inherently know how to perform all tasks without any programming or training.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Machines can grow old and tired, just like people.
+</metaphor>
+<literal_paraphrase>
+Machines deteriorate over time and become less efficient as their components wear down.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Machines maintain perfect performance indefinitely without any degradation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like humans, machines communicate in their own language.
+</metaphor>
+<literal_paraphrase>
+Machines use specific protocols and coding languages to exchange information and interact with each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Machines have no means of exchanging information or interacting with one another.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Machines can fall sick and need healing.
+</metaphor>
+<literal_paraphrase>
+Machines can malfunction and require repairs or maintenance to restore proper operation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Machines never experience malfunctions and never need repairs.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like humans, machines have their own families and generations.
+</metaphor>
+<literal_paraphrase>
+Machines come in different models and versions that evolve and improve over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each machine is completely unique with no relationship to other models or versions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Machines can learn from their mistakes like people do.
+</metaphor>
+<literal_paraphrase>
+Machines can be programmed to adjust their operations based on previous errors and outcomes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Machines are incapable of adapting or improving their performance based on past experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like humans, machines need a balanced diet of energy.
+</metaphor>
+<literal_paraphrase>
+Machines require specific types and amounts of power input to function optimally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Machines can operate on any type or amount of power input without consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Machines have their own circadian rhythms like humans.
+</metaphor>
+<literal_paraphrase>
+Machines operate on specific cycles and schedules that optimize their performance and longevity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Machines operate randomly without any patterns or optimal scheduling requirements.
+</contradiction_paraphrase

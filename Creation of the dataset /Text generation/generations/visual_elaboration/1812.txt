@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their restraints left deep scars.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Past restrictions caused lasting emotional damage.
+</implicit_meaning>
+
+<components>
+<object>Scars, Restraints</object>
+<properties>Deep, Lasting, Painful</properties>
+<relations>Restraints causing permanent marks</relations>
+</components>
+
+<visual_elaboration>
+Chains wrapped around a heart leaving visible deep scars and indentations in its surface.
+</visual_elaboration>
+</metaphor_analysis>

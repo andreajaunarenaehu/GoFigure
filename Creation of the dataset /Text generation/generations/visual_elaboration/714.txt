@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The essence of courage saturated his powerful strike.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Bravery manifesting as physical strength.
+</implicit_meaning>
+
+<components>
+<object>Strike, Courage</object>
+<properties>Powerful, Saturated</properties>
+<relations>Courage flowing through physical action</relations>
+</components>
+
+<visual_elaboration>
+A glowing golden fist surrounded by radiating light streams throwing a powerful punch.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her fragile psyche developed hairline cracks from the trauma.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental vulnerability and psychological damage.
+</implicit_meaning>
+
+<components>
+<object>Human psyche/mind</object>
+<properties>Fragile, cracking, delicate</properties>
+<relations>Trauma causing damage to mental state</relations>
+</components>
+
+<visual_elaboration>
+A porcelain face with delicate hairline cracks spreading across its surface, some pieces beginning to fall away.
+</visual_elaboration>
+</metaphor_analysis>

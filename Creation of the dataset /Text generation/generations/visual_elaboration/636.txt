@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship suffered a whiplash from the sudden changes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden, painful disruption in a relationship.
+</implicit_meaning>
+
+<components>
+<object>Relationship, Whiplash injury</object>
+<properties>Sudden, violent, painful, unexpected</properties>
+<relations>The relationship experiences trauma like a neck in whiplash</relations>
+</components>
+
+<visual_elaboration>
+Two intertwined hearts suddenly snapping backward with motion lines and a neck brace between them.
+</visual_elaboration>
+</metaphor_analysis>

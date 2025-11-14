@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+My inner critic is waging war against my joy.
+</metaphor>
+<literal_paraphrase>
+My self-doubt and negative thoughts are preventing me from feeling happy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My inner voice always supports and nurtures my happiness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The child within me dances with delight.
+</metaphor>
+<literal_paraphrase>
+I'm experiencing pure, uninhibited happiness like a young person would.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My mature self maintains strict emotional control at all times.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My inner warrior battles against despair.
+</metaphor>
+<literal_paraphrase>
+I'm actively fighting against feelings of depression and hopelessness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I readily surrender to negative emotions without resistance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The sage inside me whispers wisdom through my fears.
+</metaphor>
+<literal_paraphrase>
+My accumulated life experience helps me manage and overcome anxiety.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My inner voice amplifies my fears and promotes irrational thinking.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My internal artist paints the canvas of my mood.
+</metaphor>
+<literal_paraphrase>
+My creative nature influences and shapes my emotional state.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My emotions are purely logical and devoid of creative influence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The judge within me sentences my heart to solitary confinement.
+</metaphor>
+<literal_paraphrase>
+My self-criticism causes me to suppress and isolate my emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My self-assessment always leads to emotional freedom and expression.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My inner healer tends to emotional wounds.
+</metaphor>
+<literal_paraphrase>
+I have the capacity to recognize and heal from emotional pain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I allow emotional injuries to fester without attempting recovery.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The explorer in my soul charts unknown emotional territories.
+</metaphor>
+<literal_paraphrase>
+I'm willing to experience and understand new emotional states.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I restrict myself to familiar and comfortable emotions only.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My inner architect builds walls around vulnerability.
+</metaphor>
+<literal_paraphrase>
+I create emotional barriers to protect myself from getting hurt.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I remain completely open and unprotected in all emotional situations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The gardener within nurtures seeds of joy and prunes branches of anger.
+</metaphor>
+<literal_paraphrase>
+I consciously cultivate positive emotions while managing negative ones.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I let all emotions grow wild without any attempt at cultivation or control.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

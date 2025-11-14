@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their shared beliefs were a well-worn comfort blanket.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Familiar beliefs provide emotional security and comfort.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Comfort blanket</object>
+<properties>Well-worn, shared, comforting, familiar</properties>
+<relations>Beliefs are compared to a comfort blanket that provides security</relations>
+</components>
+
+<visual_elaboration>
+Two people wrapped together in a tattered, old blanket with glowing symbols of shared beliefs woven into its fabric.
+</visual_elaboration>
+</metaphor_analysis>

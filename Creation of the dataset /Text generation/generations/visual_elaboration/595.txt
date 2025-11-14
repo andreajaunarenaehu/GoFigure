@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The clockwork of causality drives the gears of logic.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Logical reasoning follows a precise, mechanical sequence of cause and effect.
+</implicit_meaning>
+
+<components>
+<object>Clockwork mechanism, gears</object>
+<properties>Mechanical, precise, interconnected</properties>
+<relations>One gear drives another in a sequential pattern</relations>
+</components>
+
+<visual_elaboration>
+A transparent brain made of interconnected golden gears, with "cause" and "effect" written on two main connecting cogs.
+</visual_elaboration>
+</metaphor_analysis>

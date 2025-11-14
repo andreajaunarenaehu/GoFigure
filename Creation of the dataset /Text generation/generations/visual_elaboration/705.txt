@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her beliefs were scattered like loose change.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Disorganized and fragmented thoughts without coherent structure.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Loose coins</object>
+<properties>Scattered, Disorganized, Random</properties>
+<relations>Beliefs are compared to scattered coins on a surface</relations>
+</components>
+
+<visual_elaboration>
+A woman's head with coins spilling out and scattering across a flat surface.
+</visual_elaboration>
+</metaphor_analysis>

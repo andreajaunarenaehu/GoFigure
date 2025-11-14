@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The temperature of desire rose steadily between them.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Growing romantic or sexual tension between two people.
+</implicit_meaning>
+
+<components>
+<object>Temperature, Desire, Two people</object>
+<properties>Rising, Heat, Intensity</properties>
+<relations>Growing attraction between two individuals</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes facing each other with a glowing red thermometer rising between them.
+</visual_elaboration>
+</metaphor_analysis>

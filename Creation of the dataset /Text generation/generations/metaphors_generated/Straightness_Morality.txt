@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His moral path was as straight as an arrow.
+</metaphor>
+<literal_paraphrase>
+He consistently made ethical choices without deviating from his principles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His moral choices were erratic and unpredictable, constantly shifting with circumstances.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She walked the straight and narrow of ethical conduct.
+</metaphor>
+<literal_paraphrase>
+She adhered strictly to moral principles and ethical behavior.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She frequently strayed from ethical standards and embraced questionable behavior.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His moral compass pointed straight and true.
+</metaphor>
+<literal_paraphrase>
+His sense of right and wrong was reliable and unwavering.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His moral judgment was confused and unreliable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They drew a straight line between right and wrong.
+</metaphor>
+<literal_paraphrase>
+They maintained clear and distinct boundaries between ethical and unethical behavior.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They blurred the boundaries between right and wrong, making them indistinguishable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her integrity was as unbending as a ruler.
+</metaphor>
+<literal_paraphrase>
+Her moral principles were firm and uncompromising.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her moral principles were flexible and easily compromised.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their ethics formed a straight line to truth.
+</metaphor>
+<literal_paraphrase>
+Their moral principles directly aligned with honesty and authenticity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their ethics meandered away from truth and authenticity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He straightened out his moral conduct.
+</metaphor>
+<literal_paraphrase>
+He corrected his behavior to align with ethical principles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He allowed his moral conduct to become increasingly corrupt.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their values stood as straight as a pillar.
+</metaphor>
+<literal_paraphrase>
+Their moral values were strong and unwavering.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their values were weak and easily toppled.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She straightened the crooked path of corruption.
+</metaphor>
+<literal_paraphrase>
+She reformed unethical practices into ethical ones.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She made ethical practices more corrupt and dishonest.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their moral foundation was laid straight and level.
+</metaphor>
+<literal_paraphrase>
+Their basic ethical principles were sound and well-established.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their moral foundation was unstable and poorly constructed.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She stands firm like a deeply rooted tree in emotional storms.
+</metaphor>
+<literal_paraphrase>
+She maintains emotional stability even during challenging situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She crumbles and loses control at the slightest emotional disturbance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotional anchor holds steady in rough waters.
+</metaphor>
+<literal_paraphrase>
+He maintains his composure and stability despite emotional challenges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotions drift aimlessly with every passing mood.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She balances on life's tightrope without wavering.
+</metaphor>
+<literal_paraphrase>
+She maintains emotional equilibrium despite life's challenges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She stumbles and falls with every emotional shift.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotional foundation is built on solid bedrock.
+</metaphor>
+<literal_paraphrase>
+His emotional stability is based on strong psychological groundwork.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional state rests on shifting sands.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's a lighthouse standing steady in emotional tempests.
+</metaphor>
+<literal_paraphrase>
+She remains emotionally stable and guides others during difficult times.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She's easily swept away by emotional currents, offering no guidance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotional compass maintains true north.
+</metaphor>
+<literal_paraphrase>
+He consistently maintains his emotional stability and direction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional direction spins wildly without purpose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's a mountain unmoved by emotional earthquakes.
+</metaphor>
+<literal_paraphrase>
+She maintains emotional stability even during major life upheavals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She's a sandcastle washed away by every emotional wave.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotional center of gravity never shifts.
+</metaphor>
+<literal_paraphrase>
+He maintains consistent emotional balance regardless of circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional balance constantly tips and topples.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's an oak holding ground in emotional windstorms.
+</metaphor>
+<literal_paraphrase>
+She maintains emotional stability despite external pressures.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She's a leaf blown about by every emotional breeze.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotional fortress stands unbreached.
+</metaphor>
+<literal_paraphrase>
+He maintains strong emotional boundaries and stability.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional defenses crumble at the slightest pressure.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

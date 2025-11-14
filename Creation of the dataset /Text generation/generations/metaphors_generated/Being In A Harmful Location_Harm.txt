@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She's standing in the line of fire.
+</metaphor>
+<literal_paraphrase>
+She's in a situation where she's likely to be hurt or damaged.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She's in a completely safe and protected position.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He's walking through a minefield of emotions.
+</metaphor>
+<literal_paraphrase>
+He's navigating a situation where harm could occur at any moment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He's traversing a completely safe and predictable emotional landscape.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They're trapped in quicksand of toxic relationships.
+</metaphor>
+<literal_paraphrase>
+They're caught in harmful relationships that gradually cause more damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They're in nurturing relationships that provide stability and support.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's swimming with sharks.
+</metaphor>
+<literal_paraphrase>
+She's surrounded by people or circumstances that could harm her.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She's surrounded by supportive and protective allies.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He's dancing on thin ice.
+</metaphor>
+<literal_paraphrase>
+He's in a precarious situation where harm is likely to occur.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He's on completely solid and safe ground.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They're living in a war zone of criticism.
+</metaphor>
+<literal_paraphrase>
+They're experiencing constant harmful attacks on their character or work.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They're in an environment of constant praise and support.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's walking through a storm of negativity.
+</metaphor>
+<literal_paraphrase>
+She's enduring a period of intense harmful experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She's experiencing a period of perfect calm and positivity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He's trapped in a cage of abuse.
+</metaphor>
+<literal_paraphrase>
+He's in a situation where he's consistently experiencing harm with no escape.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He's in an environment of complete freedom and safety.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They're standing on the edge of a cliff.
+</metaphor>
+<literal_paraphrase>
+They're in an extremely dangerous situation where harm is imminent.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They're in a completely secure position far from any danger.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's surrounded by poisonous words.
+</metaphor>
+<literal_paraphrase>
+She's in an environment where harmful communication is causing damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She's surrounded by healing and uplifting communication.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

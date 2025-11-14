@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His love cast a blinding veil over her flaws.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love makes one blind to another's imperfections.
+</implicit_meaning>
+
+<components>
+<object>Love, veil, flaws</object>
+<properties>Blinding, obscuring, covering</properties>
+<relations>The veil (love) is hiding/covering flaws from view</relations>
+</components>
+
+<visual_elaboration>
+A glowing white veil floating between two faces, obscuring imperfections on one side while radiating light.
+</visual_elaboration>
+</metaphor_analysis>

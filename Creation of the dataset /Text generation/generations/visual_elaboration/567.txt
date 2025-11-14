@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The madhouse of romance echoes with reason's screams.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love makes people act irrationally and against their better judgment.
+</implicit_meaning>
+
+<components>
+<object>Madhouse, Romance, Reason</object>
+<properties>Chaotic, Insane, Screaming</properties>
+<relations>Reason is trapped inside romance's madhouse, screaming to be heard</relations>
+</components>
+
+<visual_elaboration>
+A Victorian asylum with heart-shaped windows, where a figure labeled "Reason" is locked behind bars, screaming.
+</visual_elaboration>
+</metaphor_analysis>

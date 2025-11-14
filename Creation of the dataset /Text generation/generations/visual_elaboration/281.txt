@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mind is a bustling metropolis of interconnected thoughts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complex and active mental activity.
+</implicit_meaning>
+
+<components>
+<object>Mind, City/Metropolis</object>
+<properties>Bustling, interconnected, active</properties>
+<relations>Mind is compared to a busy city with multiple connections</relations>
+</components>
+
+<visual_elaboration>
+A human head with a glowing cityscape inside, connected by bright neural pathways as streets.
+</visual_elaboration>
+</metaphor_analysis>

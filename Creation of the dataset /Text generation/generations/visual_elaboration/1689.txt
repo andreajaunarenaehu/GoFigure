@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their ego's economy suffers from stagflation: growing pride, declining worth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Excessive self-importance paired with diminishing actual value.
+</implicit_meaning>
+
+<components>
+<object>Ego, Economy, Stagflation</object>
+<properties>Growing pride, declining worth, stagnation</properties>
+<relations>Economic concept applied to personal character</relations>
+</components>
+
+<visual_elaboration>
+A balloon labeled "EGO" inflating while its monetary value ticker displays decreasing numbers.
+</visual_elaboration>
+</metaphor_analysis>

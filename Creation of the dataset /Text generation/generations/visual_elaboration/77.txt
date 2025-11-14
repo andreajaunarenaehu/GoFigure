@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The train of consequences follows its causal tracks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Actions lead to inevitable results in a predetermined sequence.
+</implicit_meaning>
+
+<components>
+<object>Train, Railway tracks</object>
+<properties>Linear, Sequential, Inevitable</properties>
+<relations>Train following a fixed path on tracks, representing consequences following causes</relations>
+</components>
+
+<visual_elaboration>
+A locomotive pulling domino-shaped train cars along tracks, each falling in sequence.
+</visual_elaboration>
+</metaphor_analysis>

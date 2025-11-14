@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Economics is a weather system of fluctuating patterns and predictions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Economics is unpredictable and constantly changing like weather patterns.
+</implicit_meaning>
+
+<components>
+<object>Economics, Weather system</object>
+<properties>Fluctuating, unpredictable, cyclical</properties>
+<relations>Economics behaves like weather patterns with ups and downs</relations>
+</components>
+
+<visual_elaboration>
+A weather map showing dollar signs instead of sun/rain icons, with swirling arrows and rising/falling graphs.
+</visual_elaboration>
+</metaphor_analysis>

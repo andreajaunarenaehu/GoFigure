@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her joy soared to new heights.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extreme happiness that keeps increasing.
+</implicit_meaning>
+
+<components>
+<object>Joy, Heights</object>
+<properties>Soaring, Ascending, Upward movement</properties>
+<relations>Joy is personified as something that can fly upward</relations>
+</components>
+
+<visual_elaboration>
+A smiling woman floating upward with wings made of bright sunbeams and sparkles.
+</visual_elaboration>
+</metaphor_analysis>

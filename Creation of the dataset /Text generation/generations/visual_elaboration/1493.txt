@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance stretched like an elastic band across departments.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Flexibility and tension in following rules across different departments.
+</implicit_meaning>
+
+<components>
+<object>Elastic band, Departments</object>
+<properties>Stretched, Tense, Flexible</properties>
+<relations>Spanning across multiple areas under tension</relations>
+</components>
+
+<visual_elaboration>
+A stretched rubber band connecting office cubicles, pulling them together while visibly strained.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These possessions weigh heavily on my shoulders like daily duties.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Burden and overwhelming responsibility.
+</implicit_meaning>
+
+<components>
+<object>Shoulders, possessions, daily duties</object>
+<properties>Heavy, weighing down, burdensome</properties>
+<relations>Physical objects creating mental and physical pressure on a person</relations>
+</components>
+
+<visual_elaboration>
+A person hunched over carrying a giant backpack filled with household items and calendar pages.
+</visual_elaboration>
+</metaphor_analysis>

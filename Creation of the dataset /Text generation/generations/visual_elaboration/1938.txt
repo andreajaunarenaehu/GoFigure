@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's the priceless artifact that can't be replaced.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unique and irreplaceable value of a person.
+</implicit_meaning>
+
+<components>
+<object>Woman, Ancient Artifact</object>
+<properties>Priceless, Irreplaceable, Unique</properties>
+<relations>Person being compared to a rare museum piece</relations>
+</components>
+
+<visual_elaboration>
+A woman standing on a museum pedestal with a glass case, glowing with golden light and wearing ancient jewels.
+</visual_elaboration>
+</metaphor_analysis>

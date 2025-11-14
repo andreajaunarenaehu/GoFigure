@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope crawls before it walks, like a determined infant.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress starts small and develops gradually with persistence.
+</implicit_meaning>
+
+<components>
+<object>Hope personified as an infant</object>
+<properties>Determined, crawling, developing</properties>
+<relations>Movement from crawling to walking, showing progression</relations>
+</components>
+
+<visual_elaboration>
+A glowing baby crawling towards a bright light, leaving illuminated footprints behind.
+</visual_elaboration>
+</metaphor_analysis>

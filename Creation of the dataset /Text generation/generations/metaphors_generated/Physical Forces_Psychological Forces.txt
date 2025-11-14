@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her anxiety was a crushing weight on her shoulders.
+</metaphor>
+<literal_paraphrase>
+Her anxiety caused intense psychological pressure that made her feel emotionally burdened.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her anxiety was a liberating sensation that made her feel light and unburdened.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His depression was a gravitational pull dragging him down.
+</metaphor>
+<literal_paraphrase>
+His depression created a persistent downward emotional state that was difficult to resist.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His depression was an uplifting force that elevated his spirits effortlessly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their argument generated friction that heated up the relationship.
+</metaphor>
+<literal_paraphrase>
+Their disagreement created emotional tension that caused stress in their relationship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their argument produced harmony that cooled and calmed their relationship.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The trauma created an emotional inertia that resisted change.
+</metaphor>
+<literal_paraphrase>
+The traumatic experience made it psychologically difficult to adapt to new situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The trauma created psychological flexibility that embraced change easily.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His motivation was a propulsive force launching him toward his goals.
+</metaphor>
+<literal_paraphrase>
+His strong motivation drove him to actively pursue and achieve his objectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His motivation was a restraining force keeping him from his goals.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love created a magnetic field pulling them together.
+</metaphor>
+<literal_paraphrase>
+Their mutual affection created a strong emotional bond that drew them closer.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their love generated a repulsive force pushing them apart.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His anger was an explosive force that shattered their friendship.
+</metaphor>
+<literal_paraphrase>
+His sudden burst of anger caused severe damage to their relationship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His anger was a gentle force that strengthened their friendship.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her confidence was a stabilizing force that balanced her life.
+</metaphor>
+<literal_paraphrase>
+Her self-assurance helped maintain emotional equilibrium in her life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her confidence was a destabilizing force that threw her life into chaos.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their shared experiences created an elastic bond that stretched but never broke.
+</metaphor>
+<literal_paraphrase>
+Their relationship remained resilient despite challenges due to their shared history.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their shared experiences created a rigid connection that shattered under pressure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His determination was an unstoppable momentum carrying him through obstacles.
+</metaphor>
+<literal_paraphrase>
+His strong resolve helped him overcome challenges without losing progress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His determination was a static force that left him stuck in place.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

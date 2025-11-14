@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love's wild hallucinations paint reality in impossible colors.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love distorts our perception of reality in fantastical ways.
+</implicit_meaning>
+
+<components>
+<object>Love, Reality, Colors</object>
+<properties>Wild, Impossible, Hallucinatory</properties>
+<relations>Love actively transforms/distorts reality through color</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped paintbrush swirling surreal rainbow colors across a grayscale landscape.
+</visual_elaboration>
+</metaphor_analysis>

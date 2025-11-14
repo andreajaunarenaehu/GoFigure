@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence weaves the fabric of compliance culture.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules creates a strong organizational structure.
+</implicit_meaning>
+
+<components>
+<object>Fabric, Weaving loom</object>
+<properties>Interwoven threads, structured pattern</properties>
+<relations>Weaving action creating a unified whole</relations>
+</components>
+
+<visual_elaboration>
+A giant loom weaving together golden threads labeled "rules" into a tapestry shaped like a corporate building.
+</visual_elaboration>
+</metaphor_analysis>

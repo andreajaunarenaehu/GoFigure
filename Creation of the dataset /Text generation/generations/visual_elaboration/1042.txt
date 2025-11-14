@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Perception tunes into reality's broadcast frequency.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Understanding reality is like tuning a radio to the right station.
+</implicit_meaning>
+
+<components>
+<object>Perception, Radio frequency, Reality</object>
+<properties>Tunable, Wavelike, Broadcast signal</properties>
+<relations>Perception acts as a receiver tuning into reality's signal</relations>
+</components>
+
+<visual_elaboration>
+A human head with radio dials on temples receiving colorful wave signals from a cosmic transmitter.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Joy is an upward force that lifts the spirit skyward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Joy makes people feel elevated and light.
+</implicit_meaning>
+
+<components>
+<object>Joy, Spirit</object>
+<properties>Upward, Lifting, Floating</properties>
+<relations>Joy acts as a force pulling spirit upward</relations>
+</components>
+
+<visual_elaboration>
+A glowing human figure floating upward with colorful balloons lifting them towards clouds.
+</visual_elaboration>
+</metaphor_analysis>

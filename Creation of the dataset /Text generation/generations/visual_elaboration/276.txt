@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Economic friction wore down their momentum like sandpaper on wood.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual deterioration of progress due to resistance.
+</implicit_meaning>
+
+<components>
+<object>Economic momentum, sandpaper, wood</object>
+<properties>Rough, grinding, wearing down</properties>
+<relations>Friction causing deterioration of movement</relations>
+</components>
+
+<visual_elaboration>
+A wooden arrow being eroded by giant sandpaper, with sawdust falling like money bills.
+</visual_elaboration>
+</metaphor_analysis>

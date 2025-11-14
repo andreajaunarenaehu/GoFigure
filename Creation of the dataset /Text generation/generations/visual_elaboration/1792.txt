@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem stands like a target riddled with near misses.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Repeated failed attempts to solve a persistent problem.
+</implicit_meaning>
+
+<components>
+<object>Problem, Target</object>
+<properties>Standing, Riddled with holes, Near misses</properties>
+<relations>Problem is compared to a target that has been shot at multiple times but not hit directly</relations>
+</components>
+
+<visual_elaboration>
+A bullseye target with multiple bullet holes surrounding but never hitting the center, casting an ominous shadow.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The future rushes at us like an approaching storm.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Impending change or danger that is inevitable and overwhelming.
+</implicit_meaning>
+
+<components>
+<object>Future, Storm</object>
+<properties>Fast-moving, threatening, overwhelming</properties>
+<relations>Moving towards observer, creating sense of imminent impact</relations>
+</components>
+
+<visual_elaboration>
+A person standing before a massive dark storm cloud shaped like a clock face rushing towards them.
+</visual_elaboration>
+</metaphor_analysis>

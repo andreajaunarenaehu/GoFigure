@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The voltage of euphoria surged through his veins.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense happiness or excitement rushing through the body.
+</implicit_meaning>
+
+<components>
+<object>Veins, Electricity/Voltage</object>
+<properties>Surging, Flowing, Electric</properties>
+<relations>Electricity moving through veins like blood</relations>
+</components>
+
+<visual_elaboration>
+Glowing blue electric currents flowing through transparent veins in a person's silhouette.
+</visual_elaboration>
+</metaphor_analysis>

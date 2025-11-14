@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Vaccines are our strategic defense shield against disease.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Protection and prevention from harm.
+</implicit_meaning>
+
+<components>
+<object>Vaccines, Shield</object>
+<properties>Protective, Strategic, Defensive</properties>
+<relations>Shield protecting against incoming threats (diseases)</relations>
+</components>
+
+<visual_elaboration>
+A glowing medical shield deflecting incoming virus particles with syringes forming its surface.
+</visual_elaboration>
+</metaphor_analysis>

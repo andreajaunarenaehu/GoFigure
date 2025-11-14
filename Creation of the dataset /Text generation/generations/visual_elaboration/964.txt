@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope bounces back like a resilient toddler.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Persistent and unbreakable spirit despite setbacks.
+</implicit_meaning>
+
+<components>
+<object>Hope, Toddler</object>
+<properties>Resilient, Bouncing, Persistent</properties>
+<relations>Hope is compared to a toddler's ability to recover quickly</relations>
+</components>
+
+<visual_elaboration>
+A smiling toddler bouncing on a trampoline made of clouds, getting up higher with each bounce.
+</visual_elaboration>
+</metaphor_analysis>

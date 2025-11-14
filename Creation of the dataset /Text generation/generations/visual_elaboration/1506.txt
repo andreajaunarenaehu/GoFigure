@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her hands cupped her face like shores embracing a turbulent sea.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Containment and protection during emotional turmoil.
+</implicit_meaning>
+
+<components>
+<object>Hands, Face, Shores, Sea</object>
+<properties>Cupping, turbulent, embracing</properties>
+<relations>Hands acting as protective barriers around an emotional face, similar to shores containing a rough sea</relations>
+</components>
+
+<visual_elaboration>
+Two hands shaped like rocky shorelines cradling a face with tears flowing like ocean waves.
+</visual_elaboration>
+</metaphor_analysis>

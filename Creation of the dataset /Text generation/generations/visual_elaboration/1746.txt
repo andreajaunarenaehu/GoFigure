@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My flesh fortress shields my inner light.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The body protects one's soul or spirit.
+</implicit_meaning>
+
+<components>
+<object>Human body, light, fortress</object>
+<properties>Protective, luminous, strong</properties>
+<relations>The fortress (body) acts as protection for the light (soul) within</relations>
+</components>
+
+<visual_elaboration>
+A human silhouette shaped like a stone fortress with glowing light radiating from within its windows.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This milestone is just another waypoint on our map.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress is part of a larger journey.
+</implicit_meaning>
+
+<components>
+<object>Milestone, Map, Waypoint</object>
+<properties>Sequential, Directional, Progressive</properties>
+<relations>Milestone represents achievement within larger journey context</relations>
+</components>
+
+<visual_elaboration>
+A large map with glowing dots connected by a path, with one dot pulsing brighter than others.
+</visual_elaboration>
+</metaphor_analysis>

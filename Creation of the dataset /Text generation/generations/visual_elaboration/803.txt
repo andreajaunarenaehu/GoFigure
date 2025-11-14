@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That bond portfolio is a reinforced safe weathering market storms.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Financial security and protection against market volatility.
+</implicit_meaning>
+
+<components>
+<object>Bond portfolio, Safe, Storm</object>
+<properties>Reinforced, Protective, Weathering</properties>
+<relations>Safe protecting against external market forces represented as storms</relations>
+</components>
+
+<visual_elaboration>
+A massive steel safe standing firm against dark storm clouds and lightning labeled "Market Volatility."
+</visual_elaboration>
+</metaphor_analysis>

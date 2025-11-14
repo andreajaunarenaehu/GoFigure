@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is a winding road with unexpected turns.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love is unpredictable and full of surprises.
+</implicit_meaning>
+
+<components>
+<object>Road, Love</object>
+<properties>Winding, unexpected, turning</properties>
+<relations>Love is compared to a journey on an unpredictable path</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped road twisting through mountains with sharp hairpin turns and surprise signs.
+</visual_elaboration>
+</metaphor_analysis>

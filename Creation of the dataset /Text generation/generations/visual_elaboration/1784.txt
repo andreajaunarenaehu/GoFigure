@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The community's spirit breathes life into local events.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The community's active participation makes events vibrant and successful.
+</implicit_meaning>
+
+<components>
+<object>Community spirit, Local events</object>
+<properties>Living, breathing, energetic</properties>
+<relations>Spirit giving life to events</relations>
+</components>
+
+<visual_elaboration>
+A glowing ethereal figure blowing colorful streams of light into a town square filled with people.
+</visual_elaboration>
+</metaphor_analysis>

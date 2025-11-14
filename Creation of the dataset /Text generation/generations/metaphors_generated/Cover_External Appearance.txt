@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her external appearance is a deceptive book cover.
+</metaphor>
+<literal_paraphrase>
+Her outward appearance doesn't accurately represent who she truly is inside.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her external appearance perfectly reflects her inner nature.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His facade is a tattered dust jacket.
+</metaphor>
+<literal_paraphrase>
+His outward appearance shows signs of wear and neglect.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His external appearance is pristine and well-maintained.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their public image is a glossy magazine cover.
+</metaphor>
+<literal_paraphrase>
+Their external appearance is polished and professionally curated.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their public image is rough and unrefined.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His personality is wrapped in cellophane.
+</metaphor>
+<literal_paraphrase>
+His external appearance is artificially preserved and protected from scrutiny.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His personality is openly exposed and authentic.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She wears her appearance like a removable book sleeve.
+</metaphor>
+<literal_paraphrase>
+She frequently changes her external appearance to suit different situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her appearance remains constant and unchanging in all situations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their image is a weatherproof tarp.
+</metaphor>
+<literal_paraphrase>
+Their external appearance is designed to withstand criticism and scrutiny.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their image is fragile and easily damaged by outside influences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His exterior is a velvet-bound facade.
+</metaphor>
+<literal_paraphrase>
+His external appearance is luxurious and meant to convey sophistication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His exterior is plain and unremarkable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their appearance is a protective shell.
+</metaphor>
+<literal_paraphrase>
+Their external appearance serves as a defense mechanism against vulnerability.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their appearance openly invites emotional connection and vulnerability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She maintains her image like a carefully preserved manuscript cover.
+</metaphor>
+<literal_paraphrase>
+She meticulously maintains her external appearance to prevent any signs of aging or wear.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She allows her appearance to naturally age and change without intervention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His exterior is a well-worn paperback.
+</metaphor>
+<literal_paraphrase>
+His external appearance shows character and evidence of life experience.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His exterior appears fresh and untouched by life's experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

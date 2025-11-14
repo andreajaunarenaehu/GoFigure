@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She held the strings of the situation tightly.
+</metaphor>
+<literal_paraphrase>
+She maintained direct control over how events unfolded and their outcomes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She had no influence over the events and their consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He dropped the reins of the project.
+</metaphor>
+<literal_paraphrase>
+He lost control over the project's direction and execution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He maintained firm control over the project's progress and implementation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They grasped the wheel of change.
+</metaphor>
+<literal_paraphrase>
+They took active control of the transformation process.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They remained passive observers as changes occurred naturally.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The manager juggled all the moving pieces.
+</metaphor>
+<literal_paraphrase>
+The manager actively coordinated and controlled multiple aspects simultaneously.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The manager allowed events to unfold without coordination or intervention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She loosened her grip on the outcome.
+</metaphor>
+<literal_paraphrase>
+She reduced her level of control over the final results.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She tightened her control over the final results.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They wielded the power of change.
+</metaphor>
+<literal_paraphrase>
+They exercised direct influence over how changes occurred.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They had no ability to influence how changes occurred.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He clutched the destiny of the team.
+</metaphor>
+<literal_paraphrase>
+He maintained decisive control over the team's future direction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He had no influence over the team's future direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The director steered the company's course.
+</metaphor>
+<literal_paraphrase>
+The director actively controlled the company's direction and decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The director allowed the company to drift without guidance or direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They released their hold on the situation.
+</metaphor>
+<literal_paraphrase>
+They deliberately ceased controlling or influencing the circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They maintained tight control over the circumstances.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She handled the levers of influence.
+</metaphor>
+<literal_paraphrase>
+She controlled the factors that could affect outcomes and changes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She had no access to or control over factors affecting outcomes.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

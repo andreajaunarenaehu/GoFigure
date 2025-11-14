@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time had made his spirit as brittle as dried leaves.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fragility and weakness due to aging.
+</implicit_meaning>
+
+<components>
+<object>Spirit, Dried leaves</object>
+<properties>Brittle, fragile, aged, worn</properties>
+<relations>Time causing deterioration</relations>
+</components>
+
+<visual_elaboration>
+An elderly man's silhouette filled with crumbling autumn leaves breaking apart in the wind.
+</visual_elaboration>
+</metaphor_analysis>

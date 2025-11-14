@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The void in his heart bled continuously.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional pain and ongoing suffering.
+</implicit_meaning>
+
+<components>
+<object>Heart, Void, Blood</object>
+<properties>Empty, Bleeding, Continuous</properties>
+<relations>The void within the heart causes endless bleeding</relations>
+</components>
+
+<visual_elaboration>
+A heart with a dark hole in its center, dripping red tears that form an endless pool below.
+</visual_elaboration>
+</metaphor_analysis>

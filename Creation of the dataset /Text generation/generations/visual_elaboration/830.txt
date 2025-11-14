@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These possessions are chains that bind me.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions create a feeling of being trapped or restricted.
+</implicit_meaning>
+
+<components>
+<object>Chains, Possessions (material items), Person</object>
+<properties>Restrictive, Heavy, Binding</properties>
+<relations>The possessions act as chains that restrict movement and freedom</relations>
+</components>
+
+<visual_elaboration>
+A person wrapped in heavy chains made of everyday objects like phones, cars, and jewelry.
+</visual_elaboration>
+</metaphor_analysis>

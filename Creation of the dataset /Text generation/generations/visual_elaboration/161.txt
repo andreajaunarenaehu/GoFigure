@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His gaze grasped every detail of the painting.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense, thorough observation and attention to detail.
+</implicit_meaning>
+
+<components>
+<object>Eyes, hands, painting</object>
+<properties>Focused, attentive, detailed</properties>
+<relations>The act of seeing is compared to physical grasping</relations>
+</components>
+
+<visual_elaboration>
+Eyes with tiny hands extending from the pupils, reaching out to touch and hold different parts of a painting.
+</visual_elaboration>
+</metaphor_analysis>

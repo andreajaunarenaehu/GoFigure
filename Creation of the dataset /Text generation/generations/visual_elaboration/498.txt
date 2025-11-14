@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The difficulty flows through the organization like a river.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Problems spreading uncontrollably throughout a company.
+</implicit_meaning>
+
+<components>
+<object>Organization, River</object>
+<properties>Flowing, Spreading, Continuous movement</properties>
+<relations>Difficulty moving through organizational structure like water</relations>
+</components>
+
+<visual_elaboration>
+An office building shaped like a river with dark water flooding through cubicles and desks.
+</visual_elaboration>
+</metaphor_analysis>

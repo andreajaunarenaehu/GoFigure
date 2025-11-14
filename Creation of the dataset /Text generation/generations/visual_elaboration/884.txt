@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His emotional stability is a masterful balancing act.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Precarious control over emotions requiring constant effort and skill.
+</implicit_meaning>
+
+<components>
+<object>Person's emotional state, Balancing act</object>
+<properties>Unstable, Requires skill, Delicate</properties>
+<relations>Person maintaining balance between different emotional states</relations>
+</components>
+
+<visual_elaboration>
+A person walking on a tightrope while juggling happy and sad face masks.
+</visual_elaboration>
+</metaphor_analysis>

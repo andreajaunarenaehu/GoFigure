@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These possessions are heavy clouds darkening my sky.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material belongings are causing emotional burden and depression.
+</implicit_meaning>
+
+<components>
+<object>Clouds, Sky, Possessions</object>
+<properties>Heavy, Dark, Burdensome</properties>
+<relations>Clouds (representing possessions) are blocking light from the sky (representing life/happiness)</relations>
+</components>
+
+<visual_elaboration>
+A person standing beneath dark storm clouds made of household items and material possessions.
+</visual_elaboration>
+</metaphor_analysis>

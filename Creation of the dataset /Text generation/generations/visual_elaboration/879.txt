@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His exterior is a well-worn paperback.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Weathered and experienced appearance that tells a story.
+</implicit_meaning>
+
+<components>
+<object>Person's exterior, Paperback book</object>
+<properties>Well-worn, aged, used, experienced</properties>
+<relations>The person's appearance is compared to a used book's condition</relations>
+</components>
+
+<visual_elaboration>
+A man's face with wrinkles forming pages of an old book, with dog-eared corners and worn edges.
+</visual_elaboration>
+</metaphor_analysis>

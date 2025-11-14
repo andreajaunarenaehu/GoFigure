@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Wisdom flowed through his actions like a powerful current.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Knowledge manifests through purposeful movement and direction.
+</implicit_meaning>
+
+<components>
+<object>Wisdom, Current/Water, Actions</object>
+<properties>Flowing, Powerful, Directional</properties>
+<relations>Wisdom is portrayed as water moving with force and purpose</relations>
+</components>
+
+<visual_elaboration>
+A glowing figure performing actions while surrounded by swirling, luminous water streams.
+</visual_elaboration>
+</metaphor_analysis>

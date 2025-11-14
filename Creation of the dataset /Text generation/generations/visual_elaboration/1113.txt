@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The management climbed to absolute control.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual acquisition of power and dominance.
+</implicit_meaning>
+
+<components>
+<object>Management team, climbing structure</object>
+<properties>Vertical ascent, hierarchical movement</properties>
+<relations>Upward movement towards a position of control</relations>
+</components>
+
+<visual_elaboration>
+Business people in suits climbing a corporate ladder that spirals up to a golden throne.
+</visual_elaboration>
+</metaphor_analysis>

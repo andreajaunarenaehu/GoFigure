@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My inventory of belongings grows with each promise made.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Promises accumulate like physical objects, becoming burdens.
+</implicit_meaning>
+
+<components>
+<object>Inventory, Promises</object>
+<properties>Growing, Accumulating</properties>
+<relations>Promises transform into physical items that stack up</relations>
+</components>
+
+<visual_elaboration>
+A person struggling under a towering stack of wrapped packages labeled "PROMISE" that keeps growing taller.
+</visual_elaboration>
+</metaphor_analysis>

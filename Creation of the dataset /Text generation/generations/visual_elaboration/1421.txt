@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The budget cuts dragged the company to the depths.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Financial decline leading to failure.
+</implicit_meaning>
+
+<components>
+<object>Company, Ocean depths</object>
+<properties>Sinking, drowning, descending</properties>
+<relations>Budget cuts acting as weights pulling down</relations>
+</components>
+
+<visual_elaboration>
+A corporate building sinking into dark ocean waters with heavy chains labeled "budget cuts" pulling it down.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We've reached base camp, but the summit still towers above.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Initial progress made but much bigger challenges remain ahead.
+</implicit_meaning>
+
+<components>
+<object>Base camp, mountain summit, climbers</object>
+<properties>Height, distance, challenge</properties>
+<relations>Position at bottom, looking up at towering peak</relations>
+</components>
+
+<visual_elaboration>
+Tiny climbers at base camp gazing up at an enormous, misty mountain peak looming above them.
+</visual_elaboration>
+</metaphor_analysis>

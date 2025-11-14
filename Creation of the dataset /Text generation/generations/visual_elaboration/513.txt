@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The project is drifting off course.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of direction and control in project management.
+</implicit_meaning>
+
+<components>
+<object>Project, Ship/Boat</object>
+<properties>Drifting, Off-course, Lost</properties>
+<relations>Movement away from intended direction</relations>
+</components>
+
+<visual_elaboration>
+A paper boat with project documents sailing away from a marked path on stormy waters.
+</visual_elaboration>
+</metaphor_analysis>

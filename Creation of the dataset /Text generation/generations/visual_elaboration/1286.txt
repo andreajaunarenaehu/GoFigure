@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Fresh ideas are bright lanterns in the dark.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas illuminate and provide guidance through uncertainty.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Lanterns, Darkness</object>
+<properties>Fresh, Bright, Illuminating</properties>
+<relations>Lanterns cutting through darkness, providing light and direction</relations>
+</components>
+
+<visual_elaboration>
+Glowing lanterns shaped like lightbulbs floating in a dark space, emitting rays of golden light.
+</visual_elaboration>
+</metaphor_analysis>

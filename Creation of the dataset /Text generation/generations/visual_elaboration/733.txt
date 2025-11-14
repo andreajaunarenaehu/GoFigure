@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Popular beliefs are like fashion trends, spreading rapidly through society.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas spread quickly and widely like viral fashion trends.
+</implicit_meaning>
+
+<components>
+<object>Popular beliefs, Fashion trends</object>
+<properties>Rapid spread, Contagious nature, Social influence</properties>
+<relations>Movement through society, Adoption by people</relations>
+</components>
+
+<visual_elaboration>
+A wave of colorful clothes morphing into thought bubbles cascading through a crowd of people.
+</visual_elaboration>
+</metaphor_analysis>

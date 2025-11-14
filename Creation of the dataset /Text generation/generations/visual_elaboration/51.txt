@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The wheels of change spin endlessly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress and transformation are continuous and never-ending.
+</implicit_meaning>
+
+<components>
+<object>Wheels, Change (abstract concept)</object>
+<properties>Spinning, Continuous motion, Endless movement</properties>
+<relations>Wheels represent the mechanism of change, spinning indicates ongoing movement</relations>
+</components>
+
+<visual_elaboration>
+A large cosmic wheel with clock gears spinning in infinite motion against a spiral galaxy background.
+</visual_elaboration>
+</metaphor_analysis>

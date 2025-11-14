@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The river of change flows only when its tributaries of preparation converge.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress requires multiple preparatory steps coming together.
+</implicit_meaning>
+
+<components>
+<object>River, Tributaries</object>
+<properties>Flowing, Converging, Movement</properties>
+<relations>Multiple smaller streams (preparations) joining to form a larger river (change)</relations>
+</components>
+
+<visual_elaboration>
+Multiple labeled streams marked "preparation" flowing together into a large river labeled "change".
+</visual_elaboration>
+</metaphor_analysis>

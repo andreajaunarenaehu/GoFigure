@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She sorted her obligations into nested containers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Organizing and compartmentalizing responsibilities in a hierarchical manner.
+</implicit_meaning>
+
+<components>
+<object>Obligations, Containers</object>
+<properties>Nested, Organized, Hierarchical</properties>
+<relations>Sorting items into organized spaces</relations>
+</components>
+
+<visual_elaboration>
+A woman placing labeled boxes of different sizes inside each other, with tasks written on floating papers.
+</visual_elaboration>
+</metaphor_analysis>

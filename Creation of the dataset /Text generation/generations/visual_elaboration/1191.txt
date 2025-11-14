@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My inner crowd holds opposing protest signs.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Internal conflict and contradicting thoughts.
+</implicit_meaning>
+
+<components>
+<object>Inner crowd, protest signs</object>
+<properties>Opposing, conflicting, internal</properties>
+<relations>Multiple viewpoints within one's mind fighting against each other</relations>
+</components>
+
+<visual_elaboration>
+A brain split in half with tiny protesters holding opposing signs marching inside each hemisphere.
+</visual_elaboration>
+</metaphor_analysis>

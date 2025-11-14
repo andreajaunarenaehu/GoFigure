@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their team worked like synchronized swimmers in perfect formation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Seamless coordination and harmony in teamwork.
+</implicit_meaning>
+
+<components>
+<object>Team members, Synchronized swimmers</object>
+<properties>Coordinated, Precise, Harmonious</properties>
+<relations>Moving together in unison, Following a pattern</relations>
+</components>
+
+<visual_elaboration>
+Office workers in business attire performing a synchronized swimming routine in perfect geometric formation.
+</visual_elaboration>
+</metaphor_analysis>

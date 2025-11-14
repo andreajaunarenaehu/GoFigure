@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her anger was a raging inferno that consumed everything in its path.
+</metaphor>
+<literal_paraphrase>
+Her intense anger was overwhelming and affected everyone around her.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her anger was mild and had no impact on those around her.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His passion simmered beneath the surface, ready to boil over.
+</metaphor>
+<literal_paraphrase>
+His strong feelings were barely contained and could emerge at any moment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotions were completely stable and showed no signs of intensifying.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The flames of jealousy scorched their relationship.
+</metaphor>
+<literal_paraphrase>
+Intense jealousy severely damaged their relationship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship remained unaffected by any feelings of jealousy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love's warmth melted her frozen heart.
+</metaphor>
+<literal_paraphrase>
+Strong feelings of love transformed her emotional detachment into openness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love had no effect on her emotional barriers.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His temper was a pressure cooker about to explode.
+</metaphor>
+<literal_paraphrase>
+His anger was building up to a dangerous breaking point.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His temper was completely under control and posed no risk.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their romance sparked and blazed like a wildfire.
+</metaphor>
+<literal_paraphrase>
+Their romantic feelings developed quickly and intensely.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their romance developed slowly and remained lukewarm.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Grief burned through her like molten steel.
+</metaphor>
+<literal_paraphrase>
+Her intense sorrow caused deep emotional pain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her grief was superficial and caused no real distress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His enthusiasm was a flame that ignited the whole team.
+</metaphor>
+<literal_paraphrase>
+His strong enthusiasm motivated and inspired the entire team.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His lack of enthusiasm left the team unmotivated.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The heat of their argument left scorch marks on their friendship.
+</metaphor>
+<literal_paraphrase>
+Their intense argument caused lasting damage to their friendship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their argument had no lasting effect on their friendship.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her determination burned with the intensity of a thousand suns.
+</metaphor>
+<literal_paraphrase>
+Her determination was extremely powerful and unwavering.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her determination was weak and inconsistent.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Medical specialists are the commanding officers in the war room.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Medical specialists are authoritative leaders making critical decisions.
+</implicit_meaning>
+
+<components>
+<object>Medical specialists, War room, Commanding officers</object>
+<properties>Strategic, authoritative, decision-making</properties>
+<relations>Doctors positioned as military leaders in control center</relations>
+</components>
+
+<visual_elaboration>
+Doctors in white coats standing around a hospital floor plan like generals at a war table with medical charts as battle maps.
+</visual_elaboration>
+</metaphor_analysis>

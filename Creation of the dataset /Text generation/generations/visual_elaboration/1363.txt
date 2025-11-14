@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The team's brainstorming session was a constellation of bright thoughts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Multiple brilliant ideas connecting and shining together.
+</implicit_meaning>
+
+<components>
+<object>Brainstorming session, Constellation</object>
+<properties>Bright, Connected, Multiple points</properties>
+<relations>Ideas are like stars forming patterns</relations>
+</components>
+
+<visual_elaboration>
+Light bulbs arranged in star patterns, connected by glowing lines against a dark background.
+</visual_elaboration>
+</metaphor_analysis>

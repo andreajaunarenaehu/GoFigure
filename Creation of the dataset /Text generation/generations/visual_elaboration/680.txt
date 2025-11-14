@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His jokes left deep emotional scars that never fully healed.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hurtful words cause lasting emotional damage.
+</implicit_meaning>
+
+<components>
+<object>Jokes, Emotional wounds/scars</object>
+<properties>Deep, permanent, painful</properties>
+<relations>Jokes causing emotional damage that persists over time</relations>
+</components>
+
+<visual_elaboration>
+A heart with visible deep scars and bandages, with word bubbles containing laughing emojis cutting into it.
+</visual_elaboration>
+</metaphor_analysis>

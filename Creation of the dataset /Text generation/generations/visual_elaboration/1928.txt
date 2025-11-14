@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+War is society's master switch turned to the off position.
+</linguistic_metaphor>
+
+<implicit_meaning>
+War shuts down normal societal functions and progress.
+</implicit_meaning>
+
+<components>
+<object>War, society, master switch</object>
+<properties>Off position, non-functioning, darkness</properties>
+<relations>War acts as a switch that turns off society</relations>
+</components>
+
+<visual_elaboration>
+A giant power switch labeled "SOCIETY" being turned to OFF, with darkness spreading across a cityscape.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The arrow of circumstance flies straight ahead.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life events move forward inevitably and directly.
+</implicit_meaning>
+
+<components>
+<object>Arrow, Circumstances (events)</object>
+<properties>Straight, Forward-moving, Inevitable</properties>
+<relations>Flying through space/time</relations>
+</components>
+
+<visual_elaboration>
+A glowing arrow piercing through floating calendar pages and clock faces in a straight line.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These facts are floating in space, disconnected from reality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Information that lacks context or grounding in reality.
+</implicit_meaning>
+
+<components>
+<object>Facts, Space, Reality</object>
+<properties>Floating, Disconnected, Untethered</properties>
+<relations>Facts are separated from a solid ground (reality) by empty space</relations>
+</components>
+
+<visual_elaboration>
+Paper documents floating in dark space, with broken chains dangling from them, drifting away from Earth below.
+</visual_elaboration>
+</metaphor_analysis>

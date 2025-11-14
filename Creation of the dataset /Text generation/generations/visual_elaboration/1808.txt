@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a depleting battery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time gradually runs out like energy draining from a battery.
+</implicit_meaning>
+
+<components>
+<object>Time, Battery</object>
+<properties>Depleting, Diminishing, Limited</properties>
+<relations>Time is compared to a draining power source</relations>
+</components>
+
+<visual_elaboration>
+A large battery icon showing decreasing power bars with clock numbers fading as the levels drop.
+</visual_elaboration>
+</metaphor_analysis>

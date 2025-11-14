@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The waves of preparation must rise before the tide of change can turn.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress requires careful groundwork and planning before major changes can occur.
+</implicit_meaning>
+
+<components>
+<object>Waves, tide, ocean</object>
+<properties>Rising, turning, building momentum</properties>
+<relations>Waves must build up before the tide can change direction</relations>
+</components>
+
+<visual_elaboration>
+Small waves gradually building into larger ones, with a massive tide wave turning direction at the peak.
+</visual_elaboration>
+</metaphor_analysis>

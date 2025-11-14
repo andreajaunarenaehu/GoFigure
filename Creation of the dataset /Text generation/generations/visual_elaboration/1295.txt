@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope is a buoyant force keeping us afloat in troubled waters.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hope provides support during difficult times.
+</implicit_meaning>
+
+<components>
+<object>Hope, Water, Person</object>
+<properties>Buoyant, Troubled waters, Floating</properties>
+<relations>Hope acts as a life preserver keeping person above water</relations>
+</components>
+
+<visual_elaboration>
+A person floating in stormy waters, supported by a glowing life preserver labeled "Hope".
+</visual_elaboration>
+</metaphor_analysis>

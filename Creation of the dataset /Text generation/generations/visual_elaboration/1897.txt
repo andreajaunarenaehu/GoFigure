@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their leadership navigated the team through challenges.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Guiding with direction and purpose through difficulties.
+</implicit_meaning>
+
+<components>
+<object>Leader, Team, Ship/Boat</object>
+<properties>Directional, Purposeful, Challenging</properties>
+<relations>Leader steering team through rough waters</relations>
+</components>
+
+<visual_elaboration>
+A captain steering a ship through stormy waters with crew members working together on deck.
+</visual_elaboration>
+</metaphor_analysis>

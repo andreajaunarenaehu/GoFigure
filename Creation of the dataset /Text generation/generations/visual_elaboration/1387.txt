@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance is a planet following its orbital path.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules in a predictable, consistent manner.
+</implicit_meaning>
+
+<components>
+<object>Planet, Orbital path</object>
+<properties>Circular, Predictable, Continuous</properties>
+<relations>Planet moving along a fixed path without deviation</relations>
+</components>
+
+<visual_elaboration>
+A blue planet following a glowing circular orbit path against a dark space background.
+</visual_elaboration>
+</metaphor_analysis>

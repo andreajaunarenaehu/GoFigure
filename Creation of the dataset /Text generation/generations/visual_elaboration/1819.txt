@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their roadblocks bled her hope dry.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Obstacles repeatedly draining someone's optimism and spirit.
+</implicit_meaning>
+
+<components>
+<object>Roadblocks, Hope (represented as blood/liquid)</object>
+<properties>Draining, depleting, blocking</properties>
+<relations>Roadblocks actively causing hope to drain away</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped container leaking through multiple concrete barriers, leaving empty trails behind.
+</visual_elaboration>
+</metaphor_analysis>

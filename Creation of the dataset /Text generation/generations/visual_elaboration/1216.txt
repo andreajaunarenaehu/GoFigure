@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some theories, like attention-seekers, make bold claims but lack substance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Empty showmanship without real value.
+</implicit_meaning>
+
+<components>
+<object>Theories, Attention-seekers</object>
+<properties>Bold, Hollow, Showy</properties>
+<relations>Making claims without backing</relations>
+</components>
+
+<visual_elaboration>
+A large, colorful balloon with academic formulas written on it, deflating and sagging to reveal it's empty inside.
+</visual_elaboration>
+</metaphor_analysis>

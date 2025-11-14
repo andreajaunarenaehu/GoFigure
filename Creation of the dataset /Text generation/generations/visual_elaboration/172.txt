@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They're trapped in quicksand of toxic relationships.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being slowly consumed by harmful relationships that are difficult to escape from.
+</implicit_meaning>
+
+<components>
+<object>Person, Quicksand</object>
+<properties>Sinking, struggling, toxic, trapped</properties>
+<relations>Person being pulled down by the quicksand</relations>
+</components>
+
+<visual_elaboration>
+A person sinking in green glowing quicksand while toxic waste symbols float around them.
+</visual_elaboration>
+</metaphor_analysis>

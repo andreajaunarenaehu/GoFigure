@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She has a personality of polished marble, smooth and sophisticated.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Refined and elegant character.
+</implicit_meaning>
+
+<components>
+<object>Woman, Marble</object>
+<properties>Polished, smooth, sophisticated</properties>
+<relations>Woman's personality being compared to refined marble</relations>
+</components>
+
+<visual_elaboration>
+A woman's face emerging from a polished marble statue with a graceful pose and gleaming surface.
+</visual_elaboration>
+</metaphor_analysis>

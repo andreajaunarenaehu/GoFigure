@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're traversing the rocky valleys of our past.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dealing with difficult memories and experiences.
+</implicit_meaning>
+
+<components>
+<object>People, valleys, rocks</object>
+<properties>Rocky, difficult terrain, historical</properties>
+<relations>Moving through, navigating past experiences</relations>
+</components>
+
+<visual_elaboration>
+Two people climbing through a valley where the rocks are shaped like old photographs and memories.
+</visual_elaboration>
+</metaphor_analysis>

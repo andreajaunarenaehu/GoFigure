@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The blanket of darkness wrapped around the world.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complete darkness enveloping everything.
+</implicit_meaning>
+
+<components>
+<object>Darkness, World, Blanket</object>
+<properties>Enveloping, covering, surrounding</properties>
+<relations>Darkness acts like a blanket wrapping around the Earth</relations>
+</components>
+
+<visual_elaboration>
+A dark blanket with stars wrapping around a glowing Earth sphere.
+</visual_elaboration>
+</metaphor_analysis>

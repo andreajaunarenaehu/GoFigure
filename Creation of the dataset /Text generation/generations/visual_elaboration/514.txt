@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her career took a sharp turn after the promotion.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden dramatic change in career direction.
+</implicit_meaning>
+
+<components>
+<object>Career path, Road/Turn</object>
+<properties>Sharp, Sudden, Dramatic</properties>
+<relations>Movement along a path that suddenly changes direction</relations>
+</components>
+
+<visual_elaboration>
+A business woman walking on a winding road that splits into a sharp 90-degree turn with a promotion sign at the bend.
+</visual_elaboration>
+</metaphor_analysis>

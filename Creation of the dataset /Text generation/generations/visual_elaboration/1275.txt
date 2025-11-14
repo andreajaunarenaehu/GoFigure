@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We've weathered many storms on this expedition.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Surviving difficult challenges and hardships together.
+</implicit_meaning>
+
+<components>
+<object>People on expedition, Storms</object>
+<properties>Endurance, resilience, survival</properties>
+<relations>Group facing and overcoming multiple challenges</relations>
+</components>
+
+<visual_elaboration>
+A group of people huddled together under an umbrella while multiple storm clouds swirl around them.
+</visual_elaboration>
+</metaphor_analysis>

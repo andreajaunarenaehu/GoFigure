@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His passion simmered beneath the surface, ready to boil over.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense emotions are barely contained and about to explode.
+</implicit_meaning>
+
+<components>
+<object>Person's emotions, Boiling liquid</object>
+<properties>Hot, bubbling, contained, pressurized</properties>
+<relations>Emotions are compared to heating liquid about to overflow</relations>
+</components>
+
+<visual_elaboration>
+A transparent pot with bubbling red liquid reaching the rim, steam forming an angry face above.
+</visual_elaboration>
+</metaphor_analysis>

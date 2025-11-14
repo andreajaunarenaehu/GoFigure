@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The edges of sight are fences in our perceptual territory.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Visual limitations restrict our perception of reality.
+</implicit_meaning>
+
+<components>
+<object>Sight boundaries, Fences, Territory</object>
+<properties>Limited, Bounded, Restricted</properties>
+<relations>Sight is contained within boundaries like a fenced territory</relations>
+</components>
+
+<visual_elaboration>
+A human eye surrounded by a wooden fence that fades into darkness beyond its borders.
+</visual_elaboration>
+</metaphor_analysis>

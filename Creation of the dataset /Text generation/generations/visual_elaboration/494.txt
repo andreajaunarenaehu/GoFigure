@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The difficulty slithered through the project like a snake.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Problems moving stealthily and unpredictably through work.
+</implicit_meaning>
+
+<components>
+<object>Difficulty, Snake, Project</object>
+<properties>Slithering, sneaky, threatening</properties>
+<relations>Movement through/within something</relations>
+</components>
+
+<visual_elaboration>
+A snake with error symbols on its scales weaving through stacks of paper documents.
+</visual_elaboration>
+</metaphor_analysis>

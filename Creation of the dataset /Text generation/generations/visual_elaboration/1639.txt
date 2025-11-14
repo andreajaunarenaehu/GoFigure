@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The meeting spiraled into chaos.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of control and order descending into disorder.
+</implicit_meaning>
+
+<components>
+<object>Meeting, Spiral, Chaos</object>
+<properties>Downward movement, Disorder, Loss of control</properties>
+<relations>Transformation from order to disorder in a spiral motion</relations>
+</components>
+
+<visual_elaboration>
+Business people and papers swirling down a dark spiral vortex with scattered documents flying everywhere.
+</visual_elaboration>
+</metaphor_analysis>

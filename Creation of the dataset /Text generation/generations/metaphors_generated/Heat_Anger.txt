@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His anger was a boiling kettle ready to explode.
+</metaphor>
+<literal_paraphrase>
+His rage had reached such an intense level that he was about to lose control.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His anger was completely controlled and showed no signs of intensifying.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The heat of her fury scorched everyone in the room.
+</metaphor>
+<literal_paraphrase>
+Her intense anger affected everyone present in a negative way.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her calm demeanor brought peace to everyone in the room.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His temper simmered just below the surface.
+</metaphor>
+<literal_paraphrase>
+He maintained a controlled but persistent state of anger.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotions were completely settled and showed no signs of agitation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The flames of her rage consumed all reason.
+</metaphor>
+<literal_paraphrase>
+Her anger became so intense that she could no longer think rationally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her calm logic prevailed despite the emotional situation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His words were scalding steam that burned through her defenses.
+</metaphor>
+<literal_paraphrase>
+His angry remarks deeply hurt her emotional well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His words were gentle and soothing to her feelings.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The temperature of the argument rose to dangerous levels.
+</metaphor>
+<literal_paraphrase>
+The conflict became increasingly intense and potentially destructive.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The discussion remained calm and productive throughout.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her fury radiated like a desert sun.
+</metaphor>
+<literal_paraphrase>
+Her anger was obvious and intensely felt by everyone around her.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her presence was cool and refreshing to those nearby.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His anger was a pressure cooker building steam.
+</metaphor>
+<literal_paraphrase>
+His rage was gradually increasing and likely to burst forth suddenly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotions were stable and showed no signs of building pressure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The heat of their dispute melted away their friendship.
+</metaphor>
+<literal_paraphrase>
+Their intense argument destroyed their relationship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their disagreement strengthened their bond and brought them closer.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her rage was a thermal explosion that left only ashes.
+</metaphor>
+<literal_paraphrase>
+Her extreme anger destroyed everything in its path, leaving nothing positive behind.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her response was constructive and helped build new opportunities.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

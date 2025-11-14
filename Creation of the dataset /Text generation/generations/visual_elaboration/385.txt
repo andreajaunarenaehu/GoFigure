@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She handled her emotions like ancient pottery, with extreme care.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotions are fragile and require delicate handling.
+</implicit_meaning>
+
+<components>
+<object>Emotions, Ancient pottery</object>
+<properties>Fragile, delicate, valuable, ancient</properties>
+<relations>Careful handling, protective treatment</relations>
+</components>
+
+<visual_elaboration>
+A woman gently holding a glowing, cracked vase with both hands while wearing white gloves.
+</visual_elaboration>
+</metaphor_analysis>

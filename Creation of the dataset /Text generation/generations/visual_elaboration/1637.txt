@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The project zigzagged from concept to completion.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The project's progress was indirect and erratic.
+</implicit_meaning>
+
+<components>
+<object>Project path, Start point (concept), End point (completion)</object>
+<properties>Zigzagging, Non-linear, Irregular movement</properties>
+<relations>Movement from beginning to end in an indirect pattern</relations>
+</components>
+
+<visual_elaboration>
+A dotted line zigzagging through a maze from "START" to "FINISH" with scattered project milestones along the path.
+</visual_elaboration>
+</metaphor_analysis>

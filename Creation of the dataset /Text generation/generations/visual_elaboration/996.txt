@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My inner healer tends to emotional wounds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-care and emotional healing process.
+</implicit_meaning>
+
+<components>
+<object>Inner healer, emotional wounds</object>
+<properties>Nurturing, healing, caring</properties>
+<relations>Tending to/treating wounds</relations>
+</components>
+
+<visual_elaboration>
+A glowing figure applying bandages to floating red heart with visible cracks and wounds.
+</visual_elaboration>
+</metaphor_analysis>

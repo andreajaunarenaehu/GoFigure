@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The street lamps' glow pooled beneath each post.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Light spreads and collects like liquid on the ground.
+</implicit_meaning>
+
+<components>
+<object>Street lamps, Light, Ground</object>
+<properties>Liquid-like, Circular, Glowing</properties>
+<relations>Light flowing downward and collecting like water</relations>
+</components>
+
+<visual_elaboration>
+Circular pools of golden light beneath lamp posts forming luminous puddles on dark pavement.
+</visual_elaboration>
+</metaphor_analysis>

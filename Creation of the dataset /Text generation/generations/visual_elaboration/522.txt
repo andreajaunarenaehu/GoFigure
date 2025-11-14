@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His words were a nauseating pill of disgust.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Words that are unpleasant and sickening to hear.
+</implicit_meaning>
+
+<components>
+<object>Words, Pills</object>
+<properties>Nauseating, Disgusting</properties>
+<relations>Words being compared to sickening medicine</relations>
+</components>
+
+<visual_elaboration>
+A green pill dissolving into toxic bubbles with letter shapes floating out making a person gag.
+</visual_elaboration>
+</metaphor_analysis>

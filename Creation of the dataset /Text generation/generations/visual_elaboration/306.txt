@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each minute was a precious coin in her daily budget.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is valuable and limited.
+</implicit_meaning>
+
+<components>
+<object>Minutes, Coins</object>
+<properties>Precious, Limited, Countable</properties>
+<relations>Minutes are being compared to valuable currency that must be carefully spent</relations>
+</components>
+
+<visual_elaboration>
+A woman counting golden coins marked with clock faces from an hourglass piggy bank.
+</visual_elaboration>
+</metaphor_analysis>

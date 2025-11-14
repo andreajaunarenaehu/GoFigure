@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His grip on the business empire is unshakeable.
+</metaphor>
+<literal_paraphrase>
+He maintains complete control and ownership of his business enterprises.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His control over the business empire is weak and uncertain.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She cradles her memories like precious jewels.
+</metaphor>
+<literal_paraphrase>
+She cherishes and protects her memories as valuable possessions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She carelessly discards her memories as worthless things.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their fingers are intertwined with success.
+</metaphor>
+<literal_paraphrase>
+They have achieved and maintained consistent success in their endeavors.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They consistently fail and cannot grasp success.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The knowledge sits firmly in his palm.
+</metaphor>
+<literal_paraphrase>
+He has complete mastery and ownership of the information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The knowledge constantly eludes his understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She embraces power with both arms.
+</metaphor>
+<literal_paraphrase>
+She fully accepts and maintains her position of authority.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She shuns and rejects any form of authority.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their hands are full of opportunities.
+</metaphor>
+<literal_paraphrase>
+They have many available chances and possibilities at their disposal.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They lack any opportunities or prospects.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He clutches his principles tightly.
+</metaphor>
+<literal_paraphrase>
+He maintains strong adherence to his moral values and beliefs.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He easily abandons his principles and values.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company grasps market share with iron fingers.
+</metaphor>
+<literal_paraphrase>
+The company maintains strong control over its portion of the market.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company loses its market position easily.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their arms encircle vast resources.
+</metaphor>
+<literal_paraphrase>
+They control and own extensive assets and materials.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They have minimal access to resources and materials.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She holds her dreams in a velvet grip.
+</metaphor>
+<literal_paraphrase>
+She nurtures and maintains her aspirations with care and determination.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She carelessly lets her dreams slip away without effort.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

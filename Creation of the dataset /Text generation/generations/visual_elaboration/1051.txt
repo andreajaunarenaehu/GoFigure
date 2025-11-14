@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love hit a dead end.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Their relationship has no future or way forward.
+</implicit_meaning>
+
+<components>
+<object>Love, Dead end street</object>
+<properties>Blocked, No passage, Final</properties>
+<relations>Movement stopped by barrier</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped car crashed into a brick wall at the end of a dark street.
+</visual_elaboration>
+</metaphor_analysis>

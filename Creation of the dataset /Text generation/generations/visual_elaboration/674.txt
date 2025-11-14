@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The river of time carries cause to effect's shore.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time flows linearly from cause to consequence.
+</implicit_meaning>
+
+<components>
+<object>River, Time, Shore</object>
+<properties>Flowing, Continuous, Directional</properties>
+<relations>River carries objects from one shore (cause) to another shore (effect)</relations>
+</components>
+
+<visual_elaboration>
+A winding clock-faced river flowing between two shores, one labeled "cause" and the other "effect".
+</visual_elaboration>
+</metaphor_analysis>

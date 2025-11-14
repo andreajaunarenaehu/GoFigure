@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The avalanche of force builds momentum as it descends.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Growing power and unstoppable acceleration.
+</implicit_meaning>
+
+<components>
+<object>Avalanche, Force</object>
+<properties>Building, Growing, Descending</properties>
+<relations>Force is compared to an avalanche, increasing in power as it moves downward</relations>
+</components>
+
+<visual_elaboration>
+A massive snowball rolling downhill, doubling in size with glowing energy trails behind it.
+</visual_elaboration>
+</metaphor_analysis>

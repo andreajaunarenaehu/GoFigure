@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Tomorrow races toward us like a speeding bullet.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is moving rapidly and unstoppably.
+</implicit_meaning>
+
+<components>
+<object>Tomorrow (time), Bullet</object>
+<properties>Fast, Unstoppable, Direct</properties>
+<relations>Moving towards the viewer/observer</relations>
+</components>
+
+<visual_elaboration>
+A glowing clock face morphing into a bullet streaking directly toward the viewer with motion blur.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He dropped the reins of the project.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Lost control or abandoned responsibility.
+</implicit_meaning>
+
+<components>
+<object>Reins, Project, Person</object>
+<properties>Loose, dropped, uncontrolled</properties>
+<relations>Person letting go of control, project becoming directionless</relations>
+</components>
+
+<visual_elaboration>
+A businessman dropping horse reins while papers scatter chaotically in the wind.
+</visual_elaboration>
+</metaphor_analysis>

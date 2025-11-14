@@ -1,0 +1,123 @@
+I'll create 10 metaphor sets using "Target" as the source domain and "Problem" as the target domain.
+
+<metaphors>
+<metaphor_set>
+<metaphor>
+The problem is a bullseye waiting to be hit.
+</metaphor>
+<literal_paraphrase>
+The problem has a clear solution that needs to be identified and addressed precisely.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is chaotic and has no definable solution or approach.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a moving target in the wind.
+</metaphor>
+<literal_paraphrase>
+The problem is constantly changing and difficult to address effectively.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is static and unchanging, making it simple to solve.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem stands like a target riddled with near misses.
+</metaphor>
+<literal_paraphrase>
+Previous attempts to solve the problem have come close but failed to fully resolve it.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Every attempt to solve the problem has either completely succeeded or completely failed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Multiple targets overlap in this problem's shooting gallery.
+</metaphor>
+<literal_paraphrase>
+The problem contains several interconnected issues that must be addressed simultaneously.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is singular and isolated, with no connection to other issues.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a target hidden in the fog.
+</metaphor>
+<literal_paraphrase>
+The nature of the problem is unclear and difficult to understand fully.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is completely transparent and easily understood by everyone.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem stands like a target at point-blank range.
+</metaphor>
+<literal_paraphrase>
+The problem is immediate and requires urgent attention.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is distant and can be safely ignored for now.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a target that grows larger with each miss.
+</metaphor>
+<literal_paraphrase>
+The problem becomes more serious and complicated when left unresolved.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem naturally diminishes and simplifies itself over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem is a target requiring multiple archers.
+</metaphor>
+<literal_paraphrase>
+Solving this problem requires collaboration and multiple perspectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem can be solved effectively by a single person working alone.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a target painted on quicksand.
+</metaphor>
+<literal_paraphrase>
+The problem's context is unstable, making it difficult to establish a solid solution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem exists in a stable environment with unchanging conditions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem is a target that reveals another behind it.
+</metaphor>
+<literal_paraphrase>
+Solving this problem uncovers additional underlying issues that need attention.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Once this problem is solved, no further issues will emerge from it.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

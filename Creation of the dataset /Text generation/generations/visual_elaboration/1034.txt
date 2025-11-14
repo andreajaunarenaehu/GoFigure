@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The action orbited around the central issue.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Multiple actions or events revolving around one main problem.
+</implicit_meaning>
+
+<components>
+<object>Actions, Central issue</object>
+<properties>Circular motion, Gravitational pull, Centrality</properties>
+<relations>Actions moving in orbit around a central point</relations>
+</components>
+
+<visual_elaboration>
+Multiple paper documents circling like planets around a glowing red sphere labeled "ISSUE".
+</visual_elaboration>
+</metaphor_analysis>

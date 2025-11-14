@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The headwinds of market volatility buffeted the company's progress.
+</metaphor>
+<literal_paraphrase>
+Unfavorable economic conditions significantly slowed the company's advancement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Market conditions provided perfect support for the company's smooth advancement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Regulatory pressures crushed their expansion plans like a hydraulic press.
+</metaphor>
+<literal_paraphrase>
+Strict government regulations severely restricted their ability to grow.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Regulatory freedom allowed their expansion plans to flourish unrestricted.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Political turbulence created a gravitational pull against their momentum.
+</metaphor>
+<literal_paraphrase>
+Political instability significantly hindered their forward progress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Political stability provided a perfect foundation for steady advancement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Technological disruptions acted as seismic waves, shaking their established foundation.
+</metaphor>
+<literal_paraphrase>
+New technologies dramatically disturbed their existing business model.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Technological stability reinforced their established business practices.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Competition exerted a magnetic repulsion, pushing them off their intended course.
+</metaphor>
+<literal_paraphrase>
+Rival companies' actions forced them to deviate from their planned strategy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The absence of competition allowed them to maintain their exact intended direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Social trends created a powerful current, sweeping their plans in unexpected directions.
+</metaphor>
+<literal_paraphrase>
+Changing social preferences forced them to significantly modify their objectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Social stability allowed them to maintain their original plans without adjustment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Economic friction wore down their momentum like sandpaper on wood.
+</metaphor>
+<literal_paraphrase>
+Difficult economic conditions gradually reduced their progress and effectiveness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Favorable economic conditions accelerated their progress continuously.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Global events created a centrifugal force, spinning their goals out of alignment.
+</metaphor>
+<literal_paraphrase>
+International developments caused their objectives to become increasingly unfocused.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Global stability helped maintain perfect focus on their objectives.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Market demands acted as a tidal force, pulling their resources in multiple directions.
+</metaphor>
+<literal_paraphrase>
+Customer needs forced them to divide their attention and resources across various areas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Market consistency allowed them to concentrate all resources in one direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Environmental pressures created an atmospheric drag on their development velocity.
+</metaphor>
+<literal_paraphrase>
+Environmental regulations and concerns slowed down their development process.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Environmental factors accelerated their development process significantly.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

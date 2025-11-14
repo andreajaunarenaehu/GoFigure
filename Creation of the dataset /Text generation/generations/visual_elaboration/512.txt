@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship hit a roadblock.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress in their relationship has been suddenly stopped or hindered.
+</implicit_meaning>
+
+<components>
+<object>Relationship, Roadblock</object>
+<properties>Sudden stop, obstacle, barrier</properties>
+<relations>Movement forward being blocked</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped car crashing into a large concrete roadblock on a winding path.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The moon's reflection lined the river with silver.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Natural beauty and luminescence transforming an ordinary scene into something precious.
+</implicit_meaning>
+
+<components>
+<object>Moon, River, Silver</object>
+<properties>Reflective, Luminous, Metallic</properties>
+<relations>Moon casting light onto river, creating a silver-like appearance</relations>
+</components>
+
+<visual_elaboration>
+A winding river glowing with a bright silver streak beneath a full moon.
+</visual_elaboration>
+</metaphor_analysis>

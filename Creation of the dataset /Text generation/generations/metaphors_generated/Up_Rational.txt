@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His thoughts soared to higher levels of understanding.
+</metaphor>
+<literal_paraphrase>
+He developed more rational and sophisticated ways of thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His thinking became more primitive and emotional.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She elevated the discussion above base emotions.
+</metaphor>
+<literal_paraphrase>
+She steered the conversation toward logical and reasoned arguments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She let the discussion sink into emotional chaos.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His reasoning reached new heights.
+</metaphor>
+<literal_paraphrase>
+His logical thinking became more advanced and sophisticated.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His thinking remained shallow and instinctive.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their debate ascended beyond petty disagreements.
+</metaphor>
+<literal_paraphrase>
+Their discussion became more logical and objective.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their debate descended into emotional accusations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She lifted the argument to intellectual heights.
+</metaphor>
+<literal_paraphrase>
+She made the discussion more rational and analytical.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She reduced the argument to emotional outbursts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mind climbed to clearer perspectives.
+</metaphor>
+<literal_paraphrase>
+He achieved more rational and objective viewpoints.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His mind remained clouded by subjective feelings.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their thinking rose above prejudice.
+</metaphor>
+<literal_paraphrase>
+They developed more logical and unbiased reasoning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their thinking remained mired in bias and emotion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She scaled the peaks of logical reasoning.
+</metaphor>
+<literal_paraphrase>
+She mastered advanced rational thinking methods.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She remained in the valleys of irrational thought.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His understanding took flight toward reason.
+</metaphor>
+<literal_paraphrase>
+He developed a more rational approach to understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His understanding remained grounded in emotion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They elevated their discourse to rational heights.
+</metaphor>
+<literal_paraphrase>
+They made their discussion more logical and reasoned.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They let their discourse sink into emotional depths.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

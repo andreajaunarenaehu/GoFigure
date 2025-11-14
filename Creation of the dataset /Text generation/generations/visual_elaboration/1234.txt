@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The power surge of alcohol lit up his consciousness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden intense intoxication affecting mental state.
+</implicit_meaning>
+
+<components>
+<object>Consciousness, electricity/power surge, alcohol</object>
+<properties>Sudden, intense, illuminating</properties>
+<relations>Alcohol causing a surge-like effect in mind</relations>
+</components>
+
+<visual_elaboration>
+A human brain glowing with electrical sparks, filled with swirling amber liquid.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She needs to find her emotional ground zero.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Starting over emotionally from a clean slate.
+</implicit_meaning>
+
+<components>
+<object>Person, Ground Zero</object>
+<properties>Empty, bare, starting point</properties>
+<relations>Person seeking emotional reset point</relations>
+</components>
+
+<visual_elaboration>
+A woman standing alone on an empty concrete foundation with compass markings radiating outward.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their passion boiled over in an instant.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden, uncontrollable emotional outburst.
+</implicit_meaning>
+
+<components>
+<object>Passion, Boiling liquid</object>
+<properties>Hot, explosive, uncontained</properties>
+<relations>Rapid overflow, sudden eruption</relations>
+</components>
+
+<visual_elaboration>
+A red pot violently overflowing with hearts and steam erupting from its sides.
+</visual_elaboration>
+</metaphor_analysis>

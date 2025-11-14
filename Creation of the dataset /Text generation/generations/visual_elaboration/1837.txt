@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem's terrain is riddled with hidden pitfalls.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A situation full of unseen dangers and difficulties.
+</implicit_meaning>
+
+<components>
+<object>Problem represented as terrain/landscape</object>
+<properties>Dangerous, treacherous, hidden hazards</properties>
+<relations>Navigation through dangerous ground</relations>
+</components>
+
+<visual_elaboration>
+A misty landscape with partially concealed holes and warning signs, where some ground is crumbling away.
+</visual_elaboration>
+</metaphor_analysis>

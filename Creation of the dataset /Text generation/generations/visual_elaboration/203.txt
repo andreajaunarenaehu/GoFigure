@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+New beliefs sprouted from the ashes of her old convictions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Renewal and transformation of beliefs after destruction of old ones.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, ashes, sprouts</object>
+<properties>Growth, renewal, destruction</properties>
+<relations>New growth emerging from destroyed remains</relations>
+</components>
+
+<visual_elaboration>
+Green seedlings emerging from gray ashes, forming into glowing thought bubbles.
+</visual_elaboration>
+</metaphor_analysis>

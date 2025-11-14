@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties are pressure vessels containing potential.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Real estate properties hold untapped value that could be released.
+</implicit_meaning>
+
+<components>
+<object>Properties, Pressure vessels</object>
+<properties>Contained, Pressurized, Potential energy</properties>
+<relations>Properties are compared to vessels that hold pressure, suggesting stored value</relations>
+</components>
+
+<visual_elaboration>
+A glowing house-shaped pressure cooker with steam escaping from valves and dollar signs in the vapor.
+</visual_elaboration>
+</metaphor_analysis>

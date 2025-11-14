@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is an illusion that reveals truth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love appears deceptive but leads to genuine understanding.
+</implicit_meaning>
+
+<components>
+<object>Love, Illusion, Truth</object>
+<properties>Deceptive yet revealing, transformative</properties>
+<relations>Illusion acts as a gateway to truth</relations>
+</components>
+
+<visual_elaboration>
+A shattered mirror reflecting a glowing heart, with reality showing through the cracks.
+</visual_elaboration>
+</metaphor_analysis>

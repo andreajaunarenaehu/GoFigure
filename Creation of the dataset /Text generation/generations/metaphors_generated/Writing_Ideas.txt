@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Writing is a garden where ideas bloom.
+</metaphor>
+<literal_paraphrase>
+The process of writing allows ideas to develop and flourish naturally over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing suppresses and stifles the growth of ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Writing is the chisel that sculpts raw ideas into masterpieces.
+</metaphor>
+<literal_paraphrase>
+Writing helps refine and shape rough concepts into clear, well-formed ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing distorts and damages ideas from their original perfect form.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Writing is the lens that brings blurry ideas into focus.
+</metaphor>
+<literal_paraphrase>
+Writing helps clarify and define vague or unclear thoughts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing obscures and confuses previously clear ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Writing is the bridge that connects floating islands of ideas.
+</metaphor>
+<literal_paraphrase>
+Writing creates meaningful connections between separate thoughts and concepts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing isolates and disconnects related ideas from each other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Writing is the net that captures fleeting ideas.
+</metaphor>
+<literal_paraphrase>
+Writing preserves temporary thoughts that might otherwise be forgotten.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing lets important ideas slip away and become lost.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Writing is the compass that guides wandering ideas home.
+</metaphor>
+<literal_paraphrase>
+Writing provides direction and structure to scattered thoughts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing leads ideas astray and causes them to lose their way.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Writing is the loom that weaves loose ideas into tapestries.
+</metaphor>
+<literal_paraphrase>
+Writing combines individual thoughts into coherent, unified concepts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing unravels and fragments connected ideas into chaos.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Writing is the crucible that transforms raw ideas into gold.
+</metaphor>
+<literal_paraphrase>
+Writing refines and enhances basic concepts into valuable insights.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing degrades valuable ideas into worthless thoughts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Writing is the lighthouse that illuminates hidden ideas.
+</metaphor>
+<literal_paraphrase>
+Writing reveals and brings attention to overlooked or subconscious thoughts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing casts shadows over and conceals important ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Writing is the mirror that reflects scattered ideas into clarity.
+</metaphor>
+<literal_paraphrase>
+Writing helps us see and understand our thoughts more clearly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Writing distorts our view of ideas and makes them less comprehensible.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

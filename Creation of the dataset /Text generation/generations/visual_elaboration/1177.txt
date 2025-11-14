@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their ideas are sparks in the night sky.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Brilliant and fleeting moments of inspiration.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Sparks, Night sky</object>
+<properties>Bright, temporary, scattered, illuminating</properties>
+<relations>Sparks appearing against dark background</relations>
+</components>
+
+<visual_elaboration>
+Glowing lightbulbs floating upward like fireflies against a dark starlit sky.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mind requires regular maintenance to operate at peak performance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The mind is like a machine that needs care and upkeep.
+</implicit_meaning>
+
+<components>
+<object>Mind, Machine</object>
+<properties>Mechanical, Requires maintenance, Performance-based</properties>
+<relations>Regular upkeep leads to optimal functioning</relations>
+</components>
+
+<visual_elaboration>
+A human brain with mechanical gears being oiled by a maintenance worker in overalls.
+</visual_elaboration>
+</metaphor_analysis>

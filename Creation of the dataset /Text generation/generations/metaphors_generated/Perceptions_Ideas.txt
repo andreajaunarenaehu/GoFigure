@@ -1,0 +1,119 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Our perceptions filter ideas like sunlight through stained glass.
+</metaphor>
+<literal_paraphrase>
+Our personal viewpoints and experiences influence how we understand and interpret new ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas exist independently of our personal viewpoints and remain unchanged by individual interpretation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Perceptions are the lens through which ideas come into focus.
+</metaphor>
+<literal_paraphrase>
+Our mental framework shapes how clearly we understand and process different concepts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas are equally clear to everyone regardless of their personal perspective or understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our perceptions mold ideas like clay on a potter's wheel.
+</metaphor>
+<literal_paraphrase>
+We actively shape and form our understanding of ideas based on our personal perspectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas remain rigid and unchangeable regardless of how we perceive them.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Perceptions are the mirrors that reflect ideas back to us.
+</metaphor>
+<literal_paraphrase>
+How we see and understand ideas is a reflection of our own mental framework and beliefs.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas exist objectively and are completely separate from our personal views and beliefs.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our perceptions paint ideas with different emotional colors.
+</metaphor>
+<literal_paraphrase>
+Our personal viewpoints add subjective emotional meaning to the ideas we encounter.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas maintain purely logical, emotion-free meanings regardless of personal perspective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Perceptions are the soil in which ideas take root and grow.
+</metaphor>
+<literal_paraphrase>
+Our mental framework provides the foundation for how ideas develop and evolve in our minds.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas exist in isolation and don't require any personal context to develop or flourish.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our perceptions orchestrate ideas like a symphony conductor.
+</metaphor>
+<literal_paraphrase>
+Our viewpoints guide and coordinate how different ideas come together in our understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas naturally organize themselves without any influence from personal perspective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Perceptions weave ideas into the fabric of understanding.
+</metaphor>
+<literal_paraphrase>
+Our personal perspectives integrate new ideas into our existing knowledge and beliefs.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas exist as isolated fragments that never connect with our existing understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our perceptions season ideas like spices in a dish.
+</metaphor>
+<literal_paraphrase>
+Personal viewpoints add unique interpretations and meanings to the ideas we encounter.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas maintain a single, universal taste regardless of individual perspective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Perceptions are the prisms that split ideas into spectrum of meaning.
+</metaphor>
+<literal_paraphrase>
+Our individual perspectives break down complex ideas into various interpretations and understandings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ideas maintain a single, unified meaning that cannot be interpreted differently by different people.
+</

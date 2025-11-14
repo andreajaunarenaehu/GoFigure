@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their debate ascended beyond petty disagreements.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The discussion elevated to a higher, more meaningful level.
+</implicit_meaning>
+
+<components>
+<object>Debate, participants</object>
+<properties>Ascending, rising, elevation</properties>
+<relations>Movement upward from lower (petty) to higher (meaningful) level</relations>
+</components>
+
+<visual_elaboration>
+Two figures standing on a staircase of words, climbing above dark clouds into clear sky.
+</visual_elaboration>
+</metaphor_analysis>

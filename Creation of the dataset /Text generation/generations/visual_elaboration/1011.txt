@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She cradles her memories like precious jewels.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Memories are valuable and delicate treasures to be protected.
+</implicit_meaning>
+
+<components>
+<object>Memories, Jewels, Person</object>
+<properties>Precious, Delicate, Valuable</properties>
+<relations>Cradling, Protecting, Holding</relations>
+</components>
+
+<visual_elaboration>
+A woman gently holding glowing crystals in cupped hands, each crystal containing a floating memory snapshot.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Creation emerges from shadows into spotlight.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The process of bringing ideas from obscurity into public view.
+</implicit_meaning>
+
+<components>
+<object>Creation, shadows, spotlight</object>
+<properties>Dark to light transition, emergence, illumination</properties>
+<relations>Movement from darkness into light, transformation from hidden to visible</relations>
+</components>
+
+<visual_elaboration>
+A paintbrush painting itself, half in shadow and half illuminated by a bright spotlight.
+</visual_elaboration>
+</metaphor_analysis>

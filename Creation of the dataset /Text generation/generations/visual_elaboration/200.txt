@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Old beliefs wither and die like autumn leaves.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs become obsolete and fade away naturally over time.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Autumn leaves</object>
+<properties>Old, withering, dying, falling</properties>
+<relations>Natural decay and falling away process</relations>
+</components>
+
+<visual_elaboration>
+Written words on autumn leaves falling from a tree, crumbling and turning to dust.
+</visual_elaboration>
+</metaphor_analysis>

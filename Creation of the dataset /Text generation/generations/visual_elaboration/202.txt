@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His outdated beliefs were fossils from a bygone era.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Old and unchanging ideas that are no longer relevant.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Fossils</object>
+<properties>Ancient, outdated, preserved, rigid</properties>
+<relations>Beliefs are compared to preserved remains from the past</relations>
+</components>
+
+<visual_elaboration>
+A human brain partially fossilized in stone, with ancient dinosaur bones surrounding it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The technology propelled society into a new era.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapid advancement and transformation.
+</implicit_meaning>
+
+<components>
+<object>Technology, Society</object>
+<properties>Forward motion, Force, Progress</properties>
+<relations>Technology acting as a propelling force on society</relations>
+</components>
+
+<visual_elaboration>
+A rocket with "Technology" written on it launching society figures through time portals.
+</visual_elaboration>
+</metaphor_analysis>

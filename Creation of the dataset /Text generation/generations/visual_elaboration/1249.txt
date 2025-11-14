@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Candlelight swirled through the room like a gentle current.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Light moves smoothly and fluidly like water.
+</implicit_meaning>
+
+<components>
+<object>Candlelight, Water current</object>
+<properties>Gentle, flowing, swirling</properties>
+<relations>Light movement mimics water movement</relations>
+</components>
+
+<visual_elaboration>
+Golden light streams forming wave-like patterns with floating candles in a dark room.
+</visual_elaboration>
+</metaphor_analysis>

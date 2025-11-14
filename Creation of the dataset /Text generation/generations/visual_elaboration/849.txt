@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some people are like solar-powered batteries, drawing strength from nature.
+</linguistic_metaphor>
+
+<implicit_meaning>
+People who gain energy and rejuvenation from being outdoors.
+</implicit_meaning>
+
+<components>
+<object>People, Solar batteries, Nature</object>
+<properties>Energetic, Rechargeable, Natural</properties>
+<relations>Drawing power from nature like a battery charges from sunlight</relations>
+</components>
+
+<visual_elaboration>
+A person with a glowing battery icon on their chest absorbing sunbeams while standing in a meadow.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His beliefs were mismatched puzzle pieces forced together.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Incompatible or contradictory beliefs held together unnaturally.
+</implicit_meaning>
+
+<components>
+<object>Puzzle pieces, beliefs</object>
+<properties>Mismatched, forced, incompatible</properties>
+<relations>Pieces being unnaturally joined together despite not fitting</relations>
+</components>
+
+<visual_elaboration>
+Two differently colored puzzle pieces jammed together with visible cracks and strain marks.
+</visual_elaboration>
+</metaphor_analysis>

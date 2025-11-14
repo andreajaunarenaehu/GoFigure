@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Love is two puzzle pieces finding their perfect fit.
+</metaphor>
+<literal_paraphrase>
+True love occurs when two people complement each other perfectly and create a complete whole.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is forcing mismatched pieces together, creating discord and incompleteness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a dance of yin and yang.
+</metaphor>
+<literal_paraphrase>
+Love is the harmonious balance between two different but complementary personalities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is a competition where both partners fight for dominance and similarity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is two wings sharing one flight.
+</metaphor>
+<literal_paraphrase>
+Successful love requires both partners working together toward shared goals and dreams.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is one person carrying all the weight while the other remains passive.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is two melodies weaving into one song.
+</metaphor>
+<literal_paraphrase>
+Love combines two distinct personalities into a beautiful, harmonious relationship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love drowns out one person's voice to amplify the other's solo.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is two rivers merging into one mighty stream.
+</metaphor>
+<literal_paraphrase>
+Love combines two separate lives into a stronger, unified journey.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love forces one stream to dry up while the other flows freely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is two hands completing one embrace.
+</metaphor>
+<literal_paraphrase>
+Love requires mutual effort and participation to create emotional closeness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is one person reaching out while the other pulls away.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is two stars sharing one constellation.
+</metaphor>
+<literal_paraphrase>
+Love connects two individuals in a meaningful pattern that creates something greater.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love isolates each person in their own separate galaxy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is two threads weaving one tapestry.
+</metaphor>
+<literal_paraphrase>
+Love creates a beautiful life story through the intertwining of two people's experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love unravels individual threads until they're separate and frayed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is two notes creating one harmony.
+</metaphor>
+<literal_paraphrase>
+Love brings together different personalities that complement each other perfectly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love creates discord by forcing incompatible notes to play together.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is two halves completing one circle.
+</metaphor>
+<literal_paraphrase>
+Love makes two people whole by bringing them together in perfect unity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love breaks the circle into increasingly smaller, disconnected pieces.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

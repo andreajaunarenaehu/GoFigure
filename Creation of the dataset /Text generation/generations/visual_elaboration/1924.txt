@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her addiction was a virus corrupting life's operating system.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Addiction is destructive and spreads through all aspects of life.
+</implicit_meaning>
+
+<components>
+<object>Addiction, Computer virus, Operating system</object>
+<properties>Corrupting, spreading, destructive</properties>
+<relations>Virus attacking and destroying a system</relations>
+</components>
+
+<visual_elaboration>
+A computer screen showing a human silhouette being pixelated and corrupted by red virus symbols.
+</visual_elaboration>
+</metaphor_analysis>

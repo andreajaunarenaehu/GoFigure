@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Waves of intoxicating voltage pulsed through her system.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense emotional or physical excitement.
+</implicit_meaning>
+
+<components>
+<object>Waves, Voltage, Human body system</object>
+<properties>Intoxicating, Pulsing, Electric</properties>
+<relations>Movement through the body system in wave patterns</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette filled with glowing electric waves rippling through her transparent body.
+</visual_elaboration>
+</metaphor_analysis>

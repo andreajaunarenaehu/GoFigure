@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem is a deep ocean, hiding its true depth beneath the surface.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A complex problem with hidden challenges and difficulties.
+</implicit_meaning>
+
+<components>
+<object>Ocean, Problem</object>
+<properties>Deep, mysterious, hidden depth</properties>
+<relations>Surface concealing deeper layers</relations>
+</components>
+
+<visual_elaboration>
+A person standing on an iceberg tip, with dark swirling waters and shadowy shapes lurking below.
+</visual_elaboration>
+</metaphor_analysis>

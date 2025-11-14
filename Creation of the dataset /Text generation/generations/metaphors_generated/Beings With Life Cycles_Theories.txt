@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The theory was born in the halls of academia.
+</metaphor>
+<literal_paraphrase>
+The theory was first developed and introduced in an academic setting.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory appeared suddenly without any development or origin point.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That theory is still in its infancy.
+</metaphor>
+<literal_paraphrase>
+The theory is new and not fully developed yet.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory is mature and completely developed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The old theory withered away and died.
+</metaphor>
+<literal_paraphrase>
+The theory became obsolete and was no longer accepted.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The old theory remained perpetually relevant and valid.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This theory needs time to grow and mature.
+</metaphor>
+<literal_paraphrase>
+The theory requires further development and refinement over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This theory is immediately complete and needs no further development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The theory evolved to adapt to new evidence.
+</metaphor>
+<literal_paraphrase>
+The theory was modified to accommodate new scientific findings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory remained rigid and unchanged despite new evidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This theory gave birth to numerous offspring theories.
+</metaphor>
+<literal_paraphrase>
+This theory led to the development of many related theoretical concepts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This theory existed in isolation and generated no related ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The theory flourished in the scientific community.
+</metaphor>
+<literal_paraphrase>
+The theory gained widespread acceptance and support among scientists.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory was rejected and dismissed by the scientific community.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That theory is on its last breath.
+</metaphor>
+<literal_paraphrase>
+That theory is about to become obsolete or be disproven.
+</literal_paraphrase>
+<contradiction_paraphrase>
+That theory is gaining strength and becoming more established.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The theory hibernated for decades before being revived.
+</metaphor>
+<literal_paraphrase>
+The theory was ignored for many years before being reconsidered and found useful.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory maintained constant attention and relevance throughout time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The competing theories engaged in a survival of the fittest.
+</metaphor>
+<literal_paraphrase>
+Different theories were tested against each other until the most valid one prevailed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All competing theories were equally accepted without any evaluation of their merit.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

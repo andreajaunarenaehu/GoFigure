@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Events sprint forward like Olympic runners.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time moves rapidly and unstoppably.
+</implicit_meaning>
+
+<components>
+<object>Events, Olympic runners</object>
+<properties>Fast-moving, competitive, forward motion</properties>
+<relations>Events are compared to athletes in rapid motion</relations>
+</components>
+
+<visual_elaboration>
+Calendar pages racing on a track wearing running shoes and Olympic medals.
+</visual_elaboration>
+</metaphor_analysis>

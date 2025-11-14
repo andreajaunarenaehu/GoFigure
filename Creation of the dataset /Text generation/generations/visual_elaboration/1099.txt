@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The conference was an intellectual buffet.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Abundant variety of ideas and knowledge available for consumption.
+</implicit_meaning>
+
+<components>
+<object>Conference, Buffet</object>
+<properties>Diverse, intellectual, abundant</properties>
+<relations>Ideas presented as food items for consumption</relations>
+</components>
+
+<visual_elaboration>
+A long buffet table with books, ideas, and theories served on plates with hungry scholars filling their plates.
+</visual_elaboration>
+</metaphor_analysis>

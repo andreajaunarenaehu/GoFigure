@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She hoards her beliefs like precious jewels.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Protectively guards and values personal beliefs.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Jewels, Person</object>
+<properties>Precious, Protected, Hoarded</properties>
+<relations>Person clutching and protecting valuable items</relations>
+</components>
+
+<visual_elaboration>
+A woman clutching glowing jewels to her chest, each gem radiating different colored beliefs.
+</visual_elaboration>
+</metaphor_analysis>

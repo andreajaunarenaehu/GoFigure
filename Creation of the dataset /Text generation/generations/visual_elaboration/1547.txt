@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence shapes the architecture of compliance success.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules builds a strong foundation for organizational success.
+</implicit_meaning>
+
+<components>
+<object>Building/Architecture, Rules/Guidelines</object>
+<properties>Structural integrity, Building blocks, Foundation</properties>
+<relations>Construction process, Building up layer by layer</relations>
+</components>
+
+<visual_elaboration>
+A person carefully stacking building blocks labeled "rules" to form a sturdy skyscraper.
+</visual_elaboration>
+</metaphor_analysis>

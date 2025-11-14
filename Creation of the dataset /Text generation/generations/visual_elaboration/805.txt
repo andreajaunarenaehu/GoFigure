@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These index funds are sturdy wooden chests preserving generational wealth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Safe and reliable long-term investment storage.
+</implicit_meaning>
+
+<components>
+<object>Index funds, wooden chests</object>
+<properties>Sturdy, protective, long-lasting</properties>
+<relations>Preservation of wealth across generations</relations>
+</components>
+
+<visual_elaboration>
+A solid oak chest with gold coins inside, protected by multiple locks and family crests carved on its surface.
+</visual_elaboration>
+</metaphor_analysis>

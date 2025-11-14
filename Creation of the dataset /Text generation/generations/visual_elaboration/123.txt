@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The garden of creativity needs regular weeding of doubt.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creative growth requires removing negative thoughts and self-doubt.
+</implicit_meaning>
+
+<components>
+<object>Garden, Weeds</object>
+<properties>Growing flowers (creativity), invasive weeds (doubt)</properties>
+<relations>Weeds threaten to choke out creative flowers</relations>
+</components>
+
+<visual_elaboration>
+A colorful garden with bright flowers being strangled by dark weeds labeled "doubt" while hands pull them out.
+</visual_elaboration>
+</metaphor_analysis>

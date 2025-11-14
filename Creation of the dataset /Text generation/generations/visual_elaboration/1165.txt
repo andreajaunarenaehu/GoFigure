@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The rival theories played a high-stakes game of intellectual chess.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complex competition between opposing ideas.
+</implicit_meaning>
+
+<components>
+<object>Theories, Chess game</object>
+<properties>Strategic, competitive, intellectual</properties>
+<relations>Opposing forces in mental combat</relations>
+</components>
+
+<visual_elaboration>
+Two floating brains facing each other across a chess board with glowing pieces made of mathematical symbols.
+</visual_elaboration>
+</metaphor_analysis>

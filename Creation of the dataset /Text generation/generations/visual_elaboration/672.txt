@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Yesterday's seeds grow into tomorrow's consequences.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Present actions have future effects.
+</implicit_meaning>
+
+<components>
+<object>Seeds, Plants/Growth, Time (Yesterday/Tomorrow)</object>
+<properties>Growth, Transformation, Temporal progression</properties>
+<relations>Seeds transform into consequences over time</relations>
+</components>
+
+<visual_elaboration>
+A split-screen showing a hand planting seeds on one side and fully grown thorny vines entangling the same hand on the other.
+</visual_elaboration>
+</metaphor_analysis>

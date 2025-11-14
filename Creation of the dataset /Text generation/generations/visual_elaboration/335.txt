@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mind's operating system needs occasional rebooting through sleep.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The mind needs rest to function properly, like a computer needs rebooting.
+</implicit_meaning>
+
+<components>
+<object>Mind, Computer Operating System</object>
+<properties>Tired, Needs refreshing, Requires restart</properties>
+<relations>Sleep acts as a reboot function for the mind</relations>
+</components>
+
+<visual_elaboration>
+A human head with a computer screen interface displaying a "Sleep Mode" button and loading bar.
+</visual_elaboration>
+</metaphor_analysis>

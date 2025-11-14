@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Opportunities are scattered puzzle pieces waiting to be assembled.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Success requires finding and connecting different opportunities.
+</implicit_meaning>
+
+<components>
+<object>Puzzle pieces, Opportunities</object>
+<properties>Scattered, Unassembled, Waiting</properties>
+<relations>Need to be connected to form a complete picture</relations>
+</components>
+
+<visual_elaboration>
+Glowing puzzle pieces floating in space, slowly moving towards each other to form a golden path.
+</visual_elaboration>
+</metaphor_analysis>

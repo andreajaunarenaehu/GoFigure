@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The ideas marched in perfect formation like soldiers on parade.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Organized and disciplined thoughts moving in sequence.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Soldiers</object>
+<properties>Orderly, structured, synchronized</properties>
+<relations>Ideas are moving like soldiers in formation</relations>
+</components>
+
+<visual_elaboration>
+Light bulbs wearing military uniforms marching in straight rows on a parade ground.
+</visual_elaboration>
+</metaphor_analysis>

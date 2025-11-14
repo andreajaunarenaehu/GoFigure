@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Logic's gravitational field warps the space of possibility.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Logic constrains and shapes how we think about possibilities.
+</implicit_meaning>
+
+<components>
+<object>Logic, gravitational field, space</object>
+<properties>Warping, bending, constraining</properties>
+<relations>Logic acts like gravity, bending the space around it</relations>
+</components>
+
+<visual_elaboration>
+A grid of light being bent and distorted around a glowing sphere labeled "LOGIC".
+</visual_elaboration>
+</metaphor_analysis>

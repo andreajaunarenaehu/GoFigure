@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Environmental pressures created an atmospheric drag on their development velocity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+External factors slowing down progress.
+</implicit_meaning>
+
+<components>
+<object>Development process, atmospheric resistance</object>
+<properties>Slowing, resistance, pressure</properties>
+<relations>Environmental forces acting against forward movement</relations>
+</components>
+
+<visual_elaboration>
+A rocket struggling to move forward through dense storm clouds labeled with business challenges.
+</visual_elaboration>
+</metaphor_analysis>

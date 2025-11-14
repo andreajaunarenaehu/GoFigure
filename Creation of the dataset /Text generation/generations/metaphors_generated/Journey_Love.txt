@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Love is a winding road with unexpected turns.
+</metaphor>
+<literal_paraphrase>
+Romantic relationships are unpredictable and can take unexpected directions throughout their course.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is completely predictable and follows a straight, unchanging path.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love hit a dead end.
+</metaphor>
+<literal_paraphrase>
+Their relationship reached a point where it could no longer progress or continue.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their love had endless possibilities and continuous growth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a journey without a map.
+</metaphor>
+<literal_paraphrase>
+Romantic relationships develop naturally without predetermined directions or guidelines.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love follows a precise, pre-planned route with clear directions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love crossed many bridges.
+</metaphor>
+<literal_paraphrase>
+Their relationship overcame numerous challenges and obstacles together.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their love never faced any difficulties or challenges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a long-distance trek with shared footsteps.
+</metaphor>
+<literal_paraphrase>
+A romantic relationship requires commitment and mutual support over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is a brief, solitary walk requiring no cooperation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love found shelter in life's storms.
+</metaphor>
+<literal_paraphrase>
+Their relationship provided comfort and security during difficult times.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their love offered no protection or support during hardships.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a scenic route worth taking.
+</metaphor>
+<literal_paraphrase>
+The experience of being in love, despite its challenges, is rewarding and meaningful.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is a wasteful detour with no value or beauty.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love needed a compass to find true north.
+</metaphor>
+<literal_paraphrase>
+Their relationship required guidance and direction to maintain its proper course.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their love was naturally perfect and needed no guidance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a pilgrimage of two souls.
+</metaphor>
+<literal_paraphrase>
+A romantic relationship is a meaningful shared experience of personal growth and discovery.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is a superficial connection without spiritual or personal development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love reached its final destination.
+</metaphor>
+<literal_paraphrase>
+Their relationship achieved its ultimate goal of lasting commitment and fulfillment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their love remained incomplete and unfulfilled.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

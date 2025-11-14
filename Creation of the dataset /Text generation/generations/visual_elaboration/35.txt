@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They wielded the power of change.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Control over transformation or influence.
+</implicit_meaning>
+
+<components>
+<object>Power, Change</object>
+<properties>Tangible, Wieldable, Transformative</properties>
+<relations>Person actively controlling/wielding power</relations>
+</components>
+
+<visual_elaboration>
+A person holding a glowing sword that transforms everything it touches into different forms.
+</visual_elaboration>
+</metaphor_analysis>

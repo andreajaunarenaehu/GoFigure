@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Our perception is an antenna receiving signals from reality.
+</metaphor>
+<literal_paraphrase>
+How we understand the world is similar to how a device captures and processes incoming information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our perception randomly generates ideas without any input from the external world.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mind's reception desk filters incoming experiences.
+</metaphor>
+<literal_paraphrase>
+Our brain selectively processes and organizes sensory information before we become conscious of it.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The mind accepts all information without any filtering or organization.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Perception tunes into reality's broadcast frequency.
+</metaphor>
+<literal_paraphrase>
+Our senses adjust to detect and interpret specific aspects of our environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our perception operates independently of environmental stimuli and reality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The welcome mat of consciousness greets each sensation.
+</metaphor>
+<literal_paraphrase>
+Our awareness actively acknowledges and processes incoming sensory information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our consciousness ignores and rejects all incoming sensations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our senses host a grand reception for reality's guests.
+</metaphor>
+<literal_paraphrase>
+Our sensory systems actively engage with and process environmental stimuli.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our senses remain closed off and unresponsive to environmental input.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mind's reception signal fluctuates with attention.
+</metaphor>
+<literal_paraphrase>
+Our ability to perceive clearly varies depending on our level of focus and attention.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our perception remains constant regardless of attention or focus.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Perception's doorman screens each sensory visitor.
+</metaphor>
+<literal_paraphrase>
+Our brain evaluates and filters incoming sensory information before processing it further.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our brain processes all sensory information without any screening or selection.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The reception hall of awareness echoes with experience.
+</metaphor>
+<literal_paraphrase>
+Our consciousness is shaped and influenced by accumulated sensory experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our awareness remains unchanged and unaffected by experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Reality's messages await at perception's front desk.
+</metaphor>
+<literal_paraphrase>
+Environmental stimuli are constantly available for our conscious processing and interpretation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Environmental stimuli are completely inaccessible to our conscious awareness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mind's reception committee welcomes sensory delegates.
+</metaphor>
+<literal_paraphrase>
+Different parts of our brain work together to process and integrate various types of sensory information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our brain processes each type of sensory information in complete isolation.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

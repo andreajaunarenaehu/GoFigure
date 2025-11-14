@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Economic growth is society's metabolism.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Economic activity functions like a living organism's metabolic processes.
+</implicit_meaning>
+
+<components>
+<object>Economy, Metabolism</object>
+<properties>Continuous flow, Energy conversion, Growth cycles</properties>
+<relations>Society functions as a living organism with economic processes as its metabolic system</relations>
+</components>
+
+<visual_elaboration>
+A human body outline filled with flowing currency symbols and economic graphs instead of blood vessels.
+</visual_elaboration>
+</metaphor_analysis>

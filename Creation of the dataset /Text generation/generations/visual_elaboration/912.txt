@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His masterpiece has landed.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Achievement has been completed or arrived successfully.
+</implicit_meaning>
+
+<components>
+<object>Masterpiece (artwork or creation)</object>
+<properties>Flying, Landing, Arriving</properties>
+<relations>Movement from above to ground, like an aircraft landing</relations>
+</components>
+
+<visual_elaboration>
+A glowing painting with small wings gracefully descending onto a spotlit pedestal.
+</visual_elaboration>
+</metaphor_analysis>

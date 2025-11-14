@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+He devoured every opportunity that came his way.
+</metaphor>
+<literal_paraphrase>
+He eagerly seized and took advantage of every opportunity presented to him.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He ignored and let pass every opportunity that appeared.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She hungrily consumed new experiences.
+</metaphor>
+<literal_paraphrase>
+She actively sought out and embraced new experiences with enthusiasm.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She avoided and feared new experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They feasted on the rewards of their hard work.
+</metaphor>
+<literal_paraphrase>
+They fully enjoyed and benefited from the results of their efforts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They failed to recognize or appreciate the results of their work.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Success was a meal best savored slowly.
+</metaphor>
+<literal_paraphrase>
+Achieving success should be approached gradually and appreciated fully.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Success should be rushed and achieved without consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He nibbled cautiously at the edges of opportunity.
+</metaphor>
+<literal_paraphrase>
+He approached opportunities with hesitation and minimal commitment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He boldly seized opportunities without any hesitation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company digested the new acquisition slowly.
+</metaphor>
+<literal_paraphrase>
+The company gradually integrated and adapted to the new business purchase.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company rushed to implement changes without proper integration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She had an insatiable appetite for knowledge.
+</metaphor>
+<literal_paraphrase>
+She constantly sought to acquire new information and learning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She showed no interest in learning or gaining new knowledge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They chewed through the competition.
+</metaphor>
+<literal_paraphrase>
+They systematically overcame and surpassed their competitors.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They struggled to compete and fell behind their rivals.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The project was too big to swallow at once.
+</metaphor>
+<literal_paraphrase>
+The project was too complex to handle or acquire in a single attempt.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The project was simple enough to complete in one quick effort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She tasted sweet success at last.
+</metaphor>
+<literal_paraphrase>
+She finally achieved and experienced the pleasure of success.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She continued to face failure and disappointment.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

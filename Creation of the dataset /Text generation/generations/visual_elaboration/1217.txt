@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Competing theories, like political opponents, vie for dominance in their field.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intellectual competition and struggle for supremacy.
+</implicit_meaning>
+
+<components>
+<object>Theories and political opponents</object>
+<properties>Competitive, confrontational, seeking dominance</properties>
+<relations>Direct competition, struggle for power and acceptance</relations>
+</components>
+
+<visual_elaboration>
+Two wrestlers in suits with books and papers spilling from their pockets, grappling in an academic arena.
+</visual_elaboration>
+</metaphor_analysis>

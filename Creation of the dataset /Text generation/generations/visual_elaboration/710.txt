@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The anger bubbling inside him erupted into violent force.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Uncontrolled emotional outburst.
+</implicit_meaning>
+
+<components>
+<object>Person, Volcano</object>
+<properties>Bubbling, Erupting, Violent</properties>
+<relations>Internal emotion transforming into external action</relations>
+</components>
+
+<visual_elaboration>
+A human figure shaped like a volcano erupting with red lava and smoke bursting from their head.
+</visual_elaboration>
+</metaphor_analysis>

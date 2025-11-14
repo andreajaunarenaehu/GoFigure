@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She maintains her image like a carefully preserved manuscript cover.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Delicate and meticulous self-preservation of appearance.
+</implicit_meaning>
+
+<components>
+<object>Woman, Manuscript cover</object>
+<properties>Carefully preserved, Protected, Pristine</properties>
+<relations>Maintenance and preservation of appearance/surface</relations>
+</components>
+
+<visual_elaboration>
+A woman encased in a glass display case with ornate manuscript decorations framing her face.
+</visual_elaboration>
+</metaphor_analysis>

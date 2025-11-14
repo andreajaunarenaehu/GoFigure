@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship is a family tree with deep roots.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strong, enduring connection with historical depth.
+</implicit_meaning>
+
+<components>
+<object>Family tree, roots, relationship</object>
+<properties>Deep, strong, established</properties>
+<relations>Connection between people and their shared history</relations>
+</components>
+
+<visual_elaboration>
+A large tree with intertwined roots showing faces of family members in its branches and glowing roots beneath.
+</visual_elaboration>
+</metaphor_analysis>

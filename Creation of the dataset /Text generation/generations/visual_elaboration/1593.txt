@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like mirrors, opportunities reflect what you present to them.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Your approach to opportunities determines their outcome.
+</implicit_meaning>
+
+<components>
+<object>Mirror, Person, Opportunity</object>
+<properties>Reflective, Multiple reflections, Different poses</properties>
+<relations>Person standing before mirror, Mirror showing reflections</relations>
+</components>
+
+<visual_elaboration>
+A person standing before multiple mirrors, each reflection showing different career outfits and success levels.
+</visual_elaboration>
+</metaphor_analysis>

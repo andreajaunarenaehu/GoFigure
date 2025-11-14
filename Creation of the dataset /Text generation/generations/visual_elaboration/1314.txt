@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His temper was a pressure cooker about to explode.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Building anger reaching a dangerous breaking point.
+</implicit_meaning>
+
+<components>
+<object>Person's temper, Pressure cooker</object>
+<properties>Hot, pressurized, volatile, dangerous</properties>
+<relations>Building pressure leading to explosion</relations>
+</components>
+
+<visual_elaboration>
+A red-faced man's head replacing the lid of a shaking pressure cooker with steam bursting from his ears.
+</visual_elaboration>
+</metaphor_analysis>

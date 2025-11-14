@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Perceptions are the prisms that split ideas into spectrum of meaning.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Different viewpoints create varied interpretations of the same idea.
+</implicit_meaning>
+
+<components>
+<object>Prism, Light beam, Color spectrum</object>
+<properties>Transparent, Refractive, Colorful</properties>
+<relations>Splitting, Dispersing, Transforming</relations>
+</components>
+
+<visual_elaboration>
+A crystal prism splitting a white beam labeled "idea" into a rainbow spectrum with words floating in each color.
+</visual_elaboration>
+</metaphor_analysis>

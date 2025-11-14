@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His words were like a deep gash in her confidence.
+</metaphor>
+<literal_paraphrase>
+His cruel comments severely damaged her self-esteem.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His words strengthened and uplifted her confidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The betrayal left a permanent scar on their friendship.
+</metaphor>
+<literal_paraphrase>
+The act of betrayal caused lasting damage to their relationship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The betrayal brought them closer and strengthened their bond.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their harsh criticism was like rubbing salt in an open wound.
+</metaphor>
+<literal_paraphrase>
+Their criticism intensified an existing emotional pain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their criticism helped heal and soothe the existing pain.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company's reputation suffered a compound fracture.
+</metaphor>
+<literal_paraphrase>
+The company's reputation was severely and complexly damaged.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company's reputation remained intact and stronger than ever.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her trust was bruised and swollen from repeated disappointments.
+</metaphor>
+<literal_paraphrase>
+Her ability to trust was damaged by multiple negative experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her trust grew stronger with each new disappointment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The economic crisis left the nation with third-degree burns.
+</metaphor>
+<literal_paraphrase>
+The economic crisis caused severe and lasting damage to the nation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The economic crisis brought prosperity and growth to the nation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their relationship suffered a whiplash from the sudden changes.
+</metaphor>
+<literal_paraphrase>
+Their relationship was damaged by unexpected and abrupt changes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship remained stable and unaffected by the changes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The scandal was a concussion to the organization's integrity.
+</metaphor>
+<literal_paraphrase>
+The scandal severely impacted and disoriented the organization's ethical standing.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The scandal enhanced and clarified the organization's integrity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His ego suffered a sprain from the public rejection.
+</metaphor>
+<literal_paraphrase>
+His self-esteem was temporarily damaged by being rejected publicly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His ego was boosted and strengthened by the public rejection.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The failed project left a bone-deep contusion on team morale.
+</metaphor>
+<literal_paraphrase>
+The project's failure severely impacted the team's motivation and spirit.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The failed project elevated and energized team morale.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

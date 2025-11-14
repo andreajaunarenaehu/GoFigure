@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties are thermal conductors of wealth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Properties transfer and accumulate wealth like heat flows through conductors.
+</implicit_meaning>
+
+<components>
+<object>Properties, thermal conductors, wealth</object>
+<properties>Conductive, transferable, flowing</properties>
+<relations>Properties act as channels that transfer and accumulate wealth</relations>
+</components>
+
+<visual_elaboration>
+A glowing house radiating golden heat waves that transform into flowing coins and dollar signs.
+</visual_elaboration>
+</metaphor_analysis>

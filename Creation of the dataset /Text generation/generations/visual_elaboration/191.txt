@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He locked away his impulses in a secure vault.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Suppressing or controlling one's desires or urges through strict self-discipline.
+</implicit_meaning>
+
+<components>
+<object>Vault, Impulses, Person</object>
+<properties>Secure, Locked, Contained</properties>
+<relations>Person actively containing/imprisoning impulses within vault</relations>
+</components>
+
+<visual_elaboration>
+A steel vault with glowing emotions trying to escape through its cracks while a person turns the lock.
+</visual_elaboration>
+</metaphor_analysis>

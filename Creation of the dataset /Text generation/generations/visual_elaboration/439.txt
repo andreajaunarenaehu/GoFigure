@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their mutual hatred was a shared poison they both drank daily.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-destructive relationship where both parties harm themselves through hatred.
+</implicit_meaning>
+
+<components>
+<object>Poison, Two people</object>
+<properties>Shared, toxic, daily consumption</properties>
+<relations>Both drinking from the same poisonous source</relations>
+</components>
+
+<visual_elaboration>
+Two people sitting across a table, drinking from the same dark toxic liquid through intertwined straws.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The resonant frequency of longing vibrates between seeker and sought.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desire creates an invisible connection between two people.
+</implicit_meaning>
+
+<components>
+<object>Frequency waves, Two people</object>
+<properties>Resonant, Vibrating, Connected</properties>
+<relations>Waves moving between two points, creating connection</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes connected by glowing sound waves that pulse with a heartbeat rhythm.
+</visual_elaboration>
+</metaphor_analysis>

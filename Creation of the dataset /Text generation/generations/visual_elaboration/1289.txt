@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Revolutionary ideas are earthquakes shaking old foundations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Disruptive change that destroys established systems.
+</implicit_meaning>
+
+<components>
+<object>Revolutionary ideas, earthquakes, foundations</object>
+<properties>Destructive, powerful, transformative</properties>
+<relations>Ideas causing disruption to established structures</relations>
+</components>
+
+<visual_elaboration>
+Ancient stone buildings crumbling as glowing lightbulbs emerge from cracks in the ground.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's running on backup power, pushing through despite exhaustion.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Operating with minimal energy and exhausted resources.
+</implicit_meaning>
+
+<components>
+<object>Person, Battery</object>
+<properties>Low energy, depleted, struggling</properties>
+<relations>Person functioning like a dying battery</relations>
+</components>
+
+<visual_elaboration>
+A tired woman with a battery icon at 5% glowing dimly through her chest.
+</visual_elaboration>
+</metaphor_analysis>

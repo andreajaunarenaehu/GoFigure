@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He's walking through a minefield of emotions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Navigating dangerous and unpredictable feelings.
+</implicit_meaning>
+
+<components>
+<object>Person, minefield, emotions</object>
+<properties>Dangerous, explosive, unpredictable</properties>
+<relations>Person carefully walking through hazardous emotional territory</relations>
+</components>
+
+<visual_elaboration>
+A person tiptoeing across a field where landmines are replaced with colorful emotion symbols that glow ominously.
+</visual_elaboration>
+</metaphor_analysis>

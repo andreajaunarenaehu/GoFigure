@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope is a lighthouse on life's shores.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hope provides guidance and safety in difficult times.
+</implicit_meaning>
+
+<components>
+<object>Lighthouse, Shore</object>
+<properties>Bright, guiding, steady, protective</properties>
+<relations>Lighthouse illuminates dark waters, guides ships to safety</relations>
+</components>
+
+<visual_elaboration>
+A bright lighthouse beam cutting through storm clouds, illuminating a rocky shoreline with golden light.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The problem unraveled like a stubborn tangle of yarn.
+</metaphor>
+<literal_paraphrase>
+The complex problem gradually became clearer and more manageable through patient effort.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem instantly became more complicated and impossible to solve.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a Gordian knot of complications.
+</metaphor>
+<literal_paraphrase>
+This problem is extremely complex and seems impossible to resolve through conventional means.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This problem is straightforward and has an obvious solution.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She pulled at the threads of the problem until it came loose.
+</metaphor>
+<literal_paraphrase>
+She systematically examined different aspects of the problem until she found a solution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She ignored the problem's components and it became more confused.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem's knots tightened with each attempted solution.
+</metaphor>
+<literal_paraphrase>
+The situation became more complicated with each failed attempt to solve it.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem became simpler with every mistake made.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We need to find the master thread in this tangled problem.
+</metaphor>
+<literal_paraphrase>
+We must identify the key aspect that will help us solve this complex problem.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We should ignore the main issue and focus on irrelevant details.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem's snarls loosened under careful analysis.
+</metaphor>
+<literal_paraphrase>
+The difficult aspects of the problem became more manageable through methodical examination.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem became more confusing when carefully studied.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a nest of intertwined complications.
+</metaphor>
+<literal_paraphrase>
+This problem consists of multiple interconnected issues that are difficult to separate.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This problem is simple and its components are completely independent.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The solution lies in the heart of the tangle.
+</metaphor>
+<literal_paraphrase>
+The key to solving this problem is hidden within its most complex part.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The solution is obvious and superficial, requiring no deep investigation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time and patience will untangle this problem's knots.
+</metaphor>
+<literal_paraphrase>
+With sufficient time and persistent effort, this difficult problem can be solved.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Quick and careless actions will immediately solve this problem.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each strand of the problem must be carefully separated.
+</metaphor>
+<literal_paraphrase>
+Every aspect of the problem needs to be individually examined and addressed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem should be handled as one unit without analyzing its components.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

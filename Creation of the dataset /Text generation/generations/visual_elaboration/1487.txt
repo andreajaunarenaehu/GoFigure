@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each second is a meteor hurtling toward Earth's atmosphere.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is rapidly and dramatically passing by.
+</implicit_meaning>
+
+<components>
+<object>Seconds (time), Meteor, Earth</object>
+<properties>Fast-moving, burning, inevitable</properties>
+<relations>Meteor falling toward Earth, representing passage of time</relations>
+</components>
+
+<visual_elaboration>
+A clock face with burning meteors instead of hands streaking toward Earth below.
+</visual_elaboration>
+</metaphor_analysis>

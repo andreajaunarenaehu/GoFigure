@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're building bridges across this problem's gaps.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creating solutions to overcome difficulties.
+</implicit_meaning>
+
+<components>
+<object>Bridge, Gap, Problem</object>
+<properties>Constructive, Spanning, Connecting</properties>
+<relations>Bridge connecting two sides across a gap representing a problem</relations>
+</components>
+
+<visual_elaboration>
+Two people constructing a wooden bridge across a deep canyon with tools in hand.
+</visual_elaboration>
+</metaphor_analysis>

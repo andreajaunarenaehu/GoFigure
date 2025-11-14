@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her beliefs were still in their infancy, tender and vulnerable.
+</linguistic_metaphor>
+
+<implicit_meaning>
+New and fragile ideas that need protection to grow.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Baby/Infant</object>
+<properties>Tender, vulnerable, new, delicate</properties>
+<relations>Beliefs are compared to a newborn baby requiring care and protection</relations>
+</components>
+
+<visual_elaboration>
+A tiny baby plant sprouting from soil, protected by a glass dome.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time hunts down every second, leaving none to escape.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is relentless and unstoppable.
+</implicit_meaning>
+
+<components>
+<object>Time, Seconds</object>
+<properties>Predatory, Relentless, Unstoppable</properties>
+<relations>Hunting, Pursuing, Capturing</relations>
+</components>
+
+<visual_elaboration>
+A wolf-like clock chasing and catching floating numbers through a dark void.
+</visual_elaboration>
+</metaphor_analysis>

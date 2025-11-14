@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Passion prescribed a daily dose of chaos.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strong emotions lead to disorder and unpredictability.
+</implicit_meaning>
+
+<components>
+<object>Passion, Medicine/Prescription, Chaos</object>
+<properties>Daily, Medical, Uncontrolled</properties>
+<relations>Passion acts as a doctor prescribing chaos as medicine</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped pill bottle spilling swirling colorful tornado-like contents onto a prescription pad.
+</visual_elaboration>
+</metaphor_analysis>

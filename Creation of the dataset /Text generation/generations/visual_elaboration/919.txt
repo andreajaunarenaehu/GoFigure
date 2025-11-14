@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The invention has made its final stop.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The invention has reached its end or completion.
+</implicit_meaning>
+
+<components>
+<object>Invention, Train/Vehicle</object>
+<properties>Final, Stopped, End point</properties>
+<relations>Movement to stillness, Journey's end</relations>
+</components>
+
+<visual_elaboration>
+A train-shaped invention pulling into its last station with steam dissipating and wheels locked.
+</visual_elaboration>
+</metaphor_analysis>

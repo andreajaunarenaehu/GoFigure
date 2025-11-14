@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The lid of darkness closed over the landscape.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Night falling and covering the land completely.
+</implicit_meaning>
+
+<components>
+<object>Darkness as a lid, Landscape</object>
+<properties>Closing, covering, descending</properties>
+<relations>Darkness acting as a physical lid coming down over the land</relations>
+</components>
+
+<visual_elaboration>
+A giant black lid descending from the sky, casting shadows over a sunlit landscape below.
+</visual_elaboration>
+</metaphor_analysis>

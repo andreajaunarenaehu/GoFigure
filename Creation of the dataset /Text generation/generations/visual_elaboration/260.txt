@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our beliefs are compass needles pointing to our true north.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs guide our life direction and moral choices.
+</implicit_meaning>
+
+<components>
+<object>Compass, Beliefs</object>
+<properties>Directional, Guiding, Pointing</properties>
+<relations>Beliefs act as guidance tools like compass needles pointing north</relations>
+</components>
+
+<visual_elaboration>
+Multiple compass needles emerging from a human head, all pointing toward a bright North Star.
+</visual_elaboration>
+</metaphor_analysis>

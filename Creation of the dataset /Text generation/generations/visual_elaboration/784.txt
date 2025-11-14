@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a ricocheting bullet, force multiplies its impact through reflection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Actions gain power through repeated indirect effects.
+</implicit_meaning>
+
+<components>
+<object>Bullet, Force</object>
+<properties>Ricocheting, Multiplying, Reflecting</properties>
+<relations>Impact increasing through bouncing movement</relations>
+</components>
+
+<visual_elaboration>
+A glowing bullet bouncing between mirrors, growing larger with each reflection.
+</visual_elaboration>
+</metaphor_analysis>

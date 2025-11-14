@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The weight of his obligations leaked through cracked containers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming responsibilities escaping control.
+</implicit_meaning>
+
+<components>
+<object>Obligations, Containers</object>
+<properties>Heavy, Cracked, Leaking</properties>
+<relations>Weight pressing and escaping through cracks</relations>
+</components>
+
+<visual_elaboration>
+A person carrying cracked glass boxes with dark liquid seeping through, weighing them down.
+</visual_elaboration>
+</metaphor_analysis>

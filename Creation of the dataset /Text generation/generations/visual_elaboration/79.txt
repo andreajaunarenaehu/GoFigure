@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The bridge of causality spans between action and reaction.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Every action has a direct consequence connected to it.
+</implicit_meaning>
+
+<components>
+<object>Bridge, Action, Reaction</object>
+<properties>Connecting, Spanning, Linking</properties>
+<relations>Bridge connects two points (action and reaction) across a gap</relations>
+</components>
+
+<visual_elaboration>
+A stone bridge connecting two floating islands, one labeled "Action" and one "Reaction."
+</visual_elaboration>
+</metaphor_analysis>

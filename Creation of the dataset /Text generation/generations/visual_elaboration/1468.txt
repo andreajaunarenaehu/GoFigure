@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each brainstorm deposits new layers of conceptual sediment.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas accumulate and build upon each other like geological layers.
+</implicit_meaning>
+
+<components>
+<object>Brainstorm, Sediment layers</object>
+<properties>Layered, Accumulating, Building</properties>
+<relations>Depositing, Stacking</relations>
+</components>
+
+<visual_elaboration>
+A human brain with glowing layers of different colored sediment stacking up inside it.
+</visual_elaboration>
+</metaphor_analysis>

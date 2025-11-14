@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These theoretical covers are woven from threads of assumption and observation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Theories are constructed from multiple pieces of evidence and guesses.
+</implicit_meaning>
+
+<components>
+<object>Theoretical covers, threads</object>
+<properties>Woven, interconnected, mixed materials</properties>
+<relations>Threads (assumptions and observations) combine to form a larger covering (theory)</relations>
+</components>
+
+<visual_elaboration>
+A blanket being woven on a loom with golden threads labeled "assumptions" and silver threads labeled "observations".
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The company is navigating through troubled waters.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The company is facing difficult challenges and uncertainty.
+</implicit_meaning>
+
+<components>
+<object>Company, Ship, Stormy Waters</object>
+<properties>Turbulent, Dangerous, Challenging</properties>
+<relations>Moving through, Struggling against</relations>
+</components>
+
+<visual_elaboration>
+A small ship with a company logo sailing through dark, stormy waves with lightning overhead.
+</visual_elaboration>
+</metaphor_analysis>

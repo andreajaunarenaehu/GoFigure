@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The winds of change are sweeping through the industry.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapid transformation and disruption.
+</implicit_meaning>
+
+<components>
+<object>Wind, Industry buildings</object>
+<properties>Strong, forceful, transformative</properties>
+<relations>Wind moving through and affecting buildings/structures</relations>
+</components>
+
+<visual_elaboration>
+Factory buildings being transformed by swirling winds, with old structures dissolving into new modern ones.
+</visual_elaboration>
+</metaphor_analysis>

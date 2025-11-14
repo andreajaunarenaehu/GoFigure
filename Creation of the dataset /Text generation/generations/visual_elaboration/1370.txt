@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Fear is a freezing wind that paralyzes the soul.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fear immobilizes and chills one's inner being.
+</implicit_meaning>
+
+<components>
+<object>Fear, wind, soul</object>
+<properties>Freezing, paralyzing, cold</properties>
+<relations>Wind acts upon soul, causing it to freeze and become immobile</relations>
+</components>
+
+<visual_elaboration>
+A glowing human soul encased in ice crystals with swirling blue wind around it.
+</visual_elaboration>
+</metaphor_analysis>

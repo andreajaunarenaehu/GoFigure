@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His wealth evaporated in the market crash.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden and complete loss of money.
+</implicit_meaning>
+
+<components>
+<object>Wealth, liquid/vapor</object>
+<properties>Disappearing, transforming from liquid to vapor</properties>
+<relations>Market crash causing the evaporation</relations>
+</components>
+
+<visual_elaboration>
+Dollar bills dissolving into steam rising from a cracked piggy bank.
+</visual_elaboration>
+</metaphor_analysis>

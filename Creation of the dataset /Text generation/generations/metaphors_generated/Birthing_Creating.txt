@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The idea labored through her mind until it crowned into existence.
+</metaphor>
+<literal_paraphrase>
+She gradually developed her idea until it was fully formed and ready to share.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The idea appeared instantly and without any development process.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His project went through painful contractions before delivering success.
+</metaphor>
+<literal_paraphrase>
+His project faced several challenging phases before reaching completion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His project proceeded smoothly without any difficulties or phases.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company's new product needed nine months of gestation before launch.
+</metaphor>
+<literal_paraphrase>
+The company's new product required a long development period before release.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company's new product was rushed to market without proper development time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She nurtured her startup through its first breaths of life.
+</metaphor>
+<literal_paraphrase>
+She carefully guided her startup through its initial stages of development.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She abandoned her startup during its crucial early stages.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The artist's masterpiece emerged after a long creative labor.
+</metaphor>
+<literal_paraphrase>
+The artist completed their masterwork after an extended period of intense effort.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The artist's work was hastily produced with minimal effort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His novel experienced a difficult delivery into the publishing world.
+</metaphor>
+<literal_paraphrase>
+His novel faced many challenges before finally being published.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His novel was easily and immediately accepted for publication.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The team midwifed the project through its final stages.
+</metaphor>
+<literal_paraphrase>
+The team carefully guided the project through its completion phase.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The team abandoned the project in its final stages.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their innovation required careful prenatal care before seeing daylight.
+</metaphor>
+<literal_paraphrase>
+Their innovation needed thorough preparation and development before launch.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their innovation was released without any preparation or development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The screenplay underwent multiple ultrasounds before its final form emerged.
+</metaphor>
+<literal_paraphrase>
+The screenplay went through multiple revisions before reaching its final version.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The screenplay was completed in one draft without any revisions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each new design was delivered after months of creative conception.
+</metaphor>
+<literal_paraphrase>
+Each new design required extensive planning and development time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each new design was produced spontaneously without planning.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The vodka razed his rational thoughts to the ground.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Alcohol destroys clear thinking.
+</implicit_meaning>
+
+<components>
+<object>Vodka, rational thoughts</object>
+<properties>Destructive, demolishing</properties>
+<relations>Vodka acts as a demolishing force against thoughts</relations>
+</components>
+
+<visual_elaboration>
+A wrecking ball shaped like a vodka bottle smashing into a glass brain structure.
+</visual_elaboration>
+</metaphor_analysis>

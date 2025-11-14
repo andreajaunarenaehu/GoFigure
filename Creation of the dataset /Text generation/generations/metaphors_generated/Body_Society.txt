@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Society's immune system fights against corruption and crime.
+</metaphor>
+<literal_paraphrase>
+Social institutions and law enforcement work to protect society from harmful elements and illegal activities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Society has no natural defenses against harmful elements and completely accepts corruption and crime.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The heart of society pumps life into its communities.
+</metaphor>
+<literal_paraphrase>
+Cultural centers and community gathering places provide vital energy and sustenance to social groups.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Communities are disconnected and lifeless, with no central source of vitality or connection.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Social inequality is a chronic pain in society's joints.
+</metaphor>
+<literal_paraphrase>
+Persistent social disparities create ongoing problems that limit society's proper functioning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Social inequality strengthens society and promotes healthy social functioning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Education is the backbone of society.
+</metaphor>
+<literal_paraphrase>
+Education provides essential structure and support for social development and progress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Education is irrelevant to society's structure and development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Cultural traditions are society's DNA.
+</metaphor>
+<literal_paraphrase>
+Cultural traditions contain the essential information that defines and shapes society's identity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Cultural traditions have no role in determining society's characteristics or identity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Social media is society's nervous system.
+</metaphor>
+<literal_paraphrase>
+Social media networks transmit information and connect different parts of society.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Social media isolates and disconnects different parts of society.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Economic growth is society's metabolism.
+</metaphor>
+<literal_paraphrase>
+Economic activity processes and distributes resources throughout society.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Economic activity has no effect on society's resource distribution or functioning.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Environmental pollution is a cancer growing in society's organs.
+</metaphor>
+<literal_paraphrase>
+Environmental degradation progressively damages essential components of social systems.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Environmental pollution strengthens and improves social systems.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The government is society's brain.
+</metaphor>
+<literal_paraphrase>
+The government controls and coordinates various social functions and makes decisions for society.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The government has no role in coordinating or decision-making for society.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Social movements are society's muscles flexing for change.
+</metaphor>
+<literal_paraphrase>
+Social movements represent collective action that generates force for social change.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Social movements weaken society and prevent any meaningful change.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They embroidered their basic theory with elaborate details.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Adding unnecessary complexity to a simple concept.
+</implicit_meaning>
+
+<components>
+<object>Theory, Embroidery</object>
+<properties>Basic becoming elaborate, decorative</properties>
+<relations>Adding details like adding stitches to fabric</relations>
+</components>
+
+<visual_elaboration>
+A simple paper document transforming into an ornately embroidered tapestry with golden threads spilling over its edges.
+</visual_elaboration>
+</metaphor_analysis>

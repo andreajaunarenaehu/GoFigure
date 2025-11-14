@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their conceit prints self-worth like worthless paper money.
+</linguistic_metaphor>
+
+<implicit_meaning>
+False value and artificial self-importance.
+</implicit_meaning>
+
+<components>
+<object>Conceit, Paper money</object>
+<properties>Worthless, Self-printed, Artificial</properties>
+<relations>Printing/creating false value</relations>
+</components>
+
+<visual_elaboration>
+A person printing fake money with their face on it, but the bills are visibly dissolving at the edges.
+</visual_elaboration>
+</metaphor_analysis>

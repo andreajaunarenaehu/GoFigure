@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The parent theory has spawned many offspring in different fields.
+</linguistic_metaphor>
+
+<implicit_meaning>
+One main idea giving birth to multiple related ideas.
+</implicit_meaning>
+
+<components>
+<object>Theory, offspring (derivative theories)</object>
+<properties>Reproductive, generative, branching</properties>
+<relations>Parent-child relationship between theories, spreading across fields</relations>
+</components>
+
+<visual_elaboration>
+A large book sprouting smaller books from its pages, each with different colored covers branching outward.
+</visual_elaboration>
+</metaphor_analysis>

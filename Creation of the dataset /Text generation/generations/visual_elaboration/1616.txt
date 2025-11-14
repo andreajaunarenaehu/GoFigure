@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The community developed antibodies against extremist propaganda.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The community built natural defenses against harmful ideologies.
+</implicit_meaning>
+
+<components>
+<object>Community, Antibodies, Propaganda</object>
+<properties>Protective, Defensive, Harmful</properties>
+<relations>Community fighting against harmful elements like an immune system</relations>
+</components>
+
+<visual_elaboration>
+A human body outline filled with people fighting off dark virus-like shapes labeled "propaganda."
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Writing is the net that captures fleeting ideas.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Writing helps preserve thoughts that would otherwise escape.
+</implicit_meaning>
+
+<components>
+<object>Net (writing), Ideas (as butterflies or floating objects)</object>
+<properties>Capturing, fleeting, ephemeral</properties>
+<relations>Net actively catching/containing floating ideas</relations>
+</components>
+
+<visual_elaboration>
+A notebook-shaped net catching glowing butterflies that represent ideas in mid-flight.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,118 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The race for success is a feeding frenzy of hungry sharks.
+</metaphor>
+<literal_paraphrase>
+Competition for success is intense and aggressive, with many participants desperately seeking the same goal.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The pursuit of success is a peaceful, cooperative endeavor where everyone shares resources equally.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Competitors circle like vultures over the last remaining opportunity.
+</metaphor>
+<literal_paraphrase>
+Multiple competitors anxiously wait and watch for a chance to seize a scarce opportunity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competitors ignore available opportunities and show no interest in pursuing them.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The marketplace is a battlefield of starving lions fighting over the last piece of meat.
+</metaphor>
+<literal_paraphrase>
+Business competition is fierce and ruthless when resources are scarce.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The marketplace is a peaceful garden where everyone has abundant resources.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Rivals are scavengers scrambling for the remaining crumbs.
+</metaphor>
+<literal_paraphrase>
+Competitors desperately fight for even the smallest advantages or opportunities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Rivals generously share all available resources and opportunities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The gold rush of opportunity turns civilized people into desperate prospectors.
+</metaphor>
+<literal_paraphrase>
+The pursuit of valuable opportunities can make people abandon their usual behavior and become aggressive competitors.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Valuable opportunities bring out the most cooperative and generous aspects of human nature.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Competitors are piranhas in a feeding pool of limited resources.
+</metaphor>
+<literal_paraphrase>
+When resources are scarce, competitors become aggressive and destructive in their pursuit.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competitors act with restraint and consideration when resources are limited.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The last contract is a bone that every dog in town is fighting for.
+</metaphor>
+<literal_paraphrase>
+A valuable business opportunity attracts intense competition from all possible competitors.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Valuable opportunities are ignored by potential competitors who prefer to work together.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Success-hungry rivals are mice scrambling for the last piece of cheese.
+</metaphor>
+<literal_paraphrase>
+Competitors frantically pursue limited opportunities with desperate determination.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competitors calmly wait their turn and share opportunities equally.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The market is a nest of seagulls fighting over a single fish.
+</metaphor>
+<literal_paraphrase>
+Multiple competitors aggressively pursue a single available opportunity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The market provides abundant opportunities for all participants to succeed independently.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Competitors are hyenas circling the last remaining prey.
+</metaphor>
+<literal_paraphrase>
+Multiple competitors aggressively position themselves to seize a scarce opportunity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Competitors peacefully share opportunities without aggression or urgency

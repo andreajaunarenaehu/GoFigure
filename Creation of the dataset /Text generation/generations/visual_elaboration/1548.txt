@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence waters the garden of compliance growth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules leads to better organizational behavior.
+</implicit_meaning>
+
+<components>
+<object>Garden, Water, Growth</object>
+<properties>Nurturing, Cultivation, Development</properties>
+<relations>Watering action leads to growth and flourishing</relations>
+</components>
+
+<visual_elaboration>
+A garden of blooming rulebooks being watered by a person in business attire with a watering can.
+</visual_elaboration>
+</metaphor_analysis>

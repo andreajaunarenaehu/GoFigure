@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She nurtured her startup through its first breaths of life.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Carefully supporting and growing a new business like a newborn baby.
+</implicit_meaning>
+
+<components>
+<object>Startup business, Mother/Caregiver</object>
+<properties>New, fragile, growing</properties>
+<relations>Nurturing, caring, protecting</relations>
+</components>
+
+<visual_elaboration>
+A woman cradling a glowing business logo like a baby, wrapped in a blanket with startup metrics floating above.
+</visual_elaboration>
+</metaphor_analysis>

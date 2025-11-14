@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+People try on beliefs like new outfits, seeing which ones fit their personality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs are temporary and changeable like clothing choices.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Clothing, People</object>
+<properties>Changeable, Fitting, Temporary</properties>
+<relations>People actively trying different beliefs like clothes in a fitting room</relations>
+</components>
+
+<visual_elaboration>
+A person in a dressing room mirror trying on different thought bubbles like clothing items hanging on a rack.
+</visual_elaboration>
+</metaphor_analysis>

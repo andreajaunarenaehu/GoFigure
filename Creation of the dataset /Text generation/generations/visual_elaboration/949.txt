@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mask of darkness concealed the world's true face.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hidden truth beneath surface appearances.
+</implicit_meaning>
+
+<components>
+<object>Darkness as a mask, World's face</object>
+<properties>Concealing, mysterious, layered</properties>
+<relations>Darkness hiding/covering reality</relations>
+</components>
+
+<visual_elaboration>
+A half-masked globe with darkness covering one side and vibrant reality revealed on the other.
+</visual_elaboration>
+</metaphor_analysis>

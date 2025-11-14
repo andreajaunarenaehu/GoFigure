@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's intoxicated by the need for perfection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Obsessive and consumed by perfectionism.
+</implicit_meaning>
+
+<components>
+<object>Person, Wine/Alcohol</object>
+<properties>Dizziness, loss of control, addiction</properties>
+<relations>Person being consumed/overwhelmed by perfectionism as if by alcohol</relations>
+</components>
+
+<visual_elaboration>
+A woman spinning in a whirlpool made of measuring tapes and rulers, with dizzy spiral eyes.
+</visual_elaboration>
+</metaphor_analysis>

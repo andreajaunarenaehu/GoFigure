@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her anger was a raging inferno that consumed everything in its path.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive and uncontrollable anger.
+</implicit_meaning>
+
+<components>
+<object>Anger, Fire/Inferno</object>
+<properties>Raging, consuming, destructive</properties>
+<relations>The anger is depicted as a fire that destroys everything around it</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette filled with flames, burning objects swirling around her in a destructive spiral.
+</visual_elaboration>
+</metaphor_analysis>

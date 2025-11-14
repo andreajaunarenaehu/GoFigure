@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The emptiness carved canyons of pain.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Deep emotional suffering caused by loneliness or loss.
+</implicit_meaning>
+
+<components>
+<object>Canyons, Emptiness</object>
+<properties>Deep, Carved, Hollow</properties>
+<relations>Emptiness actively creating deep emotional wounds</relations>
+</components>
+
+<visual_elaboration>
+A human silhouette with deep canyon-like cracks running through their body, revealing darkness inside.
+</visual_elaboration>
+</metaphor_analysis>

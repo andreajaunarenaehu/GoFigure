@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His jokes left deep emotional scars that never fully healed.
+</metaphor>
+<literal_paraphrase>
+The humorous remarks had lasting positive effects on people's emotional well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His jokes had no lasting impact and were immediately forgotten.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her wit was a bandage for their wounded spirits.
+</metaphor>
+<literal_paraphrase>
+Her humor helped people cope with and recover from emotional difficulties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her wit only deepened people's emotional pain and suffering.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The comedian's words were a healing balm for society's bruises.
+</metaphor>
+<literal_paraphrase>
+The comedian's humor helped address and soothe social tensions and problems.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The comedian's words intensified social divisions and created more problems.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Laughter was their first aid kit in times of crisis.
+</metaphor>
+<literal_paraphrase>
+Humor served as an immediate coping mechanism during difficult situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Laughter only made crisis situations worse and more unbearable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His comedy routine was emergency surgery for their depression.
+</metaphor>
+<literal_paraphrase>
+His humor provided crucial and immediate relief from negative emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His comedy routine deepened their depression and emotional distress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their shared jokes were stitches binding their friendship together.
+</metaphor>
+<literal_paraphrase>
+Humor strengthened and maintained their relationship bonds.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their attempts at humor tore their friendship apart.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each punchline was a pain reliever for life's headaches.
+</metaphor>
+<literal_paraphrase>
+Humor helped alleviate daily stress and minor problems.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each attempt at humor only added to life's difficulties and stress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her witty remarks were antiseptic for toxic situations.
+</metaphor>
+<literal_paraphrase>
+Her humor helped neutralize and improve negative social situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her attempts at wit only made toxic situations more poisonous.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their laughter was a cast supporting their broken spirits.
+</metaphor>
+<literal_paraphrase>
+Their shared humor provided stability and support during emotional difficulties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their laughter only destabilized their already fragile emotional state.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Comedy was the rehabilitation therapy for their troubled minds.
+</metaphor>
+<literal_paraphrase>
+Humor helped people recover and maintain mental well-being over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Comedy only hindered mental recovery and created more psychological problems.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

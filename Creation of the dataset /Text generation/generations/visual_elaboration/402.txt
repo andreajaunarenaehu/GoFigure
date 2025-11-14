@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her inner compass guides her artistic abilities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Natural intuition directing creative talent.
+</implicit_meaning>
+
+<components>
+<object>Compass, Artist</object>
+<properties>Internal, directional, guiding</properties>
+<relations>Compass directing artistic flow</relations>
+</components>
+
+<visual_elaboration>
+A glowing compass embedded in a woman's chest radiating colorful paint strokes outward.
+</visual_elaboration>
+</metaphor_analysis>

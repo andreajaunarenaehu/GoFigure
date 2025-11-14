@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The company pivoted from loss to profit.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A dramatic business turnaround from failure to success.
+</implicit_meaning>
+
+<components>
+<object>Company, Pivot point</object>
+<properties>Movement, Direction change, Financial state</properties>
+<relations>Transformation from negative to positive state</relations>
+</components>
+
+<visual_elaboration>
+A seesaw with red arrows pointing down on one side pivoting to green arrows pointing up on the other.
+</visual_elaboration>
+</metaphor_analysis>

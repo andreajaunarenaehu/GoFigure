@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+White blood cells are the soldiers patrolling our bloodstream.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Protection and defense of the body against threats.
+</implicit_meaning>
+
+<components>
+<object>White blood cells, soldiers</object>
+<properties>Protective, vigilant, defensive</properties>
+<relations>Patrolling through blood vessels like soldiers on guard</relations>
+</components>
+
+<visual_elaboration>
+Armored white blood cells carrying shields and spears marching through red vessel tunnels.
+</visual_elaboration>
+</metaphor_analysis>

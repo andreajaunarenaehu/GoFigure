@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time flows like liquid assets through our fingers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time and money are both valuable resources that can easily slip away.
+</implicit_meaning>
+
+<components>
+<object>Time, liquid, money, hands</object>
+<properties>Flowing, slipping, valuable, uncontrollable</properties>
+<relations>Movement through fingers, inability to grasp</relations>
+</components>
+
+<visual_elaboration>
+Hands cupping golden liquid that transforms into clock faces as it drips between fingers.
+</visual_elaboration>
+</metaphor_analysis>

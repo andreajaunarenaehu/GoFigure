@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is an enchanted garden that grows with care.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love requires nurturing and attention to flourish.
+</implicit_meaning>
+
+<components>
+<object>Garden, Love</object>
+<properties>Enchanted, Growing, Magical</properties>
+<relations>Requires care and nurturing to grow and bloom</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart-shaped garden with blooming flowers and a person tenderly watering magical plants.
+</visual_elaboration>
+</metaphor_analysis>

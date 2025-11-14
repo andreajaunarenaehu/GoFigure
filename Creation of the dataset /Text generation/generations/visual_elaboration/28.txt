@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Chronic diseases are long-term sieges on the body's fortress.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Persistent attack and wearing down of health defenses over time.
+</implicit_meaning>
+
+<components>
+<object>Body as fortress, diseases as attacking forces</object>
+<properties>Long-lasting, defensive, under attack</properties>
+<relations>Disease forces surrounding and attacking body's defenses</relations>
+</components>
+
+<visual_elaboration>
+A medieval fortress with crumbling walls under attack by dark shadowy armies wielding disease symbols.
+</visual_elaboration>
+</metaphor_analysis>

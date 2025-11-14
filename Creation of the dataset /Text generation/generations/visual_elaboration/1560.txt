@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her emotions were a padded cell of confusion.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Trapped and disoriented in one's own emotional state.
+</implicit_meaning>
+
+<components>
+<object>Emotions, Padded Cell</object>
+<properties>Confined, Soft, Disorienting</properties>
+<relations>Person contained within emotional space</relations>
+</components>
+
+<visual_elaboration>
+A woman sitting in a white padded cell with swirling, misty emotions forming the walls around her.
+</visual_elaboration>
+</metaphor_analysis>

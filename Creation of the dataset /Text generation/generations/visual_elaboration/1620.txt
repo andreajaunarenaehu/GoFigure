@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each subject is an unexplored territory waiting to be mapped.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Learning is like discovering new lands.
+</implicit_meaning>
+
+<components>
+<object>Academic subject, Territory/Map</object>
+<properties>Unexplored, Unknown, Waiting for discovery</properties>
+<relations>Subject is compared to land that needs mapping/exploration</relations>
+</components>
+
+<visual_elaboration>
+An open textbook transforming into an ancient map with uncharted regions and compass rose.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her grief was a blinding midnight with no stars.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complete darkness representing deep sadness and hopelessness.
+</implicit_meaning>
+
+<components>
+<object>Grief, Midnight sky</object>
+<properties>Blinding, starless, dark</properties>
+<relations>Grief is compared to a dark night without any light</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette surrounded by pitch-black darkness with empty spaces where stars should be.
+</visual_elaboration>
+</metaphor_analysis>

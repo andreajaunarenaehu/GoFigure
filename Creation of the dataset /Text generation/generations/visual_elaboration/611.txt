@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Writing is the chisel that sculpts raw ideas into masterpieces.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Writing transforms rough thoughts into refined works.
+</implicit_meaning>
+
+<components>
+<object>Chisel, Ideas, Masterpiece</object>
+<properties>Raw, transformative, refined</properties>
+<relations>Sculpting action, transformation process</relations>
+</components>
+
+<visual_elaboration>
+A glowing chisel carving shapeless clouds into a beautiful marble statue.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their friendship swayed like pendulums in perfect sync.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A harmonious and balanced relationship.
+</implicit_meaning>
+
+<components>
+<object>Friendship, Pendulums</object>
+<properties>Synchronized, Rhythmic, Balanced</properties>
+<relations>Moving together in harmony</relations>
+</components>
+
+<visual_elaboration>
+Two identical pendulums swinging side by side with smiling faces, connected by a glowing thread.
+</visual_elaboration>
+</metaphor_analysis>

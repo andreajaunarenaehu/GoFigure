@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some people are like old batteries, losing capacity over time.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual decline in energy and vitality with age.
+</implicit_meaning>
+
+<components>
+<object>People, Batteries</object>
+<properties>Old, diminishing power, worn out</properties>
+<relations>Parallel between human energy decline and battery drainage</relations>
+</components>
+
+<visual_elaboration>
+An elderly person's silhouette filled with a battery indicator showing low power and flickering bars.
+</visual_elaboration>
+</metaphor_analysis>

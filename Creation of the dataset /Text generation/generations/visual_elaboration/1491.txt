@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their compliance standards were a snug fit around operations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Regulations perfectly constrain and control business operations.
+</implicit_meaning>
+
+<components>
+<object>Compliance standards, Business operations</object>
+<properties>Snug, Fitting, Constraining</properties>
+<relations>Standards wrapping around operations like a tight garment</relations>
+</components>
+
+<visual_elaboration>
+A business building wrapped tightly in a measuring tape marked with "Compliance" text.
+</visual_elaboration>
+</metaphor_analysis>

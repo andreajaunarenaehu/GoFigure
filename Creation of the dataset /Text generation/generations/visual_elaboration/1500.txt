@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her gentle self-embrace melted the frozen walls of anxiety.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-compassion dissolves emotional barriers.
+</implicit_meaning>
+
+<components>
+<object>Frozen walls, Self-embrace</object>
+<properties>Gentle, Frozen, Melting</properties>
+<relations>The act of embracing causes melting of walls</relations>
+</components>
+
+<visual_elaboration>
+A woman hugging herself while ice walls around her dissolve into warm puddles.
+</visual_elaboration>
+</metaphor_analysis>

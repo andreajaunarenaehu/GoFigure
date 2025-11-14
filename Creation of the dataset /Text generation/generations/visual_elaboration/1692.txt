@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their theory is a fortress built on sand.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstable foundation despite appearing strong.
+</implicit_meaning>
+
+<components>
+<object>Fortress, sand, theory</object>
+<properties>Unstable, crumbling, temporary</properties>
+<relations>Structure built on weak foundation</relations>
+</components>
+
+<visual_elaboration>
+A grand stone fortress tilting and cracking as its sandy foundation erodes away.
+</visual_elaboration>
+</metaphor_analysis>

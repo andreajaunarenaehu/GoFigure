@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her trust was a chalk sculpture in the rain.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Trust that is fragile and easily destroyed.
+</implicit_meaning>
+
+<components>
+<object>Trust, chalk sculpture, rain</object>
+<properties>Fragile, dissolving, temporary</properties>
+<relations>Rain destroying the chalk sculpture</relations>
+</components>
+
+<visual_elaboration>
+A beautiful chalk sculpture of hands clasped together melting under heavy raindrops.
+</visual_elaboration>
+</metaphor_analysis>

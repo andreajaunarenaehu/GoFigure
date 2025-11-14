@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They chewed through the competition.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Easily defeated or dominated their opponents.
+</implicit_meaning>
+
+<components>
+<object>Person or team, teeth/mouth</object>
+<properties>Sharp, aggressive, destructive</properties>
+<relations>Action of chewing/destroying opponents</relations>
+</components>
+
+<visual_elaboration>
+A person with sharp teeth biting through paper figures labeled "competition" that crumble apart.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like magnets, opportunities attract those who are properly aligned.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Success comes to those who position themselves correctly.
+</implicit_meaning>
+
+<components>
+<object>Magnets, People, Opportunities</object>
+<properties>Magnetic force, Alignment, Attraction</properties>
+<relations>Magnetic pull between properly aligned objects</relations>
+</components>
+
+<visual_elaboration>
+A person shaped like a magnet attracting glowing opportunity symbols while misaligned people fall away.
+</visual_elaboration>
+</metaphor_analysis>

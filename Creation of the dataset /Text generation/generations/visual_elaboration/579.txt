@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The wheel of change turns faster for some than others.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Different people experience life changes at varying speeds.
+</implicit_meaning>
+
+<components>
+<object>Wheel, People</object>
+<properties>Rotating, Different speeds, Motion</properties>
+<relations>People connected to wheels moving at different speeds</relations>
+</components>
+
+<visual_elaboration>
+Two people on spinning wheels, one rotating rapidly while the other moves slowly.
+</visual_elaboration>
+</metaphor_analysis>

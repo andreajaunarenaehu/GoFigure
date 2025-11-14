@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem has taken up permanent residence in my mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A persistent, troubling thought that won't go away.
+</implicit_meaning>
+
+<components>
+<object>Problem, Mind, Residence</object>
+<properties>Permanent, Occupying space, Unwanted</properties>
+<relations>Problem is personified as a tenant living inside the mind</relations>
+</components>
+
+<visual_elaboration>
+A brain-shaped house with a troublesome tenant unpacking boxes and hanging "Home Sweet Home" signs.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mind's gears ground to a halt under pressure.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental breakdown or inability to think clearly due to stress.
+</implicit_meaning>
+
+<components>
+<object>Mind, Gears</object>
+<properties>Mechanical, Stuck, Broken</properties>
+<relations>Pressure causing mechanical failure</relations>
+</components>
+
+<visual_elaboration>
+A human head with transparent skull showing rusty gears jammed with smoke rising from them.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She maintained an untarnished moral compass.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Pure and unwavering ethical guidance.
+</implicit_meaning>
+
+<components>
+<object>Moral compass, Person</object>
+<properties>Untarnished, shiny, clean</properties>
+<relations>Person possessing and following the compass's direction</relations>
+</components>
+
+<visual_elaboration>
+A gleaming golden compass with a bright halo, pointing true north while held by clean hands.
+</visual_elaboration>
+</metaphor_analysis>

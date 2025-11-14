@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Anxiety is a maze of dark alleyways.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Feeling lost, confused, and trapped in fearful thoughts.
+</implicit_meaning>
+
+<components>
+<object>Anxiety, maze, alleyways</object>
+<properties>Dark, confusing, endless, threatening</properties>
+<relations>Person trapped within the maze structure</relations>
+</components>
+
+<visual_elaboration>
+A person standing at the center of shadowy intersecting alleyways with looming walls and no visible exit.
+</visual_elaboration>
+</metaphor_analysis>

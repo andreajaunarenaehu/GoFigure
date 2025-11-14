@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their business practices were crystal clear.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Transparent and honest business operations.
+</implicit_meaning>
+
+<components>
+<object>Business practices, Crystal</object>
+<properties>Transparent, Pure, See-through</properties>
+<relations>Business practices being compared to crystal's transparency</relations>
+</components>
+
+<visual_elaboration>
+A transparent crystal cube containing miniature business documents and handshakes visible from all angles.
+</visual_elaboration>
+</metaphor_analysis>

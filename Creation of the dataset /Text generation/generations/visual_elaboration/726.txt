@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their proposal is weighing heavily on my mental scales.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Difficult decision-making process causing mental burden.
+</implicit_meaning>
+
+<components>
+<object>Mental scales, Proposal</object>
+<properties>Heavy, Weighing, Mental burden</properties>
+<relations>Proposal creating pressure on decision-making ability</relations>
+</components>
+
+<visual_elaboration>
+A human head with balance scales inside, one side heavily weighed down by a stack of papers.
+</visual_elaboration>
+</metaphor_analysis>

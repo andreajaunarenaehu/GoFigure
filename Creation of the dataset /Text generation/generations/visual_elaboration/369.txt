@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's a magpie chasing after every shiny thing.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Easily distracted by attractive or trendy things.
+</implicit_meaning>
+
+<components>
+<object>Woman, Magpie, Shiny objects</object>
+<properties>Impulsive, attracted to glitter, constantly moving</properties>
+<relations>Person compared to bird, pursuing multiple objects</relations>
+</components>
+
+<visual_elaboration>
+A woman with magpie wings and feathers darting between floating sparkly objects and jewelry.
+</visual_elaboration>
+</metaphor_analysis>

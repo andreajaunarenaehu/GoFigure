@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her emotions were a padded cell of confusion.
+</metaphor>
+<literal_paraphrase>
+Her intense feelings left her feeling trapped and disoriented.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her emotions were perfectly ordered and controlled.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His rage was a straitjacket of burning sensations.
+</metaphor>
+<literal_paraphrase>
+His anger was so intense it made him feel physically restrained and uncomfortable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His anger was mild and gave him a sense of freedom.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love drove her through the asylum gates of reason.
+</metaphor>
+<literal_paraphrase>
+Her intense romantic feelings made her act irrationally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love enhanced her logical thinking and rational behavior.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His jealousy was a padded room with no windows.
+</metaphor>
+<literal_paraphrase>
+His jealous feelings isolated him and prevented clear thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His jealousy provided clarity and connection to others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her grief was an asylum of endless corridors.
+</metaphor>
+<literal_paraphrase>
+Her sorrow seemed to go on endlessly with no clear direction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her grief had a clear endpoint and straightforward path.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Passion prescribed a daily dose of chaos.
+</metaphor>
+<literal_paraphrase>
+Strong romantic feelings regularly disrupted normal life patterns.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Passion brought order and stability to daily life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Fear was the asylum's night nurse.
+</metaphor>
+<literal_paraphrase>
+Fear constantly monitored and controlled emotional responses.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Fear was absent and had no influence over emotions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love story was written in asylum walls.
+</metaphor>
+<literal_paraphrase>
+Their relationship was marked by intense, sometimes irrational emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship was completely rational and predictable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope danced with delusion in the asylum ballroom.
+</metaphor>
+<literal_paraphrase>
+Optimistic feelings became mixed with unrealistic expectations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope remained grounded in reality and practical thinking.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Despair was the asylum's permanent resident.
+</metaphor>
+<literal_paraphrase>
+Intense negative feelings seemed to take up permanent residence in the mind.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Negative feelings were temporary visitors that quickly passed.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

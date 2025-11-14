@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This difficulty stampedes through my plans like a wild horse.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Uncontrollable disruption of plans.
+</implicit_meaning>
+
+<components>
+<object>Difficulty, Plans, Wild horse</object>
+<properties>Chaotic, destructive, uncontrolled</properties>
+<relations>Horse stampeding through/destroying organized items</relations>
+</components>
+
+<visual_elaboration>
+A wild horse trampling through a neat stack of papers, scattering them in the air.
+</visual_elaboration>
+</metaphor_analysis>

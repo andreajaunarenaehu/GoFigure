@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love created a magnetic field pulling them together.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Irresistible attraction between two people.
+</implicit_meaning>
+
+<components>
+<object>Two people, magnetic field</object>
+<properties>Attractive force, invisible pull, inevitable connection</properties>
+<relations>Drawing together through unseen force</relations>
+</components>
+
+<visual_elaboration>
+Two people floating with glowing hearts connected by visible magnetic field lines pulling them together.
+</visual_elaboration>
+</metaphor_analysis>

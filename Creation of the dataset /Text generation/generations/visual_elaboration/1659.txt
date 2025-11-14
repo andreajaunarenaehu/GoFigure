@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They elevated their discourse to rational heights.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The conversation became more intellectual and sophisticated.
+</implicit_meaning>
+
+<components>
+<object>Discourse, Height/Elevation</object>
+<properties>Rising, Ascending, Intellectual</properties>
+<relations>Movement upward from lower to higher level</relations>
+</components>
+
+<visual_elaboration>
+Two people standing on floating platforms that rise higher as speech bubbles between them transform from simple shapes to complex equations.
+</visual_elaboration>
+</metaphor_analysis>

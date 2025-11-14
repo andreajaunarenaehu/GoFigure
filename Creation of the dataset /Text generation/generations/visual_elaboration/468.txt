@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She straightened the crooked path of corruption.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Making something dishonest become honest and fair.
+</implicit_meaning>
+
+<components>
+<object>Path, Person</object>
+<properties>Crooked becoming straight, corrupt becoming clean</properties>
+<relations>Person actively transforming/fixing the path</relations>
+</components>
+
+<visual_elaboration>
+A woman using an iron to straighten a twisted dark path into a straight golden road.
+</visual_elaboration>
+</metaphor_analysis>

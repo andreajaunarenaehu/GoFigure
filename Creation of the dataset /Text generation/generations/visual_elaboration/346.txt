@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This replacement was a sunrise after the darkest night.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A positive change bringing hope after a difficult period.
+</implicit_meaning>
+
+<components>
+<object>Sunrise, Night</object>
+<properties>Bright, Dark, Transformative</properties>
+<relations>Transition from darkness to light, temporal sequence</relations>
+</components>
+
+<visual_elaboration>
+A brilliant sun rising over a dark landscape, casting golden rays that transform shadows into light.
+</visual_elaboration>
+</metaphor_analysis>

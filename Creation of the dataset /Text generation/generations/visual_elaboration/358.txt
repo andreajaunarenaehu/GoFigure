@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's an oak holding ground in emotional windstorms.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strong and resilient during difficult emotional times.
+</implicit_meaning>
+
+<components>
+<object>Woman, Oak tree, Windstorm</object>
+<properties>Strong, Sturdy, Deeply rooted, Unwavering</properties>
+<relations>Standing firm against emotional turmoil represented as wind</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette merged with an oak tree, roots deep in ground, withstanding swirling emotional storm clouds.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The alcohol demolished his composure like a wrecking ball.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Alcohol completely destroyed someone's self-control and dignity.
+</implicit_meaning>
+
+<components>
+<object>Alcohol, composure, wrecking ball</object>
+<properties>Destructive, forceful, shattering</properties>
+<relations>Alcohol acts as a destructive force against personal composure</relations>
+</components>
+
+<visual_elaboration>
+A giant wrecking ball labeled "alcohol" smashing through a glass statue of a composed person.
+</visual_elaboration>
+</metaphor_analysis>

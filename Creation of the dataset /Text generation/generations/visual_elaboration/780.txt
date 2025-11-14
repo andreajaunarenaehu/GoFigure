@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The rolling boulder of momentum carries the force forward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstoppable progress or movement gaining strength.
+</implicit_meaning>
+
+<components>
+<object>Boulder, Momentum, Force</object>
+<properties>Rolling, Moving, Growing</properties>
+<relations>Boulder carries force forward, gaining speed</relations>
+</components>
+
+<visual_elaboration>
+A massive boulder rolling downhill, growing larger as it collects snow and debris.
+</visual_elaboration>
+</metaphor_analysis>

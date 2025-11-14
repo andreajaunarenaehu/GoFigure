@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The news struck her mind like a hammer on glass.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden, devastating psychological impact.
+</implicit_meaning>
+
+<components>
+<object>Mind, hammer, glass</object>
+<properties>Fragile, shattering, forceful</properties>
+<relations>Violent impact of hammer breaking glass represents devastating news breaking mental state</relations>
+</components>
+
+<visual_elaboration>
+A glass head shattering into pieces as a hammer strikes it, with news headlines visible in the fragments.
+</visual_elaboration>
+</metaphor_analysis>

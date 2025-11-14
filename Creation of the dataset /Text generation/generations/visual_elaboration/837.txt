@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My possessions are demanding children crying for attention.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material belongings are needy and require constant maintenance and attention.
+</implicit_meaning>
+
+<components>
+<object>Possessions (represented as children), Person (owner)</object>
+<properties>Demanding, crying, needy, attention-seeking</properties>
+<relations>Possessions acting like children demanding attention from their owner</relations>
+</components>
+
+<visual_elaboration>
+Various household items with baby faces crying and reaching out toward an overwhelmed person.
+</visual_elaboration>
+</metaphor_analysis>

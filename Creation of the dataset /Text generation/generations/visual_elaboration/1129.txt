@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some challenges are like bottomless vessels that seem impossible to fill.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Endless and insurmountable tasks that consume effort without progress.
+</implicit_meaning>
+
+<components>
+<object>Challenges, Bottomless vessel</object>
+<properties>Endless, impossible to fill, consuming</properties>
+<relations>Person attempting to fill an infinite container</relations>
+</components>
+
+<visual_elaboration>
+A frustrated person pouring water into a transparent vessel with a hole at the bottom, water endlessly flowing out.
+</visual_elaboration>
+</metaphor_analysis>

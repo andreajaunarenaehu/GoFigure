@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+States are gardens in the national park.
+</linguistic_metaphor>
+
+<implicit_meaning>
+States are distinct yet interconnected parts of a larger whole.
+</implicit_meaning>
+
+<components>
+<object>States, gardens, national park</object>
+<properties>Cultivated, bordered, managed, part of larger system</properties>
+<relations>Individual gardens exist within larger park framework</relations>
+</components>
+
+<visual_elaboration>
+A map of America where each state is a unique garden plot with different flowers, connected by winding paths.
+</visual_elaboration>
+</metaphor_analysis>

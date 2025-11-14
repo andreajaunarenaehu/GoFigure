@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The darkness stood like an iron curtain against the sky.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Impenetrable and oppressive darkness.
+</implicit_meaning>
+
+<components>
+<object>Darkness, Iron curtain, Sky</object>
+<properties>Heavy, metallic, impenetrable, rigid</properties>
+<relations>Darkness blocking the sky like a metal barrier</relations>
+</components>
+
+<visual_elaboration>
+A massive iron wall stretches upward, dividing a bright sky from complete darkness.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their friendship sank beneath waves of betrayal.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A relationship destroyed by dishonesty and disloyalty.
+</implicit_meaning>
+
+<components>
+<object>Friendship, ocean waves</object>
+<properties>Sinking, drowning, destructive waves</properties>
+<relations>Friendship being pulled down by dark waters representing betrayal</relations>
+</components>
+
+<visual_elaboration>
+Two hands clasped in friendship slowly sinking into dark stormy waves.
+</visual_elaboration>
+</metaphor_analysis>

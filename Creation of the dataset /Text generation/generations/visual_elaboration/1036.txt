@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The team's actions gained momentum.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress becoming faster and more powerful over time.
+</implicit_meaning>
+
+<components>
+<object>Team, Momentum (physical force)</object>
+<properties>Increasing speed, Growing force, Forward motion</properties>
+<relations>Team's actions are compared to a rolling object gaining speed</relations>
+</components>
+
+<visual_elaboration>
+A snowball rolling downhill, growing larger and faster, with team members inside pushing forward.
+</visual_elaboration>
+</metaphor_analysis>

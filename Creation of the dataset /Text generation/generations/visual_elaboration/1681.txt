@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their conceit is a runaway inflation that's eating away at their social capital.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Growing arrogance destroys relationships and reputation.
+</implicit_meaning>
+
+<components>
+<object>Inflation, Social Capital, Conceit</object>
+<properties>Runaway, Destructive, Growing</properties>
+<relations>Eating away, Consuming, Destroying</relations>
+</components>
+
+<visual_elaboration>
+A giant monster made of rising price tags devouring friendship symbols and social media icons.
+</visual_elaboration>
+</metaphor_analysis>

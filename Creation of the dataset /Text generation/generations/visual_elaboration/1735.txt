@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The riches of relationships appreciate through nurturing bonds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Relationships grow in value like investments when cared for.
+</implicit_meaning>
+
+<components>
+<object>Relationships, Financial wealth</object>
+<properties>Growing, Valuable, Nurturing</properties>
+<relations>Investment-like growth through care and attention</relations>
+</components>
+
+<visual_elaboration>
+A golden tree with coins as leaves, watered by two people holding a shared watering can.
+</visual_elaboration>
+</metaphor_analysis>

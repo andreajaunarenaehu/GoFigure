@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Scientific theories are transparent veils that both reveal and conceal the facts beneath.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Scientific theories provide partial understanding while obscuring complete truth.
+</implicit_meaning>
+
+<components>
+<object>Scientific theories, veils, facts</object>
+<properties>Transparent, partially revealing, partially concealing</properties>
+<relations>Veils covering and revealing underlying facts</relations>
+</components>
+
+<visual_elaboration>
+A floating translucent veil with equations written on it, partially revealing glowing truth symbols underneath.
+</visual_elaboration>
+</metaphor_analysis>

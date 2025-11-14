@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Vision's container holds our visual world captive.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Our vision limits and constrains how we perceive reality.
+</implicit_meaning>
+
+<components>
+<object>Vision, Container, Visual World</object>
+<properties>Constraining, Limiting, Enclosed</properties>
+<relations>Container imprisons/holds the visual world</relations>
+</components>
+
+<visual_elaboration>
+A glass jar containing a miniature world with eyes peering through its transparent walls.
+</visual_elaboration>
+</metaphor_analysis>

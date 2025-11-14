@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His desire was a slow-burning flame.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Persistent and gradually intensifying passion.
+</implicit_meaning>
+
+<components>
+<object>Desire, Flame</object>
+<properties>Slow-burning, enduring, growing</properties>
+<relations>Desire is compared to a flame that burns slowly but steadily</relations>
+</components>
+
+<visual_elaboration>
+A small ember gradually growing into a bright flame within a human silhouette's chest.
+</visual_elaboration>
+</metaphor_analysis>

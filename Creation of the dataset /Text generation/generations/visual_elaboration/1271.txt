@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're just gathering supplies for the long expedition ahead.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Preparing for a challenging future endeavor or life journey.
+</implicit_meaning>
+
+<components>
+<object>People, Supplies, Expedition path</object>
+<properties>Long, preparatory, future-oriented</properties>
+<relations>People gathering items before a journey</relations>
+</components>
+
+<visual_elaboration>
+A group of people packing backpacks while standing at the start of a winding mountain path disappearing into clouds.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The visual field is a vessel filling with information.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The mind gradually accumulates visual data like a container being filled.
+</implicit_meaning>
+
+<components>
+<object>Visual field, vessel</object>
+<properties>Container-like, fillable, accumulating</properties>
+<relations>Information flowing into and filling the vessel</relations>
+</components>
+
+<visual_elaboration>
+A transparent human head-shaped vessel gradually filling with colorful flowing data symbols and images.
+</visual_elaboration>
+</metaphor_analysis>

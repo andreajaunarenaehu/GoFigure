@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The solution lies in the heart of the tangle.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The answer is hidden within a complex problem.
+</implicit_meaning>
+
+<components>
+<object>Tangle, Solution, Heart</object>
+<properties>Complex, Central, Hidden</properties>
+<relations>Solution is positioned at the center of complexity</relations>
+</components>
+
+<visual_elaboration>
+A glowing key at the center of a dark, twisted maze of ropes.
+</visual_elaboration>
+</metaphor_analysis>

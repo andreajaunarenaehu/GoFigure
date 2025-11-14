@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This theory gave birth to numerous new research directions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory created or originated multiple new ideas.
+</implicit_meaning>
+
+<components>
+<object>Theory, Research directions</object>
+<properties>Reproductive, Generative, Multiple</properties>
+<relations>Theory as mother, Research as offspring</relations>
+</components>
+
+<visual_elaboration>
+A large book opening with multiple baby books emerging from its pages, connected by glowing umbilical cords.
+</visual_elaboration>
+</metaphor_analysis>

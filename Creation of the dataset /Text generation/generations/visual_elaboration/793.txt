@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His ideas flourished in the fertile environment of the university.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas grow and develop like plants in nurturing conditions.
+</implicit_meaning>
+
+<components>
+<object>Ideas, University environment</object>
+<properties>Growing, flourishing, fertile</properties>
+<relations>Ideas growing within academic space like plants in soil</relations>
+</components>
+
+<visual_elaboration>
+Light bulbs sprouting like flowers from books in a university garden, with students tending to them.
+</visual_elaboration>
+</metaphor_analysis>

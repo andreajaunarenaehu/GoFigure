@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That theory is still in its infancy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory is new and underdeveloped.
+</implicit_meaning>
+
+<components>
+<object>Theory, Baby</object>
+<properties>New, undeveloped, immature</properties>
+<relations>Theory is compared to a baby in early stages of development</relations>
+</components>
+
+<visual_elaboration>
+A baby crawling on papers filled with mathematical formulas and scientific equations.
+</visual_elaboration>
+</metaphor_analysis>

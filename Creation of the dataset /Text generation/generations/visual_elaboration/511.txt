@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The company has reached a crossroads in its development.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A critical decision point requiring choosing between different paths forward.
+</implicit_meaning>
+
+<components>
+<object>Company, Crossroads</object>
+<properties>Multiple paths, Decision point, Intersection</properties>
+<relations>Company standing at intersection, Multiple paths leading in different directions</relations>
+</components>
+
+<visual_elaboration>
+A large office building standing at an intersection of multiple branching roads with directional signs.
+</visual_elaboration>
+</metaphor_analysis>

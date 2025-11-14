@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship veered off into friendship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A romantic relationship changing direction unexpectedly into platonic friendship.
+</implicit_meaning>
+
+<components>
+<object>Relationship path, Vehicle on road</object>
+<properties>Changing direction, Movement, Deviation</properties>
+<relations>Moving from one path to another, Turning away</relations>
+</components>
+
+<visual_elaboration>
+A car turning off a red heart-lined road onto a blue friendship-lined path.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His missing elements became crushing weights.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Absence of something creates emotional burden.
+</implicit_meaning>
+
+<components>
+<object>Missing elements, Weights</object>
+<properties>Heavy, crushing, burdensome</properties>
+<relations>Transformation of absence into physical weight</relations>
+</components>
+
+<visual_elaboration>
+A person hunched over with transparent puzzle pieces turned into heavy metal weights on their shoulders.
+</visual_elaboration>
+</metaphor_analysis>

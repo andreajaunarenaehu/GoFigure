@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love found shelter in life's storms.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love provides protection and safety during difficult times.
+</implicit_meaning>
+
+<components>
+<object>Love, Storm, Shelter</object>
+<properties>Protective, Safe, Threatening</properties>
+<relations>Love seeking refuge from external threats</relations>
+</components>
+
+<visual_elaboration>
+Two hearts huddled under a sturdy umbrella while dark storm clouds and lightning surround them.
+</visual_elaboration>
+</metaphor_analysis>

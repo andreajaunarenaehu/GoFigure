@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their resolve marched through the storm.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Determination persisting through difficulties.
+</implicit_meaning>
+
+<components>
+<object>Resolve (determination), Storm</object>
+<properties>Strong, persistent, challenging, turbulent</properties>
+<relations>Moving forward despite obstacles</relations>
+</components>
+
+<visual_elaboration>
+A silhouetted figure walking upright through a dark storm, with lightning illuminating their determined stance.
+</visual_elaboration>
+</metaphor_analysis>

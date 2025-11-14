@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The meandering stream carved channels of transformation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Change occurs gradually but leaves lasting impact.
+</implicit_meaning>
+
+<components>
+<object>Stream, Channels</object>
+<properties>Meandering, Carving, Transformative</properties>
+<relations>Stream actively shapes and changes the landscape</relations>
+</components>
+
+<visual_elaboration>
+A winding blue river cutting through layers of colorful rock, revealing different patterns in each layer.
+</visual_elaboration>
+</metaphor_analysis>

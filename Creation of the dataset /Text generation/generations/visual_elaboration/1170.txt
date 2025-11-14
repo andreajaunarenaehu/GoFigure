@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mind is a brilliant beacon in the darkness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intelligence that guides and illuminates others.
+</implicit_meaning>
+
+<components>
+<object>Mind, Beacon/Lighthouse</object>
+<properties>Brilliant, illuminating, guiding</properties>
+<relations>Mind is compared to a beacon that cuts through darkness</relations>
+</components>
+
+<visual_elaboration>
+A glowing lighthouse with brain-shaped light beams cutting through dark storm clouds.
+</visual_elaboration>
+</metaphor_analysis>

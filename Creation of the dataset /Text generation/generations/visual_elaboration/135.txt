@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The price of inaction was devastating consequences.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Not taking action leads to severe negative outcomes.
+</implicit_meaning>
+
+<components>
+<object>Price, Inaction, Consequences</object>
+<properties>Devastating, Costly, Harmful</properties>
+<relations>Inaction leads to payment of consequences</relations>
+</components>
+
+<visual_elaboration>
+A person frozen in place while a giant price tag crushes everything around them.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The community's rhythm flows in perfect time.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmony and synchronization within a group of people.
+</implicit_meaning>
+
+<components>
+<object>Community, Musical rhythm</object>
+<properties>Flowing, Synchronized, Harmonious</properties>
+<relations>Movement in unison, Coordinated flow</relations>
+</components>
+
+<visual_elaboration>
+People dancing in a circle, their bodies forming a flowing musical staff with musical notes.
+</visual_elaboration>
+</metaphor_analysis>

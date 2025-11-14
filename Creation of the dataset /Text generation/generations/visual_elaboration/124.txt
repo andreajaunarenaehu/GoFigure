@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Innovation is harvested from well-nurtured experience.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Growth and development of ideas through time and care.
+</implicit_meaning>
+
+<components>
+<object>Innovation as crops, Experience as soil/field</object>
+<properties>Growth, nurturing, harvesting, cultivation</properties>
+<relations>Experience nurtures and produces innovation like soil produces crops</relations>
+</components>
+
+<visual_elaboration>
+A farmer harvesting glowing lightbulbs growing from rich soil labeled "Experience."
+</visual_elaboration>
+</metaphor_analysis>

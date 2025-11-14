@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Physical properties are the anchors that ground abstract comparisons in reality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Physical characteristics provide concrete foundation for understanding abstract concepts.
+</implicit_meaning>
+
+<components>
+<object>Anchors, Abstract concepts</object>
+<properties>Heavy, Grounding, Stabilizing</properties>
+<relations>Anchors securing floating abstract symbols to solid ground</relations>
+</components>
+
+<visual_elaboration>
+Heavy metal anchors attached to floating mathematical symbols and formulas, pulling them down to solid earth.
+</visual_elaboration>
+</metaphor_analysis>

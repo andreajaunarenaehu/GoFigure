@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a depleting oil well.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is a finite resource that gradually runs out.
+</implicit_meaning>
+
+<components>
+<object>Time, Oil Well</object>
+<properties>Depleting, finite, draining</properties>
+<relations>Time is compared to a diminishing natural resource</relations>
+</components>
+
+<visual_elaboration>
+An hourglass filled with black oil instead of sand, dripping into an empty oil barrel below.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His jealousy was a padded room with no windows.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Suffocating and isolating emotion that traps one's mind.
+</implicit_meaning>
+
+<components>
+<object>Padded room, jealousy, person</object>
+<properties>Windowless, confined, isolated, suffocating</properties>
+<relations>Person trapped inside emotional space</relations>
+</components>
+
+<visual_elaboration>
+A man curled up in a white padded cell, with jealous thoughts written on the walls in dark ink.
+</visual_elaboration>
+</metaphor_analysis>

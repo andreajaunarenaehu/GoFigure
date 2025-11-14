@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their strategic alliance was a powerful weapon in the industry.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Business partnership provides competitive advantage and strength.
+</implicit_meaning>
+
+<components>
+<object>Strategic alliance, Weapon</object>
+<properties>Powerful, Strategic, Competitive</properties>
+<relations>Alliance being used as a tool for business advantage</relations>
+</components>
+
+<visual_elaboration>
+Two handshakes forming the handle of a large sword with business logos on the blade.
+</visual_elaboration>
+</metaphor_analysis>

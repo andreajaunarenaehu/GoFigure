@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love is a family heirloom that can't be broken.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Enduring and precious love passed down through generations.
+</implicit_meaning>
+
+<components>
+<object>Love, Family Heirloom</object>
+<properties>Unbreakable, Precious, Ancient</properties>
+<relations>Preservation across time, Family connection</relations>
+</components>
+
+<visual_elaboration>
+An antique golden locket with family photos inside, surrounded by a protective crystal heart shield.
+</visual_elaboration>
+</metaphor_analysis>

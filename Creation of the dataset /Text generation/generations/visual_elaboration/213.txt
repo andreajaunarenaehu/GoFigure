@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a maze with shifting walls.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complex and constantly changing situation that's difficult to solve.
+</implicit_meaning>
+
+<components>
+<object>Problem, Maze</object>
+<properties>Shifting, Complex, Confusing</properties>
+<relations>Problem is represented as a physical maze structure that changes unpredictably</relations>
+</components>
+
+<visual_elaboration>
+A person stands in a labyrinth where stone walls move and rotate like puzzle pieces.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His thoughts are scattered flashlights in a maze.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Confused and disorganized thinking.
+</implicit_meaning>
+
+<components>
+<object>Thoughts, flashlights, maze</object>
+<properties>Scattered, disconnected, searching</properties>
+<relations>Multiple beams of light pointing in different directions within a complex structure</relations>
+</components>
+
+<visual_elaboration>
+Multiple flashlights scattered across a dark maze, each beam pointing in different random directions.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their innovation propelled the industry forward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Innovation creates rapid progress and advancement.
+</implicit_meaning>
+
+<components>
+<object>Innovation, Industry</object>
+<properties>Forward motion, Propulsion, Movement</properties>
+<relations>Innovation acts as a driving force pushing industry ahead</relations>
+</components>
+
+<visual_elaboration>
+A rocket engine labeled "Innovation" pushing a large industrial gear forward through space.
+</visual_elaboration>
+</metaphor_analysis>

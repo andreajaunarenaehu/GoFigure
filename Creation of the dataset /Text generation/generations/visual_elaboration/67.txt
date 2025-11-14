@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our deadlines are spinning like a top.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Chaotic and out of control.
+</implicit_meaning>
+
+<components>
+<object>Deadlines, Spinning top</object>
+<properties>Rotating, Fast-moving, Unstable</properties>
+<relations>Multiple deadlines moving in a chaotic, spinning motion</relations>
+</components>
+
+<visual_elaboration>
+Calendar pages whirling around a spinning top with deadline dates flying off in all directions.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're just seeing the tip of this iceberg problem.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A small visible problem indicates a much larger hidden issue beneath.
+</implicit_meaning>
+
+<components>
+<object>Iceberg, Problem</object>
+<properties>Mostly hidden, partially visible, massive underneath</properties>
+<relations>Only small portion visible above water, larger portion concealed below</relations>
+</components>
+
+<visual_elaboration>
+A tiny problem label on iceberg's tip with massive warning signs hidden underwater beneath.
+</visual_elaboration>
+</metaphor_analysis>

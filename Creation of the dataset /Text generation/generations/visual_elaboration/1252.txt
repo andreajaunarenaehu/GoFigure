@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Jealousy threw a blinding dust storm into their relationship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Jealousy creates chaos and obscures clear vision in relationships.
+</implicit_meaning>
+
+<components>
+<object>Dust storm, Relationship, Jealousy</object>
+<properties>Blinding, chaotic, destructive</properties>
+<relations>Dust storm disrupting and obscuring vision between two people</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes reaching for each other through a swirling dust storm shaped like a green-eyed monster.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her children are saplings that need constant nurturing and protection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Children are delicate and require careful attention to grow properly.
+</implicit_meaning>
+
+<components>
+<object>Children, Saplings</object>
+<properties>Young, fragile, growing, dependent</properties>
+<relations>Need protection and care to thrive</relations>
+</components>
+
+<visual_elaboration>
+Small children with tree-like features being watered and sheltered by a motherly figure with gardening tools.
+</visual_elaboration>
+</metaphor_analysis>

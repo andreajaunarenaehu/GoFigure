@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Making is the heartbeat of creation's life force.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creative activity is vital and rhythmic like a heartbeat.
+</implicit_meaning>
+
+<components>
+<object>Heartbeat, Creation, Life force</object>
+<properties>Rhythmic, Vital, Pulsing</properties>
+<relations>Heartbeat sustains and drives creative energy</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart pumping colorful streams of art tools and creative objects with each beat.
+</visual_elaboration>
+</metaphor_analysis>

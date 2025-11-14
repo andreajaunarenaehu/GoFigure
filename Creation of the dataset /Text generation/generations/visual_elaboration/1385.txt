@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance is a flock of birds following their leader in formation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Obedient following of rules or leadership without question.
+</implicit_meaning>
+
+<components>
+<object>Birds in formation, Leader bird</object>
+<properties>Synchronized movement, Orderly arrangement, Hierarchical structure</properties>
+<relations>Following behavior, Directional movement, Leadership-follower dynamic</relations>
+</components>
+
+<visual_elaboration>
+A V-shaped formation of identical gray birds precisely following a larger golden bird at the front.
+</visual_elaboration>
+</metaphor_analysis>

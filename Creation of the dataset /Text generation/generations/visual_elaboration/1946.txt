@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The company's defenses crumbled under the competitor's siege.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The company's protective measures failed against competitive pressure.
+</implicit_meaning>
+
+<components>
+<object>Company, fortress walls</object>
+<properties>Defensive structures, crumbling stone</properties>
+<relations>Attacking force causing destruction</relations>
+</components>
+
+<visual_elaboration>
+A stone fortress with crumbling walls while competitor logos bombard it with cannonballs.
+</visual_elaboration>
+</metaphor_analysis>

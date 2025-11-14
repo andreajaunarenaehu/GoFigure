@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance is a compass needle following magnetic north.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Automatic obedience to rules without questioning.
+</implicit_meaning>
+
+<components>
+<object>Compass needle, Magnetic north</object>
+<properties>Automatic movement, Unwavering direction</properties>
+<relations>Following, Being pulled towards</relations>
+</components>
+
+<visual_elaboration>
+A giant compass needle with human legs robotically marching towards a glowing magnetic north pole.
+</visual_elaboration>
+</metaphor_analysis>

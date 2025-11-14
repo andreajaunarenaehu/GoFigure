@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The setting sun drew a red line between earth and heaven.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Division between earthly and divine realms at sunset.
+</implicit_meaning>
+
+<components>
+<object>Sun, Earth, Heaven, Line</object>
+<properties>Red, Setting, Dividing</properties>
+<relations>Sun creates a boundary between two realms</relations>
+</components>
+
+<visual_elaboration>
+A glowing red horizon line splits a dark earth below from a luminous sky above.
+</visual_elaboration>
+</metaphor_analysis>

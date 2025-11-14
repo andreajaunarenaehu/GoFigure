@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's mainlining validation through constant selfie-posting.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Addiction to social media validation.
+</implicit_meaning>
+
+<components>
+<object>Person, Syringe, Smartphone</object>
+<properties>Addictive behavior, Desperate need for approval</properties>
+<relations>Person using social media likes as a drug</relations>
+</components>
+
+<visual_elaboration>
+A person injecting themselves with a syringe filled with glowing social media likes and hearts.
+</visual_elaboration>
+</metaphor_analysis>

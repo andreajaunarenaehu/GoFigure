@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She threw her influence behind the project.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Using power or authority to support something.
+</implicit_meaning>
+
+<components>
+<object>Influence, Person, Project</object>
+<properties>Force, Movement, Support</properties>
+<relations>Person actively directing influence toward project</relations>
+</components>
+
+<visual_elaboration>
+A woman throwing a glowing sphere of light that pushes forward a floating blueprint.
+</visual_elaboration>
+</metaphor_analysis>

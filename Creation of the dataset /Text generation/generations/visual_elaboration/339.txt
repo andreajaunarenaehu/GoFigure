@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Depression is like a virus in the mental machinery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Depression is a destructive force that corrupts normal mental functioning.
+</implicit_meaning>
+
+<components>
+<object>Depression, Mental machinery, Virus</object>
+<properties>Invasive, corrupting, mechanical</properties>
+<relations>Virus infiltrating and damaging machinery</relations>
+</components>
+
+<visual_elaboration>
+A human brain made of gears with dark virus-like shapes spreading through and jamming the mechanisms.
+</visual_elaboration>
+</metaphor_analysis>

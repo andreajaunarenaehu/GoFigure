@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Writing is the compass that guides wandering ideas home.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Writing provides direction and structure to scattered thoughts.
+</implicit_meaning>
+
+<components>
+<object>Compass, Ideas</object>
+<properties>Wandering, Directional, Guiding</properties>
+<relations>Compass guides lost ideas to a destination</relations>
+</components>
+
+<visual_elaboration>
+A glowing compass with floating thought bubbles being magnetically pulled toward a lit doorway.
+</visual_elaboration>
+</metaphor_analysis>

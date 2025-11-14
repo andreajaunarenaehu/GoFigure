@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a rising tide that threatens to overwhelm us.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A growing problem becoming uncontrollable and dangerous.
+</implicit_meaning>
+
+<components>
+<object>Problem, Tide, People</object>
+<properties>Rising, threatening, overwhelming</properties>
+<relations>The tide (problem) is rising above and threatening to submerge people</relations>
+</components>
+
+<visual_elaboration>
+People struggling to stay above water as a massive dark wave towers above them.
+</visual_elaboration>
+</metaphor_analysis>

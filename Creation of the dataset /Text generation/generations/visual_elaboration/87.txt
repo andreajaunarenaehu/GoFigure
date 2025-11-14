@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Possessions are the mirrors of property value.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions reflect one's wealth and status.
+</implicit_meaning>
+
+<components>
+<object>Mirrors, Possessions</object>
+<properties>Reflective, Valuable</properties>
+<relations>Possessions acting as reflectors of wealth</relations>
+</components>
+
+<visual_elaboration>
+A large ornate mirror reflecting luxury items like jewelry, cars, and houses instead of a person's reflection.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their grip on power shot upward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapid increase in authority or control.
+</implicit_meaning>
+
+<components>
+<object>Grip, Power</object>
+<properties>Upward movement, Sudden acceleration</properties>
+<relations>Hand holding/gripping, Vertical ascent</relations>
+</components>
+
+<visual_elaboration>
+A hand gripping a glowing orb rockets skyward with a fiery trail behind it.
+</visual_elaboration>
+</metaphor_analysis>

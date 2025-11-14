@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Sometimes you have to flip a piece around to see how it fits into your research.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Understanding research requires examining ideas from different perspectives.
+</implicit_meaning>
+
+<components>
+<object>Research piece, Puzzle piece</object>
+<properties>Rotatable, Flippable, Fitting</properties>
+<relations>Person manipulating puzzle piece to find correct orientation</relations>
+</components>
+
+<visual_elaboration>
+A person rotating a glowing puzzle piece above a research paper with connecting lines forming patterns.
+</visual_elaboration>
+</metaphor_analysis>

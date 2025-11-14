@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their love needed a compass to find true north.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Lost and directionless relationship.
+</implicit_meaning>
+
+<components>
+<object>Love, Compass</object>
+<properties>Lost, Directionless, Seeking direction</properties>
+<relations>Love is being guided by a compass</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped compass with its needle spinning wildly, unable to settle on north.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their attraction was a long-range missile, spanning continents.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Powerful attraction across great distances.
+</implicit_meaning>
+
+<components>
+<object>Long-range missile, Attraction between people</object>
+<properties>Long-distance, Powerful, Transcontinental</properties>
+<relations>Connection across space, Targeted trajectory</relations>
+</components>
+
+<visual_elaboration>
+A glowing red heart-shaped missile arcing across a globe, leaving a trail of sparkles.
+</visual_elaboration>
+</metaphor_analysis>

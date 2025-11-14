@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They lifted their authority to unprecedented levels.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Increasing power and control to extreme heights.
+</implicit_meaning>
+
+<components>
+<object>Authority figures, Height/Levels</object>
+<properties>Rising, Elevated, Powerful</properties>
+<relations>Upward movement of power and control</relations>
+</components>
+
+<visual_elaboration>
+Business figures standing on ascending platforms, reaching impossibly high into clouds with crowns growing larger.
+</visual_elaboration>
+</metaphor_analysis>

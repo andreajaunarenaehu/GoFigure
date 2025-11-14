@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The blanket of darkness wrapped around the world.
+</metaphor>
+<literal_paraphrase>
+Darkness spread completely across the environment, obscuring everything from view.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Light pierced through every corner, leaving nothing hidden from sight.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Darkness wore its velvet cover like a cloak.
+</metaphor>
+<literal_paraphrase>
+The darkness was smooth and complete in its encompassing nature.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness was rough and patchy, leaving gaps of light everywhere.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Night's shroud sealed away the last traces of day.
+</metaphor>
+<literal_paraphrase>
+The darkness completely obscured all remaining daylight.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness failed to hide the persistent glow of daylight.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The lid of darkness closed over the landscape.
+</metaphor>
+<literal_paraphrase>
+Darkness descended completely, concealing the view of the terrain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The landscape remained visible, resisting the approach of darkness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Darkness draped its heavy curtain across the sky.
+</metaphor>
+<literal_paraphrase>
+The darkness completely filled the sky, blocking out all light.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The sky remained bright, refusing to yield to darkness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The shield of darkness protected night's secrets.
+</metaphor>
+<literal_paraphrase>
+Darkness concealed everything that happened during the night.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The night's activities were clearly visible despite the darkness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Darkness sealed the day in its opaque envelope.
+</metaphor>
+<literal_paraphrase>
+The darkness completely obscured all traces of daylight.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Daylight remained visible through the thin veil of darkness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The quilt of darkness stitched shadows together.
+</metaphor>
+<literal_paraphrase>
+Darkness unified all shadowy areas into complete blackness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Shadows remained distinct and separate in the partial darkness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Darkness wrapped its thick bandage around the wounded day.
+</metaphor>
+<literal_paraphrase>
+The darkness completely replaced the fading daylight.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The daylight persisted, refusing to be overtaken by darkness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The mask of darkness concealed the world's true face.
+</metaphor>
+<literal_paraphrase>
+Darkness hid the actual appearance of everything from view.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The world's features remained clearly visible despite the darkness.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

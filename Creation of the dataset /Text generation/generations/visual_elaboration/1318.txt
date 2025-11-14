@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The heat of their argument left scorch marks on their friendship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Heated arguments can permanently damage relationships.
+</implicit_meaning>
+
+<components>
+<object>Friendship, Argument, Heat, Scorch marks</object>
+<properties>Burning, Damaging, Permanent marking</properties>
+<relations>Heat causing physical damage to something symbolic</relations>
+</components>
+
+<visual_elaboration>
+Two friendship bracelets connected but partially burned and blackened with smoke rising from charred areas.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her joy scaled the peaks of ecstasy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extreme happiness reaching its highest point.
+</implicit_meaning>
+
+<components>
+<object>Joy, Mountain peaks</object>
+<properties>Ascending, reaching heights, climbing</properties>
+<relations>Joy is personified as a climber reaching mountain summits</relations>
+</components>
+
+<visual_elaboration>
+A radiant figure climbing a golden mountain peak with arms raised triumphantly.
+</visual_elaboration>
+</metaphor_analysis>

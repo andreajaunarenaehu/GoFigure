@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His perfectionism was a thorny crown he refused to remove.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-imposed suffering through excessive perfectionism.
+</implicit_meaning>
+
+<components>
+<object>Crown, thorns, person's head</object>
+<properties>Painful, self-inflicted, binding</properties>
+<relations>The person willingly wears something that causes pain</relations>
+</components>
+
+<visual_elaboration>
+A person wearing a golden crown with sharp thorns digging into their head while smiling painfully.
+</visual_elaboration>
+</metaphor_analysis>

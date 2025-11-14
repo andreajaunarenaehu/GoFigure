@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The conductor of reason disconnected from her actions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of rational control over behavior.
+</implicit_meaning>
+
+<components>
+<object>Conductor, Train tracks, Person</object>
+<properties>Disconnected, Separated, Broken</properties>
+<relations>The conductor (reason) is separated from the train (actions)</relations>
+</components>
+
+<visual_elaboration>
+A train conductor floating away from a derailed train on broken tracks.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The bargain they struck with fate caused unexpected outcomes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Making deals with destiny leads to unintended consequences.
+</implicit_meaning>
+
+<components>
+<object>Bargain, Fate, People</object>
+<properties>Unexpected, Mysterious, Consequential</properties>
+<relations>Striking a deal, Causing outcomes</relations>
+</components>
+
+<visual_elaboration>
+Two hands shaking, one human and one skeletal, with dice rolling chaotically around them.
+</visual_elaboration>
+</metaphor_analysis>

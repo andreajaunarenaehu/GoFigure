@@ -1,0 +1,118 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The waves of time crashed against our memories, eroding the details.
+</metaphor>
+<literal_paraphrase>
+External circumstances gradually cause our recollection of past events to become less clear and detailed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our memories of the past become clearer and more detailed as time progresses naturally.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The hammer of reality shattered our rose-tinted view of the past.
+</metaphor>
+<literal_paraphrase>
+New information or experiences forced us to revise our idealized understanding of historical events.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our idealized perspectives of past events remain unchanged despite new contradictory evidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The winds of change swept away the cobwebs of old beliefs.
+</metaphor>
+<literal_paraphrase>
+Current events and new information caused us to abandon outdated historical perspectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our historical beliefs remained firmly fixed regardless of new developments and information.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The earthquake of truth reshaped the landscape of our historical understanding.
+</metaphor>
+<literal_paraphrase>
+A significant revelation fundamentally altered how we viewed past events.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New revelations had no impact on our established understanding of historical events.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The storm of evidence washed away our misconceptions about the past.
+</metaphor>
+<literal_paraphrase>
+An overwhelming amount of new information corrected our false beliefs about historical events.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New evidence failed to challenge or change our existing historical beliefs.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The pressure of discovery compressed our scattered memories into clear diamonds of truth.
+</metaphor>
+<literal_paraphrase>
+External forces helped consolidate and clarify our understanding of past events.
+</literal_paraphrase>
+<contradiction_paraphrase>
+External influences made our memories more confused and scattered than before.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The avalanche of facts buried our historical assumptions.
+</metaphor>
+<literal_paraphrase>
+A sudden influx of new information overwhelmed and replaced our previous historical beliefs.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New information gradually integrated with our existing historical assumptions without disruption.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The lens of present events magnified the distortions in our historical vision.
+</metaphor>
+<literal_paraphrase>
+Current circumstances helped us recognize the biases in our understanding of past events.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Present events obscured our ability to see historical biases and distortions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The tide of revelation swept away the sandcastles of myth.
+</metaphor>
+<literal_paraphrase>
+New discoveries systematically demolished false historical narratives we had constructed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New discoveries reinforced and strengthened our existing historical myths.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The chisel of experience carved truth from the marble of memory.
+</metaphor>
+<literal_paraphrase>
+Current events and experiences helped us extract accurate historical understanding from our memories.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Present experiences obscured and confused our historical memories rather

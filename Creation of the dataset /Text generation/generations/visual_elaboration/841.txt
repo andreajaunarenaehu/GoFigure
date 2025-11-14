@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His energy levels are running low, time to recharge.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Person is tired and needs rest.
+</implicit_meaning>
+
+<components>
+<object>Human energy level, Battery</object>
+<properties>Depleting, Low power, Needs charging</properties>
+<relations>Human energy compared to electronic device battery</relations>
+</components>
+
+<visual_elaboration>
+A person with a battery icon over their head showing red 10% power and plugged into a wall charger.
+</visual_elaboration>
+</metaphor_analysis>

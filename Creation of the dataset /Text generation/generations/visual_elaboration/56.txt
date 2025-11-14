@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Change spirals upward like a climbing bird.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress is gradual and ascending.
+</implicit_meaning>
+
+<components>
+<object>Bird, Spiral path</object>
+<properties>Upward movement, Circular motion</properties>
+<relations>Bird following spiral path skyward</relations>
+</components>
+
+<visual_elaboration>
+A bird soaring upward along a glowing spiral path against a blue sky.
+</visual_elaboration>
+</metaphor_analysis>

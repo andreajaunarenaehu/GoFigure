@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She elevated the discussion above base emotions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Raising the conversation to a more intellectual level.
+</implicit_meaning>
+
+<components>
+<object>Discussion, emotions</object>
+<properties>Vertical hierarchy, higher vs lower levels</properties>
+<relations>Moving upward, rising above</relations>
+</components>
+
+<visual_elaboration>
+A woman lifting a glowing conversation bubble above dark swirling clouds of emotional symbols.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their beliefs inhabit different planets entirely.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complete incompatibility and vast difference in viewpoints.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Planets</object>
+<properties>Distant, Separate, Incompatible</properties>
+<relations>Two distinct planets far apart in space</relations>
+</components>
+
+<visual_elaboration>
+Two contrasting planets with faces, one blue and one red, floating far apart in space.
+</visual_elaboration>
+</metaphor_analysis>

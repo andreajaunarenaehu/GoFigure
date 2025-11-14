@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Contentment is a stabilizing force maintaining emotional equilibrium.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Peace and balance in emotions.
+</implicit_meaning>
+
+<components>
+<object>Contentment, Balance, Emotions</object>
+<properties>Stabilizing, Equilibrium, Steady</properties>
+<relations>Contentment acts as a balancing force for emotions</relations>
+</components>
+
+<visual_elaboration>
+A person balanced on a seesaw with a peaceful smile, perfectly centered and still.
+</visual_elaboration>
+</metaphor_analysis>

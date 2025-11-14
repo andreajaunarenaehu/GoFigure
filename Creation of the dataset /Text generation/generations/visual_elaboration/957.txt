@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They shared the same emotional address.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two people experiencing identical feelings or emotional states.
+</implicit_meaning>
+
+<components>
+<object>People, Address/Home</object>
+<properties>Shared, Emotional, Connected</properties>
+<relations>Two entities occupying the same emotional space</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes living in the same heart-shaped house with windows glowing warmly.
+</visual_elaboration>
+</metaphor_analysis>

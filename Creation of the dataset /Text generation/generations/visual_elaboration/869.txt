@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Joy is a bustling carnival by the sea.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Happiness is vibrant, energetic, and full of life.
+</implicit_meaning>
+
+<components>
+<object>Carnival, Sea, Joy</object>
+<properties>Bustling, lively, colorful, energetic</properties>
+<relations>Carnival represents joy, positioned by the sea, creating a festive atmosphere</relations>
+</components>
+
+<visual_elaboration>
+A colorful Ferris wheel spinning by ocean waves with fireworks and carnival lights reflecting in the water.
+</visual_elaboration>
+</metaphor_analysis>

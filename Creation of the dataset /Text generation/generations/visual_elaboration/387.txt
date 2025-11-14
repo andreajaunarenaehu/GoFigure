@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His confidence was an eggshell waiting to crack.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fragile and easily broken.
+</implicit_meaning>
+
+<components>
+<object>Confidence, Eggshell</object>
+<properties>Fragile, Delicate, Brittle</properties>
+<relations>On the verge of breaking/cracking</relations>
+</components>
+
+<visual_elaboration>
+A thin eggshell with hairline cracks forming, shaped like a person's silhouette.
+</visual_elaboration>
+</metaphor_analysis>

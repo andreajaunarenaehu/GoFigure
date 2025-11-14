@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He wielded his sexuality like a sharpened blade.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Using sexuality as a dangerous and powerful weapon to manipulate or harm.
+</implicit_meaning>
+
+<components>
+<object>Sexuality, Blade</object>
+<properties>Sharp, dangerous, wielded with intent</properties>
+<relations>Person actively using/controlling the blade</relations>
+</components>
+
+<visual_elaboration>
+A silhouetted figure holding a glowing sword made of seductive red smoke and sharp edges.
+</visual_elaboration>
+</metaphor_analysis>

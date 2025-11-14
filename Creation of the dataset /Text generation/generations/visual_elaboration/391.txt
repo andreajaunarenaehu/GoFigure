@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His project went through painful contractions before delivering success.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The difficult process of completing a project is like giving birth.
+</implicit_meaning>
+
+<components>
+<object>Project, Birth/Delivery process</object>
+<properties>Painful, Laborious, Eventually successful</properties>
+<relations>Project development compared to childbirth process</relations>
+</components>
+
+<visual_elaboration>
+A briefcase in a hospital bed, sweating and dilating, with a golden trophy emerging from beneath the sheets.
+</visual_elaboration>
+</metaphor_analysis>

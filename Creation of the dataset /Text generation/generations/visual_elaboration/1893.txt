@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their research pulled society closer to a cure.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress towards medical breakthrough.
+</implicit_meaning>
+
+<components>
+<object>Research, Society, Cure</object>
+<properties>Movement, Direction, Progress</properties>
+<relations>Research acts as a force pulling society towards a goal</relations>
+</components>
+
+<visual_elaboration>
+A rope of DNA strands pulling a crowd of people towards a glowing medicine bottle.
+</visual_elaboration>
+</metaphor_analysis>

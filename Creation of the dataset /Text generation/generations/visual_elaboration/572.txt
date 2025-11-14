@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The winds of change scatter some seeds on fertile soil, while others land on barren rock.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Opportunities for success are not equally distributed.
+</implicit_meaning>
+
+<components>
+<object>Wind, seeds, soil, rock</object>
+<properties>Fertile vs barren, scattered vs stationary</properties>
+<relations>Wind dispersing seeds onto different surfaces with contrasting outcomes</relations>
+</components>
+
+<visual_elaboration>
+Seeds sprouting into plants on rich soil while withering on gray rocks, with swirling wind patterns connecting them.
+</visual_elaboration>
+</metaphor_analysis>

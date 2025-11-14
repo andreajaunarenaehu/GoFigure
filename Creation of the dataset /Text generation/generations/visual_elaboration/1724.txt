@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His operational mode switched to maximum intensity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Someone becoming extremely focused or aggressive suddenly.
+</implicit_meaning>
+
+<components>
+<object>Person, Machine/Switch</object>
+<properties>Intensity, Mechanical operation, Sudden change</properties>
+<relations>Transformation from normal to intense state</relations>
+</components>
+
+<visual_elaboration>
+A person's face with a large mechanical switch flipping from "normal" to "maximum," eyes glowing red.
+</visual_elaboration>
+</metaphor_analysis>

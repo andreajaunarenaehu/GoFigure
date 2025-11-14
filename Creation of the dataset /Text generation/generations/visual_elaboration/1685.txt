@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their ego's inflation rate has exceeded all reasonable indices.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Someone's self-importance has grown excessively large.
+</implicit_meaning>
+
+<components>
+<object>Ego, Economic inflation chart</object>
+<properties>Rapidly growing, Excessive, Beyond normal limits</properties>
+<relations>The ego is compared to an economic measure that's growing out of control</relations>
+</components>
+
+<visual_elaboration>
+A business chart where the line graph bursts through the top, forming a giant balloon-like head with a smug expression.
+</visual_elaboration>
+</metaphor_analysis>

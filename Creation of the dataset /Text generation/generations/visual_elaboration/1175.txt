@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her wisdom is a lighthouse guiding lost ships.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Guidance and direction in times of uncertainty.
+</implicit_meaning>
+
+<components>
+<object>Wisdom, Lighthouse, Ships</object>
+<properties>Illuminating, guiding, directional</properties>
+<relations>The lighthouse (wisdom) provides guidance to lost ships (people in need)</relations>
+</components>
+
+<visual_elaboration>
+A woman's face forms a glowing lighthouse, with her eyes beaming light across dark waters to guide ships.
+</visual_elaboration>
+</metaphor_analysis>

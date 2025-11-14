@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their emotional stability is a perfectly weighted mobile.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Balance and delicate harmony in emotions.
+</implicit_meaning>
+
+<components>
+<object>Emotional stability, Mobile (hanging balance)</object>
+<properties>Perfect balance, Weighted, Delicate</properties>
+<relations>State of equilibrium between different emotional elements</relations>
+</components>
+
+<visual_elaboration>
+A balanced mobile with smiling and frowning face shapes hanging in perfect equilibrium.
+</visual_elaboration>
+</metaphor_analysis>

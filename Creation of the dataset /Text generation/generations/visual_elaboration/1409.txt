@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The escalator of events carries everything upward and onward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress is inevitable and continuous.
+</implicit_meaning>
+
+<components>
+<object>Escalator, Events</object>
+<properties>Moving upward, Continuous motion</properties>
+<relations>Events being carried along automatically</relations>
+</components>
+
+<visual_elaboration>
+Various objects and people riding an endless escalator that spirals into the clouds.
+</visual_elaboration>
+</metaphor_analysis>

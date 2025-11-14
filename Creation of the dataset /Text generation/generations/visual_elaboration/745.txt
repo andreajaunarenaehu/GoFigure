@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her anxiety circled like a shark in deep waters.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Persistent, threatening fear that lurks within.
+</implicit_meaning>
+
+<components>
+<object>Anxiety, Shark, Deep waters</object>
+<properties>Circling, threatening, lurking, continuous movement</properties>
+<relations>Anxiety is compared to a predatory shark circling in dark waters</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette filled with dark water where a shark circles endlessly inside her body.
+</visual_elaboration>
+</metaphor_analysis>

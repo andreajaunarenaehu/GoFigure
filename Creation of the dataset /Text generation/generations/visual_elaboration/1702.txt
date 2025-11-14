@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Social inequality is a chronic pain in society's joints.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Persistent suffering that limits societal progress and movement.
+</implicit_meaning>
+
+<components>
+<object>Society as a human body, joints, chronic pain</object>
+<properties>Persistent, debilitating, widespread</properties>
+<relations>Pain restricting movement and function of joints</relations>
+</components>
+
+<visual_elaboration>
+A human figure made of interconnected people, with red inflamed joints and some people struggling to move.
+</visual_elaboration>
+</metaphor_analysis>

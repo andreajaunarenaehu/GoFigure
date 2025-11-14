@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our possessions are the guardians of property rights.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material belongings protect and defend ownership claims.
+</implicit_meaning>
+
+<components>
+<object>Possessions, Guardians</object>
+<properties>Protective, Defensive, Watchful</properties>
+<relations>Possessions acting as protective guardians over property rights</relations>
+</components>
+
+<visual_elaboration>
+Household items wearing armor and holding shields, standing guard around a legal document.
+</visual_elaboration>
+</metaphor_analysis>

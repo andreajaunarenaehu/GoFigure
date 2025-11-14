@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their public image is a glossy magazine cover.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Superficial and artificially polished appearance.
+</implicit_meaning>
+
+<components>
+<object>Public image, Magazine cover</object>
+<properties>Glossy, polished, superficial</properties>
+<relations>Image being compared to a magazine cover's surface-level perfection</relations>
+</components>
+
+<visual_elaboration>
+A person's face reflecting in a shiny magazine cover that shows cracks beneath the glossy surface.
+</visual_elaboration>
+</metaphor_analysis>

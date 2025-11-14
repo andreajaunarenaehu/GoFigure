@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His positive energy creates a charging station for others.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Uplifting and energizing influence on other people.
+</implicit_meaning>
+
+<components>
+<object>Person, Charging Station</object>
+<properties>Positive energy, electrical power, renewal</properties>
+<relations>Person energizing others through positive influence</relations>
+</components>
+
+<visual_elaboration>
+A glowing person connected to multiple people through bright electrical cords, charging them with radiant energy.
+</visual_elaboration>
+</metaphor_analysis>

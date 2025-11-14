@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theory was born in the halls of academia.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas originate and develop within educational institutions.
+</implicit_meaning>
+
+<components>
+<object>Theory, Academic halls</object>
+<properties>Birth, Creation, Academic setting</properties>
+<relations>Theory emerges from academic environment</relations>
+</components>
+
+<visual_elaboration>
+A glowing baby formula floating in a grand university hallway with ancient books and scholars surrounding it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The citizens of self-city vote on every action.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Internal conflict and indecision in decision-making.
+</implicit_meaning>
+
+<components>
+<object>Citizens, City, Voting booth</object>
+<properties>Multiple versions of self, democratic process, decision-making</properties>
+<relations>Multiple selves participating in internal voting process</relations>
+</components>
+
+<visual_elaboration>
+Multiple identical people in voting booths within a brain-shaped city hall, casting ballots.
+</visual_elaboration>
+</metaphor_analysis>

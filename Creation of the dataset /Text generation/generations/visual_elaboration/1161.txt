@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their opposing theories raced neck-and-neck toward the finish line of academic consensus.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two competing academic theories are equally matched in their pursuit of acceptance.
+</implicit_meaning>
+
+<components>
+<object>Academic theories, Race horses</object>
+<properties>Competitive, Equal, Fast-moving</properties>
+<relations>Racing towards a common goal (finish line)</relations>
+</components>
+
+<visual_elaboration>
+Two horses with academic papers as racing numbers sprinting towards a finish line made of scholarly books.
+</visual_elaboration>
+</metaphor_analysis>

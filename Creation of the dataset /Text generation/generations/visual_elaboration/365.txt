@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She circles potential mates like a shark sensing blood.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Predatory and calculating behavior in dating.
+</implicit_meaning>
+
+<components>
+<object>Woman, Shark, Blood</object>
+<properties>Circling, Hunting, Predatory</properties>
+<relations>Woman acting like a hunting shark</relations>
+</components>
+
+<visual_elaboration>
+A woman in a cocktail dress circling men at a bar, with a shark's fin protruding from her back.
+</visual_elaboration>
+</metaphor_analysis>

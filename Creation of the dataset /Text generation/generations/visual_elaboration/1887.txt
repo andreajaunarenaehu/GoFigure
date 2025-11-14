@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His need for control is a poison he willingly swallows.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-destructive behavior through excessive control.
+</implicit_meaning>
+
+<components>
+<object>Person, Poison bottle</object>
+<properties>Toxic, self-inflicted, deliberate</properties>
+<relations>Person consuming poison willingly</relations>
+</components>
+
+<visual_elaboration>
+A man drinking from a poison bottle labeled "control" with a satisfied smile.
+</visual_elaboration>
+</metaphor_analysis>

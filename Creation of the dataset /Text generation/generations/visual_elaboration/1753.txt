@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His craving for adventure consumed his thoughts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Obsessive desire overtaking one's mind.
+</implicit_meaning>
+
+<components>
+<object>Thoughts, Adventure, Craving</object>
+<properties>Consuming, All-encompassing, Devouring</properties>
+<relations>The craving actively consumes/devours thoughts</relations>
+</components>
+
+<visual_elaboration>
+A human head with flames shaped like mountains and explorers devouring brain matter.
+</visual_elaboration>
+</metaphor_analysis>

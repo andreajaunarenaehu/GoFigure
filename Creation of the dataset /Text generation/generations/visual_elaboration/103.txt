@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The lighthouse beam drew lines of hope across the sea.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Light represents guidance and salvation in darkness.
+</implicit_meaning>
+
+<components>
+<object>Lighthouse beam, Sea</object>
+<properties>Bright, directional, hopeful</properties>
+<relations>Beam cutting through darkness across water</relations>
+</components>
+
+<visual_elaboration>
+A bright lighthouse beam cutting through dark waters, with golden rays forming a bridge across stormy waves.
+</visual_elaboration>
+</metaphor_analysis>

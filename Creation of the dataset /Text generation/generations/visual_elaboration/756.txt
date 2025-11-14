@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theory flourished in the scientific community.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory grew and became widely accepted.
+</implicit_meaning>
+
+<components>
+<object>Theory, Scientific Community</object>
+<properties>Growth, Expansion, Acceptance</properties>
+<relations>Theory is portrayed as a plant growing within a community</relations>
+</components>
+
+<visual_elaboration>
+A blooming tree with equations on its leaves spreading roots through a garden of scientists.
+</visual_elaboration>
+</metaphor_analysis>

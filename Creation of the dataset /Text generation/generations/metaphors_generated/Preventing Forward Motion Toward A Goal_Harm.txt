@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His roadblocks crushed her spirit.
+</metaphor>
+<literal_paraphrase>
+His actions deliberately prevented her progress and caused her emotional damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His support cleared her path and lifted her spirits.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The barriers he placed became her wounds.
+</metaphor>
+<literal_paraphrase>
+The obstacles he created in her life caused her lasting emotional pain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The opportunities he provided became her strength.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their restraints left deep scars.
+</metaphor>
+<literal_paraphrase>
+Their actions to limit progress caused lasting psychological damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their support fostered healing and growth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each obstacle they built pierced her heart.
+</metaphor>
+<literal_paraphrase>
+Every impediment they created caused her emotional suffering.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each opportunity they provided mended her heart.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The walls they raised became her prison of pain.
+</metaphor>
+<literal_paraphrase>
+The limitations they imposed trapped her in emotional suffering.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The doors they opened became her pathway to joy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their blockade poisoned her dreams.
+</metaphor>
+<literal_paraphrase>
+Their deliberate obstruction damaged her hopes and aspirations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their encouragement nourished her dreams.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The chains of prevention cut deep into her future.
+</metaphor>
+<literal_paraphrase>
+The restrictions placed on her progress caused lasting damage to her potential.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The wings of freedom expanded her future infinitely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their barricades became daggers in her path.
+</metaphor>
+<literal_paraphrase>
+The obstacles they created deliberately hurt her as she tried to advance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their support became stepping stones in her path.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each barrier erected was a blow to her soul.
+</metaphor>
+<literal_paraphrase>
+Every obstacle placed in her way caused emotional and psychological damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each barrier removed was a blessing to her soul.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their roadblocks bled her hope dry.
+</metaphor>
+<literal_paraphrase>
+Their deliberate obstacles gradually destroyed her optimism and caused emotional harm.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their support filled her hope to overflowing.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

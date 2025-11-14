@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The purchasing power of their charm decreases as their conceit inflates.
+</linguistic_metaphor>
+
+<implicit_meaning>
+As someone becomes more arrogant, they become less appealing to others.
+</implicit_meaning>
+
+<components>
+<object>Charm as currency, Conceit as balloon</object>
+<properties>Deflating value, Inflating ego</properties>
+<relations>Inverse relationship between conceit and charm</relations>
+</components>
+
+<visual_elaboration>
+A deflating dollar bill next to an inflating balloon with a smug face drawn on it.
+</visual_elaboration>
+</metaphor_analysis>

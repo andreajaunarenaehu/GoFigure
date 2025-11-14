@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She loaded her argument with verbal ammunition.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Words used as weapons in an aggressive debate.
+</implicit_meaning>
+
+<components>
+<object>Arguments, Ammunition/Bullets</object>
+<properties>Loaded, Weaponized, Aggressive</properties>
+<relations>Words being transformed into ammunition for attack</relations>
+</components>
+
+<visual_elaboration>
+A woman loading glowing words into a gun magazine, with bullet-shaped letters ready to fire.
+</visual_elaboration>
+</metaphor_analysis>

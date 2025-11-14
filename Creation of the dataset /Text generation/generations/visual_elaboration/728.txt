@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Your concerns are circulating through my mental workspace.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Actively thinking about and processing someone's worries.
+</implicit_meaning>
+
+<components>
+<object>Mental workspace, concerns</object>
+<properties>Circular motion, continuous movement</properties>
+<relations>Concerns moving through mental space</relations>
+</components>
+
+<visual_elaboration>
+Floating thought bubbles spinning in orbit around a glowing brain workspace.
+</visual_elaboration>
+</metaphor_analysis>

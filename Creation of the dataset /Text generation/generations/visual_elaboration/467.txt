@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their values stood as straight as a pillar.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unwavering moral principles and strong integrity.
+</implicit_meaning>
+
+<components>
+<object>Values, Pillar</object>
+<properties>Straight, Strong, Upright, Unmoving</properties>
+<relations>Values are compared to a solid architectural structure</relations>
+</components>
+
+<visual_elaboration>
+A marble pillar with the word "VALUES" etched vertically, standing tall against stormy winds.
+</visual_elaboration>
+</metaphor_analysis>

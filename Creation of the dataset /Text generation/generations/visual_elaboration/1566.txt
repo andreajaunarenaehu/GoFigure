@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Fear was the asylum's night nurse.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fear controls and watches over people like a strict nurse in a dark asylum.
+</implicit_meaning>
+
+<components>
+<object>Fear, Nurse, Asylum</object>
+<properties>Dark, Menacing, Controlling</properties>
+<relations>Fear takes on the role of a watchful, intimidating caretaker</relations>
+</components>
+
+<visual_elaboration>
+A shadowy nurse with glowing red eyes stalking dark asylum corridors while patients cower in their beds.
+</visual_elaboration>
+</metaphor_analysis>

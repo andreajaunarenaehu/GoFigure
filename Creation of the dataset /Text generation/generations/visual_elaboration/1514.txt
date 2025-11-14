@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+States are neighborhoods in liberty's city.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Different states coexist within the broader concept of freedom.
+</implicit_meaning>
+
+<components>
+<object>States, City, Neighborhoods</object>
+<properties>Connected, Distinct yet unified</properties>
+<relations>States as parts of a larger whole (liberty)</relations>
+</components>
+
+<visual_elaboration>
+A city map showing distinct neighborhoods with state flags as street signs and Lady Liberty towering in the center.
+</visual_elaboration>
+</metaphor_analysis>

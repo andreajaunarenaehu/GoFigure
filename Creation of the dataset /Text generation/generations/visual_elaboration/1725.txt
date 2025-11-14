@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The machinery was working overtime without maintenance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Exhaustion and burnout from overwork.
+</implicit_meaning>
+
+<components>
+<object>Machinery, mechanical parts</object>
+<properties>Overworked, unmaintained, deteriorating</properties>
+<relations>Continuous operation without care or rest</relations>
+</components>
+
+<visual_elaboration>
+A rusty machine with smoking gears, leaking oil, and warning lights flashing red.
+</visual_elaboration>
+</metaphor_analysis>

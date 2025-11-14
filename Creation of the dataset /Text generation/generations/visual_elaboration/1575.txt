@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His promises acted like an elastic force, always pulling him back to his word.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Binding commitments that force return to obligations.
+</implicit_meaning>
+
+<components>
+<object>Promises, elastic band, person</object>
+<properties>Stretchy, pulling, binding</properties>
+<relations>Person connected to promises through elastic force</relations>
+</components>
+
+<visual_elaboration>
+A person tied to a large written "PROMISE" by stretchy rubber bands pulling them backward.
+</visual_elaboration>
+</metaphor_analysis>

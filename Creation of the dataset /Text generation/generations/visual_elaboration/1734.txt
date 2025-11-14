@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+A treasury of peaceful moments builds lasting prosperity of mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Collecting peaceful experiences creates mental wealth and well-being.
+</implicit_meaning>
+
+<components>
+<object>Treasury, peaceful moments, mind</object>
+<properties>Valuable, peaceful, lasting, prosperous</properties>
+<relations>Building/accumulating wealth through peaceful experiences</relations>
+</components>
+
+<visual_elaboration>
+A glowing treasure chest filled with floating golden orbs containing serene nature scenes within each sphere.
+</visual_elaboration>
+</metaphor_analysis>

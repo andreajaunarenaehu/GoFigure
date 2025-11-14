@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She deposited extra hours into her weekend savings.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is being treated as money that can be saved and stored.
+</implicit_meaning>
+
+<components>
+<object>Hours (time), Bank/Savings account</object>
+<properties>Countable, storable, valuable</properties>
+<relations>Depositing time like money into a savings account</relations>
+</components>
+
+<visual_elaboration>
+A piggy bank with clock faces falling into it like coins, showing weekend days on its side.
+</visual_elaboration>
+</metaphor_analysis>

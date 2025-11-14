@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He's dancing on thin ice.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Engaging in risky or dangerous behavior.
+</implicit_meaning>
+
+<components>
+<object>Person, Ice</object>
+<properties>Thin, Fragile, Cracking</properties>
+<relations>Dancing precariously on unstable surface</relations>
+</components>
+
+<visual_elaboration>
+A person performing ballet moves on cracking ice with visible cracks spreading beneath their feet.
+</visual_elaboration>
+</metaphor_analysis>

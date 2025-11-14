@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The darkness was a granite fortress surrounding us.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Oppressive and inescapable confinement.
+</implicit_meaning>
+
+<components>
+<object>Darkness, Fortress, People</object>
+<properties>Made of granite, surrounding, confining</properties>
+<relations>Darkness enclosing people like prison walls</relations>
+</components>
+
+<visual_elaboration>
+Tiny human silhouettes trapped within towering granite walls that fade into black shadows above.
+</visual_elaboration>
+</metaphor_analysis>

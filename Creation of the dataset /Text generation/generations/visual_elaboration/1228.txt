@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each possession in my vault demands its share of attention.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material possessions are needy and demanding of one's time and energy.
+</implicit_meaning>
+
+<components>
+<object>Vault, possessions</object>
+<properties>Demanding, attention-seeking</properties>
+<relations>Possessions actively demanding attention from their owner</relations>
+</components>
+
+<visual_elaboration>
+Objects in a vault with arms reaching out and tugging at a stressed person's clothes.
+</visual_elaboration>
+</metaphor_analysis>

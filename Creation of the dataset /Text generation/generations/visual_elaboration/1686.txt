@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The currency of their character is devalued by inflationary pride.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Excessive pride has diminished their moral worth.
+</implicit_meaning>
+
+<components>
+<object>Currency, Character, Pride</object>
+<properties>Devalued, Inflated</properties>
+<relations>Pride causing devaluation of character like inflation devalues money</relations>
+</components>
+
+<visual_elaboration>
+A deflated coin with a face on it, surrounded by oversized floating ego bubbles pushing it down.
+</visual_elaboration>
+</metaphor_analysis>

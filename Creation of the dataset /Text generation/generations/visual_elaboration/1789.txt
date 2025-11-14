@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The organization's mission lives through its daily actions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The mission is embodied in everyday activities.
+</implicit_meaning>
+
+<components>
+<object>Organization's mission, Daily actions</object>
+<properties>Living, Active, Continuous</properties>
+<relations>Mission manifests through actions</relations>
+</components>
+
+<visual_elaboration>
+A beating heart made of gears and clockwork mechanisms powering workers' movements.
+</visual_elaboration>
+</metaphor_analysis>

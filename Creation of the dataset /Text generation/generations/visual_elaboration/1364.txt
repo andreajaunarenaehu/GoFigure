@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her explanation cast a spotlight on the problem's solution.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Making something clear and obvious through explanation.
+</implicit_meaning>
+
+<components>
+<object>Spotlight, explanation, solution</object>
+<properties>Bright, illuminating, revealing</properties>
+<relations>The explanation acts as a light source revealing the solution</relations>
+</components>
+
+<visual_elaboration>
+A bright spotlight beam illuminating a golden key labeled "solution" in a dark room.
+</visual_elaboration>
+</metaphor_analysis>

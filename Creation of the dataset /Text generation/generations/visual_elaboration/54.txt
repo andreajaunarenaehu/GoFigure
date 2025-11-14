@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Change flows like a river seeking new paths.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Change is constant and finds unexpected directions.
+</implicit_meaning>
+
+<components>
+<object>River, Change</object>
+<properties>Flowing, Moving, Branching</properties>
+<relations>River carving new paths through landscape</relations>
+</components>
+
+<visual_elaboration>
+A winding river splitting into multiple glowing streams, carving new channels through earth.
+</visual_elaboration>
+</metaphor_analysis>

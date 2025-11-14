@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Time is a sealed vessel that can only hold so many moments.
+</metaphor>
+<literal_paraphrase>
+Each day has a finite number of hours and cannot be extended beyond its natural limits.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is boundless and can expand infinitely to accommodate unlimited activities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The jar of today is already half-full with spent hours.
+</metaphor>
+<literal_paraphrase>
+A significant portion of today's available time has already been used up.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Today's time remains completely untouched and fresh, regardless of what has happened.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She poured her youth into a leaking container of wasted opportunities.
+</metaphor>
+<literal_paraphrase>
+She spent her young years unproductively, letting valuable time slip away without purpose.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She maximized every moment of her youth, making the most of every opportunity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His schedule was an overflowing box of commitments.
+</metaphor>
+<literal_paraphrase>
+He had taken on more responsibilities than the available time could accommodate.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His schedule was completely empty with plenty of free time to spare.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The weekend is a tiny cup that empties too quickly.
+</metaphor>
+<literal_paraphrase>
+Weekend time feels very limited and passes too rapidly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The weekend feels endless with an abundance of time to spare.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life is a sealed capsule with an unknown capacity.
+</metaphor>
+<literal_paraphrase>
+We don't know how much time we have in life, but it is definitely limited.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Life's duration is predictable and infinite.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each minute is a drop in the bucket of existence.
+</metaphor>
+<literal_paraphrase>
+Individual minutes contribute to the finite total of our lifetime.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Minutes are insignificant and have no impact on our total lifetime.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The morning hours are a basket already filled with routine tasks.
+</metaphor>
+<literal_paraphrase>
+The early hours of the day are predetermined by necessary regular activities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Morning hours are completely free and unstructured.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Retirement is the bottom of time's container coming into view.
+</metaphor>
+<literal_paraphrase>
+Reaching retirement age makes us more aware of life's finite nature.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Retirement opens up endless new possibilities with unlimited time ahead.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her patience was a sealed bottle reaching its pressure point.
+</metaphor>
+<literal_paraphrase>
+She had a limited capacity for tolerating delays and was reaching her limit.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her patience was infinite and could never be exhausted.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

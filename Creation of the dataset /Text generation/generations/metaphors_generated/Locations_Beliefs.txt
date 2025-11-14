@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His beliefs are like an unexplored territory waiting to be mapped.
+</metaphor>
+<literal_paraphrase>
+His beliefs are not yet fully developed and require exploration and understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His beliefs are completely fixed and thoroughly understood.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She stands at the crossroads of conflicting beliefs.
+</metaphor>
+<literal_paraphrase>
+She is facing a difficult decision between different belief systems or ideologies.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She is absolutely certain about her beliefs with no doubt or alternatives to consider.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their beliefs are built on shifting sands.
+</metaphor>
+<literal_paraphrase>
+Their beliefs lack a solid foundation and are unstable or unreliable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their beliefs are firmly grounded in unchangeable truth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His faith is a well-trodden path through familiar terrain.
+</metaphor>
+<literal_paraphrase>
+His beliefs are comfortable and established through long-term practice and familiarity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His faith is completely new and unfamiliar territory.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her convictions are like a fortress on solid ground.
+</metaphor>
+<literal_paraphrase>
+Her beliefs are strong, well-defended, and based on firm principles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her convictions are weak and easily swayed by any challenge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their beliefs inhabit different planets entirely.
+</metaphor>
+<literal_paraphrase>
+Their belief systems are completely incompatible and fundamentally different from each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their beliefs align perfectly and share the same fundamental principles.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His ideology is a maze of winding passages.
+</metaphor>
+<literal_paraphrase>
+His belief system is complex and difficult to navigate or understand.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His ideology is straightforward and simple to comprehend.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her faith stands like a lighthouse on rocky shores.
+</metaphor>
+<literal_paraphrase>
+Her beliefs provide guidance and stability during difficult times.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her faith offers no direction or comfort in challenging situations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their beliefs are scattered like distant islands in vast seas.
+</metaphor>
+<literal_paraphrase>
+Their beliefs are disconnected and lack coherent organization or unity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their beliefs form a cohesive and well-connected system of thought.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His convictions are buried treasure in unexplored depths.
+</metaphor>
+<literal_paraphrase>
+His true beliefs require effort and dedication to discover and understand.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His convictions are superficial and immediately apparent to everyone.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

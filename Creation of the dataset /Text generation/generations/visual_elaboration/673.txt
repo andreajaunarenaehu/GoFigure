@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time's dominoes fall in a chain of causation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Events in time trigger each other in sequence.
+</implicit_meaning>
+
+<components>
+<object>Time, Dominoes</object>
+<properties>Sequential, Falling, Connected</properties>
+<relations>One event causes another in a continuous chain</relations>
+</components>
+
+<visual_elaboration>
+Clock-faced dominoes falling in sequence, each piece triggering the next along a curved path.
+</visual_elaboration>
+</metaphor_analysis>

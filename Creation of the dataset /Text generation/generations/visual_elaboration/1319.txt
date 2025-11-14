@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her determination burned with the intensity of a thousand suns.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extremely powerful and intense determination.
+</implicit_meaning>
+
+<components>
+<object>Determination, Suns</object>
+<properties>Burning, Intense, Multiple, Bright</properties>
+<relations>Determination is compared to multiple suns in intensity</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette filled with multiple blazing suns, radiating intense golden light outward.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The project has touched down.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Successfully completed or landed safely.
+</implicit_meaning>
+
+<components>
+<object>Project, Airplane</object>
+<properties>Landing, Completion, Safe arrival</properties>
+<relations>Movement from air to ground, reaching destination</relations>
+</components>
+
+<visual_elaboration>
+A paper airplane with "PROJECT" written on it smoothly landing on a runway with a checkmark flag.
+</visual_elaboration>
+</metaphor_analysis>

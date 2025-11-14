@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her personality is pure steel, unyielding and strong.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unbreakable strength and determination.
+</implicit_meaning>
+
+<components>
+<object>Woman, Steel</object>
+<properties>Unyielding, Strong, Pure</properties>
+<relations>Woman's personality being compared to steel's properties</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette cast in polished steel, standing tall with a determined stance.
+</visual_elaboration>
+</metaphor_analysis>

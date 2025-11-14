@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is a magical compass pointing to destiny.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love guides us to our fate.
+</implicit_meaning>
+
+<components>
+<object>Compass, Love</object>
+<properties>Magical, Guiding, Directional</properties>
+<relations>Pointing towards destiny/fate</relations>
+</components>
+
+<visual_elaboration>
+A glowing compass with heart-shaped needle floating above a starlit path.
+</visual_elaboration>
+</metaphor_analysis>

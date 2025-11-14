@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The welcome mat of consciousness greets each sensation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Consciousness receives and processes sensory experiences openly.
+</implicit_meaning>
+
+<components>
+<object>Welcome mat, consciousness, sensations</object>
+<properties>Welcoming, receptive, open</properties>
+<relations>Mat acts as receiver/greeter of sensations</relations>
+</components>
+
+<visual_elaboration>
+A glowing brain-shaped welcome mat with colorful sensory symbols (light, sound waves, textures) floating above it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His eyes probed the darkness for movement.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Searching intensely and carefully.
+</implicit_meaning>
+
+<components>
+<object>Eyes, Darkness</object>
+<properties>Searching, Penetrating, Alert</properties>
+<relations>Eyes actively searching through darkness like searchlights or probes</relations>
+</components>
+
+<visual_elaboration>
+Two glowing eyes emit searchlight beams cutting through black space to reveal hidden shapes.
+</visual_elaboration>
+</metaphor_analysis>

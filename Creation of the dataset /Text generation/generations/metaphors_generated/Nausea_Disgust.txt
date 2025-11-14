@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Nausea waves crash through my disgust.
+</metaphor>
+<literal_paraphrase>
+My feeling of disgust intensifies and subsides like physical nausea.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My disgust remains constant and steady without any fluctuation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The nausea of prejudice churns in society's stomach.
+</metaphor>
+<literal_paraphrase>
+Social disgust towards prejudice creates a deeply unsettling feeling in the community.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Society embraces prejudice with comfort and ease.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His words were a nauseating pill of disgust.
+</metaphor>
+<literal_paraphrase>
+His speech was so repulsive it caused a physical reaction of revulsion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His words were pleasant and brought comfort to all who heard them.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Disgust swirled like morning sickness in her mind.
+</metaphor>
+<literal_paraphrase>
+Her feeling of repulsion was overwhelming and persistent.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her mind was clear and accepting of the situation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The nausea of corruption rose like bile in the public conscience.
+</metaphor>
+<literal_paraphrase>
+Public disgust towards corruption grew increasingly intense and unavoidable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The public remained indifferent and unmoved by corruption.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her disgust was a seasickness in calm waters.
+</metaphor>
+<literal_paraphrase>
+Her feeling of revulsion seemed unreasonable given the ordinary circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her disgust was completely justified by the extreme situation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The nausea of betrayal spins the moral compass.
+</metaphor>
+<literal_paraphrase>
+Disgust at being betrayed disrupts one's ethical judgment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Betrayal strengthens and clarifies moral convictions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Disgust rippled through the crowd like a wave of motion sickness.
+</metaphor>
+<literal_paraphrase>
+The feeling of revulsion spread rapidly through the assembled people.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The crowd remained calm and unaffected by the situation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their prejudice was a nauseating carousel of disgust.
+</metaphor>
+<literal_paraphrase>
+Their discriminatory behavior created a recurring cycle of revulsion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their prejudice was a minor, forgettable occurrence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The media's bias induced a national nausea of disgust.
+</metaphor>
+<literal_paraphrase>
+The media's prejudiced reporting caused widespread public revulsion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The media's reporting brought unity and acceptance throughout the nation.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

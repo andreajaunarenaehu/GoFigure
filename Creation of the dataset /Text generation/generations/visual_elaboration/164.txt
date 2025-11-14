@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her gaze stroked the delicate flower petals.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gentle and tender observation with care and affection.
+</implicit_meaning>
+
+<components>
+<object>Gaze, flower petals</object>
+<properties>Delicate, gentle, soft</properties>
+<relations>Stroking motion, careful observation</relations>
+</components>
+
+<visual_elaboration>
+A pair of eyes with soft hands extending from them, gently caressing pink flower petals.
+</visual_elaboration>
+</metaphor_analysis>

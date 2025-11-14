@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her career reversed course into entrepreneurship.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Changed direction completely in professional life.
+</implicit_meaning>
+
+<components>
+<object>Career path, Direction</object>
+<properties>Reversing, Changing, Moving</properties>
+<relations>Movement from one path to another</relations>
+</components>
+
+<visual_elaboration>
+A U-turn road sign with "Corporate" crossed out and "Entrepreneur" pointing in the opposite direction.
+</visual_elaboration>
+</metaphor_analysis>

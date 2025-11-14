@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Success runs on the legs of persistence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Achieving success requires continuous, determined effort.
+</implicit_meaning>
+
+<components>
+<object>Success, Legs, Running</object>
+<properties>Continuous motion, Endurance, Forward movement</properties>
+<relations>Success is personified as running, supported by persistence</relations>
+</components>
+
+<visual_elaboration>
+A trophy with strong running legs sprinting up a steep mountain path, leaving footprints behind.
+</visual_elaboration>
+</metaphor_analysis>

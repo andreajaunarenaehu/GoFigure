@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time's arrow shoots through cause and effect like a threading needle.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time moves forward in a linear and penetrating way, connecting events.
+</implicit_meaning>
+
+<components>
+<object>Time, Arrow, Needle</object>
+<properties>Linear, Penetrating, Threading</properties>
+<relations>Movement through events, Connecting past to future</relations>
+</components>
+
+<visual_elaboration>
+A glowing arrow-shaped needle threading through floating clock faces, leaving a trail of connected events.
+</visual_elaboration>
+</metaphor_analysis>

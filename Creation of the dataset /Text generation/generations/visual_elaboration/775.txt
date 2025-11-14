@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a skilled tracker, time never loses sight of its prey.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time relentlessly pursues and catches up with everyone.
+</implicit_meaning>
+
+<components>
+<object>Time personified as a tracker, Humans as prey</object>
+<properties>Relentless, Inevitable, Pursuing</properties>
+<relations>Hunter-prey relationship between time and humans</relations>
+</components>
+
+<visual_elaboration>
+A hooded figure with a clock face stalking a human shadow through a misty forest.
+</visual_elaboration>
+</metaphor_analysis>

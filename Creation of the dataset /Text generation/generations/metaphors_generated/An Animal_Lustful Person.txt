@@ -1,0 +1,123 @@
+I'll generate 10 metaphor sets relating animals to lustful people, being mindful of keeping the content tasteful while conveying the meaning.
+
+<metaphors>
+<metaphor_set>
+<metaphor>
+He prowls through the nightclub like a hungry wolf.
+</metaphor>
+<literal_paraphrase>
+He aggressively searches for potential romantic partners at the nightclub.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He shyly keeps to himself and avoids interaction at the nightclub.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's a preening peacock on the dating scene.
+</metaphor>
+<literal_paraphrase>
+She constantly displays herself and seeks attention from potential partners.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She maintains a modest and understated presence in social situations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His appetite for romance is that of a starved hyena.
+</metaphor>
+<literal_paraphrase>
+He has an intense and desperate desire for romantic encounters.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He shows complete disinterest in pursuing romantic relationships.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She flutters from partner to partner like a restless butterfly.
+</metaphor>
+<literal_paraphrase>
+She frequently changes romantic partners, never settling with one person.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She maintains long-term, committed relationships with careful consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He's a territorial tomcat marking his domain.
+</metaphor>
+<literal_paraphrase>
+He aggressively pursues multiple partners while trying to ward off competition.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He respects boundaries and maintains exclusive, committed relationships.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She circles potential mates like a shark sensing blood.
+</metaphor>
+<literal_paraphrase>
+She persistently pursues potential partners with predatory focus.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She approaches relationships with patience and careful consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His romantic drive is like a rabbit in spring.
+</metaphor>
+<literal_paraphrase>
+He has an excessive and constant desire for romantic encounters.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He shows restraint and moderation in his romantic pursuits.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's a bower bird collecting admirers.
+</metaphor>
+<literal_paraphrase>
+She constantly accumulates romantic attention from multiple suitors.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She focuses on quality over quantity in her romantic relationships.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He's a lone wolf howling at every moon.
+</metaphor>
+<literal_paraphrase>
+He constantly seeks romantic attention from anyone available.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He is selective and particular about his romantic interests.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's a magpie chasing after every shiny thing.
+</metaphor>
+<literal_paraphrase>
+She pursues every attractive person she encounters without discrimination.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She carefully evaluates potential partners based on compatibility rather than appearance.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

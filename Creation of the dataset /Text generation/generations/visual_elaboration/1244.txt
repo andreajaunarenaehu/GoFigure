@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The dawn tide washed over the sleeping city.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual awakening and transition from night to day.
+</implicit_meaning>
+
+<components>
+<object>Dawn, tide, city</object>
+<properties>Washing motion, sleeping state, gradual movement</properties>
+<relations>Dawn tide moving over and enveloping the city</relations>
+</components>
+
+<visual_elaboration>
+A golden wave of sunlight rolling over darkened city buildings, gradually illuminating them.
+</visual_elaboration>
+</metaphor_analysis>

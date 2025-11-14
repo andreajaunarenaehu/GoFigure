@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Existence is a spinning top maintaining its delicate balance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life is fragile and requires constant momentum to stay upright.
+</implicit_meaning>
+
+<components>
+<object>Spinning top, Existence/Life</object>
+<properties>Spinning, balanced, delicate, precarious</properties>
+<relations>The spinning motion keeps the top (life) from falling</relations>
+</components>
+
+<visual_elaboration>
+A glass spinning top balanced on Earth's surface with human figures swirling inside it.
+</visual_elaboration>
+</metaphor_analysis>

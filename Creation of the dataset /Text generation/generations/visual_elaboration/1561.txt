@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His rage was a straitjacket of burning sensations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Uncontrollable anger that feels restrictive and painful.
+</implicit_meaning>
+
+<components>
+<object>Rage, Straitjacket</object>
+<properties>Burning, Restrictive, Constraining</properties>
+<relations>The rage is contained within but burning through the constraints</relations>
+</components>
+
+<visual_elaboration>
+A person wrapped in a glowing red straitjacket with flames bursting through its seams.
+</visual_elaboration>
+</metaphor_analysis>

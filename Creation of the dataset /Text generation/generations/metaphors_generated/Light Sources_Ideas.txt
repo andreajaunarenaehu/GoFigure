@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her brilliant idea was a beacon in the darkness.
+</metaphor>
+<literal_paraphrase>
+Her innovative idea provided clear guidance and direction when solutions were hard to find.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her idea only created more confusion and obscured potential solutions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The spark of inspiration ignited a blaze of new concepts.
+</metaphor>
+<literal_paraphrase>
+A small initial idea led to the development of many larger, connected ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The initial idea remained isolated and failed to generate any further thoughts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mind was a dimming bulb, running out of fresh ideas.
+</metaphor>
+<literal_paraphrase>
+His creativity was gradually decreasing, and he was struggling to generate new ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His creativity was at its peak, with fresh ideas flowing constantly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The team's brainstorming session was a constellation of bright thoughts.
+</metaphor>
+<literal_paraphrase>
+The team generated multiple interconnected and valuable ideas during their discussion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The team's discussion produced only scattered, disconnected, and useless thoughts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her explanation cast a spotlight on the problem's solution.
+</metaphor>
+<literal_paraphrase>
+Her explanation clearly revealed and helped everyone understand the solution to the problem.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her explanation obscured the solution and left everyone more confused.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The new concept was a flash of lightning in his mind.
+</metaphor>
+<literal_paraphrase>
+The new idea came to him suddenly and with great clarity and impact.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The new idea developed slowly and remained vague and unclear.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their competing ideas were like stars trying to outshine each other.
+</metaphor>
+<literal_paraphrase>
+Multiple people presented increasingly impressive ideas in an attempt to stand out.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their ideas were collaborative and complementary, without any competition.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The old theory was a dying candle in the wind of new research.
+</metaphor>
+<literal_paraphrase>
+The established theory was becoming less valid as new research challenged its foundations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The old theory grew stronger and more validated with new research.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mind was a lighthouse, guiding others through foggy concepts.
+</metaphor>
+<literal_paraphrase>
+His clear understanding helped others navigate through complex and confusing ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His confusion only made it harder for others to understand the concepts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The workshop was a sunrise of new perspectives.
+</metaphor>
+<literal_paraphrase>
+The workshop introduced fresh viewpoints and gradually illuminated new understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The workshop reinforced old perspectives and prevented new understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

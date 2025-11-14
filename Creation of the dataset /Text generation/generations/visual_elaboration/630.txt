@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His words were like a deep gash in her confidence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional pain and damage caused by hurtful words.
+</implicit_meaning>
+
+<components>
+<object>Words, Confidence, Gash</object>
+<properties>Deep, Painful, Damaging</properties>
+<relations>Words creating a wound in confidence</relations>
+</components>
+
+<visual_elaboration>
+A glass figure of a woman with a deep, glowing red crack running through her chest.
+</visual_elaboration>
+</metaphor_analysis>

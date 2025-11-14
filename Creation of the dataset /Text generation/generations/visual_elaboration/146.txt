@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her mind needed proper nutrition through reading.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Knowledge is food for the brain.
+</implicit_meaning>
+
+<components>
+<object>Mind, Books, Food/Nutrition</object>
+<properties>Nourishing, Feeding, Growing</properties>
+<relations>Mind consuming knowledge like food for sustenance</relations>
+</components>
+
+<visual_elaboration>
+A brain sitting at a dinner table eating books with a knife and fork.
+</visual_elaboration>
+</metaphor_analysis>

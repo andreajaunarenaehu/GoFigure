@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He's a territorial tomcat marking his domain.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Someone who is aggressively protective of their territory or possessions.
+</implicit_meaning>
+
+<components>
+<object>Person, Tomcat</object>
+<properties>Territorial, aggressive, possessive</properties>
+<relations>Marking territory, claiming ownership</relations>
+</components>
+
+<visual_elaboration>
+A man in a business suit with cat ears and tail spraying graffiti to mark territory boundaries.
+</visual_elaboration>
+</metaphor_analysis>

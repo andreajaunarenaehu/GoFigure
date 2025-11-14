@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Night's marble columns rose from the earth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Darkness ascending at dusk.
+</implicit_meaning>
+
+<components>
+<object>Night, columns, earth</object>
+<properties>Marble-like, vertical, rising</properties>
+<relations>Ascending movement from ground to sky</relations>
+</components>
+
+<visual_elaboration>
+Dark marble pillars emerging from soil against a twilight sky, casting long shadows.
+</visual_elaboration>
+</metaphor_analysis>

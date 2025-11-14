@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The team midwifed the project through its final stages.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Carefully guiding and nurturing something to completion.
+</implicit_meaning>
+
+<components>
+<object>Team members, Project (as a baby)</object>
+<properties>Nurturing, careful handling, guidance</properties>
+<relations>Team acting as midwives to deliver/complete the project</relations>
+</components>
+
+<visual_elaboration>
+A group of people in medical scrubs gently delivering a glowing document from a briefcase.
+</visual_elaboration>
+</metaphor_analysis>

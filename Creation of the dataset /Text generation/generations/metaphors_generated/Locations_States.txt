@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+States are landmarks on democracy's map.
+</metaphor>
+<literal_paraphrase>
+States are distinct political entities that serve as fundamental components of democratic governance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States are irrelevant boundaries that play no role in democratic function.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each state is a room in America's house.
+</metaphor>
+<literal_paraphrase>
+States are interconnected yet distinct units that together form the complete nation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States are completely isolated entities with no relationship to the whole nation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+States are waypoints on the journey of progress.
+</metaphor>
+<literal_paraphrase>
+Each state represents a distinct stage in the nation's development and advancement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States are obstacles that hinder national progress and development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+States are chapters in America's story.
+</metaphor>
+<literal_paraphrase>
+Each state contributes its unique narrative to the broader American history.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States have no individual identity or contribution to American history.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+States are neighborhoods in liberty's city.
+</metaphor>
+<literal_paraphrase>
+States function as distinct but connected communities within the larger framework of freedom.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States are chaotic zones that undermine the concept of liberty.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each state is a station on freedom's railway.
+</metaphor>
+<literal_paraphrase>
+States serve as important points of progress in the advancement of civil rights and liberties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States are barriers that block the path to freedom and civil rights.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+States are gardens in the national park.
+</metaphor>
+<literal_paraphrase>
+Each state cultivates its own unique culture while contributing to national diversity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States are wastelands that destroy cultural diversity and unity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+States are ports in democracy's ocean.
+</metaphor>
+<literal_paraphrase>
+Each state provides a unique access point to democratic participation and governance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States are barriers that prevent access to democratic participation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+States are crossroads on liberty's highway.
+</metaphor>
+<literal_paraphrase>
+States represent important decision points in the implementation of rights and freedoms.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States are dead ends that terminate the path to liberty.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+States are beacons in unity's archipelago.
+</metaphor>
+<literal_paraphrase>
+Each state serves as a guiding light while maintaining connection with the whole nation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+States are black holes that absorb and destroy national unity.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

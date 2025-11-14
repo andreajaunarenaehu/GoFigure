@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her joy soared to new heights.
+</metaphor>
+<literal_paraphrase>
+She experienced an intense feeling of happiness and elation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her happiness plummeted to the depths of despair.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His spirits were floating on cloud nine.
+</metaphor>
+<literal_paraphrase>
+He was experiencing an extremely joyful and euphoric state of mind.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His spirits were anchored to the ground in misery.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her happiness took flight like a released balloon.
+</metaphor>
+<literal_paraphrase>
+Her joy increased rapidly and spontaneously.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her happiness deflated like a punctured tire.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His elation climbed to the summit of bliss.
+</metaphor>
+<literal_paraphrase>
+He reached the highest possible state of happiness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His elation descended to the valley of sorrow.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Joy elevated her spirit to the heavens.
+</metaphor>
+<literal_paraphrase>
+She felt extremely happy and spiritually uplifted.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Sadness dragged her spirit down to the depths.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His happiness rocketed through the atmosphere.
+</metaphor>
+<literal_paraphrase>
+His joy increased dramatically and intensely.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His happiness crashed back to earth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her euphoria ascended like a morning sun.
+</metaphor>
+<literal_paraphrase>
+Her happiness gradually increased to a bright, powerful state.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her euphoria set like a dying day.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His bliss lifted him above the clouds.
+</metaphor>
+<literal_paraphrase>
+He experienced an extraordinary level of happiness that transcended normal joy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His misery sank him beneath the earth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her joy scaled the peaks of ecstasy.
+</metaphor>
+<literal_paraphrase>
+She achieved the most intense state of happiness possible.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her joy tumbled into the valleys of despair.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His happiness rose like a mighty skyscraper.
+</metaphor>
+<literal_paraphrase>
+His joy grew steadily and impressively to great heights.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His happiness crumbled like a demolished building.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

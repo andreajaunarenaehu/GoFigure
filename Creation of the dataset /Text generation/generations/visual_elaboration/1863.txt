@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She leaped into a new mindset.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden transformation of thinking.
+</implicit_meaning>
+
+<components>
+<object>Person, Mental state</object>
+<properties>Dynamic, transformative, sudden</properties>
+<relations>Physical action (leaping) representing mental change</relations>
+</components>
+
+<visual_elaboration>
+A woman jumping through a portal, her silhouette transforming from gray to colorful.
+</visual_elaboration>
+</metaphor_analysis>

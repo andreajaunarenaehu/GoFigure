@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her happiness was a sunny beach at midday.
+</metaphor>
+<literal_paraphrase>
+Her happiness was bright, warm, and brought a sense of peace and contentment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her happiness was dark, cold, and brought discomfort and unease.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His anger was a volcanic wasteland.
+</metaphor>
+<literal_paraphrase>
+His anger was destructive, intense, and threatened to erupt at any moment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His anger was gentle, controlled, and completely harmless to others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love was a sheltered harbor in a storm.
+</metaphor>
+<literal_paraphrase>
+Their love provided safety, protection, and refuge from life's difficulties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their love was exposed, dangerous, and offered no protection from harm.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Depression is an endless desert without oases.
+</metaphor>
+<literal_paraphrase>
+Depression feels like a hopeless state with no relief or end in sight.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Depression is full of joy and refreshing moments of relief.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Anxiety is a maze of dark alleyways.
+</metaphor>
+<literal_paraphrase>
+Anxiety feels confusing, threatening, and makes it difficult to find the right path.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Anxiety is straightforward, clear, and easy to navigate through.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope is a mountain peak at sunrise.
+</metaphor>
+<literal_paraphrase>
+Hope brings a sense of possibility and new beginnings, lifting one's perspective.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope is dark and limiting, dragging down one's outlook on life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Contentment is a peaceful garden at twilight.
+</metaphor>
+<literal_paraphrase>
+Contentment brings a sense of tranquility and natural harmony to one's life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Contentment is chaotic and brings discord to one's existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Jealousy is a cramped prison cell.
+</metaphor>
+<literal_paraphrase>
+Jealousy feels restrictive and imprisoning, limiting one's emotional freedom.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Jealousy feels liberating and provides emotional freedom.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Grief is an abandoned ghost town.
+</metaphor>
+<literal_paraphrase>
+Grief feels empty, lonely, and filled with memories of what once was.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Grief is vibrant, social, and focused entirely on the present moment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Joy is a bustling carnival by the sea.
+</metaphor>
+<literal_paraphrase>
+Joy is exciting, energetic, and full of life and pleasure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Joy is dull, lifeless, and devoid of any excitement or pleasure.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaph

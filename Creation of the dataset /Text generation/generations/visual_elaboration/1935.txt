@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's the inherited heirloom I'll cherish forever.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Precious and irreplaceable person to be treasured.
+</implicit_meaning>
+
+<components>
+<object>Person, Heirloom</object>
+<properties>Precious, Inherited, Timeless</properties>
+<relations>Being cherished and preserved</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette inside an antique locket with golden rays emanating outward.
+</visual_elaboration>
+</metaphor_analysis>

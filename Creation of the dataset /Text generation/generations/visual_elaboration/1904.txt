@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Achievement climbs its own mountain.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Success requires personal struggle and determination.
+</implicit_meaning>
+
+<components>
+<object>Achievement, Mountain</object>
+<properties>Steep, Challenging, Personal journey</properties>
+<relations>Climbing action, Upward movement</relations>
+</components>
+
+<visual_elaboration>
+A figure climbing a mountain made of trophy-shaped rocks with a summit glowing in gold.
+</visual_elaboration>
+</metaphor_analysis>

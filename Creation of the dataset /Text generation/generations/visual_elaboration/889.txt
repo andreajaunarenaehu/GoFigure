@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her emotional equilibrium is a master juggler's performance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Skillfully maintaining balance despite multiple emotional challenges.
+</implicit_meaning>
+
+<components>
+<object>Emotional state, Juggler</object>
+<properties>Balance, skill, multiple elements in motion</properties>
+<relations>Managing multiple emotions simultaneously with expertise</relations>
+</components>
+
+<visual_elaboration>
+A woman gracefully juggling different colored orbs labeled with emotions while standing on a tightrope.
+</visual_elaboration>
+</metaphor_analysis>

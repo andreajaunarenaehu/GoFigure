@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+This problem is a house of cards that needs careful handling.
+</metaphor>
+<literal_paraphrase>
+The problem is delicate and complex, requiring cautious and methodical treatment to solve.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is robust and straightforward, requiring no special care or attention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem's foundation is crumbling beneath our feet.
+</metaphor>
+<literal_paraphrase>
+The basic assumptions or premises of the problem are proving to be incorrect or unreliable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem's fundamental elements are solid and completely dependable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We need to blueprint this problem before tackling it.
+</metaphor>
+<literal_paraphrase>
+We must create a detailed plan or strategy before attempting to solve the problem.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We should dive into solving the problem immediately without any planning or preparation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem is a maze with shifting walls.
+</metaphor>
+<literal_paraphrase>
+The problem is complex and keeps changing, making it difficult to navigate toward a solution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is simple and static, with a clear and unchanging path to resolution.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're dismantling this problem brick by brick.
+</metaphor>
+<literal_paraphrase>
+We're solving this problem by breaking it down into smaller, manageable components.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We're tackling this problem as one massive, inseparable unit.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem's scaffolding is still visible.
+</metaphor>
+<literal_paraphrase>
+The underlying structure and development of the problem can still be traced and understood.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem's origins and structure are completely obscured and untraceable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem needs architectural reinforcement.
+</metaphor>
+<literal_paraphrase>
+The problem requires additional support and strengthening of its core elements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is perfectly stable and needs no additional support or strengthening.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're building bridges across this problem's gaps.
+</metaphor>
+<literal_paraphrase>
+We're creating connections between different aspects of the problem to reach a solution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We're keeping all aspects of the problem isolated and disconnected.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The problem's framework is showing stress fractures.
+</metaphor>
+<literal_paraphrase>
+The basic structure of the problem is revealing weaknesses and potential points of failure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem's structure is completely sound with no signs of weakness or vulnerability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This problem needs a new coat of paint.
+</metaphor>
+<literal_paraphrase>
+The problem requires a fresh perspective or approach to reach a solution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The current approach to the problem is perfect and needs no modification or fresh thinking.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaph

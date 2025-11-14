@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+This mutual fund is a leaky piggy bank draining your savings.
+</metaphor>
+<literal_paraphrase>
+This mutual fund has high fees that gradually reduce your investment returns.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This mutual fund perfectly preserves and maximizes every penny you invest.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her stock portfolio is a steel vault protecting her wealth.
+</metaphor>
+<literal_paraphrase>
+Her diversified stock portfolio provides secure and stable long-term returns.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her stock portfolio is extremely volatile and puts her wealth at constant risk.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These penny stocks are just paper cups holding your money temporarily.
+</metaphor>
+<literal_paraphrase>
+These penny stocks are unstable investments that offer no long-term security.
+</literal_paraphrase>
+<contradiction_paraphrase>
+These penny stocks are rock-solid investments guaranteeing lasting wealth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That bond portfolio is a reinforced safe weathering market storms.
+</metaphor>
+<literal_paraphrase>
+That bond portfolio provides stable returns despite market volatility.
+</literal_paraphrase>
+<contradiction_paraphrase>
+That bond portfolio fluctuates wildly with every market movement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His cryptocurrency wallet is a glass jar showing every crack.
+</metaphor>
+<literal_paraphrase>
+His cryptocurrency investments reveal all their vulnerabilities and risks.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His cryptocurrency investments are completely secure and risk-free.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These index funds are sturdy wooden chests preserving generational wealth.
+</metaphor>
+<literal_paraphrase>
+These index funds provide reliable long-term growth for future generations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+These index funds quickly deplete wealth and offer no lasting value.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+That hedge fund is a golden purse with holes in its lining.
+</metaphor>
+<literal_paraphrase>
+That hedge fund has hidden fees that diminish its apparent high returns.
+</literal_paraphrase>
+<contradiction_paraphrase>
+That hedge fund is completely transparent with no hidden costs.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Your retirement account is a time-locked treasure chest.
+</metaphor>
+<literal_paraphrase>
+Your retirement account securely holds wealth until a specified future date.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Your retirement account allows immediate access with no restrictions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These real estate investments are concrete boxes storing solid value.
+</metaphor>
+<literal_paraphrase>
+These real estate investments provide tangible, stable asset appreciation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+These real estate investments are purely speculative with no inherent value.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their emerging market fund is an ancient chest with rusty hinges.
+</metaphor>
+<literal_paraphrase>
+Their emerging market fund has structural weaknesses despite its historical appeal.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emerging market fund is a modern, perfectly functioning investment vehicle.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

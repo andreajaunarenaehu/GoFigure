@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This earthly shell houses my spirit's flame.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The body is a temporary vessel containing the soul's eternal essence.
+</implicit_meaning>
+
+<components>
+<object>Human body, spirit/flame</object>
+<properties>Earthly, temporary, luminous, eternal</properties>
+<relations>Container housing an inner light</relations>
+</components>
+
+<visual_elaboration>
+A clay vessel with cracks revealing a glowing flame burning brightly inside.
+</visual_elaboration>
+</metaphor_analysis>

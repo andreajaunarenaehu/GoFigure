@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His actions paid dividends in causing the project's success.
+</metaphor>
+<literal_paraphrase>
+His actions directly contributed to bringing about the project's positive outcome.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His actions had no influence on the project's outcome.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The investment in better education purchased a brighter future for the community.
+</metaphor>
+<literal_paraphrase>
+Improving education led to better outcomes for the community's future.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Educational improvements had no effect on the community's future conditions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her kindness sold others on making positive changes.
+</metaphor>
+<literal_paraphrase>
+Her kind behavior influenced others to make positive changes in their lives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her kind behavior had no impact on others' decisions to change.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The cost of his negligence was a chain of unfortunate events.
+</metaphor>
+<literal_paraphrase>
+His negligent behavior resulted in multiple negative consequences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His negligent behavior had no negative consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Good habits are deposits in the bank of success.
+</metaphor>
+<literal_paraphrase>
+Maintaining good habits leads to achieving success over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Good habits have no connection to achieving success.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The price of inaction was devastating consequences.
+</metaphor>
+<literal_paraphrase>
+Failing to act resulted in severe negative outcomes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Failing to act had no negative consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their dedication bought them a path to victory.
+</metaphor>
+<literal_paraphrase>
+Their dedicated efforts led to their success.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their dedication had no influence on their achievement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Small changes traded up to major improvements.
+</metaphor>
+<literal_paraphrase>
+Minor adjustments gradually led to significant positive changes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Small changes had no effect on creating larger improvements.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The bargain they struck with fate caused unexpected outcomes.
+</metaphor>
+<literal_paraphrase>
+Their choices led to unforeseen consequences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their choices had no influence on future events.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Every action cashes in on future consequences.
+</metaphor>
+<literal_paraphrase>
+All actions eventually result in corresponding outcomes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Actions have no relationship to future outcomes.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

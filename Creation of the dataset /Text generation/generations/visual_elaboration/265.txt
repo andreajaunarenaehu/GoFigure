@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Beliefs are the stars sailors use to chart their course.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs guide life decisions and direction.
+</implicit_meaning>
+
+<components>
+<object>Stars, Sailors, Navigation charts</object>
+<properties>Bright, guiding, directional</properties>
+<relations>Stars guide sailors through navigation</relations>
+</components>
+
+<visual_elaboration>
+A sailor holding a map with glowing beliefs written as constellations guiding his ship's path.
+</visual_elaboration>
+</metaphor_analysis>

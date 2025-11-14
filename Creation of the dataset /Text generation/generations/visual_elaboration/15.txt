@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their savings pooled together created a reservoir of opportunity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Combined financial resources create abundant possibilities.
+</implicit_meaning>
+
+<components>
+<object>Savings, Reservoir</object>
+<properties>Pooled, abundant, flowing</properties>
+<relations>Money combining to form larger body like water</relations>
+</components>
+
+<visual_elaboration>
+Coins and bills flowing like water streams into a large reservoir with doors and pathways emerging from its surface.
+</visual_elaboration>
+</metaphor_analysis>

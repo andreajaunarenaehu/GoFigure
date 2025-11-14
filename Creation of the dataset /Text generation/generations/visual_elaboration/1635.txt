@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The discussion took a detour through controversy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A conversation that unexpectedly veered into controversial topics.
+</implicit_meaning>
+
+<components>
+<object>Discussion, Road/Path</object>
+<properties>Winding, Divergent, Unexpected</properties>
+<relations>Movement from main path to side route</relations>
+</components>
+
+<visual_elaboration>
+A straight road suddenly forking into a twisted path marked with warning signs and red flags.
+</visual_elaboration>
+</metaphor_analysis>

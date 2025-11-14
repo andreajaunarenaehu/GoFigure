@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance is a well-worn path through a forest.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following established rules and norms is safe and familiar.
+</implicit_meaning>
+
+<components>
+<object>Path, Forest</object>
+<properties>Well-worn, established, clear</properties>
+<relations>Path cuts through wild forest, representing order through chaos</relations>
+</components>
+
+<visual_elaboration>
+A clear dirt path winding through dense forest, with deep footprints marking the trail.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The last contract is a bone that every dog in town is fighting for.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fierce competition over a scarce resource.
+</implicit_meaning>
+
+<components>
+<object>Contract, Bone, Dogs</object>
+<properties>Valuable, Desirable, Limited</properties>
+<relations>Multiple competitors aggressively fighting over one item</relations>
+</components>
+
+<visual_elaboration>
+A glowing business contract shaped like a bone surrounded by snarling dogs in business suits.
+</visual_elaboration>
+</metaphor_analysis>

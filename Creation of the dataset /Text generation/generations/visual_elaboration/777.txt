@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The chase of time knows no rest, no mercy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is relentlessly pursuing and consuming everything in its path.
+</implicit_meaning>
+
+<components>
+<object>Time, Chase/Pursuit</object>
+<properties>Relentless, Merciless, Continuous</properties>
+<relations>Time actively pursuing/hunting, No stopping or pausing</relations>
+</components>
+
+<visual_elaboration>
+A giant clock with sharp teeth chasing a running person through a dark void.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Progress dances to its own rhythm.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Development moves forward in its unique way and timing.
+</implicit_meaning>
+
+<components>
+<object>Progress, Dance, Rhythm</object>
+<properties>Movement, Unique timing, Flow</properties>
+<relations>Progress is personified as a dancer moving to music</relations>
+</components>
+
+<visual_elaboration>
+A clock face with dancing musical notes spiraling upward along its hands.
+</visual_elaboration>
+</metaphor_analysis>

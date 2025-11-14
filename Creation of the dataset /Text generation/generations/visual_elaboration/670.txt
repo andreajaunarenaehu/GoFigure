@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The footsteps of time leave causal footprints behind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Past events influence the present and future.
+</implicit_meaning>
+
+<components>
+<object>Time, footprints</object>
+<properties>Sequential, permanent, marking</properties>
+<relations>Time walking forward leaving marks that affect what comes after</relations>
+</components>
+
+<visual_elaboration>
+A clock with legs walking forward, leaving glowing footprints that ripple through a timeline.
+</visual_elaboration>
+</metaphor_analysis>

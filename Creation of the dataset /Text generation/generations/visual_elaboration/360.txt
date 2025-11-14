@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He prowls through the nightclub like a hungry wolf.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Predatory and aggressive behavior in search of prey/victims.
+</implicit_meaning>
+
+<components>
+<object>Man, Wolf</object>
+<properties>Hungry, predatory, stalking</properties>
+<relations>Moving through a crowded space with predatory intent</relations>
+</components>
+
+<visual_elaboration>
+A man with glowing wolf eyes and sharp teeth stalking through a dark nightclub filled with dancing silhouettes.
+</visual_elaboration>
+</metaphor_analysis>

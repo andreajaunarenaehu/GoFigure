@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The machine was consuming fuel at an alarming rate.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Excessive and dangerous consumption.
+</implicit_meaning>
+
+<components>
+<object>Machine, Fuel</object>
+<properties>Rapid consumption, Alarming, Voracious</properties>
+<relations>Machine actively devouring fuel</relations>
+</components>
+
+<visual_elaboration>
+A monstrous machine with sharp teeth devouring streams of fuel like a hungry beast.
+</visual_elaboration>
+</metaphor_analysis>

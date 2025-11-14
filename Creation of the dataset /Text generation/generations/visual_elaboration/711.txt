@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her determination flowed through her muscles like liquid steel.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unwavering strength and resilience.
+</implicit_meaning>
+
+<components>
+<object>Muscles, Steel</object>
+<properties>Liquid, Flowing, Strong, Metallic</properties>
+<relations>Steel flowing through human body</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette with glowing silver liquid coursing through visible muscle fibers.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our lives are vessels filled with experiences to the brim.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life is a container that accumulates experiences over time.
+</implicit_meaning>
+
+<components>
+<object>Human life, vessel/container</object>
+<properties>Filled, full to brim, containing experiences</properties>
+<relations>Experiences fill the vessel like liquid or contents</relations>
+</components>
+
+<visual_elaboration>
+A transparent human silhouette filled with colorful liquid and floating memories reaching the neck.
+</visual_elaboration>
+</metaphor_analysis>

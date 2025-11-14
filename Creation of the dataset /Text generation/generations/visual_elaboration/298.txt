@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Comparison shopping is the compass of wise choices.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Shopping comparison guides decision-making like a compass guides direction.
+</implicit_meaning>
+
+<components>
+<object>Compass, Shopping comparison</object>
+<properties>Directional, Guiding, Decision-making tool</properties>
+<relations>Shopping comparison acts as a navigational tool for making purchases</relations>
+</components>
+
+<visual_elaboration>
+A giant compass with price tags as direction markers pointing towards a shopping cart filled with wise choices.
+</visual_elaboration>
+</metaphor_analysis>

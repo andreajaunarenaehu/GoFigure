@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The idea was a compass pointing toward innovation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Guidance and direction toward progress.
+</implicit_meaning>
+
+<components>
+<object>Compass, Idea</object>
+<properties>Directional, Guiding, Forward-moving</properties>
+<relations>Pointing toward, Leading to innovation</relations>
+</components>
+
+<visual_elaboration>
+A glowing lightbulb with compass needles spinning toward a bright star labeled "Innovation."
+</visual_elaboration>
+</metaphor_analysis>

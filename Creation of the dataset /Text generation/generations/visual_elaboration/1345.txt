@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like stepping stones across a river, each mark bridges gaps in the scale.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progressive steps leading to a goal.
+</implicit_meaning>
+
+<components>
+<object>Stepping stones, River, Scale marks</object>
+<properties>Sequential, Bridging, Spaced</properties>
+<relations>Stones connect one side to another, marks connect points on scale</relations>
+</components>
+
+<visual_elaboration>
+A series of numbered stones forming a path across flowing water, with measurement marks rising from each stone.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her eyes traced the contours of his face.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense visual observation with careful attention to detail.
+</implicit_meaning>
+
+<components>
+<object>Eyes, Face</object>
+<properties>Moving, Observing, Detailed</properties>
+<relations>Eyes acting like a drawing tool on the face's surface</relations>
+</components>
+
+<visual_elaboration>
+A pencil with an eye at its tip sketching lines across a man's face profile.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a deep valley we must cross.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A difficult challenge that must be overcome.
+</implicit_meaning>
+
+<components>
+<object>Valley, People</object>
+<properties>Deep, challenging, requires crossing</properties>
+<relations>People must traverse across the valley</relations>
+</components>
+
+<visual_elaboration>
+People on a rope bridge crossing a misty, deep valley with steep cliffs.
+</visual_elaboration>
+</metaphor_analysis>

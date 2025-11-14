@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His worrying is a daily fix he can't live without.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Addiction to anxiety and worrying thoughts.
+</implicit_meaning>
+
+<components>
+<object>Worrying thoughts, Drug addiction metaphor</object>
+<properties>Daily, compulsive, dependent</properties>
+<relations>Person dependent on worrying like an addict needs drugs</relations>
+</components>
+
+<visual_elaboration>
+A person injecting glowing anxiety-filled thoughts into their arm through a syringe.
+</visual_elaboration>
+</metaphor_analysis>

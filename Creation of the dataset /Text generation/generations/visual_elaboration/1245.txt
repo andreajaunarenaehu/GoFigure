@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Rays of sunshine flowed between the clouds like liquid gold.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sunlight appears fluid and precious.
+</implicit_meaning>
+
+<components>
+<object>Sunlight rays, clouds, liquid gold</object>
+<properties>Flowing, bright, valuable, fluid</properties>
+<relations>Light moving through gaps in clouds like molten metal</relations>
+</components>
+
+<visual_elaboration>
+Streams of golden liquid pouring through cloud gaps, creating shimmering metallic waterfalls in the sky.
+</visual_elaboration>
+</metaphor_analysis>

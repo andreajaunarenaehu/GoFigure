@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some research pieces might look like they fit, but forcing them leads to distorted results.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Forcing incompatible research together creates misleading conclusions.
+</implicit_meaning>
+
+<components>
+<object>Research pieces, Puzzle pieces</object>
+<properties>Mismatched, Forced, Distorted</properties>
+<relations>Attempting to connect incompatible pieces</relations>
+</components>
+
+<visual_elaboration>
+A jigsaw puzzle with two mismatched pieces being hammered together, creating cracks and warped edges.
+</visual_elaboration>
+</metaphor_analysis>

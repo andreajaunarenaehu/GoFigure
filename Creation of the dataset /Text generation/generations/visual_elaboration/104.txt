@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Lightning signed its jagged line across the sky.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Lightning is personified as an author writing its signature in the sky.
+</implicit_meaning>
+
+<components>
+<object>Lightning, Sky</object>
+<properties>Jagged, bright, signature-like</properties>
+<relations>Lightning acting as a pen writing across the sky as paper</relations>
+</components>
+
+<visual_elaboration>
+A glowing hand holding a lightning bolt pen signing a zigzag pattern across a dark sky.
+</visual_elaboration>
+</metaphor_analysis>

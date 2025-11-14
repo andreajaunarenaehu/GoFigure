@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His speech lay in ruins like a demolished fortress.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complete failure and destruction of an argument or presentation.
+</implicit_meaning>
+
+<components>
+<object>Speech, Fortress</object>
+<properties>Ruined, demolished, broken down</properties>
+<relations>Speech is compared to a destroyed building</relations>
+</components>
+
+<visual_elaboration>
+A crumbling stone fortress with words and papers scattered among its fallen debris.
+</visual_elaboration>
+</metaphor_analysis>

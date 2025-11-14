@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Perceptions are the mirrors that reflect ideas back to us.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Our understanding of things is shaped by how we view them.
+</implicit_meaning>
+
+<components>
+<object>Mirrors, Ideas, Person</object>
+<properties>Reflective, Multiple, Personal</properties>
+<relations>Ideas bouncing back from mirrors to viewer</relations>
+</components>
+
+<visual_elaboration>
+A person standing before multiple floating mirrors, each reflecting different thought bubbles back at them.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship was stuck in an infinite loop.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A repetitive, cyclical pattern without progress or change.
+</implicit_meaning>
+
+<components>
+<object>Relationship, Loop</object>
+<properties>Infinite, Stuck, Circular</properties>
+<relations>Two people trapped in repetitive motion</relations>
+</components>
+
+<visual_elaboration>
+Two people walking on a Möbius strip, endlessly chasing each other without meeting.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The team leader distributed power among the members.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sharing authority and control with others.
+</implicit_meaning>
+
+<components>
+<object>Team leader, team members, power</object>
+<properties>Divisible, transferable, shared</properties>
+<relations>Distribution, flowing from one to many</relations>
+</components>
+
+<visual_elaboration>
+A central figure pouring glowing energy streams into smaller figures arranged in a circle.
+</visual_elaboration>
+</metaphor_analysis>

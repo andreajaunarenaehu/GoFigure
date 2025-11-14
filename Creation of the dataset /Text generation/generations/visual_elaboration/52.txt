@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Change dances through life like a leaf in the wind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unpredictable movement and flow of life's changes.
+</implicit_meaning>
+
+<components>
+<object>Leaf, Wind</object>
+<properties>Dancing, floating, unpredictable movement</properties>
+<relations>Leaf being carried by wind in a dancing motion</relations>
+</components>
+
+<visual_elaboration>
+A golden leaf twirling through swirling wind patterns against a blue sky.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The harsh words created spiderweb cracks across his psyche.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional damage and fragility caused by hurtful words.
+</implicit_meaning>
+
+<components>
+<object>Words, psyche (mind/soul), spiderweb cracks</object>
+<properties>Harsh, fragile, spreading damage</properties>
+<relations>Words causing fractures in mental/emotional state</relations>
+</components>
+
+<visual_elaboration>
+A glass human head with spiderweb cracks spreading from where words strike its surface.
+</visual_elaboration>
+</metaphor_analysis>

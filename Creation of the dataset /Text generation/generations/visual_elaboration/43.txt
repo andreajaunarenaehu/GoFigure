@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His intoxication was a crushing load on his mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental burden and loss of clarity due to alcohol.
+</implicit_meaning>
+
+<components>
+<object>Mind, Load/Weight, Intoxication</object>
+<properties>Crushing, Heavy, Burdensome</properties>
+<relations>Weight pressing down on mental state</relations>
+</components>
+
+<visual_elaboration>
+A human head being compressed by a giant wine bottle pressing down from above.
+</visual_elaboration>
+</metaphor_analysis>

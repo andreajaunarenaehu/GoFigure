@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The gravitational center of logic holds arguments in balance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Logic acts as a stabilizing force for different viewpoints.
+</implicit_meaning>
+
+<components>
+<object>Gravitational center, Logic, Arguments</object>
+<properties>Balanced, Centered, Orbital</properties>
+<relations>Arguments are held in orbit around a central point of logic</relations>
+</components>
+
+<visual_elaboration>
+A glowing sphere of logic with multiple argument bubbles orbiting around it in perfect balance.
+</visual_elaboration>
+</metaphor_analysis>

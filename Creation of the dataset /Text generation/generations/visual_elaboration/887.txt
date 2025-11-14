@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His emotional balance is a well-adjusted gyroscope.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Stable and balanced despite external pressures.
+</implicit_meaning>
+
+<components>
+<object>Emotional state, Gyroscope</object>
+<properties>Well-adjusted, Balanced, Stable</properties>
+<relations>Person's emotions maintaining stability like a gyroscope maintains balance</relations>
+</components>
+
+<visual_elaboration>
+A person standing calmly on a spinning gyroscope while chaos swirls around them.
+</visual_elaboration>
+</metaphor_analysis>

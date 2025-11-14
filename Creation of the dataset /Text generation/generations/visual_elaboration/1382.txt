@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance is a shadow that mirrors every movement.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules exactly as they are set, without deviation.
+</implicit_meaning>
+
+<components>
+<object>Shadow, Person/Figure</object>
+<properties>Dark, Mirroring, Exact copy</properties>
+<relations>Shadow follows and copies every movement precisely</relations>
+</components>
+
+<visual_elaboration>
+A person walking with their shadow perfectly mimicking their movements against a stark white wall.
+</visual_elaboration>
+</metaphor_analysis>

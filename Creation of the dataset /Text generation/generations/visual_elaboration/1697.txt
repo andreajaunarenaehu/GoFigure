@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This theoretical framework has load-bearing pillars of evidence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory is supported by strong, foundational evidence.
+</implicit_meaning>
+
+<components>
+<object>Theoretical framework, pillars</object>
+<properties>Load-bearing, structural, supportive</properties>
+<relations>Pillars supporting a theoretical structure</relations>
+</components>
+
+<visual_elaboration>
+A classical Greek temple with glowing documents carved into its sturdy pillars supporting a roof labeled "Theory."
+</visual_elaboration>
+</metaphor_analysis>

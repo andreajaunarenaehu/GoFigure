@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His memory files were corrupted.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental deterioration or loss of memories.
+</implicit_meaning>
+
+<components>
+<object>Human memory, Computer files</object>
+<properties>Corrupted, damaged, broken</properties>
+<relations>Memory being compared to digital files that are malfunctioning</relations>
+</components>
+
+<visual_elaboration>
+A human head with glitching computer files floating out of an open skull.
+</visual_elaboration>
+</metaphor_analysis>

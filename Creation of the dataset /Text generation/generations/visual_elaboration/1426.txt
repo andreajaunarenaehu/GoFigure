@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her hopes subsided into the depths of despair.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Declining from optimism to deep sadness.
+</implicit_meaning>
+
+<components>
+<object>Hopes, Depths/Ocean</object>
+<properties>Sinking, Deep, Dark</properties>
+<relations>Movement downward into darkness</relations>
+</components>
+
+<visual_elaboration>
+A bright balloon labeled "hope" sinking into dark ocean waters, its light dimming as it descends.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His hunger for success gnawed at his soul.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Consuming desire for achievement that torments internally.
+</implicit_meaning>
+
+<components>
+<object>Hunger, Soul</object>
+<properties>Gnawing, Consuming, Tormenting</properties>
+<relations>Hunger actively destroying/consuming the soul</relations>
+</components>
+
+<visual_elaboration>
+A shadowy figure with sharp teeth biting into a glowing human soul, leaving bite marks.
+</visual_elaboration>
+</metaphor_analysis>

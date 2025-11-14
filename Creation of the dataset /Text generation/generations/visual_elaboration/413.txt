@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some ideas, like vintage clothing, never go out of style.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Timeless and enduring quality of certain concepts.
+</implicit_meaning>
+
+<components>
+<object>Ideas and vintage clothing</object>
+<properties>Timeless, classic, enduring</properties>
+<relations>Ideas are compared to vintage clothing in their lasting appeal</relations>
+</components>
+
+<visual_elaboration>
+A floating lightbulb wearing a classic vintage dress, glowing with a warm, eternal light.
+</visual_elaboration>
+</metaphor_analysis>

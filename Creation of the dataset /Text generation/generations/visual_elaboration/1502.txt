@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The warmth of her palms against her face unlocked chambers of buried joy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Physical touch triggers happy memories.
+</implicit_meaning>
+
+<components>
+<object>Palms, face, chambers (memories)</object>
+<properties>Warm, buried, locked</properties>
+<relations>Unlocking action, touching face, releasing memories</relations>
+</components>
+
+<visual_elaboration>
+Glowing hands touching a face, releasing golden butterflies from an ornate chest buried in sand.
+</visual_elaboration>
+</metaphor_analysis>

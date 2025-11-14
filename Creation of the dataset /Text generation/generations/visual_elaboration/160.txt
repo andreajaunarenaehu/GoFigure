@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her eyes reached out and caressed the landscape.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gentle, loving observation of scenery.
+</implicit_meaning>
+
+<components>
+<object>Eyes, Landscape</object>
+<properties>Gentle, tender, reaching</properties>
+<relations>Eyes actively touching/interacting with landscape</relations>
+</components>
+
+<visual_elaboration>
+Two floating eyes with soft, glowing hands extending to touch a scenic mountain view.
+</visual_elaboration>
+</metaphor_analysis>

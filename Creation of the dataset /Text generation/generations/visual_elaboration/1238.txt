@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His resistance to temptation lost its grounding.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of willpower and moral stability.
+</implicit_meaning>
+
+<components>
+<object>Resistance, Ground/Foundation</object>
+<properties>Unstable, Crumbling, Floating</properties>
+<relations>Disconnection from stability, Loss of anchor</relations>
+</components>
+
+<visual_elaboration>
+A person floating away from a crumbling concrete foundation while reaching for colorful tempting objects above.
+</visual_elaboration>
+</metaphor_analysis>

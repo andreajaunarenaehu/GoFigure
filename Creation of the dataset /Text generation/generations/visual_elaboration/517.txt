@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The negotiations are going around in circles.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Repetitive and making no progress.
+</implicit_meaning>
+
+<components>
+<object>Negotiations, Circle</object>
+<properties>Circular motion, Repetitive movement, Lack of progress</properties>
+<relations>People moving in a continuous loop without reaching destination</relations>
+</components>
+
+<visual_elaboration>
+Business people walking on a circular treadmill while holding briefcases and documents.
+</visual_elaboration>
+</metaphor_analysis>

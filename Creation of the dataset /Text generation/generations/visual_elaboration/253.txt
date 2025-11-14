@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His desires were ammunition in a dangerous game.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive and volatile motivations that could lead to harm.
+</implicit_meaning>
+
+<components>
+<object>Desires, Ammunition, Game</object>
+<properties>Dangerous, Explosive, Lethal</properties>
+<relations>Desires transformed into weapons within a risky context</relations>
+</components>
+
+<visual_elaboration>
+Bullets shaped like hearts loaded into a revolver on a chess board with smoke rising.
+</visual_elaboration>
+</metaphor_analysis>

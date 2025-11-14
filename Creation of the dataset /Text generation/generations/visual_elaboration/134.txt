@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Good habits are deposits in the bank of success.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Good habits accumulate over time to build future success.
+</implicit_meaning>
+
+<components>
+<object>Bank, Habits, Success</object>
+<properties>Accumulating, Growing, Valuable</properties>
+<relations>Habits being stored like money in a bank, building up over time</relations>
+</components>
+
+<visual_elaboration>
+A piggy bank labeled "SUCCESS" with glowing good habits as gold coins being deposited inside.
+</visual_elaboration>
+</metaphor_analysis>

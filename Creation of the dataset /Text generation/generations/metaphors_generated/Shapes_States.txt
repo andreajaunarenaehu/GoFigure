@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The state is a triangle balancing on its point.
+</metaphor>
+<literal_paraphrase>
+The state's political structure is unstable and requires careful management to maintain equilibrium.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The state is completely stable and requires no effort to maintain its balance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their borders form a perfect circle of cooperation.
+</metaphor>
+<literal_paraphrase>
+The neighboring states work together seamlessly in complete harmony.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their borders are sites of constant conflict and discord.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The state's economy is a square peg in a round hole.
+</metaphor>
+<literal_paraphrase>
+The state's economic policies are incompatible with current market conditions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The state's economy fits perfectly within the broader economic framework.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their political landscape is a maze of intersecting lines.
+</metaphor>
+<literal_paraphrase>
+The state's political situation is complex and difficult to navigate.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their political landscape is straightforward and easy to understand.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The state's boundaries are a jagged star reaching outward.
+</metaphor>
+<literal_paraphrase>
+The state actively extends its influence beyond its borders in multiple directions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The state remains isolated and maintains minimal external connections.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their social programs form concentric circles of protection.
+</metaphor>
+<literal_paraphrase>
+The state's social welfare system provides multiple layers of support for its citizens.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their social programs are disconnected and offer no comprehensive protection.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The state's infrastructure is a web of broken hexagons.
+</metaphor>
+<literal_paraphrase>
+The state's infrastructure system is incomplete and poorly connected.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The state's infrastructure is perfectly organized and fully functional.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their democracy is an octagon with missing sides.
+</metaphor>
+<literal_paraphrase>
+The state's democratic system is flawed and incomplete in several aspects.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their democracy is complete and functions perfectly in all aspects.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The state's development follows a spiral of progress.
+</metaphor>
+<literal_paraphrase>
+The state's growth and development occur in an expanding, continuous pattern.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The state's development is stagnant and shows no pattern of growth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their bureaucracy is a pyramid of overlapping rectangles.
+</metaphor>
+<literal_paraphrase>
+The state's administrative system is hierarchical with redundant layers of authority.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their bureaucracy is streamlined and has clear, non-overlapping responsibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

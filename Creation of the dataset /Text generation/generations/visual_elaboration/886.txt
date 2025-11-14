@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her emotional stability is a perfectly centered pendulum.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Balance and steadiness in emotions.
+</implicit_meaning>
+
+<components>
+<object>Emotional stability, Pendulum</object>
+<properties>Centered, Balanced, Steady</properties>
+<relations>Person's emotions being compared to a stable pendulum</relations>
+</components>
+
+<visual_elaboration>
+A woman's face inside a pendulum that remains perfectly still at center while chaos swirls around it.
+</visual_elaboration>
+</metaphor_analysis>

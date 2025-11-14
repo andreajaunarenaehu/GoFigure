@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her affection radiated like a gentle sunbeam.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Warm and nurturing love that spreads outward.
+</implicit_meaning>
+
+<components>
+<object>Affection, Sunbeam</object>
+<properties>Gentle, radiating, warm</properties>
+<relations>Affection is compared to sunlight spreading outward</relations>
+</components>
+
+<visual_elaboration>
+A woman's smiling face with soft golden rays emanating from her heart, creating a warm glow.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The composer offered melodies to the silence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Creation emerging from nothingness.
+</implicit_meaning>
+
+<components>
+<object>Composer, melodies, silence</object>
+<properties>Musical notes, empty space</properties>
+<relations>Offering/giving from creator to void</relations>
+</components>
+
+<visual_elaboration>
+Musical notes floating from a composer's hands into a dark empty space.
+</visual_elaboration>
+</metaphor_analysis>

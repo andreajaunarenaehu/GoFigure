@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like planetary orbits, logic follows fixed paths of reason.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Logical thinking follows predictable, structured patterns like celestial mechanics.
+</implicit_meaning>
+
+<components>
+<object>Planetary orbits, Logic paths</object>
+<properties>Circular, Fixed, Predictable, Structured</properties>
+<relations>Logic following orbital paths like planets around a central point</relations>
+</components>
+
+<visual_elaboration>
+Books and mathematical symbols orbiting around a glowing brain like planets around the sun.
+</visual_elaboration>
+</metaphor_analysis>

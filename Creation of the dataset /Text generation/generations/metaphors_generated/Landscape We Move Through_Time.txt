@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+We're traversing the rocky valleys of our past.
+</metaphor>
+<literal_paraphrase>
+We're experiencing difficult periods from previous times in our lives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our past experiences are completely disconnected and have no path to follow.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The future stretches before us like an endless horizon.
+</metaphor>
+<literal_paraphrase>
+There are many possibilities and opportunities ahead in time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The future is confined and limited, with no room for expansion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Memory's terrain grows misty in the distance.
+</metaphor>
+<literal_paraphrase>
+Past events become harder to remember clearly as time passes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Memories become sharper and more distinct as they age.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're climbing the steep slopes of tomorrow.
+</metaphor>
+<literal_paraphrase>
+We're facing challenging future circumstances that require effort to overcome.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The future presents no challenges and requires no effort to navigate.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Years flow like rivers through the canyon of existence.
+</metaphor>
+<literal_paraphrase>
+Time passes continuously and shapes our lives as it moves forward.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time is stagnant and has no impact on shaping our existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Decades are valleys we cross one step at a time.
+</metaphor>
+<literal_paraphrase>
+Long periods of time are experienced gradually through continuous progression.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time periods are experienced in sudden, disconnected jumps.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The present moment is a narrow bridge between temporal peaks.
+</metaphor>
+<literal_paraphrase>
+The current moment connects our past and future experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The present exists in isolation, disconnected from past and future.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're wandering through the gardens of bygone days.
+</metaphor>
+<literal_paraphrase>
+We're reflecting on pleasant memories and past experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Past experiences are inaccessible and impossible to revisit mentally.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Time's desert stretches endlessly between moments of oasis.
+</metaphor>
+<literal_paraphrase>
+Long periods of routine are punctuated by significant memorable events.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Every moment is equally meaningful with no distinction between events.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're scaling the cliffs of passing seconds.
+</metaphor>
+<literal_paraphrase>
+We're constantly working to make progress as time moves forward.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Time passes without requiring any effort or engagement from us.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

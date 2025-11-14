@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His obligations were packed into containers too small to hold them.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelmed by too many responsibilities.
+</implicit_meaning>
+
+<components>
+<object>Obligations, Containers</object>
+<properties>Overflowing, Too small, Packed tight</properties>
+<relations>Objects bursting out of confined space</relations>
+</components>
+
+<visual_elaboration>
+A person struggling to close bursting suitcases with papers and tasks spilling out everywhere.
+</visual_elaboration>
+</metaphor_analysis>

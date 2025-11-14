@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She nurtured love like a greenhouse cultivates warmth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love requires careful attention and protection to grow.
+</implicit_meaning>
+
+<components>
+<object>Woman, Greenhouse, Love</object>
+<properties>Nurturing, Warm, Protected</properties>
+<relations>Woman actively caring for and protecting love like a plant in greenhouse</relations>
+</components>
+
+<visual_elaboration>
+A woman tending to a glowing heart-shaped plant inside a crystal greenhouse filled with golden light.
+</visual_elaboration>
+</metaphor_analysis>

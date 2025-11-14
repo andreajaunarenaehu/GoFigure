@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their actions collided in the marketplace.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Conflicting business decisions or competitive interference.
+</implicit_meaning>
+
+<components>
+<object>Actions, Marketplace</object>
+<properties>Collision, Competition, Conflict</properties>
+<relations>Two forces meeting with impact in a commercial space</relations>
+</components>
+
+<visual_elaboration>
+Two business figures crashing into each other like bumper cars in a marketplace setting.
+</visual_elaboration>
+</metaphor_analysis>

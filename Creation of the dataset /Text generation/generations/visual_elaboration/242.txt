@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These challenging concepts are guerrilla fighters, striking from unexpected angles.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Difficult ideas that attack our understanding in surprising and unpredictable ways.
+</implicit_meaning>
+
+<components>
+<object>Challenging concepts, Guerrilla fighters</object>
+<properties>Unpredictable, aggressive, surprising</properties>
+<relations>Concepts attacking like fighters from hidden positions</relations>
+</components>
+
+<visual_elaboration>
+Books and papers morphing into camouflaged soldiers jumping out from shadows with weapons drawn.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The debate was a crossfire of verbal artillery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense and hostile exchange of arguments.
+</implicit_meaning>
+
+<components>
+<object>Debate, Artillery, Crossfire</object>
+<properties>Hostile, Intense, Explosive</properties>
+<relations>Words being exchanged like bullets in battle</relations>
+</components>
+
+<visual_elaboration>
+Two people shouting with words emerging as fiery cannonballs crossing paths between them.
+</visual_elaboration>
+</metaphor_analysis>

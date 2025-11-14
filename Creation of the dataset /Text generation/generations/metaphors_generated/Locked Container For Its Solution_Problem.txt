@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+This problem is a vault waiting for its combination.
+</metaphor>
+<literal_paraphrase>
+This challenge requires a specific approach or solution to be solved successfully.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This problem has no specific solution and can be resolved through any random approach.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The riddle stands before us like a padlocked chest.
+</metaphor>
+<literal_paraphrase>
+The problem appears challenging but has a definite solution waiting to be discovered.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem is completely open and transparent, requiring no effort to understand.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each attempt at solving is another key in the lock.
+</metaphor>
+<literal_paraphrase>
+Every attempt to solve the problem brings us closer to finding the correct solution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Random attempts at solving only take us further from the answer.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The solution lies sealed within an iron puzzle box.
+</metaphor>
+<literal_paraphrase>
+The answer exists but requires careful thought and methodology to access.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The solution is readily apparent and requires no careful consideration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This challenge is a combination safe testing our patience.
+</metaphor>
+<literal_paraphrase>
+Solving this problem requires persistent effort and methodical thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The problem yields immediately to any casual attempt at solving.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+We're picking the lock of uncertainty.
+</metaphor>
+<literal_paraphrase>
+We're systematically working through the problem's complexities to find a solution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+We're randomly guessing without any systematic approach.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The answer remains trapped in a sealed container of complexity.
+</metaphor>
+<literal_paraphrase>
+The solution exists within a framework of complex interconnected elements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The answer is simple and immediately obvious to anyone.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each clue is another tumbler falling into place.
+</metaphor>
+<literal_paraphrase>
+Every piece of information brings us closer to understanding the complete solution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New information only confuses and misleads us from the solution.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our understanding is the key that fits this locked mystery.
+</metaphor>
+<literal_paraphrase>
+Comprehension of the problem's nature leads to its solution.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Knowledge and understanding are irrelevant to solving the problem.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The solution waits behind walls of steel and brass.
+</metaphor>
+<literal_paraphrase>
+The answer exists but is protected by layers of complexity that must be overcome.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The solution is completely exposed with no barriers to understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

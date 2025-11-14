@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The rocky road to success shaped their transformation.
+</metaphor>
+<literal_paraphrase>
+The difficult challenges they faced were instrumental in changing them for the better.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their transformation occurred instantly without any obstacles or learning experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their journey through the winding valley carved new possibilities.
+</metaphor>
+<literal_paraphrase>
+The complex process of change opened up new opportunities and perspectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Change happened in a straight, predictable line with no unexpected developments.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The bridge across troubled waters led to their transformation.
+</metaphor>
+<literal_paraphrase>
+A structured approach helped them navigate difficult changes successfully.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They remained stuck in their situation with no means of progress or change.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their ascent up the mountain revealed new horizons of change.
+</metaphor>
+<literal_paraphrase>
+Gradual progress through challenges provided new perspectives on transformation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They remained at ground level, maintaining their limited viewpoint.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The crossroads of decision paved their path to change.
+</metaphor>
+<literal_paraphrase>
+Critical choices determined the direction and nature of their transformation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+External forces dictated their change without any personal decision-making.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The stepping stones across the river guided their evolution.
+</metaphor>
+<literal_paraphrase>
+Small, sequential steps facilitated their gradual transformation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their change occurred in one giant leap without intermediate stages.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The tunnel through darkness illuminated their metamorphosis.
+</metaphor>
+<literal_paraphrase>
+Persevering through difficult times led to meaningful personal change.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They avoided all challenges and remained unchanged in their comfort zone.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The scenic route revealed unexpected avenues of transformation.
+</metaphor>
+<literal_paraphrase>
+Taking time to explore different possibilities led to beneficial changes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They rushed straight to their goal without discovering new opportunities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The forest trail blazed new patterns of change.
+</metaphor>
+<literal_paraphrase>
+Exploring uncharted territory created innovative ways to transform.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They followed conventional methods without any creative exploration.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The meandering stream carved channels of transformation.
+</metaphor>
+<literal_paraphrase>
+Natural progression and persistence created lasting pathways for change.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Forced and artificial methods produced temporary surface-level changes.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

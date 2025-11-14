@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The supervisor shifted responsibility to the team leads.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Transfer of burden or duty from one person to others.
+</implicit_meaning>
+
+<components>
+<object>Supervisor, team leads, responsibility</object>
+<properties>Heavy, transferable, burden-like</properties>
+<relations>Moving/shifting from one person to others</relations>
+</components>
+
+<visual_elaboration>
+A supervisor passing heavy boxes labeled "responsibility" to multiple team leads with strained expressions.
+</visual_elaboration>
+</metaphor_analysis>

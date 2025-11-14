@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The schedule is racing down a steep hill.
+</metaphor>
+<literal_paraphrase>
+The schedule is progressing very quickly and may be difficult to control.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The schedule is completely static and shows no signs of movement or change.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our timeline has derailed completely.
+</metaphor>
+<literal_paraphrase>
+The planned schedule has deviated significantly from its intended course.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our timeline is perfectly on track and following the exact planned route.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The project schedule is drifting aimlessly.
+</metaphor>
+<literal_paraphrase>
+The project lacks clear direction and proper time management.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The project schedule is firmly anchored and maintains perfect focus.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our deadlines are colliding with each other.
+</metaphor>
+<literal_paraphrase>
+Multiple tasks are competing for the same time slots, creating conflicts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our deadlines are perfectly spaced and have no overlap whatsoever.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The schedule is rolling downhill like a snowball.
+</metaphor>
+<literal_paraphrase>
+The workload is rapidly accumulating and becoming more overwhelming.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The schedule is becoming lighter and more manageable over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our timeline is floating away like a balloon.
+</metaphor>
+<literal_paraphrase>
+The schedule is becoming increasingly unrealistic and unattainable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our timeline is firmly grounded in reality and completely achievable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The schedule is zigzagging like a pinball.
+</metaphor>
+<literal_paraphrase>
+The timeline is constantly changing direction and lacks consistency.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The schedule follows a straight, predictable path without any variations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our deadlines are spinning like a top.
+</metaphor>
+<literal_paraphrase>
+The schedule is in a state of chaos and confusion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our deadlines are stable and perfectly organized.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The project timeline is sliding on ice.
+</metaphor>
+<literal_paraphrase>
+The schedule is unstable and difficult to control.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The project timeline has perfect traction and stability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our schedule is bouncing like a rubber ball.
+</metaphor>
+<literal_paraphrase>
+The timeline is erratic and unpredictable in its changes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our schedule is steady and maintains a consistent pattern.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

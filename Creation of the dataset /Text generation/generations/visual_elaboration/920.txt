@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem unraveled like a stubborn tangle of yarn.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A complex situation gradually becoming clear and resolved.
+</implicit_meaning>
+
+<components>
+<object>Problem, Yarn</object>
+<properties>Tangled, Stubborn, Unraveling</properties>
+<relations>The problem is compared to yarn that is slowly becoming untangled</relations>
+</components>
+
+<visual_elaboration>
+A ball of red yarn transforming from a messy knot into a neat straight line.
+</visual_elaboration>
+</metaphor_analysis>

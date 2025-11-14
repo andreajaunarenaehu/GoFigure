@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The checkered flag waves for all who persist.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Success comes to those who persevere.
+</implicit_meaning>
+
+<components>
+<object>Checkered flag, People</object>
+<properties>Waving, Victory symbol, Persistence</properties>
+<relations>Flag represents ultimate achievement, People moving toward goal</relations>
+</components>
+
+<visual_elaboration>
+A diverse group of tired runners approaching a giant checkered flag waving in golden sunlight.
+</visual_elaboration>
+</metaphor_analysis>

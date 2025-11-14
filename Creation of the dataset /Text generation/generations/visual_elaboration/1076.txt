@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His conscience was as pure as filtered water.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Moral clarity and innocence.
+</implicit_meaning>
+
+<components>
+<object>Conscience, filtered water</object>
+<properties>Pure, clear, transparent</properties>
+<relations>Conscience being compared to filtered water's clarity</relations>
+</components>
+
+<visual_elaboration>
+A crystal-clear glass of water with a glowing white heart floating inside it.
+</visual_elaboration>
+</metaphor_analysis>

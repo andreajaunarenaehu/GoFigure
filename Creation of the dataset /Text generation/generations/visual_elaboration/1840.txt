@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Physical properties are the measuring sticks of abstract qualities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Concrete things help us understand and measure abstract concepts.
+</implicit_meaning>
+
+<components>
+<object>Measuring sticks, Physical properties, Abstract qualities</object>
+<properties>Tangible, Measurable, Quantifiable vs. Intangible, Conceptual</properties>
+<relations>Physical objects being used to measure non-physical concepts</relations>
+</components>
+
+<visual_elaboration>
+A ruler marked with emotions instead of numbers, measuring a floating cloud of abstract symbols.
+</visual_elaboration>
+</metaphor_analysis>

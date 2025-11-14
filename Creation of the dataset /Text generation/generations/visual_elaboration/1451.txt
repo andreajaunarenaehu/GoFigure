@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His faith shattered like a dropped crystal ornament.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sudden and complete loss of belief or trust.
+</implicit_meaning>
+
+<components>
+<object>Faith, Crystal ornament</object>
+<properties>Fragile, Breakable, Transparent</properties>
+<relations>Shattering upon impact, Breaking into pieces</relations>
+</components>
+
+<visual_elaboration>
+A transparent crystal heart breaking into shards as it falls through darkness.
+</visual_elaboration>
+</metaphor_analysis>

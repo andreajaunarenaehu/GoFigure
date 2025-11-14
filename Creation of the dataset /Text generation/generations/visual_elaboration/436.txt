@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her self-doubt was a poisoned dagger she carried everywhere.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-doubt is harmful and constantly present.
+</implicit_meaning>
+
+<components>
+<object>Self-doubt, Dagger</object>
+<properties>Poisoned, Carried, Harmful</properties>
+<relations>Person carrying a weapon that hurts themselves</relations>
+</components>
+
+<visual_elaboration>
+A woman carrying a glowing green dagger that drips poison onto her own shadow.
+</visual_elaboration>
+</metaphor_analysis>

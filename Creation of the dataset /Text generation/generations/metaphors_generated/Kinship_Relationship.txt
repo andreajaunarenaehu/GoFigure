@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Their relationship is a family tree with deep roots.
+</metaphor>
+<literal_paraphrase>
+Their relationship has a strong foundation built on shared history and connections.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship is superficial and lacks any meaningful connection or history.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their bond is a sibling rivalry that strengthens them.
+</metaphor>
+<literal_paraphrase>
+Their relationship grows stronger through healthy competition and challenges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship weakens when faced with any form of competition or challenge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is the inheritance they share.
+</metaphor>
+<literal_paraphrase>
+Their relationship is built on a foundation of mutual love passed down through experience.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship lacks any emotional investment or shared values.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their connection is a maternal embrace that never lets go.
+</metaphor>
+<literal_paraphrase>
+Their relationship provides constant support and unconditional acceptance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship is cold and unsupportive, offering no emotional security.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their partnership is a family reunion that keeps growing.
+</metaphor>
+<literal_paraphrase>
+Their relationship continuously evolves and includes new experiences and connections.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship is stagnant and excludes growth or new experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their bond is a generational recipe passed down with care.
+</metaphor>
+<literal_paraphrase>
+Their relationship benefits from shared wisdom and carefully maintained traditions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship ignores past lessons and lacks any meaningful traditions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their connection is a family portrait that grows more valuable with time.
+</metaphor>
+<literal_paraphrase>
+Their relationship becomes more precious and meaningful as time passes.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship deteriorates and loses value over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love is a family heirloom that can't be broken.
+</metaphor>
+<literal_paraphrase>
+Their relationship is precious and enduring, withstanding all challenges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship is disposable and easily damaged by any difficulty.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their bond is a family council that shares all burdens.
+</metaphor>
+<literal_paraphrase>
+Their relationship involves mutual support and shared responsibility in facing challenges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship involves individual struggle with no mutual support or sharing of burdens.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their connection is a family blessing that multiplies joy.
+</metaphor>
+<literal_paraphrase>
+Their relationship enhances their happiness and brings additional meaning to their lives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship diminishes their happiness and detracts from their life satisfaction.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

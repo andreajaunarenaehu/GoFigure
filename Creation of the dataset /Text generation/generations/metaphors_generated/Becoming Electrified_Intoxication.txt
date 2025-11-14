@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The voltage of euphoria surged through his veins.
+</metaphor>
+<literal_paraphrase>
+The feeling of intoxication rapidly spread throughout his body.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He remained completely sober and clearheaded.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mind buzzed with short circuits of pleasure.
+</metaphor>
+<literal_paraphrase>
+Her thoughts became confused and scattered due to intoxication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her thinking remained logical and perfectly ordered.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The static of inebriation crackled across his synapses.
+</metaphor>
+<literal_paraphrase>
+The effects of intoxication interfered with his normal brain function.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His neural pathways functioned with perfect clarity and efficiency.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each drink was another amp added to her current state.
+</metaphor>
+<literal_paraphrase>
+Every additional drink increased her level of intoxication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each drink diminished her level of intoxication.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The power surge of alcohol lit up his consciousness.
+</metaphor>
+<literal_paraphrase>
+The sudden impact of alcohol dramatically altered his awareness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The alcohol had no effect on his state of consciousness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her sobriety shorted out with each shot.
+</metaphor>
+<literal_paraphrase>
+Each alcoholic drink progressively diminished her ability to think clearly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each drink enhanced her mental clarity and self-control.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The circuit breaker of his judgment finally blew.
+</metaphor>
+<literal_paraphrase>
+He became too intoxicated to make reasonable decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His decision-making abilities remained perfectly intact despite drinking.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Waves of intoxicating voltage pulsed through her system.
+</metaphor>
+<literal_paraphrase>
+She felt recurring waves of drunkenness affecting her entire body.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She remained completely unaffected by the alcohol in her system.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His resistance to temptation lost its grounding.
+</metaphor>
+<literal_paraphrase>
+His ability to resist drinking more completely disappeared.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His willpower to resist drinking grew stronger.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The conductor of reason disconnected from her actions.
+</metaphor>
+<literal_paraphrase>
+She lost the ability to think rationally about her behavior due to intoxication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She maintained perfect control over her actions and thoughts while drinking.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

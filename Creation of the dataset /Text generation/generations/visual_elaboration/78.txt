@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Causes and effects are handcuffed together by time.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Actions and their consequences are inseparably linked through temporal progression.
+</implicit_meaning>
+
+<components>
+<object>Causes, effects, handcuffs, time</object>
+<properties>Bound, connected, inseparable</properties>
+<relations>Time acting as the binding force between cause and effect</relations>
+</components>
+
+<visual_elaboration>
+Two hands labeled "Cause" and "Effect" bound by golden clock-shaped handcuffs with ticking gears.
+</visual_elaboration>
+</metaphor_analysis>

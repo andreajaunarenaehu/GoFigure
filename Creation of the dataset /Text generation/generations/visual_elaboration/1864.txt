@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He jogged through the transformation process.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Moving quickly but casually through change without full commitment or effort.
+</implicit_meaning>
+
+<components>
+<object>Person jogging, Transformation path</object>
+<properties>Casual pace, Incomplete transformation</properties>
+<relations>Movement through a changing state</relations>
+</components>
+
+<visual_elaboration>
+A person jogging on a path that gradually transforms from human footprints to butterfly wing prints.
+</visual_elaboration>
+</metaphor_analysis>

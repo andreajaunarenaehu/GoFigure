@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a black hole, perfect logic allows no contradictions to escape.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Perfect logic consumes and eliminates all inconsistencies.
+</implicit_meaning>
+
+<components>
+<object>Black hole, Logic</object>
+<properties>Perfect, consuming, inescapable</properties>
+<relations>Logic acts like a black hole by consuming contradictions</relations>
+</components>
+
+<visual_elaboration>
+A black hole with mathematical symbols and logical operators being pulled into its swirling vortex.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The cost of his negligence was a chain of unfortunate events.
+</linguistic_metaphor>
+
+<implicit_meaning>
+One careless action leads to multiple negative consequences.
+</implicit_meaning>
+
+<components>
+<object>Chain, Events</object>
+<properties>Connected, Sequential, Negative</properties>
+<relations>One event pulling or triggering the next</relations>
+</components>
+
+<visual_elaboration>
+A person pulling a domino, starting a chain reaction of falling dominoes shaped like disaster symbols.
+</visual_elaboration>
+</metaphor_analysis>

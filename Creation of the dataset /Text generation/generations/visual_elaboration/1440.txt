@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her lust burned like a raging inferno.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense, uncontrollable desire.
+</implicit_meaning>
+
+<components>
+<object>Lust, Fire/Inferno</object>
+<properties>Burning, Raging, Intense, Consuming</properties>
+<relations>Human emotion transformed into destructive natural force</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette filled with swirling flames, her heart glowing bright red at the center.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His words were carefully counted coins.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Speech that is measured and deliberate, used sparingly like precious currency.
+</implicit_meaning>
+
+<components>
+<object>Words, Coins</object>
+<properties>Careful, Counted, Precious, Limited</properties>
+<relations>Words being treated as valuable currency that must be counted and spent wisely</relations>
+</components>
+
+<visual_elaboration>
+A person weighing golden coins on a scale, but the coins have words engraved on them.
+</visual_elaboration>
+</metaphor_analysis>

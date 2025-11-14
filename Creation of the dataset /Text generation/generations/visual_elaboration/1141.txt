@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His emotions needed a system reboot.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental exhaustion requiring emotional reset.
+</implicit_meaning>
+
+<components>
+<object>Human emotions, Computer system</object>
+<properties>Malfunctioning, Need for restart</properties>
+<relations>Emotions being treated like a computer system that needs rebooting</relations>
+</components>
+
+<visual_elaboration>
+A human head with a computer screen face displaying a loading bar and restart symbol.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The harsh words created hairline cracks in her emotional shell.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional vulnerability and fragility caused by hurtful words.
+</implicit_meaning>
+
+<components>
+<object>Emotional shell, words</object>
+<properties>Fragile, cracking, delicate</properties>
+<relations>Words causing damage to protective shell</relations>
+</components>
+
+<visual_elaboration>
+A porcelain egg shell with visible hairline cracks, dark words seeping through the fissures.
+</visual_elaboration>
+</metaphor_analysis>

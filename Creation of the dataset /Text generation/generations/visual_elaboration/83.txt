@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Possessions are the building blocks of property portfolios.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material assets accumulate to create wealth.
+</implicit_meaning>
+
+<components>
+<object>Building blocks, Property portfolios</object>
+<properties>Stackable, Cumulative, Foundational</properties>
+<relations>Building blocks combine to form larger structures</relations>
+</components>
+
+<visual_elaboration>
+Colorful toy blocks stacked into a tower shape with dollar signs and house symbols on each block.
+</visual_elaboration>
+</metaphor_analysis>

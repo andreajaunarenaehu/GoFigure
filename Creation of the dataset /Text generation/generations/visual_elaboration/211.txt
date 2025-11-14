@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem's foundation is crumbling beneath our feet.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A situation is becoming unstable and failing.
+</implicit_meaning>
+
+<components>
+<object>Foundation, People standing</object>
+<properties>Crumbling, unstable, breaking apart</properties>
+<relations>People standing on deteriorating structure</relations>
+</components>
+
+<visual_elaboration>
+People standing on cracking concrete blocks that are breaking apart and falling into darkness below.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,115 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Theories are blankets draped over the raw facts of reality.
+</metaphor>
+<literal_paraphrase>
+Theories provide an organized framework that helps explain and make sense of observable facts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories expose facts in their pure form without any interpretative structure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each theory is a protective shell wrapped around the nucleus of truth.
+</metaphor>
+<literal_paraphrase>
+Theories serve as explanatory frameworks that encapsulate and protect our understanding of factual evidence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories strip away all protection from facts, leaving them vulnerable and exposed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Scientific theories are transparent veils that both reveal and conceal the facts beneath.
+</metaphor>
+<literal_paraphrase>
+Theories provide a lens through which we can understand facts, while potentially obscuring some aspects of reality.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories provide an absolutely clear and unfiltered view of facts without any interpretation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These theoretical covers are woven from threads of assumption and observation.
+</metaphor>
+<literal_paraphrase>
+Theories are constructed from a combination of empirical evidence and reasoned assumptions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories emerge spontaneously from pure fact without any human interpretation or assumption.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each theory is a patchwork quilt stitched over the landscape of reality.
+</metaphor>
+<literal_paraphrase>
+Theories are complex constructions that attempt to cover and explain multiple aspects of factual phenomena.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories are simple, uniform explanations that never require combining multiple perspectives.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Theoretical coverings can wear thin at the edges of discovery.
+</metaphor>
+<literal_paraphrase>
+Theories may become inadequate when confronted with new evidence or observations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories remain eternally perfect and never need revision regardless of new discoveries.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some theories are iron curtains, blocking our view of simpler truths.
+</metaphor>
+<literal_paraphrase>
+Overly complex theories can sometimes obscure more straightforward explanations of facts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All theories perfectly illuminate facts without ever creating barriers to understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Theories are adjustable shields protecting us from the glare of raw data.
+</metaphor>
+<literal_paraphrase>
+Theories help us process and understand overwhelming amounts of factual information in manageable ways.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories force us to confront all facts simultaneously without any filtering or organization.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each new theory is a fresh coat of paint over the structure of reality.
+</metaphor>
+<literal_paraphrase>
+New theories provide updated perspectives on existing factual frameworks.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New theories completely eliminate all previous understanding of facts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Theoretical covers can be lifted to peek at the bare facts beneath.
+</metaphor>
+<literal_paraphrase>
+Theories can be temporarily set aside

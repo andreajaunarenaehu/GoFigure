@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His thoughts were stacked like perfectly balanced building blocks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Organized and structured thinking.
+</implicit_meaning>
+
+<components>
+<object>Thoughts, Building blocks</object>
+<properties>Stacked, Balanced, Orderly</properties>
+<relations>Thoughts are compared to neatly arranged building blocks</relations>
+</components>
+
+<visual_elaboration>
+A head with transparent building blocks neatly stacked inside, each block glowing with different thoughts.
+</visual_elaboration>
+</metaphor_analysis>

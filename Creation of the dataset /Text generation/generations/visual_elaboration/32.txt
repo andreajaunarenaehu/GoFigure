@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They grasped the wheel of change.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Taking control of a transformative situation.
+</implicit_meaning>
+
+<components>
+<object>Wheel, Hands</object>
+<properties>Circular, Moving, Controllable</properties>
+<relations>Human control over transformation process</relations>
+</components>
+
+<visual_elaboration>
+Hands firmly gripping a spinning wheel with swirling colors and patterns radiating outward.
+</visual_elaboration>
+</metaphor_analysis>

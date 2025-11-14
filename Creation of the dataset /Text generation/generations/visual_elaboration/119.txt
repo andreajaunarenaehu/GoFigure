@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Night's bronze gates sealed off the horizon.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Darkness completely blocking out the last remnants of daylight.
+</implicit_meaning>
+
+<components>
+<object>Night, Gates, Horizon</object>
+<properties>Bronze, sealed, blocking</properties>
+<relations>Gates acting as a barrier between viewer and horizon</relations>
+</components>
+
+<visual_elaboration>
+Massive bronze gates closing across a sunset horizon, casting long dark shadows forward.
+</visual_elaboration>
+</metaphor_analysis>

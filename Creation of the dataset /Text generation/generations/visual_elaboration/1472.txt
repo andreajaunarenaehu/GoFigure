@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They guided the economy toward recovery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Economy is treated as a physical entity that can be steered or directed.
+</implicit_meaning>
+
+<components>
+<object>Economy, Guide/Leader</object>
+<properties>Directional movement, Path-following</properties>
+<relations>Leaders steering/guiding the economy upward</relations>
+</components>
+
+<visual_elaboration>
+Business people in suits steering a large ship labeled "ECONOMY" up a rising path through stormy waters.
+</visual_elaboration>
+</metaphor_analysis>

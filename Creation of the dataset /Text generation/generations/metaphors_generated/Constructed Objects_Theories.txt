@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Theories are blueprints for understanding reality.
+</metaphor>
+<literal_paraphrase>
+Theories provide structured frameworks that guide our comprehension of how things work.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories are chaotic and provide no guidance for understanding phenomena.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This theory is a rickety bridge that needs reinforcement.
+</metaphor>
+<literal_paraphrase>
+This theory has weak points and requires additional evidence or reasoning to be more reliable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This theory is completely solid and requires no additional support or evidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their theory is a fortress built on sand.
+</metaphor>
+<literal_paraphrase>
+Their theory lacks a solid foundation of evidence and may collapse under scrutiny.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their theory is built on an unshakeable foundation of evidence and facts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The researchers are architects, designing theoretical skyscrapers.
+</metaphor>
+<literal_paraphrase>
+The researchers are creating complex, comprehensive theories that build upon each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The researchers are producing simple, disconnected ideas with no structural complexity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This theory is a scaffold supporting new discoveries.
+</metaphor>
+<literal_paraphrase>
+This theory provides a framework that enables further research and understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This theory inhibits new discoveries and prevents further research.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their competing theories are like parallel buildings reaching for the same sky.
+</metaphor>
+<literal_paraphrase>
+Their different theories attempt to explain the same phenomenon through different approaches.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their theories are completely unrelated and address entirely different phenomena.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The old theory was demolished to make way for new construction.
+</metaphor>
+<literal_paraphrase>
+The previous theory was disproven and replaced by a new, more accurate explanation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The old theory remained unchanged and prevented the development of new ideas.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This theoretical framework has load-bearing pillars of evidence.
+</metaphor>
+<literal_paraphrase>
+This theory is supported by crucial pieces of evidence that maintain its validity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This theory lacks any supporting evidence and stands on pure speculation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their theory is a maze of interconnected corridors.
+</metaphor>
+<literal_paraphrase>
+Their theory is complex with many interrelated concepts and implications.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their theory is simple and straightforward with no complexity or connections.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The theory's foundation has developed dangerous cracks.
+</metaphor>
+<literal_paraphrase>
+The basic assumptions of the theory have been shown to have serious flaws.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory's fundamental assumptions remain perfectly sound and unquestionable.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

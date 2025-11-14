@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their marketing campaign landed a series of quick jabs in the industry.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Aggressive and impactful competitive business tactics.
+</implicit_meaning>
+
+<components>
+<object>Marketing campaign, Boxing gloves</object>
+<properties>Quick, Impactful, Competitive</properties>
+<relations>Campaign actions portrayed as boxing moves against competitors</relations>
+</components>
+
+<visual_elaboration>
+A boxing glove with a company logo punching multiple targets labeled as competitor brands.
+</visual_elaboration>
+</metaphor_analysis>

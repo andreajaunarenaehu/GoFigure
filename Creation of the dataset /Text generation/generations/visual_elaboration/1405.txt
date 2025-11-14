@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The river of events flows endlessly downstream.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time and events are continuous and unstoppable.
+</implicit_meaning>
+
+<components>
+<object>River, Events</object>
+<properties>Flowing, Endless, Continuous</properties>
+<relations>Events are depicted as water moving downstream</relations>
+</components>
+
+<visual_elaboration>
+A winding river filled with floating calendar pages and clock faces moving downstream.
+</visual_elaboration>
+</metaphor_analysis>

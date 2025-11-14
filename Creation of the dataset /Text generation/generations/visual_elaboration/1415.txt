@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Success injected new energy into the team's morale.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Success revitalized and energized the team.
+</implicit_meaning>
+
+<components>
+<object>Team, Energy, Syringe</object>
+<properties>Energetic, Renewed, Invigorated</properties>
+<relations>Energy being injected into team like medicine</relations>
+</components>
+
+<visual_elaboration>
+A giant syringe labeled "success" injecting glowing energy into a group of smiling team members.
+</visual_elaboration>
+</metaphor_analysis>

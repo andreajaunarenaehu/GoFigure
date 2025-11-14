@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their theory was a patchwork of borrowed ideas.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory is made up of pieces taken from different sources without originality.
+</implicit_meaning>
+
+<components>
+<object>Theory, Patchwork quilt</object>
+<properties>Pieced together, borrowed, mixed</properties>
+<relations>Theory is represented as a quilt made of different patches</relations>
+</components>
+
+<visual_elaboration>
+A quilt made of academic papers and text fragments stitched together haphazardly with visible seams.
+</visual_elaboration>
+</metaphor_analysis>

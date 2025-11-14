@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Being paints itself on the canvas of space.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Existence manifests itself throughout the universe.
+</implicit_meaning>
+
+<components>
+<object>Being (existence), Canvas, Space</object>
+<properties>Abstract, Expansive, Creative</properties>
+<relations>Being actively creates/manifests itself across space</relations>
+</components>
+
+<visual_elaboration>
+A cosmic canvas with swirling galaxies forming the shape of a human figure.
+</visual_elaboration>
+</metaphor_analysis>

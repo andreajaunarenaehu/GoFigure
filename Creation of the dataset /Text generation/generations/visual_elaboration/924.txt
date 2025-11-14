@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We need to find the master thread in this tangled problem.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Finding the core solution within a complex situation.
+</implicit_meaning>
+
+<components>
+<object>Thread, Problem</object>
+<properties>Tangled, Master (main) thread, Complex</properties>
+<relations>Finding/extracting the main thread from a tangle</relations>
+</components>
+
+<visual_elaboration>
+A glowing golden thread emerging from a dark ball of tangled strings.
+</visual_elaboration>
+</metaphor_analysis>

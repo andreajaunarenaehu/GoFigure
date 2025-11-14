@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He carried his drunkenness like a heavy backpack.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Burden of intoxication weighing someone down physically and mentally.
+</implicit_meaning>
+
+<components>
+<object>Person, Backpack, Drunkenness</object>
+<properties>Heavy, Burdensome, Weighing down</properties>
+<relations>Carrying, Struggling with weight</relations>
+</components>
+
+<visual_elaboration>
+A stumbling man with bottles and wine glasses spilling out of an oversized, sagging backpack.
+</visual_elaboration>
+</metaphor_analysis>

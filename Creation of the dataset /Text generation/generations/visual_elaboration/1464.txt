@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That concept is a depleted well, run dry of originality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Something that has lost its creative value or usefulness.
+</implicit_meaning>
+
+<components>
+<object>Well, Concept</object>
+<properties>Depleted, dry, empty, lacking originality</properties>
+<relations>The well represents the concept's exhausted state</relations>
+</components>
+
+<visual_elaboration>
+A cracked stone well with cobwebs, dust, and tumbleweeds at its bottom instead of water.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their beliefs were mortgaged to social acceptance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Sacrificing personal values for social approval.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Mortgage contract</object>
+<properties>Traded, Compromised, Bound</properties>
+<relations>Beliefs being traded for social acceptance like property being mortgaged for money</relations>
+</components>
+
+<visual_elaboration>
+A person signing away their colorful thought bubbles as collateral to a group of shadowy figures.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The inflation of their ego has created a bubble of artificial self-worth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fragile and unsustainable overconfidence.
+</implicit_meaning>
+
+<components>
+<object>Ego, Bubble</object>
+<properties>Inflated, fragile, transparent, artificial</properties>
+<relations>Ego expanding within a delicate bubble structure</relations>
+</components>
+
+<visual_elaboration>
+A person's head inside a large soap bubble that's stretching to its breaking point.
+</visual_elaboration>
+</metaphor_analysis>

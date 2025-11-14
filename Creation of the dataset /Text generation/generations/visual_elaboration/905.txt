@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The temperature of the argument rose to dangerous levels.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The argument became increasingly heated and intense.
+</implicit_meaning>
+
+<components>
+<object>Argument, Temperature gauge</object>
+<properties>Rising, Dangerous, Hot</properties>
+<relations>Temperature increasing to dangerous zone</relations>
+</components>
+
+<visual_elaboration>
+A red thermometer bursting at the top with two angry faces shouting on either side.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is an eternal enchantment that defies time.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love is magical and endless.
+</implicit_meaning>
+
+<components>
+<object>Love, Time, Enchantment</object>
+<properties>Eternal, Magical, Timeless</properties>
+<relations>Love actively resists time's passage through magical means</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart floating inside an hourglass with frozen sand and sparkles swirling around it.
+</visual_elaboration>
+</metaphor_analysis>

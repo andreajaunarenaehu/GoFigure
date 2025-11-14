@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The cold grip of fear froze her thoughts in place.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Paralyzed by intense fear or anxiety.
+</implicit_meaning>
+
+<components>
+<object>Fear, Thoughts, Cold/Ice</object>
+<properties>Freezing, Gripping, Immobilizing</properties>
+<relations>Fear physically restrains and freezes thoughts</relations>
+</components>
+
+<visual_elaboration>
+A woman's head encased in ice with frozen thought bubbles trapped within crystalline hands.
+</visual_elaboration>
+</metaphor_analysis>

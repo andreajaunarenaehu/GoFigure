@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The building's facade flows like a river.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Smooth, continuous movement and fluidity in architectural design.
+</implicit_meaning>
+
+<components>
+<object>Building facade, River</object>
+<properties>Flowing, smooth, continuous, wavy</properties>
+<relations>Building facade mimics river's flowing movement</relations>
+</components>
+
+<visual_elaboration>
+A glass building with wavy, rippling walls that cascade downward like a waterfall.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Writing is the lighthouse that illuminates hidden ideas.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Writing guides and reveals thoughts that were previously unclear or hidden.
+</implicit_meaning>
+
+<components>
+<object>Lighthouse, Ideas</object>
+<properties>Illuminating, guiding, revealing</properties>
+<relations>Lighthouse beams cutting through darkness to reveal hidden elements</relations>
+</components>
+
+<visual_elaboration>
+A lighthouse beam sweeping across dark waters, revealing glowing words and symbols beneath the surface.
+</visual_elaboration>
+</metaphor_analysis>

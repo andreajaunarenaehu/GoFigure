@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His ideas are raw diamonds needing careful refinement.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Valuable but unpolished potential.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Diamonds</object>
+<properties>Raw, unrefined, valuable, rough</properties>
+<relations>Need for refinement and polishing</relations>
+</components>
+
+<visual_elaboration>
+A rough diamond emerging from a human brain, with one side sparkling and polished, the other still raw.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The grip of compliance loosened its hold on the organization.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strict rules and regulations becoming less restrictive.
+</implicit_meaning>
+
+<components>
+<object>Grip, Organization</object>
+<properties>Tight, Loosening, Restrictive</properties>
+<relations>The grip (compliance) is releasing its control over the organization</relations>
+</components>
+
+<visual_elaboration>
+A giant hand with loosening fingers releasing a small office building from its grasp.
+</visual_elaboration>
+</metaphor_analysis>

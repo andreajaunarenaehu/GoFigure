@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their hands are full of opportunities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Having many available chances or possibilities for success.
+</implicit_meaning>
+
+<components>
+<object>Hands, Opportunities</object>
+<properties>Fullness, abundance, potential</properties>
+<relations>Hands containing or holding multiple opportunities</relations>
+</components>
+
+<visual_elaboration>
+Open hands holding glowing stars and golden keys floating upward with light trails.
+</visual_elaboration>
+</metaphor_analysis>

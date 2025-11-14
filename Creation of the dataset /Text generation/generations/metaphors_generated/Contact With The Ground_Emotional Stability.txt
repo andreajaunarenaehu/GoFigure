@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her feet are firmly planted in reality.
+</metaphor>
+<literal_paraphrase>
+She maintains a stable and balanced emotional state in her daily life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her emotional state is erratic and disconnected from reality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He lost his footing in the midst of crisis.
+</metaphor>
+<literal_paraphrase>
+He became emotionally unstable during a difficult situation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He remained completely composed and steady during the crisis.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She needs to find her emotional ground zero.
+</metaphor>
+<literal_paraphrase>
+She must establish a stable baseline for her emotional well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She should embrace emotional chaos and instability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotional foundation is built on solid ground.
+</metaphor>
+<literal_paraphrase>
+His emotional stability is based on strong psychological principles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional state is built on shifting sands and uncertainty.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's walking on emotional quicksand.
+</metaphor>
+<literal_paraphrase>
+She's experiencing a period of severe emotional instability.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She's experiencing complete emotional security and stability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He maintains a steady grip on his emotions.
+</metaphor>
+<literal_paraphrase>
+He consistently controls and manages his emotional state.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He has no control over his emotional reactions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her emotional anchor keeps her grounded.
+</metaphor>
+<literal_paraphrase>
+Her emotional stability is maintained by reliable support systems.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She lacks any emotional support or stability in her life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He's standing on shaky emotional terrain.
+</metaphor>
+<literal_paraphrase>
+His emotional stability is currently uncertain and precarious.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional state is completely stable and secure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's found her emotional bedrock.
+</metaphor>
+<literal_paraphrase>
+She has discovered fundamental principles that provide emotional stability.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She lacks any foundation for emotional stability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotions are earthed like a lightning rod.
+</metaphor>
+<literal_paraphrase>
+He can effectively channel and stabilize intense emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotions are volatile and uncontrolled.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

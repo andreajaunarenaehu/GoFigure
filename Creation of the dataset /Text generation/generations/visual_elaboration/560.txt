@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is a sweet delirium that clouds all reason.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love makes people lose their rational thinking in a pleasurable way.
+</implicit_meaning>
+
+<components>
+<object>Love, Delirium, Clouds</object>
+<properties>Sweet, cloudy, disorienting</properties>
+<relations>Delirium affects reasoning ability</relations>
+</components>
+
+<visual_elaboration>
+A person floating in pink cotton candy clouds with hearts in their dizzy spinning eyes.
+</visual_elaboration>
+</metaphor_analysis>

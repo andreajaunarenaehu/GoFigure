@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence fuels the engine of compliance progress.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules drives organizational success forward.
+</implicit_meaning>
+
+<components>
+<object>Engine, Fuel</object>
+<properties>Mechanical, Moving, Powered</properties>
+<relations>Fuel (adherence) powers the engine (compliance) to move forward (progress)</relations>
+</components>
+
+<visual_elaboration>
+A shiny engine powered by glowing rule books being fed into its fuel tank.
+</visual_elaboration>
+</metaphor_analysis>

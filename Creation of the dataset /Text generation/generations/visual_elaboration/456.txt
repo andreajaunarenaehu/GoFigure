@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is two stars sharing one constellation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two individuals united in a larger, meaningful connection.
+</implicit_meaning>
+
+<components>
+<object>Stars, constellation</object>
+<properties>Bright, connected, shared space</properties>
+<relations>Two entities existing within a single unified system</relations>
+</components>
+
+<visual_elaboration>
+Two bright stars connected by a glowing line forming a heart-shaped constellation in a dark sky.
+</visual_elaboration>
+</metaphor_analysis>

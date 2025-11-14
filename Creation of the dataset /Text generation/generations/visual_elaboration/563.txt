@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The chaos of love shatters reality's mirror.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love disrupts our normal perception of the world.
+</implicit_meaning>
+
+<components>
+<object>Mirror, Love (represented as a force)</object>
+<properties>Shattered, Chaotic, Broken</properties>
+<relations>Love actively breaking/distorting reality's reflection</relations>
+</components>
+
+<visual_elaboration>
+A large cracked mirror with floating heart symbols emerging from each fracture line.
+</visual_elaboration>
+</metaphor_analysis>

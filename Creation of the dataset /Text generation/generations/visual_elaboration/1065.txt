@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The director forwarded control to his assistant.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Transfer of power or authority from one person to another.
+</implicit_meaning>
+
+<components>
+<object>Director, Assistant, Control (represented as an object)</object>
+<properties>Transferable, Directional movement, Hierarchical</properties>
+<relations>Movement of control from director to assistant</relations>
+</components>
+
+<visual_elaboration>
+A glowing baton passing from the director's hand to the assistant's outstretched palm.
+</visual_elaboration>
+</metaphor_analysis>

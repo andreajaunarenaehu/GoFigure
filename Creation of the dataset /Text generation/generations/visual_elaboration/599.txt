@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The compass of causality guides the journey of logical discovery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Logic follows a directed path like navigation.
+</implicit_meaning>
+
+<components>
+<object>Compass, Journey, Logic</object>
+<properties>Directional, Guiding, Navigational</properties>
+<relations>Compass guides the path of logical thinking</relations>
+</components>
+
+<visual_elaboration>
+A glowing compass with cause-and-effect symbols floating around its arrows, pointing toward a path of interconnected gears.
+</visual_elaboration>
+</metaphor_analysis>

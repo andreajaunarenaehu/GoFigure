@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She poured her youth into a leaking container of wasted opportunities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Wasting one's potential and time during young years.
+</implicit_meaning>
+
+<components>
+<object>Youth, Container</object>
+<properties>Leaking, Wasting, Pouring</properties>
+<relations>Youth being lost through leaks in a container</relations>
+</components>
+
+<visual_elaboration>
+A young woman pouring glowing liquid into a cracked jar with streams of light escaping through multiple holes.
+</visual_elaboration>
+</metaphor_analysis>

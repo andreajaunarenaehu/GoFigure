@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Social movements are society's muscles flexing for change.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Collective action builds strength and creates societal transformation.
+</implicit_meaning>
+
+<components>
+<object>Social movements, muscles</object>
+<properties>Flexing, strengthening, growing</properties>
+<relations>Movements act like muscles to create change in society</relations>
+</components>
+
+<visual_elaboration>
+A muscular arm with protest crowds forming the muscle fibers, flexing upward breaking through chains.
+</visual_elaboration>
+</metaphor_analysis>

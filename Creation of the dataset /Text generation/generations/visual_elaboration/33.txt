@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The manager juggled all the moving pieces.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Managing multiple tasks simultaneously with skill.
+</implicit_meaning>
+
+<components>
+<object>Manager, Moving pieces</object>
+<properties>Multiple, In motion, Requiring coordination</properties>
+<relations>Juggling action, Maintaining control</relations>
+</components>
+
+<visual_elaboration>
+A business person in a suit juggling colorful gears and project folders while standing confidently.
+</visual_elaboration>
+</metaphor_analysis>

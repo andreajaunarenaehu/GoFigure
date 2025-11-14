@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Disgust swirled like morning sickness in her mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming nausea and mental disturbance.
+</implicit_meaning>
+
+<components>
+<object>Mind, Morning sickness, Disgust</object>
+<properties>Swirling, Nauseating, Disturbing</properties>
+<relations>Disgust is compared to morning sickness, both occurring within the mind</relations>
+</components>
+
+<visual_elaboration>
+A woman's head with swirling green waves inside her transparent skull, resembling a churning sea.
+</visual_elaboration>
+</metaphor_analysis>

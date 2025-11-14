@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The committee members in my mind debate each decision.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Internal conflict and multiple competing thoughts during decision-making.
+</implicit_meaning>
+
+<components>
+<object>Committee members, Mind, Decisions</object>
+<properties>Multiple voices, Debating, Internal dialogue</properties>
+<relations>Committee members arguing within the space of a mind</relations>
+</components>
+
+<visual_elaboration>
+A brain-shaped conference room with tiny people in suits arguing around a table.
+</visual_elaboration>
+</metaphor_analysis>

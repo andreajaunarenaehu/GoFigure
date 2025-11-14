@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That concept is still half-baked.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The idea is incomplete or not fully developed.
+</implicit_meaning>
+
+<components>
+<object>Concept represented as baked good (likely bread or cake)</object>
+<properties>Partially cooked, unfinished, raw in the middle</properties>
+<relations>The cooking process represents development of an idea</relations>
+</components>
+
+<visual_elaboration>
+A cake cut in half showing a cooked exterior but raw, gooey batter in the middle.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our perception traces the edges of reality like a shape-finding algorithm.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Human understanding is limited to detecting patterns and boundaries like a computer program.
+</implicit_meaning>
+
+<components>
+<object>Human perception, Shape-finding algorithm</object>
+<properties>Tracing, Edge detection, Pattern recognition</properties>
+<relations>Perception acts like a computer algorithm scanning reality's boundaries</relations>
+</components>
+
+<visual_elaboration>
+A human eye projecting digital scanning lines onto a wireframe world with glowing edges.
+</visual_elaboration>
+</metaphor_analysis>

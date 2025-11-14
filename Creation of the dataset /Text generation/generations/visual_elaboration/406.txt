@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her inner garden nurtures her growing capabilities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Personal growth and self-development through self-care.
+</implicit_meaning>
+
+<components>
+<object>Garden, capabilities (as plants)</object>
+<properties>Growing, nurturing, inner</properties>
+<relations>Garden nurtures growth of capabilities</relations>
+</components>
+
+<visual_elaboration>
+A woman tending to a glowing garden inside her silhouette, where flowers bloom into bright ideas.
+</visual_elaboration>
+</metaphor_analysis>

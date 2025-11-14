@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My emotional self is a delicate crystal vase.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotionally fragile and easily broken.
+</implicit_meaning>
+
+<components>
+<object>Crystal vase, emotional self</object>
+<properties>Delicate, transparent, fragile, breakable</properties>
+<relations>The self is compared to a fragile object that requires careful handling</relations>
+</components>
+
+<visual_elaboration>
+A cracked crystal vase with tears flowing from its fractures, balanced precariously on edge.
+</visual_elaboration>
+</metaphor_analysis>

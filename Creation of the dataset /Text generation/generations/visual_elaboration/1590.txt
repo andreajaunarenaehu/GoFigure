@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Opportunities are fragile porcelain vases waiting to be handled.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Opportunities are delicate and require careful handling to avoid being destroyed.
+</implicit_meaning>
+
+<components>
+<object>Opportunities, porcelain vases</object>
+<properties>Fragile, delicate, breakable</properties>
+<relations>Waiting to be handled, requiring careful attention</relations>
+</components>
+
+<visual_elaboration>
+A delicate porcelain vase balanced precariously on edge, with glowing cracks showing its fragility.
+</visual_elaboration>
+</metaphor_analysis>

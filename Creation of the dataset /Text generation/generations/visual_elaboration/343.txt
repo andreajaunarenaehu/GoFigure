@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The replacement acted as a bridge over troubled waters.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Provides stability and connection during difficult times.
+</implicit_meaning>
+
+<components>
+<object>Bridge, Waters, Replacement person</object>
+<properties>Troubled, turbulent waters; stable bridge; helpful replacement</properties>
+<relations>Bridge spans across dangerous waters, providing safe passage</relations>
+</components>
+
+<visual_elaboration>
+A human figure forming a bridge with their body over dark, stormy waters while others walk safely across.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+History is an ancient battlefield scattered with artifacts of knowledge.
+</linguistic_metaphor>
+
+<implicit_meaning>
+History is a collection of remnants from past conflicts and discoveries.
+</implicit_meaning>
+
+<components>
+<object>Battlefield, artifacts</object>
+<properties>Ancient, scattered, knowledge-bearing</properties>
+<relations>The battlefield contains and preserves artifacts that represent historical knowledge</relations>
+</components>
+
+<visual_elaboration>
+A misty battlefield with books, scrolls, and broken relics glowing softly among ancient ruins.
+</visual_elaboration>
+</metaphor_analysis>

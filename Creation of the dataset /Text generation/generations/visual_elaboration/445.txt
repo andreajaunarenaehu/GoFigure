@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Life is a prism splitting ordinary light into rainbow possibilities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life transforms simple experiences into diverse opportunities and outcomes.
+</implicit_meaning>
+
+<components>
+<object>Life, Prism, Light, Rainbow</object>
+<properties>Transformative, Dispersive, Colorful, Multiple</properties>
+<relations>Splitting/transforming ordinary into extraordinary</relations>
+</components>
+
+<visual_elaboration>
+A crystal prism floating in space, transforming a white beam into vibrant rainbow paths that spiral outward.
+</visual_elaboration>
+</metaphor_analysis>

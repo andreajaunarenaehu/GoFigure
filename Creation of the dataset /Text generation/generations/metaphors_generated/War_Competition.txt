@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The marketplace is a battlefield where competitors clash for supremacy.
+</metaphor>
+<literal_paraphrase>
+Businesses actively compete against each other to gain market dominance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The marketplace is a peaceful environment where businesses cooperate without rivalry.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their strategic alliance was a powerful weapon in the industry.
+</metaphor>
+<literal_paraphrase>
+Their business partnership provided a significant competitive advantage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their partnership was ineffective and provided no benefit in the market.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The startup's guerrilla marketing tactics ambushed their rivals.
+</metaphor>
+<literal_paraphrase>
+The startup's unconventional marketing strategies caught competitors off guard.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The startup's traditional marketing approach was predictable and ineffective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their market share was a territory fiercely defended from invaders.
+</metaphor>
+<literal_paraphrase>
+The company actively protected its customer base from competing businesses.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their market share was freely accessible to all competitors without resistance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The price war left casualties across the industry.
+</metaphor>
+<literal_paraphrase>
+Aggressive price competition caused financial damage to multiple companies.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The pricing strategies benefited all companies equally without any losses.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their sales force was an army marching toward market conquest.
+</metaphor>
+<literal_paraphrase>
+Their sales team worked systematically to achieve market dominance.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their sales team operated randomly without any coordinated effort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company's defenses crumbled under the competitor's siege.
+</metaphor>
+<literal_paraphrase>
+The company's market position weakened under sustained competitive pressure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company's position strengthened despite competitive challenges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their marketing campaign was a precision strike at the competition's weakness.
+</metaphor>
+<literal_paraphrase>
+Their marketing strategy specifically targeted their competitor's vulnerabilities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their marketing campaign was unfocused and ignored competitor weaknesses.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The industry veterans were battle-scarred survivors of many market conflicts.
+</metaphor>
+<literal_paraphrase>
+Experienced businesses had endured numerous competitive challenges over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+New businesses were the most resilient and successful in the market.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their research and development was an arms race for innovation.
+</metaphor>
+<literal_paraphrase>
+Companies competed intensely to develop new products and technologies first.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Companies were content with existing products and avoided innovation.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

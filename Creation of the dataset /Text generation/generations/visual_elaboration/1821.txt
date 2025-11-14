@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Prerequisites are the locomotive that pulls the train of progress.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Basic requirements drive forward advancement and learning.
+</implicit_meaning>
+
+<components>
+<object>Locomotive, train cars</object>
+<properties>Forward motion, sequential connection, pulling force</properties>
+<relations>Locomotive (prerequisites) leads and pulls train cars (progress)</relations>
+</components>
+
+<visual_elaboration>
+A locomotive labeled "Prerequisites" pulling train cars labeled "Progress" up a steep mountain track.
+</visual_elaboration>
+</metaphor_analysis>

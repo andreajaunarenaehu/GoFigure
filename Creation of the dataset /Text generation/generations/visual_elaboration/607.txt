@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He's standing on shaky emotional terrain.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional instability and uncertainty.
+</implicit_meaning>
+
+<components>
+<object>Person, Ground/Terrain</object>
+<properties>Unstable, Shaking, Cracking</properties>
+<relations>Person attempting to maintain balance on unstable ground</relations>
+</components>
+
+<visual_elaboration>
+A person balancing on cracking ground pieces floating in space with a worried expression.
+</visual_elaboration>
+</metaphor_analysis>

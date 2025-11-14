@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The future is a charging bull that cannot be stopped.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstoppable and potentially dangerous forward momentum.
+</implicit_meaning>
+
+<components>
+<object>Future, Bull</object>
+<properties>Charging, unstoppable, powerful</properties>
+<relations>Future is represented as an aggressive bull in motion</relations>
+</components>
+
+<visual_elaboration>
+A massive red bull with glowing eyes charging forward, breaking through a clock face.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a mirror reflecting light, physical properties illuminate abstract comparisons.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Concrete examples help explain complex ideas.
+</implicit_meaning>
+
+<components>
+<object>Mirror, Light, Abstract concepts</object>
+<properties>Reflective, Illuminating, Abstract vs Physical</properties>
+<relations>Mirror reflects light to show clarity, just as physical examples clarify abstract ideas</relations>
+</components>
+
+<visual_elaboration>
+A mirror reflecting light onto shadowy abstract symbols, transforming them into clear, bright concrete objects.
+</visual_elaboration>
+</metaphor_analysis>

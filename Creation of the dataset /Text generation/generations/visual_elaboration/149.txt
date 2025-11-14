@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mental posture was slouched with depression.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental state is being weighed down by depression.
+</implicit_meaning>
+
+<components>
+<object>Mental state, posture, person</object>
+<properties>Slouched, heavy, downward</properties>
+<relations>Depression physically weighing down on mental state</relations>
+</components>
+
+<visual_elaboration>
+A figure with transparent head showing brain slumped forward under a heavy dark cloud.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The sunbeam drew a straight line through the darkness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Light penetrating darkness creates a visible path or direction.
+</implicit_meaning>
+
+<components>
+<object>Sunbeam, darkness</object>
+<properties>Straight, bright, contrasting</properties>
+<relations>Beam cutting through dark space</relations>
+</components>
+
+<visual_elaboration>
+A golden beam slicing through a dark room, illuminating floating dust particles.
+</visual_elaboration>
+</metaphor_analysis>

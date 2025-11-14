@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Darkness sealed the day in its opaque envelope.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Night completely overtaking daylight.
+</implicit_meaning>
+
+<components>
+<object>Darkness, Day, Envelope</object>
+<properties>Opaque, Sealing, Enclosing</properties>
+<relations>Darkness actively sealing/enclosing the day</relations>
+</components>
+
+<visual_elaboration>
+A glowing sun being sealed inside a black envelope with shadows seeping from its edges.
+</visual_elaboration>
+</metaphor_analysis>

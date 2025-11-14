@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His actions pushed the company toward bankruptcy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive force leading to financial ruin.
+</implicit_meaning>
+
+<components>
+<object>Person, Company</object>
+<properties>Force, Movement, Decline</properties>
+<relations>Person actively pushing company towards edge</relations>
+</components>
+
+<visual_elaboration>
+A man forcefully pushing a building towards the edge of a financial cliff.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His gestures were stored in a locked cabinet.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hidden or suppressed emotions and actions.
+</implicit_meaning>
+
+<components>
+<object>Gestures, Cabinet</object>
+<properties>Locked, Stored, Hidden</properties>
+<relations>Gestures being contained and secured within a cabinet</relations>
+</components>
+
+<visual_elaboration>
+A wooden cabinet with transparent doors showing floating hand gestures trapped behind a large padlock.
+</visual_elaboration>
+</metaphor_analysis>

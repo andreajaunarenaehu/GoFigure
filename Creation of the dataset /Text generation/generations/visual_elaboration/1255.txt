@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Fear cast a blinding fog across his judgment.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fear clouds rational thinking and decision-making abilities.
+</implicit_meaning>
+
+<components>
+<object>Fear, fog, judgment</object>
+<properties>Blinding, obscuring, dense</properties>
+<relations>Fear creates fog that blocks clear judgment</relations>
+</components>
+
+<visual_elaboration>
+A human head with dense fog swirling inside, obscuring a glowing brain within.
+</visual_elaboration>
+</metaphor_analysis>

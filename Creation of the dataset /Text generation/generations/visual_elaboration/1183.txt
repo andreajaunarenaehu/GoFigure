@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties are magnetic forces attracting investment.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Properties have a powerful pull on money and investors.
+</implicit_meaning>
+
+<components>
+<object>Properties, magnets, money/investments</object>
+<properties>Attractive force, pulling power, magnetic field</properties>
+<relations>Properties acting as magnets drawing in investment dollars</relations>
+</components>
+
+<visual_elaboration>
+A large magnet labeled "Property" pulling in floating dollar bills and coins through visible magnetic field lines.
+</visual_elaboration>
+</metaphor_analysis>

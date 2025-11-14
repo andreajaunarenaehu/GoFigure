@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The weight of drinks stacked up like bricks on his consciousness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Accumulating intoxication leading to mental heaviness and impairment.
+</implicit_meaning>
+
+<components>
+<object>Drinks, Bricks, Consciousness</object>
+<properties>Heavy, Stacked, Weighing down</properties>
+<relations>Drinks are metaphorically crushing consciousness like stacked bricks</relations>
+</components>
+
+<visual_elaboration>
+A head with glass bricks filled with alcohol stacked precariously on top, pressing down on a drowsy face.
+</visual_elaboration>
+</metaphor_analysis>

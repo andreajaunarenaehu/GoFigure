@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His novel experienced a difficult delivery into the publishing world.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The process of publishing the book was challenging and painful.
+</implicit_meaning>
+
+<components>
+<object>Novel, Birth/Delivery</object>
+<properties>Difficult, Painful, Challenging</properties>
+<relations>Novel being "born" into publishing world like a baby being delivered</relations>
+</components>
+
+<visual_elaboration>
+A book in a hospital gown emerging painfully through delivery room doors with a doctor in scrubs.
+</visual_elaboration>
+</metaphor_analysis>

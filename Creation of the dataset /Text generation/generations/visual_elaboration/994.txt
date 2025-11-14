@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My internal artist paints the canvas of my mood.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotions shape our mental state and perspective.
+</implicit_meaning>
+
+<components>
+<object>Internal artist, canvas, mood</object>
+<properties>Creative, expressive, changing</properties>
+<relations>Artist actively painting on canvas, canvas representing emotional state</relations>
+</components>
+
+<visual_elaboration>
+A transparent figure inside a person's silhouette painting colorful swirls on a floating canvas.
+</visual_elaboration>
+</metaphor_analysis>

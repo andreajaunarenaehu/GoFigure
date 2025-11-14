@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our sight is a box with transparent walls.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Vision is limited despite being clear and transparent.
+</implicit_meaning>
+
+<components>
+<object>Sight, Box</object>
+<properties>Transparent, Limited, Confined</properties>
+<relations>Sight is contained within boundaries of the box</relations>
+</components>
+
+<visual_elaboration>
+A floating glass box with eyes peering through its transparent walls, trying to look beyond.
+</visual_elaboration>
+</metaphor_analysis>

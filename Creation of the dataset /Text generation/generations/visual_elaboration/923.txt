@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The problem's knots tightened with each attempted solution.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Problems becoming more complex and difficult when trying to solve them.
+</implicit_meaning>
+
+<components>
+<object>Problem represented as rope or string with knots</object>
+<properties>Tightening, becoming more tangled</properties>
+<relations>Direct correlation between solution attempts and increased complexity</relations>
+</components>
+
+<visual_elaboration>
+A rope with multiple knots that grow tighter and more tangled as hands try to untie them.
+</visual_elaboration>
+</metaphor_analysis>

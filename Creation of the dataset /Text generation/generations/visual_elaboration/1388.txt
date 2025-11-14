@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance is a pilgrim following sacred footsteps.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Devoted and unquestioning adherence to rules or guidelines.
+</implicit_meaning>
+
+<components>
+<object>Pilgrim, Footsteps</object>
+<properties>Sacred, Following, Devoted</properties>
+<relations>Pilgrim following a path marked by glowing footprints</relations>
+</components>
+
+<visual_elaboration>
+A hooded figure following a trail of golden glowing footprints ascending a misty mountain path.
+</visual_elaboration>
+</metaphor_analysis>

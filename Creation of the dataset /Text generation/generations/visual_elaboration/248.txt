@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These subjects are master strategists requiring multiple campaigns to defeat.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Academic subjects are as challenging as military battles.
+</implicit_meaning>
+
+<components>
+<object>School subjects, Military commanders</object>
+<properties>Strategic, difficult, requiring multiple attempts</properties>
+<relations>Student battling against challenging subjects</relations>
+</components>
+
+<visual_elaboration>
+Textbooks wearing general's uniforms commanding armies of equations and formulas against a student warrior.
+</visual_elaboration>
+</metaphor_analysis>

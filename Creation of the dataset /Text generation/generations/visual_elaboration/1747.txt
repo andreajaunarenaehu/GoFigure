@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This earthly receptacle cradles my soul's dance.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The body contains and protects the spirit's movement and life.
+</implicit_meaning>
+
+<components>
+<object>Body (earthly receptacle), Soul</object>
+<properties>Container-like, protective, flowing</properties>
+<relations>Body contains and cradles the soul's movement</relations>
+</components>
+
+<visual_elaboration>
+A transparent human silhouette with a glowing, dancing figure floating inside its chest cavity.
+</visual_elaboration>
+</metaphor_analysis>

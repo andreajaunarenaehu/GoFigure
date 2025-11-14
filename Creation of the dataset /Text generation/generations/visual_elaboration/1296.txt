@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Jealousy is a centrifugal force tearing relationships apart.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive emotional force that pushes people away from each other.
+</implicit_meaning>
+
+<components>
+<object>Jealousy, centrifugal force, relationships</object>
+<properties>Spinning, separating, destructive</properties>
+<relations>Force causing separation between connected elements</relations>
+</components>
+
+<visual_elaboration>
+Two people being pulled apart by a spinning vortex with green jealousy swirls between them.
+</visual_elaboration>
+</metaphor_analysis>

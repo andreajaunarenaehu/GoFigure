@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mental flexibility was as rigid as frozen joints.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Stubborn and unwilling to change thoughts or opinions.
+</implicit_meaning>
+
+<components>
+<object>Mind, Joints</object>
+<properties>Frozen, Rigid, Inflexible</properties>
+<relations>Mental state compared to physical immobility</relations>
+</components>
+
+<visual_elaboration>
+A human brain encased in a block of ice with frozen hinges attached to its sides.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her trust was bruised and swollen from repeated disappointments.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Trust has been damaged through multiple emotional injuries.
+</implicit_meaning>
+
+<components>
+<object>Trust, physical injuries (bruises, swelling)</object>
+<properties>Damaged, hurt, vulnerable</properties>
+<relations>Trust is being treated as a physical body that can be injured</relations>
+</components>
+
+<visual_elaboration>
+A heart covered in purple bruises and bandages, with visible swelling and dark spots.
+</visual_elaboration>
+</metaphor_analysis>

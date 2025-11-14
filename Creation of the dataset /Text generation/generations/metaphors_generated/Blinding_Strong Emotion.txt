@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her rage was a blinding flash of lightning.
+</metaphor>
+<literal_paraphrase>
+Her anger was so intense that it temporarily overwhelmed her ability to think clearly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her anger was mild and allowed her to maintain perfect clarity of thought.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His love cast a blinding veil over her flaws.
+</metaphor>
+<literal_paraphrase>
+His strong feelings of love prevented him from seeing her negative qualities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His love made him more aware and critical of her imperfections.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Jealousy threw a blinding dust storm into their relationship.
+</metaphor>
+<literal_paraphrase>
+Their jealousy made it impossible to see their situation clearly or make rational decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their jealousy brought clarity and understanding to their relationship.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her grief was a blinding midnight with no stars.
+</metaphor>
+<literal_paraphrase>
+Her sorrow was so overwhelming that she couldn't see any hope or possibility for happiness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her grief brought illumination and clear perspective to her life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their passion was a blinding sunrise that consumed the dawn.
+</metaphor>
+<literal_paraphrase>
+Their intense romantic feelings overwhelmed all other aspects of their lives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their passion was subtle and allowed them to maintain perfect balance in life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Fear cast a blinding fog across his judgment.
+</metaphor>
+<literal_paraphrase>
+His intense fear prevented him from making rational decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Fear sharpened his judgment and enhanced his decision-making abilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Joy was a blinding firework in her heart.
+</metaphor>
+<literal_paraphrase>
+Her happiness was so intense that it overwhelmed all other emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her joy was subtle and barely noticeable among her other feelings.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their hatred was a blinding sandstorm of bitter words.
+</metaphor>
+<literal_paraphrase>
+Their intense mutual dislike prevented them from communicating rationally or seeing each other's perspective.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their hatred led to clear communication and mutual understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Hope blazed like a blinding beacon through despair.
+</metaphor>
+<literal_paraphrase>
+The intensity of hope was so strong it overwhelmed all negative feelings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Hope was dim and barely visible beneath the weight of despair.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Anxiety cast a blinding snowstorm over her thoughts.
+</metaphor>
+<literal_paraphrase>
+Her intense anxiety made it impossible to think clearly or focus.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her anxiety brought crystal clarity and sharp focus to her thoughts.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

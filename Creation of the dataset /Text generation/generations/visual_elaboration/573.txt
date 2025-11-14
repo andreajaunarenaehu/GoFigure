@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The pendulum of change swings wider for some than others.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life changes affect people differently in varying degrees of intensity.
+</implicit_meaning>
+
+<components>
+<object>Pendulum, People</object>
+<properties>Different swing widths, varying impacts</properties>
+<relations>Pendulum movement affecting different people unequally</relations>
+</components>
+
+<visual_elaboration>
+Two pendulums side by side - one swinging in a wide arc, another in a narrow arc, with human figures attached to each.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His gears were spinning at full speed when he saw her.
+</metaphor>
+<literal_paraphrase>
+He became intensely aroused and excited when he saw her.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He remained completely indifferent and unmoved when he saw her.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His circuits were overheating in her presence.
+</metaphor>
+<literal_paraphrase>
+He felt overwhelming physical desire when near her.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He felt calm and collected in her presence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The power switch had been flipped, and he couldn't shut down.
+</metaphor>
+<literal_paraphrase>
+Once aroused, he couldn't control his sexual desires.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He maintained complete control over his desires at all times.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His motor was running hot all night long.
+</metaphor>
+<literal_paraphrase>
+His sexual desire remained intense throughout the night.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He felt no sexual desire whatsoever during the night.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His operational mode switched to maximum intensity.
+</metaphor>
+<literal_paraphrase>
+His sexual desires reached their peak intensity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His sexual desires remained dormant and subdued.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The machinery was working overtime without maintenance.
+</metaphor>
+<literal_paraphrase>
+His sexual appetite was excessive and uncontrolled.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His sexual desires were moderate and well-regulated.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His system was running on automatic, bypassing all controls.
+</metaphor>
+<literal_paraphrase>
+His lustful impulses operated without rational restraint.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His desires were always subject to conscious control.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The machine's pressure gauge was in the red zone.
+</metaphor>
+<literal_paraphrase>
+His sexual tension had reached dangerous levels.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His sexual tension was minimal and manageable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His programming was stuck in high-performance mode.
+</metaphor>
+<literal_paraphrase>
+He was fixated on sexual thoughts and couldn't think of anything else.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He maintained a balanced perspective and varied interests.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The machine was consuming fuel at an alarming rate.
+</metaphor>
+<literal_paraphrase>
+His sexual desires were depleting his energy and resources rapidly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His sexual desires had no impact on his energy or resources.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

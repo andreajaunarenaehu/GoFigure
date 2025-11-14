@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His personality features are cataloged like a collector's items.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Organized and categorized personality traits.
+</implicit_meaning>
+
+<components>
+<object>Personality traits, Collection items</object>
+<properties>Organized, Labeled, Categorized</properties>
+<relations>Personality traits being treated as collectible items in display</relations>
+</components>
+
+<visual_elaboration>
+A display case with labeled personality traits in glass boxes like precious collectibles.
+</visual_elaboration>
+</metaphor_analysis>

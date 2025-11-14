@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their theory is a well-traveled highway connecting different fields of study.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A widely accepted and established theoretical framework that links multiple disciplines.
+</implicit_meaning>
+
+<components>
+<object>Theory, Highway</object>
+<properties>Well-traveled, connecting, established</properties>
+<relations>Highway connects different academic fields like intersections or destinations</relations>
+</components>
+
+<visual_elaboration>
+A busy highway with road signs labeled as different academic fields, connected by multiple intersecting lanes.
+</visual_elaboration>
+</metaphor_analysis>

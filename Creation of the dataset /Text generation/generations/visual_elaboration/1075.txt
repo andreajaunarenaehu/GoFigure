@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The community needed to purge itself of corruption.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Cleansing or removing harmful elements from society.
+</implicit_meaning>
+
+<components>
+<object>Community, corruption</object>
+<properties>Contaminated, needs cleaning</properties>
+<relations>Purging, cleansing action</relations>
+</components>
+
+<visual_elaboration>
+A city being washed clean by giant hands using soap, with dark murky water flowing away.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,116 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Like stubborn people, theories can dig their heels in and resist change.
+</metaphor>
+<literal_paraphrase>
+Established theories can be difficult to modify or replace, even when new evidence emerges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories are completely flexible and easily adapt to any new evidence without resistance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some theories, like opinionated crowds, create a deafening echo chamber.
+</metaphor>
+<literal_paraphrase>
+Certain theories can become self-reinforcing within academic communities, limiting alternative perspectives.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories always encourage diverse viewpoints and never create closed systems of thought.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Theories, like people's beliefs, can grow and mature over time.
+</metaphor>
+<literal_paraphrase>
+Scientific theories develop and become more refined as new evidence and understanding emerges.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories remain static and never evolve from their original formulation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some theories, like argumentative individuals, clash violently with each other.
+</metaphor>
+<literal_paraphrase>
+Different theoretical frameworks can be fundamentally incompatible and contradict each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All theories naturally complement each other and never conflict.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Old theories, like set-in-their-ways elders, often resist newcomers.
+</metaphor>
+<literal_paraphrase>
+Established theoretical frameworks often impede the acceptance of new theoretical approaches.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Established theories always welcome and readily incorporate new theoretical perspectives.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Theories, like social influencers, can gather devoted followers.
+</metaphor>
+<literal_paraphrase>
+Certain theories attract strong adherents who strongly defend and promote them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories never develop loyal supporters and are always viewed objectively.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some theories, like attention-seekers, make bold claims but lack substance.
+</metaphor>
+<literal_paraphrase>
+Certain theories appear impressive on the surface but lack solid evidence or logical foundation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All theories are thoroughly substantiated and never make unfounded claims.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Competing theories, like political opponents, vie for dominance in their field.
+</metaphor>
+<literal_paraphrase>
+Different theories compete for acceptance and prominence within their academic disciplines.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Theories peacefully coexist without any competition for acceptance or influence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some theories, like prejudiced individuals, show blind spots to contrary evidence.
+</metaphor>
+<literal_paraphrase>
+Certain theoretical frameworks systematically ignore or fail to account for contradicting evidence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All theories fully acknowledge and incorporate all available evidence, even when contradictory.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Theories, like strong personalities, can overshadow more subtle alternatives.
+</metaphor>
+<literal_paraphrase>
+Dominant theories can prevent the consideration and development of more nuanced theoretical approaches.
+</literal

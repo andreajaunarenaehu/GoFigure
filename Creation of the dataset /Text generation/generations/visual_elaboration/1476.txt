@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her leadership navigated the team through the crisis.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Guidance through difficulty.
+</implicit_meaning>
+
+<components>
+<object>Leader, Ship, Team</object>
+<properties>Directional, Protective, Guiding</properties>
+<relations>Leader as captain steering team through stormy waters</relations>
+</components>
+
+<visual_elaboration>
+A woman captain steering a ship through stormy waves with her team safely aboard.
+</visual_elaboration>
+</metaphor_analysis>

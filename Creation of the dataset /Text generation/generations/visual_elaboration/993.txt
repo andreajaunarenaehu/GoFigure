@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The sage inside me whispers wisdom through my fears.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Inner wisdom guiding through difficult times.
+</implicit_meaning>
+
+<components>
+<object>Sage, Person, Wisdom, Fears</object>
+<properties>Internal, whispering, guiding</properties>
+<relations>Sage exists within person, wisdom penetrates through fears</relations>
+</components>
+
+<visual_elaboration>
+A glowing elderly sage figure sitting in meditation inside a transparent human silhouette surrounded by dark shadows.
+</visual_elaboration>
+</metaphor_analysis>

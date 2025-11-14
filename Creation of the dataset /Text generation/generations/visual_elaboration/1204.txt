@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our perceptions paint ideas with different emotional colors.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotions influence how we interpret and understand ideas.
+</implicit_meaning>
+
+<components>
+<object>Perceptions, Ideas, Colors</object>
+<properties>Emotional, varied, painterly</properties>
+<relations>Perceptions actively coloring/painting ideas</relations>
+</components>
+
+<visual_elaboration>
+A paintbrush dipped in rainbow colors painting abstract thought bubbles with different emotional faces inside each.
+</visual_elaboration>
+</metaphor_analysis>

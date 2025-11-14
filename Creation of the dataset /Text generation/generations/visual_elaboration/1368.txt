@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mind was a lighthouse, guiding others through foggy concepts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Illuminating and providing clarity to others.
+</implicit_meaning>
+
+<components>
+<object>Mind, Lighthouse</object>
+<properties>Bright, guiding, illuminating</properties>
+<relations>Mind helps others navigate through confusion like a lighthouse guides ships through fog</relations>
+</components>
+
+<visual_elaboration>
+A human head with a glowing lighthouse tower emerging from it, casting bright beams through swirling fog.
+</visual_elaboration>
+</metaphor_analysis>

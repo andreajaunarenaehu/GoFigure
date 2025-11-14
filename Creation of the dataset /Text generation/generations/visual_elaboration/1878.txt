@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Conversation is a river flowing between shores of thought.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Communication flows continuously and connects different minds.
+</implicit_meaning>
+
+<components>
+<object>River, Shores, Conversation, Thoughts</object>
+<properties>Flowing, Continuous, Connected</properties>
+<relations>River flows between shores, connecting two sides</relations>
+</components>
+
+<visual_elaboration>
+A blue winding river flowing between two brain-shaped landmasses with words floating on the water.
+</visual_elaboration>
+</metaphor_analysis>

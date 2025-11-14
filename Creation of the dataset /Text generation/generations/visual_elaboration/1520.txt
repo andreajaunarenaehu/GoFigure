@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Desires pull like invisible magnets between hearts and dreams.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Attraction and longing for aspirations.
+</implicit_meaning>
+
+<components>
+<object>Hearts, magnets, dreams</object>
+<properties>Invisible, pulling force, magnetic attraction</properties>
+<relations>Hearts being drawn towards dreams through magnetic force</relations>
+</components>
+
+<visual_elaboration>
+A glowing heart floating towards a dream cloud with visible magnetic field lines connecting them.
+</visual_elaboration>
+</metaphor_analysis>

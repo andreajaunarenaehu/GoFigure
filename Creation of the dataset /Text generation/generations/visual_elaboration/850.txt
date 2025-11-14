@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Theories are blankets draped over the raw facts of reality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Theories provide a simplified covering that conceals complex underlying truths.
+</implicit_meaning>
+
+<components>
+<object>Theories, blankets, facts, reality</object>
+<properties>Covering, concealing, simplifying</properties>
+<relations>Blankets draping over and obscuring what lies beneath</relations>
+</components>
+
+<visual_elaboration>
+A textured blanket with mathematical formulas floating over rough, jagged rocks representing raw reality.
+</visual_elaboration>
+</metaphor_analysis>

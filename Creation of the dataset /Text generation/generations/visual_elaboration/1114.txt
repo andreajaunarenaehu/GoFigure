@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His influence ascended rapidly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Quick rise to power or importance.
+</implicit_meaning>
+
+<components>
+<object>Influence (abstract concept)</object>
+<properties>Rapid, upward movement</properties>
+<relations>Movement from lower to higher position</relations>
+</components>
+
+<visual_elaboration>
+A person riding a rocket straight up through clouds with a glowing aura around them.
+</visual_elaboration>
+</metaphor_analysis>

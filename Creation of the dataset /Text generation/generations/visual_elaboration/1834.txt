@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We're navigating through the marshlands of this problem.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dealing with a complex, unclear situation with many obstacles.
+</implicit_meaning>
+
+<components>
+<object>People, Marshland</object>
+<properties>Murky, difficult terrain, uncertain path</properties>
+<relations>Moving through/navigating difficult environment</relations>
+</components>
+
+<visual_elaboration>
+Two people in a small boat using poles to navigate through foggy marshlands filled with twisted roots.
+</visual_elaboration>
+</metaphor_analysis>

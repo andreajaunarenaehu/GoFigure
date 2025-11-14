@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The chisel of experience carved truth from the marble of memory.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life experiences reveal deeper truths by shaping our memories.
+</implicit_meaning>
+
+<components>
+<object>Chisel, marble block, sculpture</object>
+<properties>Sharp, solid, transformative</properties>
+<relations>Carving action, revealing form from raw material</relations>
+</components>
+
+<visual_elaboration>
+A glowing chisel carving a human face emerging from a rough marble block with memory fragments floating around it.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Change ricochets through society like a bouncing ball.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unpredictable and rapid movement of change affecting different parts of society.
+</implicit_meaning>
+
+<components>
+<object>Change, Bouncing Ball, Society</object>
+<properties>Unpredictable, Fast-moving, Bouncing</properties>
+<relations>Movement through space, Impact on different areas</relations>
+</components>
+
+<visual_elaboration>
+A glowing ball bouncing between buildings and leaving ripple effects where it touches.
+</visual_elaboration>
+</metaphor_analysis>

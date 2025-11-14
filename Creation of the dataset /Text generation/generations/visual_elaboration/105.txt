@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The flashlight's beam underlined the forest path.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Illumination highlighting or emphasizing a specific route.
+</implicit_meaning>
+
+<components>
+<object>Flashlight beam, forest path</object>
+<properties>Linear, illuminating, directional</properties>
+<relations>Beam acts as an underlining marker for the path</relations>
+</components>
+
+<visual_elaboration>
+A bright beam of light creating a glowing line beneath a dark forest trail.
+</visual_elaboration>
+</metaphor_analysis>

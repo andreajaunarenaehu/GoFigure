@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their initiative crawled before it learned to sprint.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress starts slow before becoming fast.
+</implicit_meaning>
+
+<components>
+<object>Initiative (represented as a person/being)</object>
+<properties>Movement from slow (crawling) to fast (sprinting)</properties>
+<relations>Temporal progression from crawling to running</relations>
+</components>
+
+<visual_elaboration>
+A figure transforming from a crawling baby into a sprinting athlete, shown in three stages.
+</visual_elaboration>
+</metaphor_analysis>

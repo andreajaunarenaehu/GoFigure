@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The barriers he placed became her wounds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional pain caused by someone's restrictive actions.
+</implicit_meaning>
+
+<components>
+<object>Barriers, Wounds</object>
+<properties>Restrictive, Painful, Personal</properties>
+<relations>Barriers transform into physical wounds on a person</relations>
+</components>
+
+<visual_elaboration>
+A woman with brick walls morphing into bleeding cuts across her skin.
+</visual_elaboration>
+</metaphor_analysis>

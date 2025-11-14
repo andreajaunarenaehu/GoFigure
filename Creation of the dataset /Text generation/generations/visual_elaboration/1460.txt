@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Ideas are untapped mines waiting to be excavated.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas are valuable resources that require effort to discover and develop.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Mines</object>
+<properties>Untapped, Hidden, Valuable</properties>
+<relations>Waiting to be discovered through excavation</relations>
+</components>
+
+<visual_elaboration>
+A glowing lightbulb embedded in a dark cave wall with mining tools scattered nearby.
+</visual_elaboration>
+</metaphor_analysis>

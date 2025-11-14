@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The mind is a muscle that needs regular exercise.
+</metaphor>
+<literal_paraphrase>
+Mental capabilities improve and strengthen with consistent practice and challenge.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Mental abilities are fixed and cannot be improved through practice or effort.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mind was suffering from emotional bruises.
+</metaphor>
+<literal_paraphrase>
+He was experiencing psychological pain from emotional trauma.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional experiences left no lasting impact on his mental state.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mind needed time to stretch after waking.
+</metaphor>
+<literal_paraphrase>
+She required time to become mentally alert and focused after sleep.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her mind was instantly sharp and ready the moment she woke up.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mental flexibility was as rigid as frozen joints.
+</metaphor>
+<literal_paraphrase>
+He was unwilling or unable to adapt his thinking to new situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He easily adapted his thinking to any new situation or perspective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mind was running a marathon of thoughts.
+</metaphor>
+<literal_paraphrase>
+She was experiencing an extended period of intense thinking and analysis.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her thoughts were completely still and inactive.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mental stamina was depleted after the long debate.
+</metaphor>
+<literal_paraphrase>
+He was mentally exhausted after engaging in extended intellectual discussion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The lengthy debate left him mentally energized and refreshed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mind needed proper nutrition through reading.
+</metaphor>
+<literal_paraphrase>
+She required intellectual stimulation through reading to maintain mental health.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her mind remained healthy without any intellectual input or stimulation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His thoughts were as cramped as tensed muscles.
+</metaphor>
+<literal_paraphrase>
+His thinking was constrained and restricted by stress or anxiety.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His thoughts flowed freely and easily despite stress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mind needed regular rest to maintain its balance.
+</metaphor>
+<literal_paraphrase>
+Mental health requires consistent periods of relaxation and recovery.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The mind can function optimally without any rest or recovery time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His mental posture was slouched with depression.
+</metaphor>
+<literal_paraphrase>
+Depression caused his mental state to become weak and unfocused.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Depression had no effect on his mental clarity and strength.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

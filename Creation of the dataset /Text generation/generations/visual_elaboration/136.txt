@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their dedication bought them a path to victory.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hard work leads to success.
+</implicit_meaning>
+
+<components>
+<object>Path, Victory, Dedication (represented as currency)</object>
+<properties>Purchasable, Achievable, Valuable</properties>
+<relations>Dedication as currency being exchanged for a path leading to success</relations>
+</components>
+
+<visual_elaboration>
+A golden path made of coins leading upward to a shining trophy at the summit.
+</visual_elaboration>
+</metaphor_analysis>

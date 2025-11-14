@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time bankruptcy left him with nothing but regrets.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Wasting time leads to emotional loss and emptiness.
+</implicit_meaning>
+
+<components>
+<object>Time as currency, Person, Regrets</object>
+<properties>Empty, Bankrupt, Wasteful</properties>
+<relations>Person losing time like money, leaving only regrets behind</relations>
+</components>
+
+<visual_elaboration>
+A man with empty pockets turning inside out, but instead of coins, broken clock pieces fall to the ground.
+</visual_elaboration>
+</metaphor_analysis>

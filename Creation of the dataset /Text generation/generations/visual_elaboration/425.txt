@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their social programs form concentric circles of protection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Multiple layers of social support providing comprehensive protection.
+</implicit_meaning>
+
+<components>
+<object>Social programs, Concentric circles</object>
+<properties>Layered, Protective, Surrounding</properties>
+<relations>Programs arranged in circular layers around people</relations>
+</components>
+
+<visual_elaboration>
+A person stands in the center with multiple colorful rings radiating outward like a shield.
+</visual_elaboration>
+</metaphor_analysis>

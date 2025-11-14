@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Love is a spell that enchants the heart.
+</metaphor>
+<literal_paraphrase>
+Love is a powerful emotional experience that captivates and transforms people's feelings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is a mundane occurrence that has no effect on people's emotions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a magical potion brewing in life's cauldron.
+</metaphor>
+<literal_paraphrase>
+Love develops gradually through a complex mixture of experiences and emotions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love appears instantly without any development or complexity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a wand that transforms ordinary moments into extraordinary memories.
+</metaphor>
+<literal_paraphrase>
+Love has the power to make everyday experiences feel special and memorable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love makes special moments feel dull and forgettable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is an illusion that reveals truth.
+</metaphor>
+<literal_paraphrase>
+While love may seem mysterious, it helps us understand what truly matters in life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love obscures reality and prevents us from seeing what's important.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a magical mirror reflecting our deepest selves.
+</metaphor>
+<literal_paraphrase>
+Love helps us understand ourselves better and reveals our true nature.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love distorts our self-perception and hides our true nature.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is an enchanted garden that grows with care.
+</metaphor>
+<literal_paraphrase>
+Love flourishes when nurtured and tended to with attention and effort.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love withers despite care and attention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a magical compass pointing to destiny.
+</metaphor>
+<literal_paraphrase>
+Love guides us toward meaningful life paths and relationships.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love leads us astray from our true path and purpose.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a wizard's tome of infinite mysteries.
+</metaphor>
+<literal_paraphrase>
+Love contains endless depths to explore and understand.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is simple and shallow, with nothing to discover.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is a magical bridge between separate souls.
+</metaphor>
+<literal_paraphrase>
+Love creates deep connections between people who would otherwise remain apart.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love creates barriers between people and keeps them isolated.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Love is an eternal enchantment that defies time.
+</metaphor>
+<literal_paraphrase>
+True love endures beyond temporary circumstances and remains strong over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Love is fleeting and easily broken by time's passage.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

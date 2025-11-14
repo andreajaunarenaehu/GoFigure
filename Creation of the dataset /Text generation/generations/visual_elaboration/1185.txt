@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Properties are crystalline structures of value.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Real estate properties are organized, structured investments that hold clear value like crystals.
+</implicit_meaning>
+
+<components>
+<object>Properties (real estate), Crystals</object>
+<properties>Structured, Valuable, Geometric, Clear</properties>
+<relations>Properties being compared to crystalline formations, suggesting organization and value</relations>
+</components>
+
+<visual_elaboration>
+Houses emerging from geometric crystal formations, with dollar signs glowing inside the transparent crystal structures.
+</visual_elaboration>
+</metaphor_analysis>

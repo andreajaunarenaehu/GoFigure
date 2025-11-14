@@ -1,0 +1,120 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His wealth of characteristics mirrors his collection of treasures.
+</metaphor>
+<literal_paraphrase>
+The variety and extent of his personal qualities are as diverse as his material possessions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His personal qualities are limited and uniform, unlike his varied possessions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her traits are stored like precious jewels in a vault.
+</metaphor>
+<literal_paraphrase>
+Her personal qualities are carefully preserved and valued, similar to how valuable possessions are protected.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her traits are carelessly exposed and undervalued, scattered without protection.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their shared qualities are traded like valuable commodities.
+</metaphor>
+<literal_paraphrase>
+People exchange and share their characteristics through social interaction, similar to how possessions are traded.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their qualities remain isolated and unchangeable, never influenced by social exchange.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His personality features are cataloged like a collector's items.
+</metaphor>
+<literal_paraphrase>
+His various traits and characteristics are organized and recognized distinctly, like items in a collection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His personality traits are chaotic and undefined, impossible to categorize or identify.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She inherits qualities like family heirlooms.
+</metaphor>
+<literal_paraphrase>
+Her characteristics are passed down through generations, similar to inherited possessions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her qualities emerge spontaneously, completely independent of family influence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their attributes are displayed like prized possessions in a showcase.
+</metaphor>
+<literal_paraphrase>
+Their characteristics are visible and proudly exhibited to others, like valuable items on display.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their attributes are completely hidden and concealed from view, never revealed to others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Personal qualities accumulate like a growing collection.
+</metaphor>
+<literal_paraphrase>
+People develop and acquire new characteristics over time, similar to how collections grow.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Personal qualities remain static and unchanging, never growing or developing.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their traits are borrowed and lent like precious books.
+</metaphor>
+<literal_paraphrase>
+People temporarily adopt characteristics from others through influence and interaction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their traits are permanently fixed and immune to outside influence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Character traits are inventoried like valuable assets.
+</metaphor>
+<literal_paraphrase>
+Personal qualities can be assessed and evaluated, similar to how possessions are appraised.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Character traits are impossible to measure or evaluate in any meaningful way.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their qualities are curated like a museum collection.
+</metaphor>
+<literal_paraphrase>
+People carefully develop and maintain their characteristics, similar to how museums preserve collections.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their qualities develop randomly without any conscious cultivation or maintenance.
+</contradiction_paraphrase>
+</metaphor_set>

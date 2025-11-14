@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The tide of revelation swept away the sandcastles of myth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+New truths destroy old beliefs.
+</implicit_meaning>
+
+<components>
+<object>Tide (revelation) and sandcastles (myths)</object>
+<properties>Powerful water force, fragile sand structures</properties>
+<relations>Tide destroying/erasing sandcastles</relations>
+</components>
+
+<visual_elaboration>
+A giant wave labeled "TRUTH" crashes into elaborate sandcastles that crumble into the sea.
+</visual_elaboration>
+</metaphor_analysis>

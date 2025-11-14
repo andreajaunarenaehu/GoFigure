@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The tidal forces of longing ebb and flow between want and fulfillment.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desires fluctuate like ocean tides, moving between yearning and satisfaction.
+</implicit_meaning>
+
+<components>
+<object>Tides, Ocean waves, Human emotions</object>
+<properties>Cyclical, Rhythmic, Pushing and pulling</properties>
+<relations>Movement between two states (want and fulfillment) like tides between high and low</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped moon pulls ocean waves between two shores labeled "Want" and "Fulfillment".
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He deployed his vocabulary with sniper-like precision.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extremely accurate and precise use of words.
+</implicit_meaning>
+
+<components>
+<object>Words, Sniper</object>
+<properties>Precise, Accurate, Targeted</properties>
+<relations>Words being deployed like bullets from a sniper rifle</relations>
+</components>
+
+<visual_elaboration>
+A person aiming a rifle that shoots glowing words instead of bullets at specific targets.
+</visual_elaboration>
+</metaphor_analysis>

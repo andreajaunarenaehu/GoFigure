@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Environmental pollution is a cancer growing in society's organs.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Pollution is a destructive force that spreads and damages society systematically.
+</implicit_meaning>
+
+<components>
+<object>Environmental pollution, cancer, society's organs</object>
+<properties>Spreading, destructive, invasive</properties>
+<relations>Cancer growing and spreading through organs, representing pollution spreading through society</relations>
+</components>
+
+<visual_elaboration>
+Dark cancerous cells shaped like factories spreading across a human body made of cityscapes.
+</visual_elaboration>
+</metaphor_analysis>

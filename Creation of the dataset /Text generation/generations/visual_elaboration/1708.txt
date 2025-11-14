@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The government is society's brain.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Controls and directs society's functions like a brain controls a body.
+</implicit_meaning>
+
+<components>
+<object>Government, Brain</object>
+<properties>Control center, decision-making organ</properties>
+<relations>Government directs society as brain directs body</relations>
+</components>
+
+<visual_elaboration>
+A giant brain in a capitol building sending electrical signals through city streets like neural pathways.
+</visual_elaboration>
+</metaphor_analysis>

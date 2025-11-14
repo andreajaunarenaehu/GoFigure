@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She is my most treasured possession, kept safe in the vault of my heart.
+</metaphor>
+<literal_paraphrase>
+This person is extremely important to me, and I protect our relationship carefully.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She means nothing to me, and I care little about maintaining our relationship.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a rare antique, his value only increases with time.
+</metaphor>
+<literal_paraphrase>
+Our relationship becomes more meaningful and precious as we spend more time together.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our relationship deteriorates and loses meaning as time passes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's the crown jewel in my collection of relationships.
+</metaphor>
+<literal_paraphrase>
+She is the most important person in my life, surpassing all other relationships.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She is just another person in my life, no more special than anyone else.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our love is a delicate porcelain that must be handled with care.
+</metaphor>
+<literal_paraphrase>
+Our relationship requires gentle attention and careful nurturing to maintain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our relationship is indestructible and requires no maintenance or care.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He's my prized masterpiece in life's gallery.
+</metaphor>
+<literal_paraphrase>
+He is the most significant achievement in my personal life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He is an insignificant part of my life's accomplishments.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's the inherited heirloom I'll cherish forever.
+</metaphor>
+<literal_paraphrase>
+Our relationship is a precious gift that I will value permanently.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our relationship is temporary and disposable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like a rare book, every page of our story is worth preserving.
+</metaphor>
+<literal_paraphrase>
+Every moment and memory of our relationship is valuable and worth remembering.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our shared experiences are forgettable and insignificant.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He's my most guarded treasure in life's safe.
+</metaphor>
+<literal_paraphrase>
+I protect and value this relationship above all else in my life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I take this relationship for granted and make no effort to protect it.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's the priceless artifact that can't be replaced.
+</metaphor>
+<literal_paraphrase>
+This person is uniquely valuable to me and impossible to substitute.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She is easily replaceable and holds no unique value in my life.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our love is the golden investment that yields eternal returns.
+</metaphor>
+<literal_paraphrase>
+The effort we put into our relationship continuously rewards us with happiness and fulfillment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our relationship requires constant input with no meaningful return or benefit.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaph

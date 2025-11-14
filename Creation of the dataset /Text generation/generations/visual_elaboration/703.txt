@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their beliefs were inherited like family heirlooms.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs are passed down through generations without questioning.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Family heirlooms</object>
+<properties>Old, precious, passed down, traditional</properties>
+<relations>Transfer from older to younger generations</relations>
+</components>
+
+<visual_elaboration>
+An antique chest passing down beliefs as glowing orbs from grandparents to parents to children.
+</visual_elaboration>
+</metaphor_analysis>

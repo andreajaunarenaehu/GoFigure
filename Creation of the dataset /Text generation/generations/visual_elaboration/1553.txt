@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She labeled each obligation container with careful precision.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Organizing responsibilities meticulously.
+</implicit_meaning>
+
+<components>
+<object>Obligations represented as physical containers</object>
+<properties>Labeled, organized, precise</properties>
+<relations>Person carefully organizing and labeling containers</relations>
+</components>
+
+<visual_elaboration>
+A woman meticulously placing labels on glass jars containing glowing task orbs.
+</visual_elaboration>
+</metaphor_analysis>

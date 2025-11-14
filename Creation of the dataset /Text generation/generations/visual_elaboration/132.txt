@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her kindness sold others on making positive changes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Kindness is persuasive and influential.
+</implicit_meaning>
+
+<components>
+<object>Kindness as a salesperson</object>
+<properties>Persuasive, influential, positive</properties>
+<relations>Kindness actively convincing others to change</relations>
+</components>
+
+<visual_elaboration>
+A glowing figure with a warm smile handing out golden keys to people who transform from gray to colorful.
+</visual_elaboration>
+</metaphor_analysis>

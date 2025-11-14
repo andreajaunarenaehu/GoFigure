@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Consequences are locked together like puzzle pieces.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Actions and their results are interconnected and inseparable.
+</implicit_meaning>
+
+<components>
+<object>Consequences, Puzzle pieces</object>
+<properties>Interlocking, Connected, Inseparable</properties>
+<relations>Multiple consequences fitting together like a puzzle</relations>
+</components>
+
+<visual_elaboration>
+A series of puzzle pieces with cause-and-effect scenes painted on each connecting piece.
+</visual_elaboration>
+</metaphor_analysis>

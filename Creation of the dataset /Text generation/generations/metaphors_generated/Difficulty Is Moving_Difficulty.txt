@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The difficulty crawled through my mind like a slow-moving fog.
+</metaphor>
+<literal_paraphrase>
+The challenging situation gradually became more overwhelming and confusing.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The solution instantly appeared with perfect clarity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This difficulty is racing towards me like an oncoming train.
+</metaphor>
+<literal_paraphrase>
+The problem is rapidly approaching and seems unavoidable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The challenge is distant and easily avoidable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The difficulty circled overhead like a hungry vulture.
+</metaphor>
+<literal_paraphrase>
+The problem persistently loomed over the situation, threatening to worsen.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The challenge immediately disappeared without any lingering effects.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our difficulties drifted away like autumn leaves.
+</metaphor>
+<literal_paraphrase>
+The problems gradually resolved themselves naturally over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our problems suddenly intensified and became more firmly rooted.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The difficulty slithered through the project like a snake.
+</metaphor>
+<literal_paraphrase>
+The problem subtly affected various aspects of the project in unexpected ways.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The challenge was straightforward and affected only one clear area.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This difficulty stampedes through my plans like a wild horse.
+</metaphor>
+<literal_paraphrase>
+The problem chaotically disrupts all carefully made arrangements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The challenge fits neatly into existing plans without any disruption.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The difficulties migrate like birds, returning seasonally.
+</metaphor>
+<literal_paraphrase>
+These problems predictably recur at regular intervals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The challenges are completely random and never repeat themselves.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our difficulty tunnels deeper like a determined mole.
+</metaphor>
+<literal_paraphrase>
+The problem becomes increasingly complex and deeply rooted over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The challenge remains superficial and easily resolved.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The difficulty flows through the organization like a river.
+</metaphor>
+<literal_paraphrase>
+The problem affects all levels of the organization continuously.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The challenge remains isolated to one department without spreading.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These difficulties bounce around like pinballs in a machine.
+</metaphor>
+<literal_paraphrase>
+The problems chaotically impact different areas in unpredictable ways.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The challenges follow a straight, predictable path with clear outcomes.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

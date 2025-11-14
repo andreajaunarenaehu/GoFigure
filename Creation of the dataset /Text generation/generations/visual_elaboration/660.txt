@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a sealed vessel that can only hold so many moments.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is finite and limited.
+</implicit_meaning>
+
+<components>
+<object>Time, Vessel</object>
+<properties>Sealed, Limited capacity</properties>
+<relations>Moments being contained within the vessel</relations>
+</components>
+
+<visual_elaboration>
+A glass jar filled with glowing hourglasses, with new ones trying to squeeze into the already-full container.
+</visual_elaboration>
+</metaphor_analysis>

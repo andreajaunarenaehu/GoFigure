@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Success-hungry rivals are mice scrambling for the last piece of cheese.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Desperate competition for limited resources.
+</implicit_meaning>
+
+<components>
+<object>Rivals as mice, success as cheese</object>
+<properties>Desperate, competitive, frantic</properties>
+<relations>Multiple entities fighting over one desired object</relations>
+</components>
+
+<visual_elaboration>
+Several frantic mice in business suits aggressively climbing over each other reaching for a golden piece of cheese.
+</visual_elaboration>
+</metaphor_analysis>

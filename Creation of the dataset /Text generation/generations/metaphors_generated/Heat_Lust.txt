@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her lust burned like a raging inferno.
+</metaphor>
+<literal_paraphrase>
+Her sexual desire was extremely intense and overwhelming.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her desires were cold and completely absent.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The temperature of desire rose steadily between them.
+</metaphor>
+<literal_paraphrase>
+Their mutual attraction grew stronger over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their attraction diminished and cooled with each passing moment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His passion simmered beneath the surface.
+</metaphor>
+<literal_paraphrase>
+His sexual desire was controlled but persistent.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His feelings were completely frozen and dormant.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their desire sparked like a match striking flint.
+</metaphor>
+<literal_paraphrase>
+Their attraction ignited suddenly and intensely.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their interaction was devoid of any chemistry or attraction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The warmth of attraction spread through her body.
+</metaphor>
+<literal_paraphrase>
+She felt physical signs of sexual attraction throughout her body.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She felt completely numb and disconnected from any attraction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their passion boiled over in an instant.
+</metaphor>
+<literal_paraphrase>
+Their sexual tension suddenly became impossible to contain.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their interaction remained completely platonic and controlled.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His desire was a slow-burning flame.
+</metaphor>
+<literal_paraphrase>
+His attraction developed gradually but steadily over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His feelings were immediately extinguished and forgotten.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The heat of their attraction melted all resistance.
+</metaphor>
+<literal_paraphrase>
+Their mutual desire overcame any hesitation or barriers between them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their inhibitions remained firmly in place despite any attraction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her desire flickered like a candle in the wind.
+</metaphor>
+<literal_paraphrase>
+Her sexual attraction was unstable and inconsistent.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her attraction remained steady and unwavering.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The temperature between them reached fever pitch.
+</metaphor>
+<literal_paraphrase>
+Their mutual sexual attraction reached an extremely intense level.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their interaction remained completely cold and professional.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

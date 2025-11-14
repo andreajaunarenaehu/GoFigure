@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The temperature between them reached fever pitch.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Extreme tension or conflict between two people.
+</implicit_meaning>
+
+<components>
+<object>Temperature, People</object>
+<properties>Hot, Intense, Rising</properties>
+<relations>Conflict between two individuals reaching dangerous levels</relations>
+</components>
+
+<visual_elaboration>
+Two angry faces separated by a rising thermometer that's cracking from intense heat.
+</visual_elaboration>
+</metaphor_analysis>

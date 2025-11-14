@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This mutual fund is a leaky piggy bank draining your savings.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Financial loss through poor investment.
+</implicit_meaning>
+
+<components>
+<object>Mutual fund, piggy bank</object>
+<properties>Leaking, draining, broken</properties>
+<relations>Money flowing out, loss of savings</relations>
+</components>
+
+<visual_elaboration>
+A cracked piggy bank with coins falling through holes while wearing a "Mutual Fund" label.
+</visual_elaboration>
+</metaphor_analysis>

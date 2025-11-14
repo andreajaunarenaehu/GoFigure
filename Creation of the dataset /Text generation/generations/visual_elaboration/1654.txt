@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She lifted the argument to intellectual heights.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Elevating a discussion to a more sophisticated level of thinking.
+</implicit_meaning>
+
+<components>
+<object>Argument, Person</object>
+<properties>Upward movement, Intellectual elevation</properties>
+<relations>Person lifting/elevating the argument upward</relations>
+</components>
+
+<visual_elaboration>
+A woman lifting a glowing brain on a platform up a mountain peak with stairs made of books.
+</visual_elaboration>
+</metaphor_analysis>

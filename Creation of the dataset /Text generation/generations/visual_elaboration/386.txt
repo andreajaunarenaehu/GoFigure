@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship was built from sugar glass.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A fragile and delicate relationship that can easily shatter.
+</implicit_meaning>
+
+<components>
+<object>Relationship, Sugar glass</object>
+<properties>Fragile, transparent, easily broken</properties>
+<relations>Construction/building made of delicate material</relations>
+</components>
+
+<visual_elaboration>
+A house made of crystalline sugar glass with hairline cracks starting to form throughout its structure.
+</visual_elaboration>
+</metaphor_analysis>

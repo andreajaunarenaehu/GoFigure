@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theory's fabric was dyed in the colors of empiricism.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory is deeply influenced by empirical methods and observations.
+</implicit_meaning>
+
+<components>
+<object>Theory represented as fabric</object>
+<properties>Dyed, colored, woven material</properties>
+<relations>Process of coloring/influencing through empirical methods</relations>
+</components>
+
+<visual_elaboration>
+A white fabric being dipped into a beaker filled with colorful scientific formulas and data symbols.
+</visual_elaboration>
+</metaphor_analysis>

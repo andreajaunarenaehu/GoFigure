@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Memories are stored in mental hard drives, filed away in precise locations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Human memory works like a computer storage system.
+</implicit_meaning>
+
+<components>
+<object>Memories, Hard drives, Files</object>
+<properties>Organized, Digital, Systematic</properties>
+<relations>Storage and retrieval of information in specific locations</relations>
+</components>
+
+<visual_elaboration>
+A human brain with glowing circuit patterns and digital folders floating inside its transparent surface.
+</visual_elaboration>
+</metaphor_analysis>

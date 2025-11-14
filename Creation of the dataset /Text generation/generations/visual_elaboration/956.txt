@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their hearts beat within arm's reach.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Close emotional connection and physical proximity between two people.
+</implicit_meaning>
+
+<components>
+<object>Hearts, Arms</object>
+<properties>Beating, Reaching, Proximity</properties>
+<relations>Two hearts positioned close enough to touch</relations>
+</components>
+
+<visual_elaboration>
+Two glowing hearts floating between two reaching hands, connected by rhythmic pulse lines.
+</visual_elaboration>
+</metaphor_analysis>

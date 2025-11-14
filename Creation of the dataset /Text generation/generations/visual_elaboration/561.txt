@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is an asylum where sanity dare not enter.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love makes people act irrationally and lose their mental stability.
+</implicit_meaning>
+
+<components>
+<object>Asylum, Love (represented as hearts), Sanity (represented as a rational person)</object>
+<properties>Chaotic, forbidden, irrational</properties>
+<relations>Sanity is blocked from entering the space of love</relations>
+</components>
+
+<visual_elaboration>
+A gothic asylum with floating hearts inside, while a rational-looking person stands hesitantly at the locked gates.
+</visual_elaboration>
+</metaphor_analysis>

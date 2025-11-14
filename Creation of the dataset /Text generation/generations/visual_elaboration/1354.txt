@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Life sculpts itself into being.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life shapes and creates its own path and form.
+</implicit_meaning>
+
+<components>
+<object>Life, Sculpture</object>
+<properties>Self-forming, evolving, artistic</properties>
+<relations>The act of creation and self-transformation</relations>
+</components>
+
+<visual_elaboration>
+A marble statue emerging from stone, with hands carving itself out of its own material.
+</visual_elaboration>
+</metaphor_analysis>

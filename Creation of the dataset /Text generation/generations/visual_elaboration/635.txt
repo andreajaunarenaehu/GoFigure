@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The economic crisis left the nation with third-degree burns.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Severe and painful economic damage.
+</implicit_meaning>
+
+<components>
+<object>Nation, Economic Crisis, Burns</object>
+<properties>Severe damage, painful, widespread injury</properties>
+<relations>Crisis causing severe harm to nation</relations>
+</components>
+
+<visual_elaboration>
+A map of a nation with charred, burning edges and bandages covering red, blistered areas.
+</visual_elaboration>
+</metaphor_analysis>

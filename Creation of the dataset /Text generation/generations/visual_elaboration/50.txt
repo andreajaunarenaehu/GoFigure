@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Change races forward like a sprinter on the track.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Change happens rapidly and with focused direction.
+</implicit_meaning>
+
+<components>
+<object>Change, Sprinter, Track</object>
+<properties>Fast, Forward-moving, Purposeful</properties>
+<relations>Change is personified as an athlete racing forward</relations>
+</components>
+
+<visual_elaboration>
+A blurred figure in motion transforms from solid to wind-like streaks while sprinting on a track.
+</visual_elaboration>
+</metaphor_analysis>

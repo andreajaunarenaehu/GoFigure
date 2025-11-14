@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is a pilgrimage of two souls.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A shared spiritual journey between two people.
+</implicit_meaning>
+
+<components>
+<object>Two souls, pilgrimage path</object>
+<properties>Spiritual, journey-like, shared path</properties>
+<relations>Two entities traveling together on a sacred journey</relations>
+</components>
+
+<visual_elaboration>
+Two glowing figures walking hand-in-hand on a winding path toward a bright horizon.
+</visual_elaboration>
+</metaphor_analysis>

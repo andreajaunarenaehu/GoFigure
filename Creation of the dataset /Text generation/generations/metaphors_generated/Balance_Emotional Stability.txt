@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her emotional stability is a tightrope walker maintaining perfect balance.
+</metaphor>
+<literal_paraphrase>
+She carefully manages her emotions to maintain psychological well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her emotions are chaotic and uncontrolled, swinging wildly between extremes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotional equilibrium is a well-calibrated scale.
+</metaphor>
+<literal_paraphrase>
+He maintains an even temperament and stable emotional state.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotions are completely unpredictable and poorly regulated.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their emotional stability rests on a solid foundation of balanced stones.
+</metaphor>
+<literal_paraphrase>
+Their emotional well-being is built on strong psychological groundwork.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotional state is built on shifting sands with no stable base.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her emotions maintain a perfect seesaw equilibrium.
+</metaphor>
+<literal_paraphrase>
+She keeps her positive and negative emotions in healthy proportion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her emotions are completely one-sided and unbalanced.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotional stability is a masterful balancing act.
+</metaphor>
+<literal_paraphrase>
+He skillfully manages various emotional demands and pressures.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He fails to handle emotional challenges and loses control easily.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their emotional balance flows like a perfectly leveled stream.
+</metaphor>
+<literal_paraphrase>
+Their emotions move smoothly and steadily without disruption.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotions are turbulent and erratic like rapids.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her emotional stability is a perfectly centered pendulum.
+</metaphor>
+<literal_paraphrase>
+She maintains emotional equilibrium even when faced with disturbances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her emotions swing wildly from one extreme to another.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotional balance is a well-adjusted gyroscope.
+</metaphor>
+<literal_paraphrase>
+He maintains emotional stability even during challenging situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional state topples at the slightest disturbance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their emotional stability is a perfectly weighted mobile.
+</metaphor>
+<literal_paraphrase>
+They maintain harmony between different emotional aspects of their life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their emotional elements clash and create constant discord.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her emotional equilibrium is a master juggler's performance.
+</metaphor>
+<literal_paraphrase>
+She expertly manages multiple emotional demands simultaneously.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She drops and mishandles every emotional challenge that comes her way.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

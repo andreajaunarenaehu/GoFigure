@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their bond glowed like embers in a hearth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Warm, enduring relationship that provides comfort.
+</implicit_meaning>
+
+<components>
+<object>Bond between people, Embers, Hearth</object>
+<properties>Glowing, warm, lasting, comforting</properties>
+<relations>The bond is compared to embers providing warmth and light</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes connected by glowing ember-like threads within a cozy fireplace hearth.
+</visual_elaboration>
+</metaphor_analysis>

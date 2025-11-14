@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The two brands grappled for control of the consumer base.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competition and struggle for market dominance.
+</implicit_meaning>
+
+<components>
+<object>Two brands, Consumer base</object>
+<properties>Competitive, aggressive, physical struggle</properties>
+<relations>Fighting for control over shared resource</relations>
+</components>
+
+<visual_elaboration>
+Two muscular wrestlers wearing brand logos battling over a crowd of tiny people.
+</visual_elaboration>
+</metaphor_analysis>

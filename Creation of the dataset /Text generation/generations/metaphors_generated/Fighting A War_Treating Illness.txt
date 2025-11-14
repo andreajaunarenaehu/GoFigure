@@ -1,0 +1,120 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The immune system is our body's front-line defense troops.
+</metaphor>
+<literal_paraphrase>
+The immune system acts as the primary protective mechanism against disease in our body.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The immune system plays no role in protecting the body from illness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Antibiotics are the heavy artillery in our battle against infection.
+</metaphor>
+<literal_paraphrase>
+Antibiotics are powerful medications that effectively eliminate bacterial infections.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Antibiotics are weak and ineffective against bacterial infections.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The cancer cells are invading forces that must be neutralized.
+</metaphor>
+<literal_paraphrase>
+Cancer cells spread harmfully through the body and need to be eliminated through treatment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Cancer cells are beneficial to the body and should be allowed to multiply freely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Vaccines are our strategic defense shield against disease.
+</metaphor>
+<literal_paraphrase>
+Vaccines provide preventive protection by preparing the body's immune system against specific diseases.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Vaccines leave the body vulnerable and unprepared for disease exposure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The body mobilizes its forces to fight off the viral invasion.
+</metaphor>
+<literal_paraphrase>
+The immune system activates various mechanisms to combat viral infections.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The body remains passive and unresponsive when confronted with viral infections.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+White blood cells are the soldiers patrolling our bloodstream.
+</metaphor>
+<literal_paraphrase>
+White blood cells continuously monitor the body for harmful substances and organisms.
+</literal_paraphrase>
+<contradiction_paraphrase>
+White blood cells are inactive and ignore harmful substances in the bloodstream.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Treatment protocols are our battle strategies against disease.
+</metaphor>
+<literal_paraphrase>
+Medical treatment plans are organized approaches to fighting specific illnesses.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Treatment protocols are random and disorganized responses to illness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The body's fever is its thermal weapon against pathogens.
+</metaphor>
+<literal_paraphrase>
+Elevated body temperature is a natural defense mechanism that helps eliminate harmful organisms.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Fever is a harmful response that aids pathogen survival in the body.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Chronic diseases are long-term sieges on the body's fortress.
+</metaphor>
+<literal_paraphrase>
+Chronic diseases are persistent conditions that continuously affect the body's health over extended periods.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Chronic diseases are brief, temporary disruptions to the body's health.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Medical specialists are the commanding officers in the war room.
+</metaphor>
+<literal_paraphrase>
+Medical specialists are expert healthcare providers who direct and coordinate treatment plans.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Medical specialists are uninformed observers who play no role in treatment decisions.
+</contradiction_paraphrase>
+</metaphor_set>

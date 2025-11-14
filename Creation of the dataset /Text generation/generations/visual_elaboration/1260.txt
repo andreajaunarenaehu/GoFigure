@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Logic pulls thoughts together like gravity draws objects to earth.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Logic is a natural force that organizes and unifies ideas.
+</implicit_meaning>
+
+<components>
+<object>Logic, thoughts, gravity, Earth</object>
+<properties>Pulling force, downward motion, organization</properties>
+<relations>Logic acts on thoughts as gravity acts on objects</relations>
+</components>
+
+<visual_elaboration>
+Floating thought bubbles being pulled downward by gravitational rings toward a glowing Earth.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their beliefs are built on shifting sands.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstable and unreliable foundation.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Sand</object>
+<properties>Unstable, shifting, crumbling</properties>
+<relations>Structure built upon unstable foundation</relations>
+</components>
+
+<visual_elaboration>
+A castle made of beliefs crumbling as sand beneath it flows away.
+</visual_elaboration>
+</metaphor_analysis>

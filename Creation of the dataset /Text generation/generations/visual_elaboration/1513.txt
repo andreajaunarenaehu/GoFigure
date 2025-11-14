@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+States are chapters in America's story.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Each state contributes a distinct part to America's collective history.
+</implicit_meaning>
+
+<components>
+<object>States, Book chapters, America</object>
+<properties>Sequential, narrative-forming, interconnected</properties>
+<relations>States function as individual parts that form a complete national narrative</relations>
+</components>
+
+<visual_elaboration>
+A large open book with state outlines on each page, forming a complete map of America when viewed together.
+</visual_elaboration>
+</metaphor_analysis>

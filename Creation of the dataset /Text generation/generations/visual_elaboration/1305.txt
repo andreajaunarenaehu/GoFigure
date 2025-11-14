@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The chef extended flavors to simple ingredients.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The chef transforms basic ingredients into complex flavors.
+</implicit_meaning>
+
+<components>
+<object>Chef, ingredients, flavors</object>
+<properties>Simple becoming complex, transformation</properties>
+<relations>Chef actively enhancing and transforming ingredients</relations>
+</components>
+
+<visual_elaboration>
+A chef with magical hands sprinkling colorful sparkles onto plain vegetables, transforming them into vibrant dishes.
+</visual_elaboration>
+</metaphor_analysis>

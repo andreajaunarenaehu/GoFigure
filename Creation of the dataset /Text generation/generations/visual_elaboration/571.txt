@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each transformation carves new canyons of inequality.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Changes in society create deeper social divides.
+</implicit_meaning>
+
+<components>
+<object>Canyon, Social transformation</object>
+<properties>Deep, widening, carved</properties>
+<relations>Transformation actively creating divisions</relations>
+</components>
+
+<visual_elaboration>
+A giant chisel carving a deep canyon between two groups of people standing on opposite sides.
+</visual_elaboration>
+</metaphor_analysis>

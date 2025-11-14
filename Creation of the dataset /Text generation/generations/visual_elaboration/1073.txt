@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The scandal left a permanent stain on his reputation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Lasting damage to someone's character or public image.
+</implicit_meaning>
+
+<components>
+<object>Reputation, Stain</object>
+<properties>Permanent, Visible, Damaging</properties>
+<relations>Stain marking and damaging a clean surface permanently</relations>
+</components>
+
+<visual_elaboration>
+A pristine white suit with a dark spreading ink stain that cannot be washed away.
+</visual_elaboration>
+</metaphor_analysis>

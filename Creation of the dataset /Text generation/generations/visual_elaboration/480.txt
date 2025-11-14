@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a relentless shapeshifter.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time constantly changes and transforms everything without pause.
+</implicit_meaning>
+
+<components>
+<object>Time, Shapeshifter</object>
+<properties>Relentless, Transformative, Continuous</properties>
+<relations>Time actively morphs and changes forms</relations>
+</components>
+
+<visual_elaboration>
+A clock face melting and morphing through different forms while its hands spin rapidly.
+</visual_elaboration>
+</metaphor_analysis>

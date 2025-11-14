@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The nausea of prejudice churns in society's stomach.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Prejudice makes society sick and uncomfortable.
+</implicit_meaning>
+
+<components>
+<object>Society's stomach, prejudice</object>
+<properties>Churning, nauseating, sickening</properties>
+<relations>Prejudice acts as a toxin causing disturbance within society</relations>
+</components>
+
+<visual_elaboration>
+A giant transparent stomach filled with swirling dark clouds labeled "prejudice" making the stomach green and distorted.
+</visual_elaboration>
+</metaphor_analysis>

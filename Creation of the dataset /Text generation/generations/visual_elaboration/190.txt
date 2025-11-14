@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She held her actions tightly in her grasp.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Control and responsibility over one's actions.
+</implicit_meaning>
+
+<components>
+<object>Hands, Actions (abstract concept)</object>
+<properties>Tight, Controlled, Physical manifestation of abstract concept</properties>
+<relations>Holding/Grasping, Containment</relations>
+</components>
+
+<visual_elaboration>
+A woman's hands firmly clutching glowing orbs that contain miniature scenes of different actions.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The structure swims through space.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Graceful movement or floating through void.
+</implicit_meaning>
+
+<components>
+<object>Building or architectural structure</object>
+<properties>Fluid, floating, weightless</properties>
+<relations>Movement through space like a fish through water</relations>
+</components>
+
+<visual_elaboration>
+A sleek building with fins gliding through a starry void leaving a trail of stardust.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their minds were immune to rational arguments after exposure to propaganda.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Minds becoming resistant to logic and reason due to propaganda influence.
+</implicit_meaning>
+
+<components>
+<object>Mind, Immune System, Propaganda</object>
+<properties>Resistant, Closed, Infected</properties>
+<relations>Propaganda acts like a virus that creates immunity against rational thought</relations>
+</components>
+
+<visual_elaboration>
+A brain wearing a hazmat suit blocking out incoming arrows labeled "facts" while surrounded by dark smoke.
+</visual_elaboration>
+</metaphor_analysis>

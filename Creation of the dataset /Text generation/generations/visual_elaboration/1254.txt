@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their passion was a blinding sunrise that consumed the dawn.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming and intense love that overshadows everything else.
+</implicit_meaning>
+
+<components>
+<object>Passion, Sunrise, Dawn</object>
+<properties>Blinding, consuming, overwhelming</properties>
+<relations>The passion (represented by sunrise) overtakes and consumes the dawn</relations>
+</components>
+
+<visual_elaboration>
+Two silhouettes embracing within a massive, brilliant sun that radiates intense white light across a dawn sky.
+</visual_elaboration>
+</metaphor_analysis>

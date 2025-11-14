@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His suggestion is dancing through my mental corridors.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A thought moving playfully through one's mind.
+</implicit_meaning>
+
+<components>
+<object>Suggestion, Mental corridors (mind)</object>
+<properties>Dancing, flowing, moving</properties>
+<relations>Movement through mental space</relations>
+</components>
+
+<visual_elaboration>
+A glowing ballet dancer twirling through a hallway made of brain tissue with multiple doorways.
+</visual_elaboration>
+</metaphor_analysis>

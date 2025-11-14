@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Actions flow like a rushing river.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Continuous, unstoppable movement and momentum.
+</implicit_meaning>
+
+<components>
+<object>Actions, River</object>
+<properties>Flowing, rushing, continuous movement</properties>
+<relations>Actions are compared to water's natural flow and force</relations>
+</components>
+
+<visual_elaboration>
+Human silhouettes transforming into water streams merging into a powerful rushing river.
+</visual_elaboration>
+</metaphor_analysis>

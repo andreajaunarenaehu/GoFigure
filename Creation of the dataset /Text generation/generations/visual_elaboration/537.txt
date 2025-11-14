@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Machines can learn from their mistakes like people do.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Artificial intelligence systems improve through trial and error similar to human learning.
+</implicit_meaning>
+
+<components>
+<object>Machines, People</object>
+<properties>Learning capability, Error correction, Improvement</properties>
+<relations>Machines mirroring human learning behavior</relations>
+</components>
+
+<visual_elaboration>
+A robot and human sitting at school desks, both erasing mistakes on their papers with matching expressions.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The visual field is a basket catching moving objects.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Vision collects and contains visual information like a container.
+</implicit_meaning>
+
+<components>
+<object>Visual field, basket, moving objects</object>
+<properties>Container-like, catching, collecting</properties>
+<relations>Visual field acts as a receptacle for visual stimuli</relations>
+</components>
+
+<visual_elaboration>
+A woven basket with eyes on its surface catching colorful floating objects in mid-air.
+</visual_elaboration>
+</metaphor_analysis>

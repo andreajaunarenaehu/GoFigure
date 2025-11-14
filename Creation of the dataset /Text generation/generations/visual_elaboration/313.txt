@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They patched together a theory from different schools of thought.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Combining diverse ideas into one unified concept.
+</implicit_meaning>
+
+<components>
+<object>Theory, Schools of thought</object>
+<properties>Fragmented, Diverse, Combined</properties>
+<relations>Patching, Connecting, Merging</relations>
+</components>
+
+<visual_elaboration>
+A quilt made of different academic symbols being sewn together by scholarly hands.
+</visual_elaboration>
+</metaphor_analysis>

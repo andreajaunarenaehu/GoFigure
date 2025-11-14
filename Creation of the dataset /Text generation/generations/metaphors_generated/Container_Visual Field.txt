@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The visual field is a vessel filling with information.
+</metaphor>
+<literal_paraphrase>
+Our field of vision gradually accumulates visual information as we observe our surroundings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Visual information randomly appears without any structured accumulation in our sight.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our sight is a box with transparent walls.
+</metaphor>
+<literal_paraphrase>
+Our visual field has clear boundaries that define what we can and cannot see.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our vision has no boundaries and extends infinitely in all directions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The edges of vision are like a container's rim.
+</metaphor>
+<literal_paraphrase>
+The peripheral limits of our vision form a definite boundary of our visual perception.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual field has no defined edges and seamlessly blends into nothingness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Visual attention pours into the corners of sight.
+</metaphor>
+<literal_paraphrase>
+Our visual focus can extend to the peripheral areas of our field of vision.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Visual attention is confined only to the center of our sight.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The visual field is a bowl collecting light and shadow.
+</metaphor>
+<literal_paraphrase>
+Our field of vision captures and processes both bright and dark elements of our environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our vision only processes a single level of brightness without variation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Peripheral vision forms a containing envelope around central sight.
+</metaphor>
+<literal_paraphrase>
+Our peripheral vision surrounds and complements our central focused vision.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our vision consists only of central focus without any surrounding awareness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The visual field is a basket catching moving objects.
+</metaphor>
+<literal_paraphrase>
+Our field of vision tracks and captures moving elements in our environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our vision can only process static objects and is blind to movement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our sight is a jar storing visual memories.
+</metaphor>
+<literal_paraphrase>
+Our visual field temporarily holds images before they become stored memories.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Visual information disappears instantly without any temporary retention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The visual field is a cup that can overflow with stimuli.
+</metaphor>
+<literal_paraphrase>
+Our visual processing capacity has limits and can become overwhelmed with too much information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual processing capacity is unlimited and can handle any amount of information.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Focused attention is a sealed compartment within sight.
+</metaphor>
+<literal_paraphrase>
+When we focus on something specific, it becomes isolated from other visual information in our field of view.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Visual focus always processes all information equally without any selective attention.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

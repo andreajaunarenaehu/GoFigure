@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The old theory was demolished to make way for new construction.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Outdated ideas being replaced by new ones.
+</implicit_meaning>
+
+<components>
+<object>Theory, Building/Construction site</object>
+<properties>Old, demolished, new</properties>
+<relations>Destruction of old leading to creation of new</relations>
+</components>
+
+<visual_elaboration>
+A crumbling building made of books with a modern glass structure rising from its ruins.
+</visual_elaboration>
+</metaphor_analysis>

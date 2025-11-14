@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her emotions maintain a perfect seesaw equilibrium.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Her emotions are balanced between extremes.
+</implicit_meaning>
+
+<components>
+<object>Emotions, Seesaw</object>
+<properties>Balanced, Equal, Perfect</properties>
+<relations>Maintaining equilibrium between opposing forces</relations>
+</components>
+
+<visual_elaboration>
+A woman sits centered on a seesaw with happy and sad emoji faces balanced on each end.
+</visual_elaboration>
+</metaphor_analysis>

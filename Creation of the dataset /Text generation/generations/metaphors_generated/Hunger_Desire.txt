@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+His hunger for success gnawed at his soul.
+</metaphor>
+<literal_paraphrase>
+His intense desire for success constantly motivated and drove him forward.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He felt completely content and had no ambition for achievement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her appetite for knowledge was insatiable.
+</metaphor>
+<literal_paraphrase>
+She had an endless desire to learn and acquire new information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She was completely satisfied with her current knowledge and had no interest in learning more.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The starving artist devoured every opportunity.
+</metaphor>
+<literal_paraphrase>
+The passionate artist eagerly pursued every chance for advancement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The artist ignored all opportunities and remained passive.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His craving for adventure consumed his thoughts.
+</metaphor>
+<literal_paraphrase>
+His strong desire for excitement and new experiences dominated his thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He preferred routine and safety, avoiding any form of adventure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She was famished for affection.
+</metaphor>
+<literal_paraphrase>
+She deeply yearned for emotional connection and love.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She felt emotionally fulfilled and needed no additional affection.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their relationship starved from lack of attention.
+</metaphor>
+<literal_paraphrase>
+Their relationship deteriorated due to insufficient care and effort.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship thrived despite minimal attention.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The crowd's hunger for entertainment grew ravenous.
+</metaphor>
+<literal_paraphrase>
+The audience's desire for amusement became increasingly intense.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The crowd was indifferent to entertainment and showed no interest.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Success fed his appetite for more challenges.
+</metaphor>
+<literal_paraphrase>
+Achievement increased his desire to tackle more difficult tasks.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Success made him complacent and unwilling to face new challenges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company's hunger for profit devoured its ethics.
+</metaphor>
+<literal_paraphrase>
+The company's desire for financial gain led it to compromise its moral principles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company prioritized ethics over profit-making opportunities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her soul was starving for purpose.
+</metaphor>
+<literal_paraphrase>
+She desperately needed to find meaning and direction in her life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She felt completely fulfilled and clear about her life's purpose.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

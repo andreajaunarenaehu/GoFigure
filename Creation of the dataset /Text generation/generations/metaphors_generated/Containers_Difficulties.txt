@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Life's difficulties are sealed jars that require strength to open.
+</metaphor>
+<literal_paraphrase>
+Overcoming challenges requires determination and effort.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Problems are easily solved without any effort or persistence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each problem is a box with its own unique combination lock.
+</metaphor>
+<literal_paraphrase>
+Every difficulty requires its own specific solution approach.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All problems can be solved using the same universal method.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some challenges are like Russian nesting dolls, revealing new layers as you progress.
+</metaphor>
+<literal_paraphrase>
+Complex problems often contain multiple interconnected issues that must be addressed sequentially.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Difficulties are always simple and straightforward, with no hidden complications.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life's obstacles are overflowing cups that need careful handling.
+</metaphor>
+<literal_paraphrase>
+Difficulties must be managed delicately to avoid making situations worse.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Problems can be handled roughly without concern for consequences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some troubles are like pressure cookers, building tension until release.
+</metaphor>
+<literal_paraphrase>
+Certain problems intensify over time and require proper timing to resolve.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Difficulties never escalate and can be ignored indefinitely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life's challenges are like sorting through mixed storage bins.
+</metaphor>
+<literal_paraphrase>
+Dealing with problems requires organization and systematic approach.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Problems can be solved through random, chaotic actions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some hardships are leaky vessels that drain our energy.
+</metaphor>
+<literal_paraphrase>
+Certain difficulties gradually deplete our resources and strength.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Problems always energize and refresh us.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Difficulties are like vacuum-sealed containers, requiring the right tools to breach.
+</metaphor>
+<literal_paraphrase>
+Solving problems often requires specific skills or resources.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Any challenge can be overcome with bare hands and no preparation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life's struggles are like overpacked suitcases that need careful unpacking.
+</metaphor>
+<literal_paraphrase>
+Complex problems require patient, methodical handling to resolve.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Difficulties can be solved by rushing through them haphazardly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some challenges are like bottomless vessels that seem impossible to fill.
+</metaphor>
+<literal_paraphrase>
+Certain problems can seem overwhelming and insurmountable at first.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All difficulties have clear limits and obvious solutions.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

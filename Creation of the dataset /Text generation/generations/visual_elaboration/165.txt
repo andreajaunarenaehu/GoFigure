@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His eyes danced across the pages of the book.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Quick, fluid movement of eyes while reading.
+</implicit_meaning>
+
+<components>
+<object>Eyes, Book pages</object>
+<properties>Fluid, rhythmic movement</properties>
+<relations>Eyes moving across pages in a dancing motion</relations>
+</components>
+
+<visual_elaboration>
+Two cartoon eyes with ballet shoes pirouetting across open book pages with musical notes trailing behind.
+</visual_elaboration>
+</metaphor_analysis>

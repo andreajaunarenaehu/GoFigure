@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Social trends created a powerful current, sweeping their plans in unexpected directions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Uncontrollable social forces changing intended outcomes.
+</implicit_meaning>
+
+<components>
+<object>Social trends, plans, current/water</object>
+<properties>Powerful, unexpected, sweeping</properties>
+<relations>Current forces moving objects against their intended direction</relations>
+</components>
+
+<visual_elaboration>
+Paper boats being swept away by a swirling ocean current into different directions.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The final picture might not match what was on the box of expectations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Reality often disappoints compared to our expectations.
+</implicit_meaning>
+
+<components>
+<object>Puzzle box and completed puzzle</object>
+<properties>Mismatched, incomplete, different from expectation</properties>
+<relations>Contrast between expected image and actual result</relations>
+</components>
+
+<visual_elaboration>
+A puzzle box showing a beautiful garden, but the assembled puzzle reveals a barren wasteland.
+</visual_elaboration>
+</metaphor_analysis>

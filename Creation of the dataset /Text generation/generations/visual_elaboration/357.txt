@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His emotional center of gravity never shifts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotionally stable and unchanging.
+</implicit_meaning>
+
+<components>
+<object>Person, Center of gravity</object>
+<properties>Static, Balanced, Unmovable</properties>
+<relations>Person's emotions connected to physical balance concept</relations>
+</components>
+
+<visual_elaboration>
+A person standing perfectly balanced on a tightrope with a stone heart as a balancing pole.
+</visual_elaboration>
+</metaphor_analysis>

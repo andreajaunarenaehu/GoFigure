@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their gossip was a wrench thrown into the team's smooth operation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Disruption of normal functioning.
+</implicit_meaning>
+
+<components>
+<object>Gossip, Wrench, Team Operation (represented as machinery)</object>
+<properties>Destructive, Disruptive, Mechanical</properties>
+<relations>Wrench disrupting machinery, causing malfunction</relations>
+</components>
+
+<visual_elaboration>
+A large wrench stuck between spinning gears, with speech bubbles tangled around it causing the gears to jam.
+</visual_elaboration>
+</metaphor_analysis>

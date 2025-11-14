@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The team's morale plunged into darkness.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The team's spirit has fallen into a state of despair and hopelessness.
+</implicit_meaning>
+
+<components>
+<object>Team morale, darkness</object>
+<properties>Falling, dark, gloomy</properties>
+<relations>Downward movement into darkness</relations>
+</components>
+
+<visual_elaboration>
+A group of dejected figures falling down a black hole with dim light fading above them.
+</visual_elaboration>
+</metaphor_analysis>

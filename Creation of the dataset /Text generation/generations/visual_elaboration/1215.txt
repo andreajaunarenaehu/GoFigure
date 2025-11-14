@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Theories, like social influencers, can gather devoted followers.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas can attract passionate believers just like celebrities attract fans.
+</implicit_meaning>
+
+<components>
+<object>Theories and social influencers</object>
+<properties>Attractive, influential, magnetic</properties>
+<relations>Drawing people toward them, creating followings</relations>
+</components>
+
+<visual_elaboration>
+A glowing book on a pedestal with people orbiting around it like social media followers around a phone screen.
+</visual_elaboration>
+</metaphor_analysis>

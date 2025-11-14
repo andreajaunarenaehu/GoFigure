@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His thoughts soared to higher levels of understanding.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental enlightenment and intellectual growth.
+</implicit_meaning>
+
+<components>
+<object>Thoughts, Levels</object>
+<properties>Soaring, Rising, Ascending</properties>
+<relations>Upward movement towards understanding</relations>
+</components>
+
+<visual_elaboration>
+A human head with wings sprouting from it, flying upward through stacked transparent platforms of light.
+</visual_elaboration>
+</metaphor_analysis>

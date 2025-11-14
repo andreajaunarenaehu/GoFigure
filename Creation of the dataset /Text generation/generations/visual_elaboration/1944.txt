@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The price war left casualties across the industry.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competitive pricing strategies caused business failures.
+</implicit_meaning>
+
+<components>
+<object>Price competition, Business failures</object>
+<properties>Destructive, Widespread damage</properties>
+<relations>Competition leading to business collapse</relations>
+</components>
+
+<visual_elaboration>
+Dollar signs as weapons scattered across a battlefield with fallen business buildings and broken company logos.
+</visual_elaboration>
+</metaphor_analysis>

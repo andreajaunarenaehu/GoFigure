@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The shifting tides of change deepen the gulf between us.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Growing distance and separation in a relationship.
+</implicit_meaning>
+
+<components>
+<object>Tides, Gulf, Two people</object>
+<properties>Shifting, deepening, separating</properties>
+<relations>The tides are creating distance between two entities</relations>
+</components>
+
+<visual_elaboration>
+Two people standing on opposite cliffs with a widening ocean gulf between them, waves pulling them apart.
+</visual_elaboration>
+</metaphor_analysis>

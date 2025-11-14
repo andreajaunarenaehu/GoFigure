@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a complete novel, coherence tells an unbroken story.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Seamless connection and flow of ideas.
+</implicit_meaning>
+
+<components>
+<object>Novel, Story</object>
+<properties>Complete, unbroken, coherent</properties>
+<relations>The flow and connection between elements in a narrative</relations>
+</components>
+
+<visual_elaboration>
+An open book with glowing threads connecting words across pages forming a continuous golden line.
+</visual_elaboration>
+</metaphor_analysis>

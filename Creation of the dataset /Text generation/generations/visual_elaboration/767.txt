@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her vacant spaces were burning acid.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional emptiness causing intense pain.
+</implicit_meaning>
+
+<components>
+<object>Vacant spaces, Acid</object>
+<properties>Burning, Empty, Corrosive</properties>
+<relations>Internal spaces being consumed by painful substance</relations>
+</components>
+
+<visual_elaboration>
+A silhouette of a woman with holes in her body filled with glowing green acid that's eating away at the edges.
+</visual_elaboration>
+</metaphor_analysis>

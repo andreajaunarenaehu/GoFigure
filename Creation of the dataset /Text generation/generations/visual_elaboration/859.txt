@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Theoretical covers can be lifted to peek at the bare facts beneath.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Abstract theories hide simple truths that can be revealed through investigation.
+</implicit_meaning>
+
+<components>
+<object>Covers, Facts</object>
+<properties>Theoretical, Bare, Hidden</properties>
+<relations>Lifting to reveal what's underneath</relations>
+</components>
+
+<visual_elaboration>
+A hand lifting a translucent blanket revealing glowing facts and numbers underneath.
+</visual_elaboration>
+</metaphor_analysis>

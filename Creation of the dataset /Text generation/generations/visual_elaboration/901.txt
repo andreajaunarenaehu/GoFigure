@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The heat of her fury scorched everyone in the room.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense anger affecting others.
+</implicit_meaning>
+
+<components>
+<object>Angry person, Room, Heat/Fire</object>
+<properties>Scorching, Intense, Spreading</properties>
+<relations>Person's anger affecting others through heat/fire</relations>
+</components>
+
+<visual_elaboration>
+A woman radiating red flames that engulf bystanders who shield themselves from the heat.
+</visual_elaboration>
+</metaphor_analysis>

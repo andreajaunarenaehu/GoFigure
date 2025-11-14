@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The spotlight trickled down the performer's face.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Light moving slowly and gently like liquid.
+</implicit_meaning>
+
+<components>
+<object>Spotlight, performer's face</object>
+<properties>Liquid-like light, flowing movement</properties>
+<relations>Light moving downward like water droplets</relations>
+</components>
+
+<visual_elaboration>
+A performer's face illuminated by golden light droplets falling like water streams.
+</visual_elaboration>
+</metaphor_analysis>

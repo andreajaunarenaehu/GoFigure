@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her inner light illuminates her musical talents.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Her natural gifts shine through her music.
+</implicit_meaning>
+
+<components>
+<object>Inner light, Musical talent</object>
+<properties>Glowing, Radiant, Musical</properties>
+<relations>Light revealing/highlighting musical ability</relations>
+</components>
+
+<visual_elaboration>
+A woman playing piano with golden light radiating from her heart through musical notes floating around her.
+</visual_elaboration>
+</metaphor_analysis>

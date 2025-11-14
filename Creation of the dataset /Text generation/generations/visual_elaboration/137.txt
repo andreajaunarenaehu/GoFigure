@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Small changes traded up to major improvements.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gradual progression from small to large impact.
+</implicit_meaning>
+
+<components>
+<object>Changes and improvements</object>
+<properties>Small becoming large, ascending value</properties>
+<relations>Trading up, progression upward</relations>
+</components>
+
+<visual_elaboration>
+A staircase made of coins, starting with pennies at bottom ascending to gold bars at top.
+</visual_elaboration>
+</metaphor_analysis>

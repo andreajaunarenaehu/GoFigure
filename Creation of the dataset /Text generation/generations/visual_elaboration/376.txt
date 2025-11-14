@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The regulatory climate is freezing innovation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strict regulations are preventing new ideas from developing.
+</implicit_meaning>
+
+<components>
+<object>Regulations and innovation</object>
+<properties>Cold, restrictive, frozen, immobile</properties>
+<relations>Regulations actively stopping or freezing progress</relations>
+</components>
+
+<visual_elaboration>
+A lightbulb trapped in an ice cube with frost-covered government documents surrounding it.
+</visual_elaboration>
+</metaphor_analysis>

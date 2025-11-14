@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her ideas were a feast for the mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intellectually nourishing and abundant.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Feast, Mind</object>
+<properties>Abundant, nourishing, satisfying</properties>
+<relations>Ideas are presented as food that feeds the mind</relations>
+</components>
+
+<visual_elaboration>
+A brain sitting at a banquet table filled with glowing books, scrolls, and floating symbols.
+</visual_elaboration>
+</metaphor_analysis>

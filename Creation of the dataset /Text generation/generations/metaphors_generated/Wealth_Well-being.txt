@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+A wealth of happiness flows like a golden river through life.
+</metaphor>
+<literal_paraphrase>
+Abundant well-being creates a continuous stream of positive experiences in one's life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Misery trickles like a dried-up stream through existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The investments in self-care yield rich dividends of contentment.
+</metaphor>
+<literal_paraphrase>
+Taking care of oneself leads to significant improvements in overall well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Neglecting self-care results in bankruptcy of spirit.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her emotional bank account overflows with positive balance.
+</metaphor>
+<literal_paraphrase>
+She maintains excellent mental and emotional health through positive experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her emotional reserves are completely depleted and overdrawn.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The fortune of good health compounds daily with wise choices.
+</metaphor>
+<literal_paraphrase>
+Making healthy decisions consistently leads to increasing benefits in overall wellness.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Poor health decisions depreciate well-being rapidly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+A treasury of peaceful moments builds lasting prosperity of mind.
+</metaphor>
+<literal_paraphrase>
+Accumulating peaceful experiences contributes to sustained mental well-being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Constant chaos depletes mental stability.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The riches of relationships appreciate through nurturing bonds.
+</metaphor>
+<literal_paraphrase>
+Strong social connections grow more valuable with care and attention.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Neglected relationships depreciate into worthless connections.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+A portfolio of diverse experiences yields abundant life satisfaction.
+</metaphor>
+<literal_paraphrase>
+Having various positive experiences contributes to overall life fulfillment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Limited experiences lead to poor life satisfaction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The dividends of mindfulness pay out in daily tranquility.
+</metaphor>
+<literal_paraphrase>
+Regular mindfulness practice results in increased daily peace and calm.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Mindless living results in constant anxiety and unrest.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her assets of wisdom grow richer with each passing year.
+</metaphor>
+<literal_paraphrase>
+Personal growth and understanding increase with life experience.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Ignorance accumulates with wasted time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The prosperity of purpose enriches every moment of existence.
+</metaphor>
+<literal_paraphrase>
+Having a clear sense of purpose enhances overall life satisfaction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Aimlessness impoverishes daily existence.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

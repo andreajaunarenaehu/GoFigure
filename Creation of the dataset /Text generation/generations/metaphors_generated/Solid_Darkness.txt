@@ -1,0 +1,120 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The darkness was a concrete wall before me.
+</metaphor>
+<literal_paraphrase>
+The darkness was so complete and impenetrable that it prevented any forward movement or visibility.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness was transparent and easily penetrable, offering no resistance to movement or vision.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Night crystallized around us like black ice.
+</metaphor>
+<literal_paraphrase>
+The darkness settled in quickly and firmly, creating an unchangeable environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness remained fluid and shifting, never settling into a fixed state.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The darkness stood like an iron curtain against the sky.
+</metaphor>
+<literal_paraphrase>
+The darkness created an absolute barrier between day and night, completely blocking out light.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness was permeable and allowed light to filter through freely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Shadows hardened into stone as night fell.
+</metaphor>
+<literal_paraphrase>
+The darkness became increasingly dense and immovable as evening progressed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The shadows remained light and fluid, never gaining substance or weight.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The darkness was a granite fortress surrounding us.
+</metaphor>
+<literal_paraphrase>
+The darkness enclosed us completely, creating an impenetrable barrier to the outside world.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness was a permeable veil that allowed easy passage and visibility.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Night's marble columns rose from the earth.
+</metaphor>
+<literal_paraphrase>
+The darkness appeared to have physical structure and permanence as it spread upward.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness remained formless and ethereal, lacking any structural quality.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The darkness was packed like dense clay around us.
+</metaphor>
+<literal_paraphrase>
+The darkness felt thick and oppressive, pressing in from all sides.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness was light and airy, creating no sense of pressure or confinement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Night's steel grip held the world motionless.
+</metaphor>
+<literal_paraphrase>
+The darkness created a sense of complete stillness and immobility in the environment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness allowed for free movement and did not restrict activity in any way.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The darkness crystallized into an obsidian dome.
+</metaphor>
+<literal_paraphrase>
+The darkness formed a complete, solid covering that enclosed everything beneath it.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness remained open and scattered, never forming a coherent covering.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Night's bronze gates sealed off the horizon.
+</metaphor>
+<literal_paraphrase>
+The darkness created a definitive boundary that completely blocked out distant views and light.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The darkness left the horizon open and visible, maintaining clear sight lines to the distance.
+</contradiction_paraphrase>
+</metaphor_set>

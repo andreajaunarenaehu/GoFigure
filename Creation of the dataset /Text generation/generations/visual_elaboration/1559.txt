@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She transferred her obligations to larger containers as they grew.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Increasing responsibilities becoming more burdensome over time.
+</implicit_meaning>
+
+<components>
+<object>Obligations, Containers</object>
+<properties>Growing, Expanding, Heavy</properties>
+<relations>Transfer from smaller to larger containers, Progressive growth</relations>
+</components>
+
+<visual_elaboration>
+A woman pouring overflowing tasks from small jars into progressively larger glass containers.
+</visual_elaboration>
+</metaphor_analysis>

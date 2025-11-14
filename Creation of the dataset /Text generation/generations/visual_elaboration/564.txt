@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love's lunacy dances in wisdom's grave.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Passion and emotion triumph over rational thought.
+</implicit_meaning>
+
+<components>
+<object>Love, Wisdom, Dance, Grave</object>
+<properties>Lunatic, Dead, Moving</properties>
+<relations>Love is dancing while wisdom lies buried</relations>
+</components>
+
+<visual_elaboration>
+A jester dancing on a tombstone marked "wisdom" while hearts float around in a moonlit night.
+</visual_elaboration>
+</metaphor_analysis>

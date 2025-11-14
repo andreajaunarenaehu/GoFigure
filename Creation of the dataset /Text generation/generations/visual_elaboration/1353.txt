@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The universe sketches its presence in concrete lines.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The cosmic order manifests itself in human-made structures.
+</implicit_meaning>
+
+<components>
+<object>Universe, concrete lines</object>
+<properties>Cosmic, architectural, geometric</properties>
+<relations>Universe actively drawing/creating through human construction</relations>
+</components>
+
+<visual_elaboration>
+Stars and galaxies forming geometric patterns that transform into concrete building lines and city grids.
+</visual_elaboration>
+</metaphor_analysis>

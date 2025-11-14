@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her happiness took flight like a released balloon.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fleeting and uncontrollable joy that quickly disappears.
+</implicit_meaning>
+
+<components>
+<object>Happiness, Balloon</object>
+<properties>Floating, Ascending, Temporary</properties>
+<relations>Rising upward and away, becoming distant</relations>
+</components>
+
+<visual_elaboration>
+A smiling girl watching a heart-shaped balloon float away into a cloudy sky.
+</visual_elaboration>
+</metaphor_analysis>

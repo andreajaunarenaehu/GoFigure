@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each new design was delivered after months of creative conception.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Design process is like pregnancy and birth.
+</implicit_meaning>
+
+<components>
+<object>Design creation process</object>
+<properties>Time-consuming, developmental, nurturing</properties>
+<relations>Design is compared to pregnancy/birth process</relations>
+</components>
+
+<visual_elaboration>
+A pregnant woman's belly containing a glowing lightbulb that's slowly forming into a finished design.
+</visual_elaboration>
+</metaphor_analysis>

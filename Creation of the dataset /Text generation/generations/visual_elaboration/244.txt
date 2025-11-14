@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These subjects are cunning spies, disguising their true complexity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Academic subjects appear simple but hide deeper complexity.
+</implicit_meaning>
+
+<components>
+<object>School subjects, Spies</object>
+<properties>Deceptive, Complex, Hidden</properties>
+<relations>Subjects disguising themselves like spies hiding their true nature</relations>
+</components>
+
+<visual_elaboration>
+Textbooks wearing trench coats and masks, revealing complex formulas underneath when opened.
+</visual_elaboration>
+</metaphor_analysis>

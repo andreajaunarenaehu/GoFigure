@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My possessions have become my masters.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material things control and dominate one's life.
+</implicit_meaning>
+
+<components>
+<object>Possessions (material items) and person</object>
+<properties>Controlling, dominating, restrictive</properties>
+<relations>Possessions exercising power over their owner</relations>
+</components>
+
+<visual_elaboration>
+A person chained to giant household items that tower over them like prison guards.
+</visual_elaboration>
+</metaphor_analysis>

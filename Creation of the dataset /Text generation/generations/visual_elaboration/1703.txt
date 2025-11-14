@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Education is the backbone of society.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Education provides essential support and structure to society.
+</implicit_meaning>
+
+<components>
+<object>Education, backbone, society</object>
+<properties>Structural, supportive, essential</properties>
+<relations>Education supports and holds society together like a backbone supports a body</relations>
+</components>
+
+<visual_elaboration>
+A human spine made of stacked books supporting a city skyline above it.
+</visual_elaboration>
+</metaphor_analysis>

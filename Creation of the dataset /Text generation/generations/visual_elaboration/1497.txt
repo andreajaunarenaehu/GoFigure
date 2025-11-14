@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Compliance bound the organization like a compressed spring.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Tension and pressure from strict rules causing potential reactive force.
+</implicit_meaning>
+
+<components>
+<object>Organization, Spring</object>
+<properties>Compressed, Tense, Bound</properties>
+<relations>Compliance restricting and pressuring the organization</relations>
+</components>
+
+<visual_elaboration>
+A tightly coiled metal spring wrapped around a corporate building, squeezing it inward.
+</visual_elaboration>
+</metaphor_analysis>

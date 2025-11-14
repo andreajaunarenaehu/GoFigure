@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their bureaucracy is a pyramid of overlapping rectangles.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complex, hierarchical, and inefficient organizational structure.
+</implicit_meaning>
+
+<components>
+<object>Bureaucracy, Pyramid, Rectangles</object>
+<properties>Overlapping, Layered, Hierarchical</properties>
+<relations>Stacked upon each other in a pyramid formation</relations>
+</components>
+
+<visual_elaboration>
+A pyramid made of transparent rectangles stacked messily with papers and documents trapped between layers.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My inner critic is waging war against my joy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Internal conflict between self-doubt and happiness.
+</implicit_meaning>
+
+<components>
+<object>Inner critic, Joy</object>
+<properties>Hostile, Combative, Opposing forces</properties>
+<relations>Battle, Conflict, Opposition</relations>
+</components>
+
+<visual_elaboration>
+A dark armored warrior battling a glowing butterfly on a battlefield within a human silhouette.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like humans, machines communicate in their own language.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Machines have their own form of communication similar to human language.
+</implicit_meaning>
+
+<components>
+<object>Humans and machines</object>
+<properties>Communication ability, distinct languages</properties>
+<relations>Parallel between human speech and machine code</relations>
+</components>
+
+<visual_elaboration>
+A split screen showing a human speaking words and a computer displaying binary code, connected by speech bubbles.
+</visual_elaboration>
+</metaphor_analysis>

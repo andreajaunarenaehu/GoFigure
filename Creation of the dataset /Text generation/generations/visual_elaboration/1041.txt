@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The mind's reception desk filters incoming experiences.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The brain selectively processes and filters information.
+</implicit_meaning>
+
+<components>
+<object>Mind, Reception desk, Experiences</object>
+<properties>Filtering, Processing, Organizing</properties>
+<relations>Reception desk acts as a filter for incoming experiences</relations>
+</components>
+
+<visual_elaboration>
+A brain-shaped reception desk with a secretary sorting colorful floating memories through a giant filter.
+</visual_elaboration>
+</metaphor_analysis>

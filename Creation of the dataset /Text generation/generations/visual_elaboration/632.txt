@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their harsh criticism was like rubbing salt in an open wound.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Making an already painful situation worse through hurtful words.
+</implicit_meaning>
+
+<components>
+<object>Criticism, Salt, Wound</object>
+<properties>Harsh, Painful, Raw</properties>
+<relations>Salt being rubbed into wound, intensifying pain</relations>
+</components>
+
+<visual_elaboration>
+A bleeding wound with crystalline salt being forcefully rubbed in by harsh words shaped like hands.
+</visual_elaboration>
+</metaphor_analysis>

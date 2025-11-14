@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Events are racing down a highway of change.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapid and unstoppable progression of events.
+</implicit_meaning>
+
+<components>
+<object>Events, Highway</object>
+<properties>Fast-moving, Dynamic, Continuous</properties>
+<relations>Events moving rapidly along a path of transformation</relations>
+</components>
+
+<visual_elaboration>
+Multiple calendar pages flying down a winding highway that transforms from asphalt to light beams.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's like a battery in power-saving mode, conserving her energy for important moments.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Carefully managing limited energy resources.
+</implicit_meaning>
+
+<components>
+<object>Person, Battery</object>
+<properties>Low power, Conservation mode, Limited energy</properties>
+<relations>Person being compared to a battery's power management system</relations>
+</components>
+
+<visual_elaboration>
+A human figure with a battery icon showing 20% charge and a dimmed glow around their body.
+</visual_elaboration>
+</metaphor_analysis>

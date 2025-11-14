@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Here is the anchor of being.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Stability and grounding in existence.
+</implicit_meaning>
+
+<components>
+<object>Anchor, Being (existence)</object>
+<properties>Heavy, grounding, stabilizing</properties>
+<relations>Anchor provides stability to existence/life</relations>
+</components>
+
+<visual_elaboration>
+A glowing human silhouette tethered to a large anchor that's rooted in solid ground.
+</visual_elaboration>
+</metaphor_analysis>

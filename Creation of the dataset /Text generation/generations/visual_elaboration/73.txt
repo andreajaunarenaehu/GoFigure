@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The web of causation catches all actions in its threads.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Every action has interconnected consequences that cannot escape their effects.
+</implicit_meaning>
+
+<components>
+<object>Spider web, Actions</object>
+<properties>Interconnected, Inescapable, Entangling</properties>
+<relations>Actions being caught and connected within the web structure</relations>
+</components>
+
+<visual_elaboration>
+A giant spider web with glowing threads, where human actions appear as trapped butterflies connected by silvery strands.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Visual attention pours into the corners of sight.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Attention flows like a liquid, spreading to peripheral areas of vision.
+</implicit_meaning>
+
+<components>
+<object>Visual attention, liquid</object>
+<properties>Flowing, spreading, filling</properties>
+<relations>Movement from center to corners of vision</relations>
+</components>
+
+<visual_elaboration>
+A pair of eyes with golden liquid flowing from pupils into darkened corners of vision.
+</visual_elaboration>
+</metaphor_analysis>

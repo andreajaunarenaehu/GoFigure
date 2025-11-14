@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our difficulty tunnels deeper like a determined mole.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Problems becoming more complex and challenging over time.
+</implicit_meaning>
+
+<components>
+<object>Difficulty, Mole</object>
+<properties>Deep, Determined, Tunneling</properties>
+<relations>Continuous digging motion, Moving downward</relations>
+</components>
+
+<visual_elaboration>
+A mole wearing a hard hat digging multiple twisted tunnels that spiral deeper underground.
+</visual_elaboration>
+</metaphor_analysis>

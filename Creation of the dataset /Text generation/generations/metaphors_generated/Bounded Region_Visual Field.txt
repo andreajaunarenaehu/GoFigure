@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Our visual field is a walled garden of perception.
+</metaphor>
+<literal_paraphrase>
+Our vision is limited to a specific area that has definite boundaries, like a contained space.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual field is an infinite, boundless expanse with no limits or edges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The edges of sight are fences in our perceptual territory.
+</metaphor>
+<literal_paraphrase>
+Our field of vision has clear limitations and boundaries that restrict what we can see.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our vision extends endlessly in all directions without any limiting boundaries.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Vision's container holds our visual world captive.
+</metaphor>
+<literal_paraphrase>
+Our visual field is confined within specific limits that contain everything we can see.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual perception flows freely beyond any containment or restriction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The frame of sight boxes in our visual experience.
+</metaphor>
+<literal_paraphrase>
+Our visual field is constrained within a defined area, like a picture frame.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual experience extends beyond any framework or boundary.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our eyes' territory has strict borders.
+</metaphor>
+<literal_paraphrase>
+The area we can see at any moment is confined within definite limits.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our vision knows no borders and extends infinitely in all directions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Sight's arena encircles our visual world.
+</metaphor>
+<literal_paraphrase>
+Our field of vision is contained within a circular boundary that limits what we can see.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual perception has no circular limits and extends indefinitely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The visual field is a fortress of perception.
+</metaphor>
+<literal_paraphrase>
+Our vision is contained within strong, defined boundaries that limit our perception.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual perception freely traverses all spaces without containment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Our eyes' domain is a gated community of images.
+</metaphor>
+<literal_paraphrase>
+The visual field has specific entry and exit points that control what we can see.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual perception is completely unrestricted and has no controlled boundaries.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Vision's chamber holds our perceptual universe.
+</metaphor>
+<literal_paraphrase>
+Our visual field is enclosed within a defined space that contains all we can see.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual perception exists in an unlimited, boundless space.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The visual field is a bounded island in the sea of darkness.
+</metaphor>
+<literal_paraphrase>
+Our field of vision is a limited area surrounded by what we cannot see.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our visual field merges seamlessly with all surrounding space without boundaries.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

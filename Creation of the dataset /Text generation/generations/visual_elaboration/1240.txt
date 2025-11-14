@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The light poured through the window like a gentle stream.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Light flows smoothly and gracefully into a space.
+</implicit_meaning>
+
+<components>
+<object>Light, Window, Stream</object>
+<properties>Gentle, Flowing, Liquid-like</properties>
+<relations>Light behaves like flowing water through an opening</relations>
+</components>
+
+<visual_elaboration>
+Golden light waves flowing through a window frame like a waterfall of sunshine.
+</visual_elaboration>
+</metaphor_analysis>

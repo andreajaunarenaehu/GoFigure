@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+We need to quarantine these toxic ideas before they spread further.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmful thoughts can infect and spread like a disease.
+</implicit_meaning>
+
+<components>
+<object>Ideas represented as virus/disease</object>
+<properties>Toxic, contagious, harmful</properties>
+<relations>Need for containment and isolation</relations>
+</components>
+
+<visual_elaboration>
+Glowing green thought bubbles trapped inside a medical quarantine chamber with hazard symbols.
+</visual_elaboration>
+</metaphor_analysis>

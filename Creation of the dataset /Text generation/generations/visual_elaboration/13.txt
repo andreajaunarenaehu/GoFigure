@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Investment capital trickles down through the business sectors.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Money flows slowly from top-level businesses to lower levels like water.
+</implicit_meaning>
+
+<components>
+<object>Investment capital, Business sectors</object>
+<properties>Liquid-like, Flowing downward, Hierarchical</properties>
+<relations>Gradual movement from top to bottom</relations>
+</components>
+
+<visual_elaboration>
+A pyramid of business buildings with golden liquid cascading down its levels through channels.
+</visual_elaboration>
+</metaphor_analysis>

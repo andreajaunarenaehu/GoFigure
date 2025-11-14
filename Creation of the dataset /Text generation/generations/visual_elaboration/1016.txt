@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He clutches his principles tightly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being stubbornly committed to one's beliefs.
+</implicit_meaning>
+
+<components>
+<object>Person, principles</object>
+<properties>Tight grip, physical manifestation of abstract concepts</properties>
+<relations>Person physically holding onto abstract principles</relations>
+</components>
+
+<visual_elaboration>
+A person hugging a glowing book labeled "Principles" with white-knuckled hands and determined expression.
+</visual_elaboration>
+</metaphor_analysis>

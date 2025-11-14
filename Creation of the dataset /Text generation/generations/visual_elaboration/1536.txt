@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Wisdom is the art of recognizing squares in circles.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Finding hidden patterns and understanding complex situations.
+</implicit_meaning>
+
+<components>
+<object>Geometric shapes (squares and circles)</object>
+<properties>Hidden, contrasting, interconnected</properties>
+<relations>Recognition, discovery, perception</relations>
+</components>
+
+<visual_elaboration>
+A transparent circle with a square pattern emerging from its center, illuminated by a glowing light.
+</visual_elaboration>
+</metaphor_analysis>

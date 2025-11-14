@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a precious mineral being mined away.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is valuable and finite, gradually depleting.
+</implicit_meaning>
+
+<components>
+<object>Time, Mineral</object>
+<properties>Precious, Limited, Diminishing</properties>
+<relations>Being extracted/depleted through mining</relations>
+</components>
+
+<visual_elaboration>
+A glowing hourglass made of crystal being chipped away by miners with pickaxes.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their political landscape is a maze of intersecting lines.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complex and confusing political situation.
+</implicit_meaning>
+
+<components>
+<object>Political landscape, maze</object>
+<properties>Intersecting, complex, confusing</properties>
+<relations>Political situation is compared to a complicated maze structure</relations>
+</components>
+
+<visual_elaboration>
+A labyrinth made of political party logos with tangled paths and dead ends.
+</visual_elaboration>
+</metaphor_analysis>

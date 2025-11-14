@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The distance between their souls disappeared.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two people becoming emotionally connected or intimate.
+</implicit_meaning>
+
+<components>
+<object>Souls, Distance</object>
+<properties>Ethereal, Intangible, Merging</properties>
+<relations>Two separate entities becoming one, closing gap</relations>
+</components>
+
+<visual_elaboration>
+Two glowing orbs of light slowly merging into one bright sphere against a dark background.
+</visual_elaboration>
+</metaphor_analysis>

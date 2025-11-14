@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her mind is a brilliant beacon in the darkness.
+</metaphor>
+<literal_paraphrase>
+Her intelligence helps solve complex problems and guides others to understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her mind is dim and provides no guidance or insight to others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His intellect flickers like a dying bulb.
+</metaphor>
+<literal_paraphrase>
+His intelligence is inconsistent and unreliable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His intellect is consistently strong and dependable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Knowledge radiates from her like sunbeams.
+</metaphor>
+<literal_paraphrase>
+She shares her intelligence freely and influences others with her wisdom.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She keeps her knowledge hidden and refuses to share insights with others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His understanding illuminates the darkest corners of the problem.
+</metaphor>
+<literal_paraphrase>
+His intelligence helps explain even the most complex aspects of difficult issues.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His understanding leaves crucial aspects of problems unclear and unexplained.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their minds are dim candles in a vast hall.
+</metaphor>
+<literal_paraphrase>
+Their intelligence is limited and inadequate for the scale of the challenge.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their minds are powerful enough to handle any intellectual challenge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her wisdom is a lighthouse guiding lost ships.
+</metaphor>
+<literal_paraphrase>
+Her intelligence helps direct others who are confused or struggling.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her advice misleads people and leads them to wrong conclusions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His intellect burns like a laser, precise and focused.
+</metaphor>
+<literal_paraphrase>
+His intelligence is sharp and concentrated on specific problems with great accuracy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His thinking is scattered and imprecise, lacking any real focus.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their ideas are sparks in the night sky.
+</metaphor>
+<literal_paraphrase>
+Their intelligent thoughts appear briefly but brilliantly, inspiring others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their ideas are dull and fail to inspire or illuminate anything.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her mind glows with the warmth of understanding.
+</metaphor>
+<literal_paraphrase>
+Her intelligence is both comforting and enlightening to others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her mind is cold and creates distance from understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His thoughts are scattered flashlights in a maze.
+</metaphor>
+<literal_paraphrase>
+His intelligence, though present, is disorganized and points in many directions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His thoughts are perfectly organized and consistently directed.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

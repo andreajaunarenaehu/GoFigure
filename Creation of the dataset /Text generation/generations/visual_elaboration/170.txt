@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She's standing in the line of fire.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being in a dangerous or vulnerable position.
+</implicit_meaning>
+
+<components>
+<object>Person, Fire/Bullets</object>
+<properties>Dangerous, Direct path, Vulnerability</properties>
+<relations>Person positioned in dangerous trajectory</relations>
+</components>
+
+<visual_elaboration>
+A woman standing still while glowing red bullets freeze in mid-air around her.
+</visual_elaboration>
+</metaphor_analysis>

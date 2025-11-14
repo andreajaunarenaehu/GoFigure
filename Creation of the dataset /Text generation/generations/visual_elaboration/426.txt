@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The state's infrastructure is a web of broken hexagons.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A damaged and disconnected system.
+</implicit_meaning>
+
+<components>
+<object>Infrastructure, hexagonal web pattern</object>
+<properties>Broken, disconnected, fragmented</properties>
+<relations>Network of roads and systems that should connect but are broken</relations>
+</components>
+
+<visual_elaboration>
+A honeycomb pattern with cracked and missing sections, showing roads and bridges falling apart.
+</visual_elaboration>
+</metaphor_analysis>

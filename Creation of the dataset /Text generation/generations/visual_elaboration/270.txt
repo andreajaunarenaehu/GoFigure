@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The headwinds of market volatility buffeted the company's progress.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Market challenges are impeding business growth.
+</implicit_meaning>
+
+<components>
+<object>Company, Wind</object>
+<properties>Strong, opposing force, unstable movement</properties>
+<relations>Wind pushing against forward movement</relations>
+</components>
+
+<visual_elaboration>
+A corporate building shaped like a ship struggling against powerful stormy winds on rough seas.
+</visual_elaboration>
+</metaphor_analysis>

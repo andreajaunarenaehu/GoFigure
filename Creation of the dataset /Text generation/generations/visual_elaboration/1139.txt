@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope shines brightest in shared hearts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hope becomes stronger when people support each other.
+</implicit_meaning>
+
+<components>
+<object>Hearts, Light</object>
+<properties>Shining, Bright, Connected</properties>
+<relations>Multiple hearts sharing and amplifying light</relations>
+</components>
+
+<visual_elaboration>
+Two glowing hearts connected by beams of light, radiating a bright golden aura together.
+</visual_elaboration>
+</metaphor_analysis>

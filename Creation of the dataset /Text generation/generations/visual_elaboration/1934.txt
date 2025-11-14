@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He's my prized masterpiece in life's gallery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Someone who is highly valued and cherished above all others.
+</implicit_meaning>
+
+<components>
+<object>Person, Gallery, Masterpiece painting</object>
+<properties>Precious, valuable, unique, displayed prominently</properties>
+<relations>The person is being compared to a masterpiece artwork in a gallery setting</relations>
+</components>
+
+<visual_elaboration>
+A golden-framed portrait of a person glowing brightly in a dimly lit gallery among other paintings.
+</visual_elaboration>
+</metaphor_analysis>

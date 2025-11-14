@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each philosopher trained rigorously to defend their theoretical position.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Philosophical debate is like combat training.
+</implicit_meaning>
+
+<components>
+<object>Philosophers, Combat training equipment</object>
+<properties>Defensive stance, Training gear, Theoretical concepts</properties>
+<relations>Philosophers preparing for intellectual battle like warriors train for combat</relations>
+</components>
+
+<visual_elaboration>
+Philosophers in martial arts uniforms practicing kicks and punches against floating philosophical terms.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The policy pushed inflation rates downward.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Policy actions caused economic indicators to decrease.
+</implicit_meaning>
+
+<components>
+<object>Policy, Inflation rates</object>
+<properties>Downward movement, Force</properties>
+<relations>Policy actively forcing inflation down</relations>
+</components>
+
+<visual_elaboration>
+A giant hand labeled "Policy" pressing down on a red arrow that's bending downward.
+</visual_elaboration>
+</metaphor_analysis>

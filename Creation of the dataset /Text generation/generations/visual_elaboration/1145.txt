@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His heart needed a hardware upgrade.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional capacity needs improvement or updating.
+</implicit_meaning>
+
+<components>
+<object>Heart, Computer hardware</object>
+<properties>Outdated, Mechanical, Needs improvement</properties>
+<relations>Heart is compared to computer hardware that needs upgrading</relations>
+</components>
+
+<visual_elaboration>
+A mechanical heart with computer chips and wires being installed into its open chambers.
+</visual_elaboration>
+</metaphor_analysis>

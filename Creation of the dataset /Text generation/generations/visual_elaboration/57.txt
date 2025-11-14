@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The waves of change crash upon the shores of tradition.
+</linguistic_metaphor>
+
+<implicit_meaning>
+New ideas forcefully impact established customs.
+</implicit_meaning>
+
+<components>
+<object>Waves, Shore</object>
+<properties>Forceful, Destructive, Traditional</properties>
+<relations>Waves (change) impacting and eroding shore (tradition)</relations>
+</components>
+
+<visual_elaboration>
+A modern cityscape as waves crashing against ancient stone pillars on a beach.
+</visual_elaboration>
+</metaphor_analysis>

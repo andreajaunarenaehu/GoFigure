@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their hearts beat closer with each passing day.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Growing love and emotional connection between two people.
+</implicit_meaning>
+
+<components>
+<object>Hearts, Time</object>
+<properties>Beating, Moving closer</properties>
+<relations>Progressive movement toward each other over time</relations>
+</components>
+
+<visual_elaboration>
+Two glowing hearts slowly moving closer together on a clock face with trailing heartbeats.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The carousel of change spins only when its horses of preparation are mounted.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Progress requires preparation and active participation.
+</implicit_meaning>
+
+<components>
+<object>Carousel, Horses</object>
+<properties>Spinning, Static, Mounted/Unmounted</properties>
+<relations>Motion depends on mounting/preparation</relations>
+</components>
+
+<visual_elaboration>
+A still carousel with glowing horses coming to life when people climb aboard.
+</visual_elaboration>
+</metaphor_analysis>

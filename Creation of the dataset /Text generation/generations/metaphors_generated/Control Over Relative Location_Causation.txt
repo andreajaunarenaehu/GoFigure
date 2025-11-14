@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+She steered the project in the right direction to achieve success.
+</metaphor>
+<literal_paraphrase>
+She made decisions that directly led to the project's successful outcome.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her decisions had no influence on the project's outcome, which occurred randomly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His actions pushed the company toward bankruptcy.
+</metaphor>
+<literal_paraphrase>
+His decisions and behaviors directly caused the company's financial failure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His actions had no effect on the company's financial status, which changed independently.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The policy guided citizens away from harmful behaviors.
+</metaphor>
+<literal_paraphrase>
+The policy effectively caused people to avoid engaging in destructive activities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The policy had no influence on people's behavioral choices, which remained unchanged.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their research pulled society closer to a cure.
+</metaphor>
+<literal_paraphrase>
+Their research directly contributed to advancing medical treatment solutions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their research had no impact on medical progress, which remained stagnant.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The new law moved the country forward on human rights.
+</metaphor>
+<literal_paraphrase>
+The legislation directly resulted in improved human rights conditions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The law had no effect on human rights conditions, which evolved independently.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His words drove the crowd to action.
+</metaphor>
+<literal_paraphrase>
+His speech directly motivated people to take specific actions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His speech had no influence on people's behavior, which was determined by other factors.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The investment pulled the economy out of recession.
+</metaphor>
+<literal_paraphrase>
+The investment directly caused economic recovery from the downturn.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The investment had no effect on economic conditions, which improved by chance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their leadership navigated the team through challenges.
+</metaphor>
+<literal_paraphrase>
+Their leadership decisions directly helped the team overcome difficulties.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their leadership had no impact on the team's ability to handle challenges.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Education leads students toward better opportunities.
+</metaphor>
+<literal_paraphrase>
+Education directly causes improved life prospects for students.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Education has no influence on students' future opportunities or success.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The technology propelled society into a new era.
+</metaphor>
+<literal_paraphrase>
+The technology directly caused significant societal changes and advancement.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The technology had no effect on society's development or progress.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

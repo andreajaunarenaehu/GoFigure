@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+This theory is the ancestor of modern physics.
+</metaphor>
+<literal_paraphrase>
+This theory laid the foundational groundwork for and directly influenced the development of modern physics.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This theory has no historical connection to or influence on modern physics.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These two theories are sister approaches to solving the problem.
+</metaphor>
+<literal_paraphrase>
+These two theories are closely related and share similar methodological approaches to addressing the issue.
+</literal_paraphrase>
+<contradiction_paraphrase>
+These two theories are completely unrelated and use entirely different approaches to the problem.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The new theory is a direct descendant of classical mechanics.
+</metaphor>
+<literal_paraphrase>
+The new theory was developed from and builds upon the principles of classical mechanics.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The new theory has no connection to or basis in classical mechanics.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Quantum mechanics and relativity are distant cousins in the family of physics.
+</metaphor>
+<literal_paraphrase>
+Quantum mechanics and relativity share some common theoretical origins but have developed along different paths.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Quantum mechanics and relativity are completely unrelated fields with no common theoretical basis.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This theory gave birth to numerous new research directions.
+</metaphor>
+<literal_paraphrase>
+This theory directly led to the development of multiple new areas of research.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This theory resulted in no new research developments or directions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The parent theory has spawned many offspring in different fields.
+</metaphor>
+<literal_paraphrase>
+The original theory has led to many derivative theories across various disciplines.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The original theory remained isolated and never influenced other fields.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+These twin theories evolved from the same mathematical foundation.
+</metaphor>
+<literal_paraphrase>
+These two closely related theories were developed from the same mathematical basis.
+</literal_paraphrase>
+<contradiction_paraphrase>
+These theories developed from completely different mathematical foundations.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The theory's family tree branches into multiple disciplines.
+</metaphor>
+<literal_paraphrase>
+The theory's influence extends into various different academic fields and areas of study.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory remains confined to a single, narrow field of study.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This orphan theory developed independently of mainstream physics.
+</metaphor>
+<literal_paraphrase>
+This theory was created without direct influence from established physics principles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+This theory was developed directly from and heavily influenced by mainstream physics.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The grandmother theory nurtured generations of scientific thought.
+</metaphor>
+<literal_paraphrase>
+The fundamental theory has influenced multiple successive developments in scientific thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The theory had no lasting impact on scientific development or thinking.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

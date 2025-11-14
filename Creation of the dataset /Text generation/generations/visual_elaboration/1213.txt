@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some theories, like argumentative individuals, clash violently with each other.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competing theories are in conflict and opposition with each other.
+</implicit_meaning>
+
+<components>
+<object>Theories personified as argumentative people</object>
+<properties>Confrontational, opposing, aggressive</properties>
+<relations>Violent collision or conflict between entities</relations>
+</components>
+
+<visual_elaboration>
+Two angry figures in academic robes colliding head-on with sparks flying between them.
+</visual_elaboration>
+</metaphor_analysis>

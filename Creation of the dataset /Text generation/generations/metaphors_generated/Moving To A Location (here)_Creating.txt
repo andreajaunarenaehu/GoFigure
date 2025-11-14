@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her ideas arrived at their destination.
+</metaphor>
+<literal_paraphrase>
+She successfully completed the creation of her ideas.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her ideas remained incomplete and unformed.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The solution finally made its way here.
+</metaphor>
+<literal_paraphrase>
+The solution was successfully created after some effort.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The solution remained elusive and unsolved.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His masterpiece has landed.
+</metaphor>
+<literal_paraphrase>
+He has completed creating his masterpiece.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His masterpiece remains incomplete and unrealized.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The design journeyed into existence.
+</metaphor>
+<literal_paraphrase>
+The design was gradually created and completed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The design failed to materialize and remained conceptual.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their vision has reached its home.
+</metaphor>
+<literal_paraphrase>
+They have successfully created what they envisioned.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their vision remained abstract and unrealized.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The project has touched down.
+</metaphor>
+<literal_paraphrase>
+The project has been successfully created and completed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The project remains in planning stages and incomplete.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The innovation found its way to reality.
+</metaphor>
+<literal_paraphrase>
+The innovation was successfully created and implemented.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The innovation remained theoretical and impractical.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their concept has arrived at fruition.
+</metaphor>
+<literal_paraphrase>
+They have successfully created and realized their concept.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their concept stayed undeveloped and abstract.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The artwork has reached its final destination.
+</metaphor>
+<literal_paraphrase>
+The artwork has been completely created and finished.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The artwork remains incomplete and unfinished.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The invention has made its final stop.
+</metaphor>
+<literal_paraphrase>
+The invention has been fully created and completed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The invention remains in development and unfinished.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Causal chains forge the links of logical reasoning.
+</metaphor>
+<literal_paraphrase>
+Logical relations are built upon connected sequences of cause and effect relationships.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logical relations are random and disconnected from any cause-effect patterns.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The domino effect of causes orchestrates the symphony of logic.
+</metaphor>
+<literal_paraphrase>
+Sequential causal relationships create structured patterns in logical thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logical patterns emerge spontaneously without any causal sequence or structure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Cause-and-effect relationships are the DNA of logical connections.
+</metaphor>
+<literal_paraphrase>
+Causal relationships form the fundamental building blocks of logical reasoning.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logical connections exist independently of any underlying causal structure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The river of causality flows into the ocean of logic.
+</metaphor>
+<literal_paraphrase>
+Causal relationships naturally lead to and inform logical understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Causality and logic are entirely separate and unrelated systems of thought.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Causal roots nourish the tree of logical reasoning.
+</metaphor>
+<literal_paraphrase>
+Causal relationships provide the essential foundation for logical thinking.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logical reasoning flourishes without any causal basis or support.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The clockwork of causality drives the gears of logic.
+</metaphor>
+<literal_paraphrase>
+Causal mechanisms power and regulate logical operations and connections.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logic operates randomly without any causal mechanisms or regularity.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Causal stepping stones bridge the rapids of logical inference.
+</metaphor>
+<literal_paraphrase>
+Causal relationships provide necessary connections for logical reasoning steps.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logical inferences occur in leaps that bypass any causal connections.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The scaffold of causality builds the architecture of logic.
+</metaphor>
+<literal_paraphrase>
+Causal relationships provide the supporting framework for logical structures.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logical structures stand independently without any causal support or framework.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Causal threads weave the tapestry of logical relations.
+</metaphor>
+<literal_paraphrase>
+Interconnected causal relationships create complex patterns of logical understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logical relations are simple and isolated, requiring no causal interconnections.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The compass of causality guides the journey of logical discovery.
+</metaphor>
+<literal_paraphrase>
+Causal relationships direct and orient the development of logical understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Logical discoveries emerge randomly without any causal direction or guidance.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

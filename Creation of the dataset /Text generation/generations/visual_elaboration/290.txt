@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Life is a shopping cart filled with choices and decisions.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Life presents us with multiple options and decisions we must select from.
+</implicit_meaning>
+
+<components>
+<object>Shopping cart, Life</object>
+<properties>Filled, containing multiple items</properties>
+<relations>Choices and decisions are items that can be selected or left behind</relations>
+</components>
+
+<visual_elaboration>
+A shopping cart overflowing with glowing orbs labeled with different life choices and crossroads signs.
+</visual_elaboration>
+</metaphor_analysis>

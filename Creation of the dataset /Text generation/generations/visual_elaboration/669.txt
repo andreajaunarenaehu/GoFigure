@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her patience was a sealed bottle reaching its pressure point.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Building tension about to explode.
+</implicit_meaning>
+
+<components>
+<object>Sealed bottle, Patience</object>
+<properties>Pressurized, Ready to burst, Contained</properties>
+<relations>Bottle reaching maximum pressure capacity, like patience reaching its limit</relations>
+</components>
+
+<visual_elaboration>
+A glass bottle with cracks forming and steam pushing against its cork, about to pop.
+</visual_elaboration>
+</metaphor_analysis>

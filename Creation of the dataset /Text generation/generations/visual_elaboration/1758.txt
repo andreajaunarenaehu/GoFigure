@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The company's hunger for profit devoured its ethics.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Greed destroys moral values.
+</implicit_meaning>
+
+<components>
+<object>Company, Profit, Ethics</object>
+<properties>Hungry, Devouring, Consuming</properties>
+<relations>Company consuming/destroying ethics in pursuit of profit</relations>
+</components>
+
+<visual_elaboration>
+A corporate building with sharp teeth eating a glowing moral compass while money symbols float around it.
+</visual_elaboration>
+</metaphor_analysis>

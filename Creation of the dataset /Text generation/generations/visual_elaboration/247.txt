@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each difficult concept is a skilled tactician probing for gaps in understanding.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Complex ideas actively seek out weaknesses in our comprehension.
+</implicit_meaning>
+
+<components>
+<object>Difficult concept, Military tactician</object>
+<properties>Strategic, probing, searching</properties>
+<relations>Tactician actively searching for weak points in a defense (understanding)</relations>
+</components>
+
+<visual_elaboration>
+A military commander with a map examining a fortress wall with visible cracks and gaps.
+</visual_elaboration>
+</metaphor_analysis>

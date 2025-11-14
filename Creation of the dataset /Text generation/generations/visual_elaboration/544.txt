@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The gold rush of opportunity turns civilized people into desperate prospectors.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Greed transforms people into desperate seekers of wealth.
+</implicit_meaning>
+
+<components>
+<object>Civilized people, Gold prospectors</object>
+<properties>Transformation, Desperation, Greed</properties>
+<relations>People changing from refined to wild in pursuit of opportunities</relations>
+</components>
+
+<visual_elaboration>
+Well-dressed businesspeople frantically digging in mud with golden eyes and torn suits.
+</visual_elaboration>
+</metaphor_analysis>

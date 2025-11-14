@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That revolutionary idea is this season's hottest intellectual trend.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A popular and fashionable concept that everyone is discussing and adopting.
+</implicit_meaning>
+
+<components>
+<object>Revolutionary idea, Fashion trend</object>
+<properties>Hot, Popular, Current, Trendy</properties>
+<relations>Idea being treated like a fashion item on a runway</relations>
+</components>
+
+<visual_elaboration>
+A glowing lightbulb wearing a designer label strutting down a runway with cameras flashing.
+</visual_elaboration>
+</metaphor_analysis>

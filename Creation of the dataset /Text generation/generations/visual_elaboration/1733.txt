@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The fortune of good health compounds daily with wise choices.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Health benefits accumulate like financial investments over time.
+</implicit_meaning>
+
+<components>
+<object>Health, Money/Fortune</object>
+<properties>Growing, Accumulating, Compounding</properties>
+<relations>Daily choices lead to increased health wealth</relations>
+</components>
+
+<visual_elaboration>
+A growing money tree with leaves made of green hearts, each new branch sprouting from healthy lifestyle symbols.
+</visual_elaboration>
+</metaphor_analysis>

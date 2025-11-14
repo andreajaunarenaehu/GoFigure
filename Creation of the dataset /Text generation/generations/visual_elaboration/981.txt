@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His love was a cozy fireplace on a winter's night.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Warm and comforting.
+</implicit_meaning>
+
+<components>
+<object>Love, Fireplace</object>
+<properties>Warm, cozy, protective, comforting</properties>
+<relations>Love provides warmth and comfort like a fireplace during cold times</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped fireplace glowing warmly with snowflakes falling outside its window.
+</visual_elaboration>
+</metaphor_analysis>

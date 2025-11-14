@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each opportunity is a compass pointing to different destinations.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Opportunities provide different life directions and choices.
+</implicit_meaning>
+
+<components>
+<object>Compass, Opportunities, Destinations</object>
+<properties>Multiple directions, Guidance, Choice</properties>
+<relations>Compass pointing to multiple paths, showing different possibilities</relations>
+</components>
+
+<visual_elaboration>
+A golden compass with multiple arrows pointing to floating doorways, each showing different life scenes.
+</visual_elaboration>
+</metaphor_analysis>

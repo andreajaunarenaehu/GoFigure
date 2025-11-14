@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her life took a sharp turn towards happiness.
+</metaphor>
+<literal_paraphrase>
+She experienced a sudden and significant positive change in her emotional state.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her life remained steadily on the same emotional course without any changes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His anger made a U-turn into calm understanding.
+</metaphor>
+<literal_paraphrase>
+His emotional state completely reversed from anger to tranquility.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His anger continued to intensify without any sign of subsiding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their relationship veered off into friendship.
+</metaphor>
+<literal_paraphrase>
+Their romantic relationship transformed into a platonic friendship.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship maintained its original nature without any changes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The company pivoted from loss to profit.
+</metaphor>
+<literal_paraphrase>
+The company's financial situation changed from negative to positive.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The company's financial situation remained consistently unprofitable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His confidence swerved into self-doubt.
+</metaphor>
+<literal_paraphrase>
+His emotional state shifted suddenly from being confident to insecure.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His confidence remained unwavering and stable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The discussion took a detour through controversy.
+</metaphor>
+<literal_paraphrase>
+The conversation unexpectedly changed into a controversial topic.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The discussion stayed firmly on its original, uncontroversial course.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her career reversed course into entrepreneurship.
+</metaphor>
+<literal_paraphrase>
+She changed her professional path from employment to running her own business.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She continued in her traditional employment without any career changes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The project zigzagged from concept to completion.
+</metaphor>
+<literal_paraphrase>
+The project went through multiple changes and transitions before being finished.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The project proceeded directly from start to finish without any changes.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their friendship curved into romance.
+</metaphor>
+<literal_paraphrase>
+Their platonic relationship gradually transformed into a romantic one.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their friendship remained strictly platonic without any romantic development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The meeting spiraled into chaos.
+</metaphor>
+<literal_paraphrase>
+The organized meeting gradually transformed into a disorderly situation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The meeting maintained perfect order and structure throughout.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

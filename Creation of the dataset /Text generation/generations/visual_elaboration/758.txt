@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theory hibernated for decades before being revived.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A theory that remained dormant or unused for a long time before becoming active again.
+</implicit_meaning>
+
+<components>
+<object>Theory, Hibernating animal</object>
+<properties>Dormant, Inactive, Later awakening</properties>
+<relations>Theory is compared to a hibernating animal that wakes up after a long sleep</relations>
+</components>
+
+<visual_elaboration>
+A sleeping bear in a cave with mathematical formulas floating around it, slowly opening its eyes.
+</visual_elaboration>
+</metaphor_analysis>

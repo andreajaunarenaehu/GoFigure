@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her toxic relationship was a venomous snake she couldn't let go of.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmful attachment to something dangerous.
+</implicit_meaning>
+
+<components>
+<object>Relationship, Snake, Person</object>
+<properties>Toxic, Venomous, Unable to release</properties>
+<relations>Person holding onto dangerous snake despite harm</relations>
+</components>
+
+<visual_elaboration>
+A woman tightly embracing a coiled snake that's biting her shoulder while its tail wraps around her arms.
+</visual_elaboration>
+</metaphor_analysis>

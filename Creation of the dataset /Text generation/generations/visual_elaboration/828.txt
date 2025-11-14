@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Victory burns rubber on the track of achievement.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Success is achieved through intense, fast-paced effort.
+</implicit_meaning>
+
+<components>
+<object>Victory, Race track, Rubber tires</object>
+<properties>Burning, Speed, Motion</properties>
+<relations>Victory is depicted as a racing car leaving marks on a track</relations>
+</components>
+
+<visual_elaboration>
+A race car crossing finish line leaving blazing tire marks shaped like a trophy.
+</visual_elaboration>
+</metaphor_analysis>

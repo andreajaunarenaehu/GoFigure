@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their communication interface was incompatible.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Two people unable to understand or connect with each other.
+</implicit_meaning>
+
+<components>
+<object>Communication interface, Two people</object>
+<properties>Incompatible, Disconnected, Mismatched</properties>
+<relations>Failed connection between two entities</relations>
+</components>
+
+<visual_elaboration>
+Two people with different-shaped puzzle piece heads trying but failing to connect.
+</visual_elaboration>
+</metaphor_analysis>

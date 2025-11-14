@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The checkout counter of commitment awaits our final choices.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Making final decisions about relationships is like making purchases at a store.
+</implicit_meaning>
+
+<components>
+<object>Checkout counter, Relationship commitment</object>
+<properties>Finality, Decision-making, Transaction</properties>
+<relations>Person facing a moment of commitment like a customer at checkout</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped checkout counter with a nervous couple placing their relationship items while a clock looms above.
+</visual_elaboration>
+</metaphor_analysis>

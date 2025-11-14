@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His emotional foundation is built on solid bedrock.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional stability and strength.
+</implicit_meaning>
+
+<components>
+<object>Emotional foundation, bedrock</object>
+<properties>Solid, stable, unshakeable</properties>
+<relations>Foundation built upon strong base</relations>
+</components>
+
+<visual_elaboration>
+A person standing confidently on a massive stone platform with deep roots extending into bedrock.
+</visual_elaboration>
+</metaphor_analysis>

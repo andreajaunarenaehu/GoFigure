@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The elixir of passion transformed her gentle touch into raw force.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love or desire can change gentle behavior into intense actions.
+</implicit_meaning>
+
+<components>
+<object>Elixir, Touch/Hand</object>
+<properties>Gentle becoming forceful, Transformative, Passionate</properties>
+<relations>Transformation from soft to powerful through magical liquid</relations>
+</components>
+
+<visual_elaboration>
+A delicate hand dipped in glowing red potion morphs into a powerful fist with energy waves.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a shared water reservoir.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is a finite resource that everyone must share and use carefully.
+</implicit_meaning>
+
+<components>
+<object>Time, Water Reservoir</object>
+<properties>Limited, Shared, Depleting</properties>
+<relations>Multiple people drawing from same source</relations>
+</components>
+
+<visual_elaboration>
+A large water reservoir with multiple people drawing water with buckets, while the water level visibly decreases.
+</visual_elaboration>
+</metaphor_analysis>

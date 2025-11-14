@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The project plan was laid out like a precise architectural blueprint.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Detailed and meticulously organized.
+</implicit_meaning>
+
+<components>
+<object>Project plan, Architectural blueprint</object>
+<properties>Precise, detailed, structured</properties>
+<relations>Plan is compared to blueprint, suggesting organization and detail</relations>
+</components>
+
+<visual_elaboration>
+A blueprint with project tasks drawn as building elements, complete with measurements and annotations.
+</visual_elaboration>
+</metaphor_analysis>

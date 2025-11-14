@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Society's immune system fights against corruption and crime.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Society has natural defense mechanisms against harmful elements.
+</implicit_meaning>
+
+<components>
+<object>Society, immune system, corruption/crime</object>
+<properties>Defensive, protective, harmful</properties>
+<relations>Fighting against, protecting from invasion</relations>
+</components>
+
+<visual_elaboration>
+White blood cells wearing police badges attacking dark virus-shaped figures labeled "corruption" and "crime".
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Competitors are hyenas circling the last remaining prey.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Aggressive and opportunistic business competition.
+</implicit_meaning>
+
+<components>
+<object>Competitors, hyenas, prey</object>
+<properties>Predatory, circular movement, last remaining</properties>
+<relations>Surrounding, hunting, threatening</relations>
+</components>
+
+<visual_elaboration>
+Business people with hyena heads in suits circling a wounded deer in a corporate office.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Progress leaps forward in bounds.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rapid advancement or development happening in big jumps rather than gradually.
+</implicit_meaning>
+
+<components>
+<object>Progress, Movement</object>
+<properties>Forward motion, Leaping, Bounding</properties>
+<relations>Progress is personified as something that can leap and bound forward</relations>
+</components>
+
+<visual_elaboration>
+A figure jumping up stairs that get progressively larger, leaving glowing footprints behind.
+</visual_elaboration>
+</metaphor_analysis>

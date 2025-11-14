@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Events are racing down a highway of change.
+</metaphor>
+<literal_paraphrase>
+External circumstances are developing and changing rapidly in a clear direction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Events are stagnant and directionless, showing no signs of development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The wheels of circumstance keep rolling forward.
+</metaphor>
+<literal_paraphrase>
+External situations continue to develop and advance naturally over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+External circumstances remain frozen in place, refusing to evolve.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life's conveyor belt carries events steadily ahead.
+</metaphor>
+<literal_paraphrase>
+Situations and circumstances progress in a continuous, mechanical fashion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Events are randomly scattered with no consistent progression or pattern.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The march of events tramples through time.
+</metaphor>
+<literal_paraphrase>
+External circumstances advance forcefully and inevitably through time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Events drift aimlessly, lacking any forward momentum or direction.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Circumstances glide like skaters on ice, always moving ahead.
+</metaphor>
+<literal_paraphrase>
+Events progress smoothly and gracefully in a forward direction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Circumstances stumble and fall backward, losing all momentum.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The river of events flows endlessly downstream.
+</metaphor>
+<literal_paraphrase>
+External situations continue to advance naturally and unstoppably.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Events pool in a stagnant pond, refusing to move forward.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The locomotive of circumstance steams ahead relentlessly.
+</metaphor>
+<literal_paraphrase>
+External events progress powerfully and unstoppably along a set path.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Circumstances remain derailed and motionless, unable to advance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Events sprint forward like Olympic runners.
+</metaphor>
+<literal_paraphrase>
+External circumstances progress rapidly and purposefully toward a goal.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Events collapse exhausted, making no progress toward any destination.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The arrow of circumstance flies straight ahead.
+</metaphor>
+<literal_paraphrase>
+Events progress directly and swiftly toward their natural conclusion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Circumstances fall to the ground, never reaching their intended target.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The escalator of events carries everything upward and onward.
+</metaphor>
+<literal_paraphrase>
+External circumstances progress automatically and steadily in a forward direction.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Events remain trapped on a broken escalator, unable to move forward.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

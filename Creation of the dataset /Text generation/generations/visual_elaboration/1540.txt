@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Adherence is the glue that binds compliance together.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Following rules consistently keeps a system functioning properly.
+</implicit_meaning>
+
+<components>
+<object>Glue, Compliance documents</object>
+<properties>Binding, Adhesive, Strong</properties>
+<relations>Glue holding separate pieces together</relations>
+</components>
+
+<visual_elaboration>
+Stack of compliance documents held together by visible glue drips forming a strong bond between pages.
+</visual_elaboration>
+</metaphor_analysis>

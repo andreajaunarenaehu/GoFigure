@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The storm of evidence washed away our misconceptions about the past.
+</linguistic_metaphor>
+
+<implicit_meaning>
+New information forcefully clearing away false beliefs.
+</implicit_meaning>
+
+<components>
+<object>Storm, Evidence, Misconceptions</object>
+<properties>Forceful, Cleansing, Overwhelming</properties>
+<relations>Storm washing away/clearing misconceptions like debris</relations>
+</components>
+
+<visual_elaboration>
+Documents and papers swirling in a tornado, sweeping away old photographs that dissolve in the rain.
+</visual_elaboration>
+</metaphor_analysis>

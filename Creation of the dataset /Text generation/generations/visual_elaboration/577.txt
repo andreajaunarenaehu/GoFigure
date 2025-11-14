@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The storm of change floods some valleys while leaving others in drought.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Change affects people unequally, benefiting some while harming others.
+</implicit_meaning>
+
+<components>
+<object>Storm, valleys, flood, drought</object>
+<properties>Contrasting effects, uneven distribution, dramatic impact</properties>
+<relations>Storm causing simultaneous flooding and drought in different areas</relations>
+</components>
+
+<visual_elaboration>
+A landscape split in half: one side lush and flooded, the other barren and cracked.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their innovation pipeline is a rich vein of intellectual gold.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Valuable and abundant source of ideas.
+</implicit_meaning>
+
+<components>
+<object>Innovation pipeline, Gold vein</object>
+<properties>Rich, valuable, flowing, continuous</properties>
+<relations>Pipeline contains/flows with valuable ideas like a gold vein contains precious metal</relations>
+</components>
+
+<visual_elaboration>
+A glowing golden pipeline with bright ideas flowing through it like sparkling nuggets.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,11 @@
+I understand that I need to generate metaphors based on a source and target, but I don't see the specific source and target provided in your request. Could you please provide:
+
+<source>
+[What entities or concepts should I use as the source domain?]
+</source>
+
+<target>
+[What attributes or concepts should I describe metaphorically?]
+</target>
+
+Once you provide these, I can generate 10 creative metaphors with their corresponding literal and contradiction paraphrases in the requested format. Each metaphor will draw from the source domain to illustrate aspects of the target domain, accompanied by both literal explanations and contradictory statements.

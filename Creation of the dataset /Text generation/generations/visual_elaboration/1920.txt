@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His cruel words were a hammer to her self-esteem's delicate machinery.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Destructive impact of harsh words on fragile emotions.
+</implicit_meaning>
+
+<components>
+<object>Words as hammer, self-esteem as machinery</object>
+<properties>Cruel, destructive, delicate, fragile</properties>
+<relations>Hammer smashing/breaking delicate mechanical parts</relations>
+</components>
+
+<visual_elaboration>
+A large hammer shattering a glass clockwork mechanism with gears and springs flying apart.
+</visual_elaboration>
+</metaphor_analysis>

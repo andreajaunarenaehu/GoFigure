@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time's staircase leads from cause to consequence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Actions have sequential effects that unfold over time.
+</implicit_meaning>
+
+<components>
+<object>Staircase, Time</object>
+<properties>Sequential, Connected steps, Ascending/Descending</properties>
+<relations>Movement from one point (cause) to another (consequence)</relations>
+</components>
+
+<visual_elaboration>
+A spiral staircase with dominoes falling down each step, each domino triggering the next.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,119 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Each research finding is a puzzle piece that fits perfectly into the bigger picture.
+</metaphor>
+<literal_paraphrase>
+Research discoveries are individual components that contribute to a complete understanding of the subject.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Research findings are isolated facts that have no connection to each other or the broader context.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Like sorting puzzle pieces, researchers must organize their data methodically.
+</metaphor>
+<literal_paraphrase>
+Researchers need to systematically categorize and arrange their collected information.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Researchers can work with their data in a random, disorganized manner without any system.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The edges of understanding come first, just like framing a puzzle.
+</metaphor>
+<literal_paraphrase>
+Establishing the basic framework and boundaries of research helps guide the entire investigation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Research should begin with complex central issues before understanding the fundamental concepts.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Sometimes you have to flip a piece around to see how it fits into your research.
+</metaphor>
+<literal_paraphrase>
+Examining data from different perspectives can lead to better understanding and insights.
+</literal_paraphrase>
+<contradiction_paraphrase>
+There is only one way to interpret research data, and alternative viewpoints are unnecessary.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Missing pieces in research create gaps that need to be filled.
+</metaphor>
+<literal_paraphrase>
+Incomplete information in research requires additional investigation to complete the study.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Research can be considered complete even with significant knowledge gaps.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The image becomes clearer as more pieces of evidence fall into place.
+</metaphor>
+<literal_paraphrase>
+Understanding improves as more research data is collected and analyzed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Additional evidence tends to make research conclusions more confusing and unclear.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some research pieces might look like they fit, but forcing them leads to distorted results.
+</metaphor>
+<literal_paraphrase>
+Misinterpreting or manipulating data to match expectations can lead to incorrect conclusions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+All data should be made to fit predetermined conclusions regardless of actual compatibility.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Working from multiple angles helps complete the research picture.
+</metaphor>
+<literal_paraphrase>
+Using various research methods and approaches leads to more comprehensive results.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Focusing on a single research approach is sufficient for complete understanding.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Each researcher adds their pieces to the collective knowledge puzzle.
+</metaphor>
+<literal_paraphrase>
+Individual research contributions build upon existing knowledge to expand understanding.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Research exists in isolation and doesn't contribute to broader scientific knowledge.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The final picture might not match what was on the box of expectations.
+</metaphor>
+<literal_paraphrase>
+Research outcomes may differ from initial hypotheses or anticipated results.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Research results always conform exactly to preliminary expectations.
+</contradiction_paraphrase>

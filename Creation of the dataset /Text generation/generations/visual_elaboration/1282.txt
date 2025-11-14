@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some ideas are rusty keys that unlock ancient doors.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Old ideas can reveal hidden knowledge.
+</implicit_meaning>
+
+<components>
+<object>Ideas, keys, doors</object>
+<properties>Rusty, ancient, unlocking</properties>
+<relations>Keys (ideas) unlock doors (knowledge)</relations>
+</components>
+
+<visual_elaboration>
+A weathered key transforming into a glowing lightbulb while opening an ornate medieval door.
+</visual_elaboration>
+</metaphor_analysis>

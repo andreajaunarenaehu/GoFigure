@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His circuits were overheating in her presence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Feeling nervous or intensely attracted to someone.
+</implicit_meaning>
+
+<components>
+<object>Person (represented as having circuits), Woman's presence</object>
+<properties>Overheating, Malfunctioning, Electronic</properties>
+<relations>The circuits (representing emotions/mind) react to proximity of another person</relations>
+</components>
+
+<visual_elaboration>
+A robotic man with visible circuits glowing red and steam rising from his head while facing a woman.
+</visual_elaboration>
+</metaphor_analysis>

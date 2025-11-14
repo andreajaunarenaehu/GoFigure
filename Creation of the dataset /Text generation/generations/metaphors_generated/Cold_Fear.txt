@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Fear is a freezing wind that paralyzes the soul.
+</metaphor>
+<literal_paraphrase>
+Fear causes people to become mentally and physically immobilized, unable to act or think clearly.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Fear is a warming breeze that energizes and motivates action.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His fear crystallized into sharp icicles of doubt.
+</metaphor>
+<literal_paraphrase>
+His fear transformed into specific, piercing worries that caused him distress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His fear melted away into pools of confidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The cold grip of fear froze her thoughts in place.
+</metaphor>
+<literal_paraphrase>
+Fear prevented her from thinking clearly or making decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The warm embrace of fear freed her mind to explore possibilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Fear spread through him like frost on a window pane.
+</metaphor>
+<literal_paraphrase>
+Fear gradually consumed his entire consciousness, making everything unclear.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Fear evaporated from him like morning dew in sunshine.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her fear was a winter that wouldn't thaw.
+</metaphor>
+<literal_paraphrase>
+Her fear was persistent and showed no signs of diminishing over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her fear was a brief autumn frost that quickly melted away.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The chill of fear numbed his ability to respond.
+</metaphor>
+<literal_paraphrase>
+Fear made him unable to react appropriately to the situation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The warmth of fear heightened his reflexes and responses.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Fear settled like permafrost in her bones.
+</metaphor>
+<literal_paraphrase>
+Fear became deeply embedded in her consciousness and wouldn't go away.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Fear floated away like steam from her body.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His words were frozen by the blizzard of fear.
+</metaphor>
+<literal_paraphrase>
+Fear prevented him from speaking or expressing himself.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His words flowed freely in the warmth of fear.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Fear created an arctic wasteland in her mind.
+</metaphor>
+<literal_paraphrase>
+Fear made her mind feel empty and desolate, devoid of positive thoughts.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Fear cultivated a tropical garden in her mind.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The cold chains of fear bound his courage.
+</metaphor>
+<literal_paraphrase>
+Fear prevented him from acting bravely or taking necessary risks.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The warm wings of fear lifted his courage higher.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

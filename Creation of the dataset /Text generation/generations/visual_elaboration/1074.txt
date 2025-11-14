@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She maintained a squeaky-clean record throughout her career.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Perfect, spotless professional history without any mistakes or wrongdoing.
+</implicit_meaning>
+
+<components>
+<object>Professional record/document</object>
+<properties>Spotless, shining, pristine</properties>
+<relations>Maintenance of cleanliness over time</relations>
+</components>
+
+<visual_elaboration>
+A sparkling white document with soap bubbles floating around it, emitting a bright gleam.
+</visual_elaboration>
+</metaphor_analysis>

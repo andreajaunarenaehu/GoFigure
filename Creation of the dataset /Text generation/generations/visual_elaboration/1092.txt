@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mind digested the new information slowly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Processing and understanding information takes time, like digesting food.
+</implicit_meaning>
+
+<components>
+<object>Mind, Information</object>
+<properties>Slow, Processing, Digestive</properties>
+<relations>Mind is treating information like food being digested</relations>
+</components>
+
+<visual_elaboration>
+A brain with a mouth chewing on floating books and papers, with thought bubbles emerging gradually.
+</visual_elaboration>
+</metaphor_analysis>

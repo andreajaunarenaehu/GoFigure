@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The project breathes with vibrant energy.
+</metaphor>
+<literal_paraphrase>
+The project maintains consistent and dynamic activity levels.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The project is stagnant and shows no signs of progress.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her ideas pulse with living force.
+</metaphor>
+<literal_paraphrase>
+Her ideas demonstrate continuous and energetic development.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her ideas are lifeless and lack any momentum.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The market's heartbeat quickens daily.
+</metaphor>
+<literal_paraphrase>
+The market shows increasing levels of activity and transactions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The market is dormant with declining participation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their business grows like a thriving organism.
+</metaphor>
+<literal_paraphrase>
+Their business continuously expands and develops naturally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their business remains static and shows no organic growth.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The community's spirit breathes life into local events.
+</metaphor>
+<literal_paraphrase>
+The community's engagement makes local events dynamic and successful.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The community's apathy makes local events dull and unsuccessful.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His career flourishes like a well-nourished plant.
+</metaphor>
+<literal_paraphrase>
+His career progresses steadily with constant activity and growth.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His career withers from lack of engagement and development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The city's streets teem with living energy.
+</metaphor>
+<literal_paraphrase>
+The city's streets are busy with constant movement and activity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The city's streets are empty and devoid of movement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their partnership breathes new life into old traditions.
+</metaphor>
+<literal_paraphrase>
+Their partnership actively revitalizes and modernizes traditional practices.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their partnership allows traditions to become obsolete and forgotten.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The research team's efforts pulse with vital energy.
+</metaphor>
+<literal_paraphrase>
+The research team maintains consistent and productive work patterns.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The research team's efforts are inconsistent and unproductive.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The organization's mission lives through its daily actions.
+</metaphor>
+<literal_paraphrase>
+The organization actively demonstrates its mission through regular activities.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The organization's mission remains theoretical with no practical implementation.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

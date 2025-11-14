@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her theory was a perfectly seasoned argument.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Well-balanced and refined intellectual work.
+</implicit_meaning>
+
+<components>
+<object>Theory, Seasoning/Spices</object>
+<properties>Perfect balance, well-mixed, refined</properties>
+<relations>Theory is compared to a well-seasoned dish</relations>
+</components>
+
+<visual_elaboration>
+A book with spice jars balanced on its pages, each spice mixing into glowing text.
+</visual_elaboration>
+</metaphor_analysis>

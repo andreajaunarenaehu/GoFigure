@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He traded his old beliefs for new ones at the marketplace of ideas.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Exchanging old thoughts for new perspectives through intellectual discourse.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Marketplace</object>
+<properties>Old and new beliefs, trading/exchange</properties>
+<relations>Person exchanging/trading beliefs like commodities in a market</relations>
+</components>
+
+<visual_elaboration>
+A person at a market stall exchanging worn scrolls for shiny new ones with glowing text.
+</visual_elaboration>
+</metaphor_analysis>

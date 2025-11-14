@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Focused attention is a sealed compartment within sight.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Concentration isolates and contains specific visual information while blocking out distractions.
+</implicit_meaning>
+
+<components>
+<object>Attention, Sealed compartment, Sight</object>
+<properties>Focused, Contained, Isolated</properties>
+<relations>Compartment exists within larger field of vision</relations>
+</components>
+
+<visual_elaboration>
+A spotlight beam creating a sealed glass box around a single object while everything else remains dark and blurry.
+</visual_elaboration>
+</metaphor_analysis>

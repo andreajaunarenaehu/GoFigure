@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Here is the anchor of being.
+</metaphor>
+<literal_paraphrase>
+The present moment is the fundamental point of our existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The present moment has no connection to our existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This place cradles consciousness.
+</metaphor>
+<literal_paraphrase>
+Our current location and moment sustains our awareness of existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our present location has no impact on our consciousness or awareness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The doorway of now opens to being.
+</metaphor>
+<literal_paraphrase>
+The present moment provides access to experiencing existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The present moment blocks our connection to existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Here is the root of reality's tree.
+</metaphor>
+<literal_paraphrase>
+The present location and moment form the foundation of our existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The present moment is disconnected from the foundation of existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This spot is existence's stage.
+</metaphor>
+<literal_paraphrase>
+Our current location serves as the platform where existence manifests.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our current location has no role in manifesting existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Here weaves the fabric of being.
+</metaphor>
+<literal_paraphrase>
+The present moment creates and maintains our existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The present moment destroys and unravels our existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This place is the lens of existence.
+</metaphor>
+<literal_paraphrase>
+Our current location focuses and clarifies our experience of being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our current location distorts and obscures our experience of being.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Here holds the compass of being.
+</metaphor>
+<literal_paraphrase>
+The present moment guides our understanding of existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The present moment misleads our understanding of existence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+This space is existence's mirror.
+</metaphor>
+<literal_paraphrase>
+Our current location reflects the nature of our being.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Our current location distorts and misrepresents our being.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Here writes the story of being.
+</metaphor>
+<literal_paraphrase>
+The present moment creates and records our existence.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The present moment erases and negates our existence.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

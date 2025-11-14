@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These facts form a constellation of evidence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Connected pieces of information forming a clear pattern.
+</implicit_meaning>
+
+<components>
+<object>Facts, Constellation, Evidence</object>
+<properties>Connected, Scattered yet organized, Illuminating</properties>
+<relations>Facts are arranged like stars in a constellation, forming a meaningful pattern</relations>
+</components>
+
+<visual_elaboration>
+Documents and papers arranged in the night sky, connected by glowing lines forming a clear star pattern.
+</visual_elaboration>
+</metaphor_analysis>

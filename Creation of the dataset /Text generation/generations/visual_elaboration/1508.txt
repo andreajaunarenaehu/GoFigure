@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her self-applied shoulder squeeze conducted electricity through circuits of confidence.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Self-reassurance generates inner strength and confidence.
+</implicit_meaning>
+
+<components>
+<object>Shoulder squeeze, electricity, circuits</object>
+<properties>Self-applied, conductive, energizing</properties>
+<relations>Physical touch creating electrical flow through body circuits</relations>
+</components>
+
+<visual_elaboration>
+A woman squeezing her shoulder with glowing electrical circuits lighting up throughout her body in bright confidence.
+</visual_elaboration>
+</metaphor_analysis>

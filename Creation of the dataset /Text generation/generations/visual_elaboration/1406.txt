@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The locomotive of circumstance steams ahead relentlessly.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstoppable force of events moving forward without control.
+</implicit_meaning>
+
+<components>
+<object>Locomotive, circumstances (events)</object>
+<properties>Steaming, relentless, unstoppable</properties>
+<relations>Forward movement, mechanical force</relations>
+</components>
+
+<visual_elaboration>
+A massive steam locomotive bursting through a calendar, leaving torn pages flying behind it.
+</visual_elaboration>
+</metaphor_analysis>

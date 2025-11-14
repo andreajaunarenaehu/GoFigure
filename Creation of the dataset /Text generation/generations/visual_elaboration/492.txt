@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The difficulty circled overhead like a hungry vulture.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A threatening problem that looms and waits to strike.
+</implicit_meaning>
+
+<components>
+<object>Difficulty personified as a vulture</object>
+<properties>Circling, hungry, threatening, overhead</properties>
+<relations>Hovering above, waiting to descend</relations>
+</components>
+
+<visual_elaboration>
+A dark vulture with glowing red eyes circles above a nervous person casting an ominous shadow.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His sobriety crumbled like a condemned building.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Loss of control and collapse of willpower.
+</implicit_meaning>
+
+<components>
+<object>Sobriety, condemned building</object>
+<properties>Crumbling, unstable, falling apart</properties>
+<relations>Person's sobriety is compared to a collapsing structure</relations>
+</components>
+
+<visual_elaboration>
+A man's silhouette made of crumbling bricks falling apart while holding a bottle.
+</visual_elaboration>
+</metaphor_analysis>

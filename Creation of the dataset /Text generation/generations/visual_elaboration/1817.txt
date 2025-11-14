@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their barricades became daggers in her path.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Obstacles that are harmful and threatening.
+</implicit_meaning>
+
+<components>
+<object>Barricades, daggers, path</object>
+<properties>Sharp, dangerous, blocking, threatening</properties>
+<relations>Barricades transform into weapons that obstruct movement</relations>
+</components>
+
+<visual_elaboration>
+A path lined with barricades that morph into giant sharp daggers pointing inward toward a walking figure.
+</visual_elaboration>
+</metaphor_analysis>

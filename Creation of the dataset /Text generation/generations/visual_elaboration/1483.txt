@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a relentless wave rolling toward the shore of our present.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time moves forward unstoppably and continuously.
+</implicit_meaning>
+
+<components>
+<object>Time, Wave, Shore</object>
+<properties>Relentless, Continuous, Inevitable</properties>
+<relations>Wave moving toward shore, representing time's forward motion</relations>
+</components>
+
+<visual_elaboration>
+A massive wave with clock faces floating in its water, crashing toward a beach where a person stands.
+</visual_elaboration>
+</metaphor_analysis>

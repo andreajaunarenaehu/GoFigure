@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The market is a nest of seagulls fighting over a single fish.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competitive and chaotic environment where many fight over limited resources.
+</implicit_meaning>
+
+<components>
+<object>Market, seagulls, fish, nest</object>
+<properties>Chaotic, aggressive, competitive</properties>
+<relations>Multiple entities fighting over one resource</relations>
+</components>
+
+<visual_elaboration>
+A group of frenzied seagulls in business suits squawking and clashing over a golden fish.
+</visual_elaboration>
+</metaphor_analysis>

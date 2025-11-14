@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their relationship starved from lack of attention.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Neglect leading to deterioration of a relationship.
+</implicit_meaning>
+
+<components>
+<object>Relationship, Food/Nourishment</object>
+<properties>Starving, Withering, Weakening</properties>
+<relations>Lack of sustenance (attention) causing decay</relations>
+</components>
+
+<visual_elaboration>
+Two wilted flowers in a dry vase with empty water droplets falling around them.
+</visual_elaboration>
+</metaphor_analysis>

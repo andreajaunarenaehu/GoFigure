@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their borders form a perfect circle of cooperation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmonious and complete collaboration between neighboring regions.
+</implicit_meaning>
+
+<components>
+<object>Borders, Circle</object>
+<properties>Perfect, Complete, United</properties>
+<relations>Formation of unified boundary through cooperation</relations>
+</components>
+
+<visual_elaboration>
+Multiple hands of different colors joining together to form a perfect circle against a map background.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their passion was a grenade with a loose pin.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Dangerous and explosive relationship that could detonate at any moment.
+</implicit_meaning>
+
+<components>
+<object>Passion, Grenade</object>
+<properties>Unstable, explosive, dangerous</properties>
+<relations>The passion is compared to an unstable explosive device ready to detonate</relations>
+</components>
+
+<visual_elaboration>
+A heart-shaped grenade with a dangling pin, cracks forming on its surface and emitting sparks.
+</visual_elaboration>
+</metaphor_analysis>

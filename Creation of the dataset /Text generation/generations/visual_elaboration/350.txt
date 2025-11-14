@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She stands firm like a deeply rooted tree in emotional storms.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional stability and resilience in difficult times.
+</implicit_meaning>
+
+<components>
+<object>Woman, Tree</object>
+<properties>Deeply rooted, firm, stable</properties>
+<relations>Standing against emotional storms</relations>
+</components>
+
+<visual_elaboration>
+A woman's body merging into a tree trunk with deep roots, while storm clouds swirl around her calm face.
+</visual_elaboration>
+</metaphor_analysis>

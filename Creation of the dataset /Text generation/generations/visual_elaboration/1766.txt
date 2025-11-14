@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Like a complete ecosystem, coherence sustains itself through unity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Interconnectedness and self-sustaining harmony.
+</implicit_meaning>
+
+<components>
+<object>Ecosystem, Coherence</object>
+<properties>Complete, unified, self-sustaining</properties>
+<relations>Parts working together in harmony</relations>
+</components>
+
+<visual_elaboration>
+A circular forest ecosystem where trees, animals, and water flow together in a perfect circle.
+</visual_elaboration>
+</metaphor_analysis>

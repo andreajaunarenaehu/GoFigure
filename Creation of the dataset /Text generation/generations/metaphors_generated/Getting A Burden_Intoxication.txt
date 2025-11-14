@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The weight of intoxication pressed down on his shoulders.
+</metaphor>
+<literal_paraphrase>
+The effects of alcohol made him feel physically and mentally heavy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The alcohol made him feel weightless and unburdened.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He carried his drunkenness like a heavy backpack.
+</metaphor>
+<literal_paraphrase>
+The state of being drunk felt like a cumbersome responsibility to manage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His intoxication felt effortless and completely manageable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The load of inebriation dragged him down with each step.
+</metaphor>
+<literal_paraphrase>
+Being drunk made it difficult for him to walk and move normally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The alcohol made his movements light and graceful.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His intoxication was a crushing load on his mind.
+</metaphor>
+<literal_paraphrase>
+The alcohol severely impaired his thinking and mental clarity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The alcohol enhanced his mental sharpness and cognitive abilities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She struggled under the burden of wine's influence.
+</metaphor>
+<literal_paraphrase>
+The effects of wine made it difficult for her to function normally.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The wine's effects made everything easier and more manageable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The weight of drinks stacked up like bricks on his consciousness.
+</metaphor>
+<literal_paraphrase>
+Each additional drink made him progressively more intoxicated and less aware.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Each drink made him more alert and mentally sharper.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her sobriety crumbled under the heavy load of cocktails.
+</metaphor>
+<literal_paraphrase>
+Multiple cocktails gradually eroded her ability to maintain clear-headed behavior.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The cocktails enhanced her sobriety and self-control.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The burden of beer weighed down his eyelids.
+</metaphor>
+<literal_paraphrase>
+The alcohol made him feel very sleepy and drowsy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The beer made him feel energetic and wide awake.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His speech stumbled under the weight of whiskey.
+</metaphor>
+<literal_paraphrase>
+The whiskey made it difficult for him to speak clearly and coherently.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The whiskey made his speech more articulate and precise.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The heavy chains of intoxication bound his judgment.
+</metaphor>
+<literal_paraphrase>
+Being drunk severely impaired his ability to make good decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The alcohol enhanced his decision-making abilities and wisdom.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

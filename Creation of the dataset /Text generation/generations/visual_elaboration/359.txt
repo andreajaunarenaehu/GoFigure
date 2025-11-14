@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His emotional fortress stands unbreached.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotionally guarded and impenetrable.
+</implicit_meaning>
+
+<components>
+<object>Fortress, Emotions</object>
+<properties>Strong, Impenetrable, Defensive</properties>
+<relations>The fortress represents emotional barriers protecting the person</relations>
+</components>
+
+<visual_elaboration>
+A stone fortress with high walls and a person's face visible through a single closed window.
+</visual_elaboration>
+</metaphor_analysis>

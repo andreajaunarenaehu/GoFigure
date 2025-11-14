@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her words were sharp daggers that pierced through his defenses.
+</metaphor>
+<literal_paraphrase>
+Her harsh comments caused emotional pain and broke through his emotional barriers.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her words were gentle caresses that reinforced his emotional walls.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His vocabulary was an arsenal of precision-guided missiles.
+</metaphor>
+<literal_paraphrase>
+He possessed an extensive collection of carefully chosen words that achieved their intended effect.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His vocabulary was limited and imprecise, missing its mark consistently.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She loaded her argument with verbal ammunition.
+</metaphor>
+<literal_paraphrase>
+She prepared multiple supporting points to strengthen her argument.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She approached the discussion without any preparation or supporting evidence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His words were a shield against criticism.
+</metaphor>
+<literal_paraphrase>
+He used careful language to protect himself from negative feedback.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His words left him completely vulnerable to attacks.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The debate was a crossfire of verbal artillery.
+</metaphor>
+<literal_paraphrase>
+The discussion involved intense exchanges of aggressive arguments from both sides.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The debate was a peaceful exchange of gentle suggestions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their words were landmines scattered throughout the conversation.
+</metaphor>
+<literal_paraphrase>
+Their potentially hurtful comments were hidden throughout the discussion, ready to cause damage.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their words were clearly visible beacons of safety in the conversation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He deployed his vocabulary with sniper-like precision.
+</metaphor>
+<literal_paraphrase>
+He chose and used his words carefully and accurately to achieve specific effects.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He scattered his words randomly without any thought or accuracy.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her criticism was a carpet bombing of harsh words.
+</metaphor>
+<literal_paraphrase>
+She expressed widespread, extensive criticism that affected everything indiscriminately.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her criticism was precise and limited to specific issues.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their argument escalated into verbal nuclear warfare.
+</metaphor>
+<literal_paraphrase>
+Their disagreement intensified to extremely destructive levels of communication.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their argument remained contained and constructive throughout.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He stockpiled powerful phrases for the confrontation.
+</metaphor>
+<literal_paraphrase>
+He prepared and saved impactful statements to use in the upcoming discussion.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He entered the confrontation unprepared and without any planned responses.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

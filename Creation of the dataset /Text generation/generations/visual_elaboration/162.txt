@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her eyes wandered through the crowded room.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Searching or scanning without focus.
+</implicit_meaning>
+
+<components>
+<object>Eyes, Room, Crowd</object>
+<properties>Moving, Wandering, Crowded</properties>
+<relations>Eyes moving independently through space like floating entities</relations>
+</components>
+
+<visual_elaboration>
+Two disembodied eyes floating through a maze of silhouetted people in a crowded space.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Beliefs are the landmarks in our mental geography.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs serve as reference points that guide our thinking and decision-making.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Mental landscape</object>
+<properties>Fixed, Guiding, Prominent</properties>
+<relations>Landmarks serving as navigation points in mental space</relations>
+</components>
+
+<visual_elaboration>
+A brain-shaped landscape with prominent monuments and signposts marking different belief systems.
+</visual_elaboration>
+</metaphor_analysis>

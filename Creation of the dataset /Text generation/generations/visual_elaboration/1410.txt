@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The poison of his words seeped into her resolve.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Harmful words gradually destroying someone's determination.
+</implicit_meaning>
+
+<components>
+<object>Words, Poison, Resolve</object>
+<properties>Toxic, Destructive, Seeping</properties>
+<relations>Words acting as poison, gradually weakening resolve</relations>
+</components>
+
+<visual_elaboration>
+A dark liquid dripping from speech bubbles onto a crumbling stone fortress representing resolve.
+</visual_elaboration>
+</metaphor_analysis>

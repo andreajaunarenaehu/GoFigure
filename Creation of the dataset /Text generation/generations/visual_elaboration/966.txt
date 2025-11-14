@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope asks "why" like a curious child.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hope is innocent and persistently questioning like a child's natural curiosity.
+</implicit_meaning>
+
+<components>
+<object>Hope, Child</object>
+<properties>Curious, questioning, innocent</properties>
+<relations>Hope is personified as a child asking questions</relations>
+</components>
+
+<visual_elaboration>
+A glowing child-like figure made of light repeatedly writing "why" on an endless wall.
+</visual_elaboration>
+</metaphor_analysis>

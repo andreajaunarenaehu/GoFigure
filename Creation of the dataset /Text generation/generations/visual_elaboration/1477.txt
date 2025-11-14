@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The new regulations channeled investments into sustainable projects.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Directing money flow like water through pipes.
+</implicit_meaning>
+
+<components>
+<object>Regulations, investments, sustainable projects</object>
+<properties>Flowing, directing, channeling</properties>
+<relations>Regulations acting as pipes to direct flow of money</relations>
+</components>
+
+<visual_elaboration>
+A pipeline system with dollar signs flowing through green-tinted tubes toward sprouting plants.
+</visual_elaboration>
+</metaphor_analysis>

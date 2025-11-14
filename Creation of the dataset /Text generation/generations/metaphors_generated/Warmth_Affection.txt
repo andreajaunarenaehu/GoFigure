@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her affection radiated like a gentle sunbeam.
+</metaphor>
+<literal_paraphrase>
+She expressed her love and care in a way that made others feel comfortable and appreciated.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her coldness created distance and made others feel unwelcome.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His love was a cozy fireplace on a winter's night.
+</metaphor>
+<literal_paraphrase>
+His affection provided comfort and security to those around him.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional distance left others feeling exposed and vulnerable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The warmth of her friendship melted all barriers.
+</metaphor>
+<literal_paraphrase>
+Her friendly nature helped overcome social boundaries and hesitations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her cold demeanor reinforced social walls and created isolation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love wrapped around them like a heated blanket.
+</metaphor>
+<literal_paraphrase>
+Their affection provided mutual comfort and protection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship left them feeling exposed and vulnerable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her heart was a thermal spring of endless affection.
+</metaphor>
+<literal_paraphrase>
+She had an inexhaustible capacity for showing love and care.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her emotional capacity was limited and quickly depleted.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His kindness was a warm summer breeze.
+</metaphor>
+<literal_paraphrase>
+His affectionate nature brought gentle comfort to others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His harsh nature brought discomfort to those around him.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their bond glowed like embers in a hearth.
+</metaphor>
+<literal_paraphrase>
+Their relationship maintained a steady, enduring affection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship was unstable and quickly extinguished.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She nurtured love like a greenhouse cultivates warmth.
+</metaphor>
+<literal_paraphrase>
+She deliberately created and maintained an environment of affection.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She neglected emotional connections and let relationships grow cold.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His affection was a thermal cloak in the frost of loneliness.
+</metaphor>
+<literal_paraphrase>
+His love provided protection against emotional isolation.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His indifference intensified feelings of isolation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their love was a perpetual flame that never cooled.
+</metaphor>
+<literal_paraphrase>
+Their affection remained constant and unwavering over time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship was temporary and quickly grew cold.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Rhombuses are tilted boxes of dynamic tension.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Geometric shapes contain inherent energy through their angular positioning.
+</implicit_meaning>
+
+<components>
+<object>Rhombus, Box</object>
+<properties>Tilted, Dynamic, Tense</properties>
+<relations>Box transformed into rhombus through tilting action</relations>
+</components>
+
+<visual_elaboration>
+A box morphing into a rhombus with motion lines and stretched corners showing tension.
+</visual_elaboration>
+</metaphor_analysis>

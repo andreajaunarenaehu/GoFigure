@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her assets of wisdom grow richer with each passing year.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Knowledge and wisdom increase with age like financial wealth.
+</implicit_meaning>
+
+<components>
+<object>Wisdom, Financial assets</object>
+<properties>Growing, Accumulating, Valuable</properties>
+<relations>Time passage leads to increase in wisdom</relations>
+</components>
+
+<visual_elaboration>
+An elderly woman's head containing stacks of golden coins that sprout like plants with glowing wisdom symbols.
+</visual_elaboration>
+</metaphor_analysis>

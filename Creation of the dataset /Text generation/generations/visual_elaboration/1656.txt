@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their thinking rose above prejudice.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Transcending beyond biased thoughts and limitations.
+</implicit_meaning>
+
+<components>
+<object>Thoughts, prejudice</object>
+<properties>Rising, elevation, transcendence</properties>
+<relations>Upward movement away from limiting beliefs</relations>
+</components>
+
+<visual_elaboration>
+A human mind breaking through dark clouds into clear blue sky with rays of light.
+</visual_elaboration>
+</metaphor_analysis>

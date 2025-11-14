@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That hedge fund is a golden purse with holes in its lining.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Appears wealthy but loses money through hidden flaws.
+</implicit_meaning>
+
+<components>
+<object>Hedge fund, Golden purse</object>
+<properties>Golden exterior, damaged interior, leaking</properties>
+<relations>Money escaping through hidden holes</relations>
+</components>
+
+<visual_elaboration>
+A shiny golden purse with coins falling through holes in its torn lining.
+</visual_elaboration>
+</metaphor_analysis>

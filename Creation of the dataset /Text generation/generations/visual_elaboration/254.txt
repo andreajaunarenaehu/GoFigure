@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She kept her sexuality holstered, concealed from view.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Hidden and controlled, like a weapon kept out of sight.
+</implicit_meaning>
+
+<components>
+<object>Sexuality, Holster</object>
+<properties>Concealed, Hidden, Controlled</properties>
+<relations>The sexuality is treated like a weapon that's deliberately hidden in a holster</relations>
+</components>
+
+<visual_elaboration>
+A leather holster with a glowing pink heart tucked inside, partially covered by a dark cloth.
+</visual_elaboration>
+</metaphor_analysis>

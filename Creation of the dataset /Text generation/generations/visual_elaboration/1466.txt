@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The team's creativity flows like an endless river of resources.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Continuous and abundant creative output.
+</implicit_meaning>
+
+<components>
+<object>Team's creativity, River</object>
+<properties>Flowing, Endless, Abundant</properties>
+<relations>Creativity is compared to a flowing river's movement and abundance</relations>
+</components>
+
+<visual_elaboration>
+A group of people sitting around a desk with a flowing river of colorful ideas streaming from their heads.
+</visual_elaboration>
+</metaphor_analysis>

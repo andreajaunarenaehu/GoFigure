@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This problem is a whirlpool, pulling in resources and energy.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Consuming and destructive force that drains everything around it.
+</implicit_meaning>
+
+<components>
+<object>Problem, Whirlpool</object>
+<properties>Spinning, pulling, consuming</properties>
+<relations>Resources and energy being drawn into the center</relations>
+</components>
+
+<visual_elaboration>
+A dark swirling whirlpool with office supplies, money, and tired people being sucked into its center.
+</visual_elaboration>
+</metaphor_analysis>

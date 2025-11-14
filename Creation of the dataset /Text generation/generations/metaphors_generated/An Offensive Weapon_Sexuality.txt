@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her sexuality was a loaded weapon, ready to strike at any moment.
+</metaphor>
+<literal_paraphrase>
+Her sexual power had significant potential to influence and affect others when expressed.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her sexuality was completely harmless and had no impact on those around her.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He wielded his sexuality like a sharpened blade.
+</metaphor>
+<literal_paraphrase>
+He deliberately used his sexual appeal as a tool to achieve his goals.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He was completely unaware of his sexual appeal and never used it intentionally.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their attraction was a missile, destroying all barriers between them.
+</metaphor>
+<literal_paraphrase>
+Their mutual sexual attraction was powerful enough to overcome any social or personal obstacles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their attraction was weak and easily blocked by the smallest of obstacles.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His desires were ammunition in a dangerous game.
+</metaphor>
+<literal_paraphrase>
+His sexual desires were used as leverage in potentially harmful relationship dynamics.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His desires were harmless and never influenced his interactions with others.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She kept her sexuality holstered, concealed from view.
+</metaphor>
+<literal_paraphrase>
+She deliberately suppressed or hid her sexual nature from others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She openly displayed her sexuality without any restraint.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their passion was a grenade with a loose pin.
+</metaphor>
+<literal_paraphrase>
+Their sexual tension was volatile and could explode into action at any moment.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their passion was completely controlled and predictable.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her allure was precision-guided, hitting its mark every time.
+</metaphor>
+<literal_paraphrase>
+She was very effective at attracting exactly who she wanted to attract.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her attempts at attraction were always misdirected and ineffective.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their chemistry was an arsenal waiting to be deployed.
+</metaphor>
+<literal_paraphrase>
+Their sexual attraction had great potential that hadn't yet been acted upon.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their chemistry was spent and had no potential for development.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He treated his desires like unexploded ordnance.
+</metaphor>
+<literal_paraphrase>
+He was extremely careful and cautious about expressing his sexual feelings.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He was reckless and careless with his sexual desires.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their attraction was a long-range missile, spanning continents.
+</metaphor>
+<literal_paraphrase>
+Their sexual attraction remained strong despite physical distance between them.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their attraction was weak and couldn't survive any physical separation.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

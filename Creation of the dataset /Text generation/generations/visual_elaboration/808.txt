@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+These real estate investments are concrete boxes storing solid value.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Real estate investments are secure and reliable stores of wealth.
+</implicit_meaning>
+
+<components>
+<object>Real estate investments, concrete boxes</object>
+<properties>Solid, secure, containing value</properties>
+<relations>Investments are portrayed as physical containers of wealth</relations>
+</components>
+
+<visual_elaboration>
+A concrete vault with gold bars visible through a glass window, surrounded by miniature buildings.
+</visual_elaboration>
+</metaphor_analysis>

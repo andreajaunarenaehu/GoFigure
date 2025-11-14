@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The engine of his determination powers his athletic abilities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strong willpower drives physical performance.
+</implicit_meaning>
+
+<components>
+<object>Engine, Determination, Athletic abilities</object>
+<properties>Mechanical power, Force, Energy</properties>
+<relations>Engine powers movement and performance</relations>
+</components>
+
+<visual_elaboration>
+An athlete's body with a visible mechanical engine in their chest, powering glowing muscles through gears and pistons.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their business grows like a thriving organism.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Continuous and healthy expansion.
+</implicit_meaning>
+
+<components>
+<object>Business, Living organism</object>
+<properties>Growing, Thriving, Expanding</properties>
+<relations>Business is compared to a living, growing entity</relations>
+</components>
+
+<visual_elaboration>
+A tree-shaped office building with branches sprouting new offices and green leaves of dollar bills.
+</visual_elaboration>
+</metaphor_analysis>

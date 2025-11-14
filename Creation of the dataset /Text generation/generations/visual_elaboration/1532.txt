@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Understanding is a puzzle of matching shapes to their corresponding holes.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Learning requires fitting pieces of knowledge together correctly.
+</implicit_meaning>
+
+<components>
+<object>Puzzle, shapes, holes</object>
+<properties>Matching, corresponding, fitting</properties>
+<relations>Shapes must align with their correct holes to create meaning</relations>
+</components>
+
+<visual_elaboration>
+A human brain made of puzzle pieces with glowing shapes trying to fit into matching holes.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His programming was stuck in high-performance mode.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unable to slow down or relax, constantly operating at maximum intensity.
+</implicit_meaning>
+
+<components>
+<object>Human brain/programming, Computer processor</object>
+<properties>Overclocked, Overheated, Stuck</properties>
+<relations>Person's mind operating like an overclocked computer</relations>
+</components>
+
+<visual_elaboration>
+A human head with a glowing CPU fan spinning rapidly inside, emitting steam and red warning lights.
+</visual_elaboration>
+</metaphor_analysis>

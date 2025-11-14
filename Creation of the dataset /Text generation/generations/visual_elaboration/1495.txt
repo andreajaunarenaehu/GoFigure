@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The compliance knot gradually constricted innovation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Strict rules and regulations stifle creativity and progress.
+</implicit_meaning>
+
+<components>
+<object>Knot, Innovation</object>
+<properties>Constricting, Tightening, Restrictive</properties>
+<relations>The knot actively squeezing and restricting movement/growth</relations>
+</components>
+
+<visual_elaboration>
+A bright lightbulb being squeezed and dimmed by a tightening rope knot.
+</visual_elaboration>
+</metaphor_analysis>

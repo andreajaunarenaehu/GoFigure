@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+My mortal envelope seals in my eternal story.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The human body contains and preserves one's soul and legacy.
+</implicit_meaning>
+
+<components>
+<object>Human body (envelope), Soul/story (contents)</object>
+<properties>Mortal, eternal, sealed</properties>
+<relations>Container and contained, preservation</relations>
+</components>
+
+<visual_elaboration>
+A glowing letter inside a translucent human silhouette, with eternal light radiating through the skin.
+</visual_elaboration>
+</metaphor_analysis>

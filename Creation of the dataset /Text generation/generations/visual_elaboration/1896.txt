@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The investment pulled the economy out of recession.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Financial rescue from a downward situation.
+</implicit_meaning>
+
+<components>
+<object>Investment, Economy, Recession</object>
+<properties>Pulling force, downward state, rescue action</properties>
+<relations>Investment acts as rescuer pulling economy upward from below</relations>
+</components>
+
+<visual_elaboration>
+A strong rope labeled "Investment" pulling a drowning figure labeled "Economy" out of a dark whirlpool labeled "Recession".
+</visual_elaboration>
+</metaphor_analysis>

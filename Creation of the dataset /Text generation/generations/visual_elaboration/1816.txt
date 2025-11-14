@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The chains of prevention cut deep into her future.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Restrictions limiting someone's potential and opportunities.
+</implicit_meaning>
+
+<components>
+<object>Chains, Future, Person</object>
+<properties>Restrictive, Cutting, Binding</properties>
+<relations>Chains constraining and damaging future possibilities</relations>
+</components>
+
+<visual_elaboration>
+A woman bound by iron chains that slice through a glowing path ahead of her.
+</visual_elaboration>
+</metaphor_analysis>

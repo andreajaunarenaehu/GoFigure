@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Love is the inheritance they share.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Love is passed down and shared between people like a precious family heirloom.
+</implicit_meaning>
+
+<components>
+<object>Love, Inheritance</object>
+<properties>Shared, Passed down, Precious</properties>
+<relations>Multiple people sharing something valuable</relations>
+</components>
+
+<visual_elaboration>
+Two hands holding an antique locket with a glowing heart inside, passing it between them.
+</visual_elaboration>
+</metaphor_analysis>

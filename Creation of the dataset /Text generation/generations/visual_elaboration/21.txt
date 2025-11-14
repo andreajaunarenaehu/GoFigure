@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Antibiotics are the heavy artillery in our battle against infection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Powerful medical defense against disease.
+</implicit_meaning>
+
+<components>
+<object>Antibiotics, Artillery</object>
+<properties>Heavy, powerful, defensive</properties>
+<relations>Fighting against infection as weapons in battle</relations>
+</components>
+
+<visual_elaboration>
+Giant cannon shooting glowing pills at menacing bacteria creatures retreating in fear.
+</visual_elaboration>
+</metaphor_analysis>

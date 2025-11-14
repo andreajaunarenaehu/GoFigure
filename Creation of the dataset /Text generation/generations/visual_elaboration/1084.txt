@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Our eyes' territory has strict borders.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Limited or restricted vision/perspective between people.
+</implicit_meaning>
+
+<components>
+<object>Eyes, Borders/Territory</object>
+<properties>Strict, Limited, Bounded</properties>
+<relations>Eyes are confined within boundaries like territories on a map</relations>
+</components>
+
+<visual_elaboration>
+Two eyes separated by a thick wall with barbed wire and guard towers between them.
+</visual_elaboration>
+</metaphor_analysis>

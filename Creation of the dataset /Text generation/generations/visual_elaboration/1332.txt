@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The edges of understanding come first, just like framing a puzzle.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Learning begins with establishing basic boundaries and structure.
+</implicit_meaning>
+
+<components>
+<object>Understanding, Puzzle frame</object>
+<properties>Edges, Boundaries, Structure</properties>
+<relations>Sequential process, Building from outside in</relations>
+</components>
+
+<visual_elaboration>
+A glowing puzzle frame with completed edges while the inner pieces float as scattered thoughts.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a non-renewable energy source.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is finite and once used, cannot be recovered.
+</implicit_meaning>
+
+<components>
+<object>Time, Energy source</object>
+<properties>Limited, Non-renewable, Depleting</properties>
+<relations>Time being consumed like fuel</relations>
+</components>
+
+<visual_elaboration>
+An hourglass filled with glowing fuel that's draining and dimming as it empties.
+</visual_elaboration>
+</metaphor_analysis>

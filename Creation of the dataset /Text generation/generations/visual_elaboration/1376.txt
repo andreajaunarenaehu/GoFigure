@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Fear settled like permafrost in her bones.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Deep, paralyzing, long-lasting fear that chills to the core.
+</implicit_meaning>
+
+<components>
+<object>Human bones, Permafrost</object>
+<properties>Cold, frozen, deep, immovable, permanent</properties>
+<relations>Fear physically manifesting as ice within the skeletal structure</relations>
+</components>
+
+<visual_elaboration>
+A transparent human figure with visible bones encased in blue-white ice crystals spreading from within.
+</visual_elaboration>
+</metaphor_analysis>

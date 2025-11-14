@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Power scaled upward through the ranks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Power increases hierarchically like climbing stairs.
+</implicit_meaning>
+
+<components>
+<object>Power, Ranks, Upward movement</object>
+<properties>Vertical ascension, Hierarchical structure</properties>
+<relations>Movement upward through levels</relations>
+</components>
+
+<visual_elaboration>
+A glowing energy beam spiraling up a corporate ladder with each rung getting brighter.
+</visual_elaboration>
+</metaphor_analysis>

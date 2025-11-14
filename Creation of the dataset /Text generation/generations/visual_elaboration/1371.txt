@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His fear crystallized into sharp icicles of doubt.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fear transforming into paralyzing doubt.
+</implicit_meaning>
+
+<components>
+<object>Fear, Icicles</object>
+<properties>Sharp, Crystallized, Cold</properties>
+<relations>Fear transforming/solidifying into icicles</relations>
+</components>
+
+<visual_elaboration>
+A human silhouette with sharp icicles growing from within, freezing them in place.
+</visual_elaboration>
+</metaphor_analysis>

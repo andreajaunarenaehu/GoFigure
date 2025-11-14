@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She polished her moral compass daily.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Maintaining and improving one's ethical standards through constant self-reflection.
+</implicit_meaning>
+
+<components>
+<object>Moral compass, Person</object>
+<properties>Polished, Shiny, Well-maintained</properties>
+<relations>Daily maintenance, Personal care</relations>
+</components>
+
+<visual_elaboration>
+A woman carefully polishing a glowing golden compass with symbols of good and evil on its face.
+</visual_elaboration>
+</metaphor_analysis>

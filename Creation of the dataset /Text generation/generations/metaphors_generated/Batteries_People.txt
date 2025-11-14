@@ -1,0 +1,120 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Some people are like rechargeable batteries, bouncing back after every drain.
+</metaphor>
+<literal_paraphrase>
+Some individuals have great resilience and can recover their energy after exhausting experiences.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People never recover from exhaustion and permanently lose their energy after difficult experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His energy levels are running low, time to recharge.
+</metaphor>
+<literal_paraphrase>
+He is feeling exhausted and needs rest to regain his strength.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He never needs rest and can maintain peak energy indefinitely.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's like a battery in power-saving mode, conserving her energy for important moments.
+</metaphor>
+<literal_paraphrase>
+She carefully manages her energy and resources, using them only when necessary.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She wastes her energy constantly without any regard for conservation or future needs.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some people are like old batteries, losing capacity over time.
+</metaphor>
+<literal_paraphrase>
+Some individuals gradually lose their stamina and energy as they age.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People maintain the same energy levels throughout their entire lives without any decline.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+He's a high-capacity battery, always ready to take on more tasks.
+</metaphor>
+<literal_paraphrase>
+He has exceptional endurance and can handle multiple responsibilities effectively.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He has very limited energy and can barely handle basic tasks.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their connection creates a powerful circuit, energizing everyone around them.
+</metaphor>
+<literal_paraphrase>
+Their relationship generates positive energy that influences and motivates others.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship drains energy from others and creates a negative atmosphere.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She's running on backup power, pushing through despite exhaustion.
+</metaphor>
+<literal_paraphrase>
+She's continuing to work using her last reserves of energy despite being very tired.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She immediately stops all activity at the first sign of fatigue.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His positive energy creates a charging station for others.
+</metaphor>
+<literal_paraphrase>
+His optimistic attitude helps motivate and energize other people.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His negative attitude depletes others' motivation and enthusiasm.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+They're like batteries connected in series, amplifying each other's potential.
+</metaphor>
+<literal_paraphrase>
+Working together, they enhance each other's capabilities and achievements.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their collaboration diminishes their individual abilities and potential.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Some people are like solar-powered batteries, drawing strength from nature.
+</metaphor>
+<literal_paraphrase>
+Some individuals find renewal and energy by connecting with the natural world.
+</literal_paraphrase>
+<contradiction_paraphrase>
+People are depleted by nature and find no restoration in the natural world.
+</contradiction_paraphrase>
+</metaphor_set>

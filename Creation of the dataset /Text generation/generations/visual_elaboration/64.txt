@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The schedule is rolling downhill like a snowball.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Growing increasingly out of control and becoming bigger over time.
+</implicit_meaning>
+
+<components>
+<object>Schedule, Snowball</object>
+<properties>Rolling, Growing larger, Moving downhill</properties>
+<relations>Schedule is compared to a snowball's increasing size and momentum</relations>
+</components>
+
+<visual_elaboration>
+A giant calendar rolled into a snowball tumbling downhill, collecting more paper sheets as it rolls.
+</visual_elaboration>
+</metaphor_analysis>

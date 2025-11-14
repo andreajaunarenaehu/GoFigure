@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her anxiety was a crushing weight on her shoulders.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming emotional burden causing physical and mental stress.
+</implicit_meaning>
+
+<components>
+<object>Anxiety, shoulders, weight</object>
+<properties>Crushing, heavy, burdensome</properties>
+<relations>Weight pressing down on person's shoulders</relations>
+</components>
+
+<visual_elaboration>
+A woman hunched over with a large boulder pressing down on her shoulders, cracks forming beneath her feet.
+</visual_elaboration>
+</metaphor_analysis>

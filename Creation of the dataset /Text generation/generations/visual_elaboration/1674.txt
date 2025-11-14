@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His values were refined like precious metals.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Values becoming pure and valuable through experience and testing.
+</implicit_meaning>
+
+<components>
+<object>Values, Precious metals</object>
+<properties>Refined, Pure, Valuable</properties>
+<relations>Process of refinement through heat and pressure</relations>
+</components>
+
+<visual_elaboration>
+A glowing golden ingot emerging from flames with the word "VALUES" etched on its surface.
+</visual_elaboration>
+</metaphor_analysis>

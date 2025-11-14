@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mental stamina was depleted after the long debate.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental exhaustion and fatigue from intellectual effort.
+</implicit_meaning>
+
+<components>
+<object>Mental stamina, Brain, Energy level</object>
+<properties>Depleted, Empty, Drained</properties>
+<relations>Reduction of energy over time during debate</relations>
+</components>
+
+<visual_elaboration>
+A brain-shaped battery indicator showing red empty bars with sparks fizzling out.
+</visual_elaboration>
+</metaphor_analysis>

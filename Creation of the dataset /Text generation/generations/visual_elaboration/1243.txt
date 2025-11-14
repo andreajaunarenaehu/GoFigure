@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Light cascaded down the crystal chandelier.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Light flows like water in a waterfall.
+</implicit_meaning>
+
+<components>
+<object>Light, Crystal chandelier</object>
+<properties>Flowing, sparkling, downward movement</properties>
+<relations>Light moving through crystal pieces like water</relations>
+</components>
+
+<visual_elaboration>
+A chandelier with light beams flowing downward like a waterfall through crystal prisms.
+</visual_elaboration>
+</metaphor_analysis>

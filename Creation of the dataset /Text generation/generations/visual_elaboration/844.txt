@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+He's a high-capacity battery, always ready to take on more tasks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Energetic and capable of handling multiple responsibilities.
+</implicit_meaning>
+
+<components>
+<object>Person, Battery</object>
+<properties>High capacity, energetic, reliable</properties>
+<relations>Person being compared to a battery's ability to store and provide energy</relations>
+</components>
+
+<visual_elaboration>
+A glowing human silhouette with battery charge bars at 100% and multiple task icons orbiting around them.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The nausea of corruption rose like bile in the public conscience.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Societal disgust towards widespread corruption.
+</implicit_meaning>
+
+<components>
+<object>Bile, Public conscience</object>
+<properties>Rising, Nauseating, Sickening</properties>
+<relations>Bile rising up through society, causing collective disgust</relations>
+</components>
+
+<visual_elaboration>
+A crowd of people with green bile rising from their throats while politicians count money above them.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her inner fire fuels her creative abilities.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Passion drives creativity.
+</implicit_meaning>
+
+<components>
+<object>Fire, Creative abilities</object>
+<properties>Inner, burning, energetic</properties>
+<relations>Fire acts as fuel for creativity</relations>
+</components>
+
+<visual_elaboration>
+A woman with flames glowing through her chest, colorful sparks flowing from her hands as she paints.
+</visual_elaboration>
+</metaphor_analysis>

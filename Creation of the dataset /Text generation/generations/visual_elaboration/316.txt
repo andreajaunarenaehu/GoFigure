@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The theory was seamlessly integrated into existing knowledge.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Perfect fit and smooth combination of ideas.
+</implicit_meaning>
+
+<components>
+<object>Theory and knowledge</object>
+<properties>Seamless, integrated, fitting together</properties>
+<relations>Merging, combining, fitting</relations>
+</components>
+
+<visual_elaboration>
+Two puzzle pieces perfectly interlocking with a glowing light at their connection point.
+</visual_elaboration>
+</metaphor_analysis>

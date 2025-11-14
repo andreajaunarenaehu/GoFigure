@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her fury radiated like a desert sun.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense anger spreading outward with scorching intensity.
+</implicit_meaning>
+
+<components>
+<object>Woman's anger, Desert sun</object>
+<properties>Hot, intense, radiating, powerful</properties>
+<relations>Anger is compared to sun's heat and intensity</relations>
+</components>
+
+<visual_elaboration>
+A woman's face glowing red-hot like a sun, with heat waves rippling outward across a desert landscape.
+</visual_elaboration>
+</metaphor_analysis>

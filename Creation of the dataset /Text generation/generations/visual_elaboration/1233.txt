@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Each drink was another amp added to her current state.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Increasing intoxication leads to heightened emotional intensity.
+</implicit_meaning>
+
+<components>
+<object>Drinks, Electrical current/amperage</object>
+<properties>Accumulating, intensifying, electrical</properties>
+<relations>Each drink increases voltage/intensity like adding electrical current</relations>
+</components>
+
+<visual_elaboration>
+A woman glowing brighter with each glass, electrical meters showing increasing voltage levels beside her.
+</visual_elaboration>
+</metaphor_analysis>

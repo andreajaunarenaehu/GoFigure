@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Anxiety is a constant pressure pushing against the walls of sanity.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Mental stress causing psychological strain.
+</implicit_meaning>
+
+<components>
+<object>Anxiety, walls, pressure</object>
+<properties>Constant, pushing, constraining</properties>
+<relations>Pressure against walls, threatening to break through</relations>
+</components>
+
+<visual_elaboration>
+A glass box with cracks forming as dark smoke pushes against its transparent walls.
+</visual_elaboration>
+</metaphor_analysis>

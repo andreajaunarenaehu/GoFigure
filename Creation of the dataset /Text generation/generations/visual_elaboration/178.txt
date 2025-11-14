@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+They're standing on the edge of a cliff.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Being in a dangerous or precarious situation with risk of failure.
+</implicit_meaning>
+
+<components>
+<object>Person, Cliff</object>
+<properties>Edge, Height, Danger</properties>
+<relations>Standing precariously, Risk of falling</relations>
+</components>
+
+<visual_elaboration>
+A person balancing on one foot at cliff's edge with crumbling rocks beneath them.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The frozen assets left the business unable to operate.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Financial resources that cannot be accessed or used.
+</implicit_meaning>
+
+<components>
+<object>Business assets, Money, Ice</object>
+<properties>Frozen, immobile, inaccessible</properties>
+<relations>Business is paralyzed by inability to access resources</relations>
+</components>
+
+<visual_elaboration>
+A business building encased in a block of ice with dollar bills trapped inside.
+</visual_elaboration>
+</metaphor_analysis>

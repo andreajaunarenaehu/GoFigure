@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She tasted sweet success at last.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Achievement feels pleasurable and satisfying.
+</implicit_meaning>
+
+<components>
+<object>Success, Taste sensation</object>
+<properties>Sweet, Pleasant, Satisfying</properties>
+<relations>Person experiencing/tasting success</relations>
+</components>
+
+<visual_elaboration>
+A woman biting into a golden trophy made of candy while smiling triumphantly.
+</visual_elaboration>
+</metaphor_analysis>

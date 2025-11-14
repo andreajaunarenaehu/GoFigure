@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The race for success is a feeding frenzy of hungry sharks.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Competitive and aggressive pursuit of success.
+</implicit_meaning>
+
+<components>
+<object>Business people, Sharks</object>
+<properties>Aggressive, competitive, ruthless</properties>
+<relations>Multiple entities fighting for the same goal</relations>
+</components>
+
+<visual_elaboration>
+Business people in suits with shark heads circling and snapping at a floating trophy.
+</visual_elaboration>
+</metaphor_analysis>

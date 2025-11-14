@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The tunnel through darkness illuminated their metamorphosis.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A difficult journey leads to transformation and growth.
+</implicit_meaning>
+
+<components>
+<object>Tunnel, Darkness, Light</object>
+<properties>Dark, illuminated, transformative</properties>
+<relations>Movement through darkness towards light, changing form</relations>
+</components>
+
+<visual_elaboration>
+A dark tunnel with butterflies emerging from cocoons as they approach a bright light at the end.
+</visual_elaboration>
+</metaphor_analysis>

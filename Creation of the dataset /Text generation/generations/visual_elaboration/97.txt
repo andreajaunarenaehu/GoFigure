@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her criticism was a carpet bombing of harsh words.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming and destructive verbal attack.
+</implicit_meaning>
+
+<components>
+<object>Criticism, Carpet bombing, Words</object>
+<properties>Harsh, Widespread, Destructive</properties>
+<relations>Words falling like bombs, Creating widespread damage</relations>
+</components>
+
+<visual_elaboration>
+Words shaped like bombs raining down from a person's mouth onto a devastated landscape below.
+</visual_elaboration>
+</metaphor_analysis>

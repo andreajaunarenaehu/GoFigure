@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She needed to wash away her guilty conscience.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Seeking emotional cleansing and redemption from guilt.
+</implicit_meaning>
+
+<components>
+<object>Conscience, Water/Soap</object>
+<properties>Dirty, Stained, Needs cleaning</properties>
+<relations>Washing action to remove guilt</relations>
+</components>
+
+<visual_elaboration>
+A woman scrubbing a dark, stained heart under running water with soap bubbles washing away black ink.
+</visual_elaboration>
+</metaphor_analysis>

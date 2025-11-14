@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This theory is the ancestor of modern physics.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Foundation or origin point that led to current developments.
+</implicit_meaning>
+
+<components>
+<object>Theory, Physics, Ancestor</object>
+<properties>Old, foundational, generative</properties>
+<relations>Parent-child relationship between old theory and modern physics</relations>
+</components>
+
+<visual_elaboration>
+An ancient scroll transforming into modern scientific equations through a family tree diagram.
+</visual_elaboration>
+</metaphor_analysis>

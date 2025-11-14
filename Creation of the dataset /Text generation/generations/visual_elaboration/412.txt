@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her ideas are always perfectly tailored to the occasion.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas are customized and precise like fitted clothing.
+</implicit_meaning>
+
+<components>
+<object>Ideas, Clothing/Tailoring</object>
+<properties>Perfect fit, Custom-made, Precise</properties>
+<relations>Ideas being shaped and fitted like garments</relations>
+</components>
+
+<visual_elaboration>
+A floating lightbulb wearing a perfectly fitted suit with measuring tape and scissors around it.
+</visual_elaboration>
+</metaphor_analysis>

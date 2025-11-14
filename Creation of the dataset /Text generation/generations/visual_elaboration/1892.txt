@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The policy guided citizens away from harmful behaviors.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Protection and direction through rules.
+</implicit_meaning>
+
+<components>
+<object>Policy, Citizens</object>
+<properties>Protective, Directional</properties>
+<relations>Guiding away from danger</relations>
+</components>
+
+<visual_elaboration>
+A glowing lighthouse beam steering boats away from rocky shores.
+</visual_elaboration>
+</metaphor_analysis>

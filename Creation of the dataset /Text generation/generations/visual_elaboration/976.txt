@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her euphoria ascended like a morning sun.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Rising happiness and radiant joy.
+</implicit_meaning>
+
+<components>
+<object>Euphoria, Sun</object>
+<properties>Rising, Bright, Radiant, Gradual</properties>
+<relations>Upward movement, Growing intensity</relations>
+</components>
+
+<visual_elaboration>
+A woman's smiling face transforming into a bright rising sun with radiating golden beams.
+</visual_elaboration>
+</metaphor_analysis>

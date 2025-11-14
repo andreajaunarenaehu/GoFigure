@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Time is a limited bandwidth connection.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Time is scarce and flows at a restricted rate.
+</implicit_meaning>
+
+<components>
+<object>Time, Bandwidth Connection</object>
+<properties>Limited, Restricted, Finite</properties>
+<relations>Time being constrained like data through a narrow connection</relations>
+</components>
+
+<visual_elaboration>
+An hourglass with digital data streams flowing slowly through a narrow bottleneck.
+</visual_elaboration>
+</metaphor_analysis>

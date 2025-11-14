@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This mortal capsule preserves my inner universe.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The human body contains vast internal depths and consciousness.
+</implicit_meaning>
+
+<components>
+<object>Human body (capsule), Universe</object>
+<properties>Mortal, vast, containing, preserving</properties>
+<relations>Body as container for cosmic inner world</relations>
+</components>
+
+<visual_elaboration>
+A transparent human silhouette containing a miniature galaxy with swirling stars and nebulae inside.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their market share was a territory fiercely defended from invaders.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Business competition is like warfare over land.
+</implicit_meaning>
+
+<components>
+<object>Market share, Territory</object>
+<properties>Defensive, Fierce, Protected</properties>
+<relations>Defending against competitors/invaders</relations>
+</components>
+
+<visual_elaboration>
+A medieval castle with business logos on flags, surrounded by armored warriors defending against approaching competitors.
+</visual_elaboration>
+</metaphor_analysis>

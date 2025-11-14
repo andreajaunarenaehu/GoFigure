@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The difficulties migrate like birds, returning seasonally.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Problems are cyclical and predictably return like migrating birds.
+</implicit_meaning>
+
+<components>
+<object>Difficulties, Birds</object>
+<properties>Cyclical, Seasonal, Recurring</properties>
+<relations>Migration pattern, Return movement</relations>
+</components>
+
+<visual_elaboration>
+Dark storm clouds shaped like birds flying in V-formation towards a worried person.
+</visual_elaboration>
+</metaphor_analysis>

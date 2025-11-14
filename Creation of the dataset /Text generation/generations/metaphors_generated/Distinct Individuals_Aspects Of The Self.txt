@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The committee members in my mind debate each decision.
+</metaphor>
+<literal_paraphrase>
+Different aspects of my personality contribute to my decision-making process.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My decisions come from a single, unified source without internal dialogue.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My inner crowd holds opposing protest signs.
+</metaphor>
+<literal_paraphrase>
+Different parts of my personality often conflict with each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My thoughts and feelings are always in perfect harmony.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The parliament of self meets in continuous session.
+</metaphor>
+<literal_paraphrase>
+Various aspects of my personality are constantly interacting and negotiating.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My personality is static and never requires internal discussion.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My internal jury weighs the evidence of each emotion.
+</metaphor>
+<literal_paraphrase>
+Different parts of myself evaluate and judge my emotional responses.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My emotions are accepted without any internal assessment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The orchestra of self plays different tunes simultaneously.
+</metaphor>
+<literal_paraphrase>
+Multiple aspects of my personality express themselves at the same time.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My personality expresses itself in a single, unchanging way.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My inner council of advisors debates each choice.
+</metaphor>
+<literal_paraphrase>
+Different parts of my personality offer varying perspectives on decisions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My decisions come from a single, authoritative inner voice.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The actors in my mind perform different roles.
+</metaphor>
+<literal_paraphrase>
+Different aspects of my personality emerge in various situations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My personality remains constant regardless of the situation.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My internal team of specialists tackles each challenge.
+</metaphor>
+<literal_paraphrase>
+Different aspects of myself work together to solve problems.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I approach all challenges with a single, uniform response.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The citizens of self-city vote on every action.
+</metaphor>
+<literal_paraphrase>
+Various aspects of my personality influence my behavioral choices.
+</literal_paraphrase>
+<contradiction_paraphrase>
+My actions are determined by a single, dominant aspect of myself.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+My inner artists paint different versions of reality.
+</metaphor>
+<literal_paraphrase>
+Different parts of myself interpret and perceive experiences differently.
+</literal_paraphrase>
+<contradiction_paraphrase>
+I have a single, consistent interpretation of all experiences.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

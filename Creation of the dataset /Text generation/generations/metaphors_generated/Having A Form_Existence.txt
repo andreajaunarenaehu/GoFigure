@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Existence molds itself into definite shapes.
+</metaphor>
+<literal_paraphrase>
+Things come into being by taking on specific, identifiable characteristics.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence remains formless and indefinite, never taking on any specific characteristics.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Reality wears the clothing of structure.
+</metaphor>
+<literal_paraphrase>
+Existence manifests itself through recognizable patterns and organizations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Reality exists in complete chaos, without any discernible structure or pattern.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Being carves itself from the void.
+</metaphor>
+<literal_paraphrase>
+Existence emerges by establishing distinct boundaries and definitions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Being remains undefined and merged with nothingness.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The universe sketches its presence in concrete lines.
+</metaphor>
+<literal_paraphrase>
+Existence becomes apparent through definite, observable manifestations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The universe remains abstract and unobservable, without any concrete presence.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Life sculpts itself into being.
+</metaphor>
+<literal_paraphrase>
+Existence takes shape through specific forms and expressions.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Life remains formless and unexpressed, never taking definite shape.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Reality dresses itself in tangible outlines.
+</metaphor>
+<literal_paraphrase>
+Existence becomes perceivable through defined boundaries and characteristics.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Reality remains intangible and boundless, without any defined characteristics.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Being paints itself on the canvas of space.
+</metaphor>
+<literal_paraphrase>
+Existence manifests itself in physical dimensions and locations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Being exists without spatial dimension or location.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The world crystallizes into distinct shapes.
+</metaphor>
+<literal_paraphrase>
+Reality becomes apparent through clearly defined forms and structures.
+</literal_paraphrase>
+<contradiction_paraphrase>
+The world remains fluid and formless, never solidifying into distinct entities.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Existence weaves itself into patterns.
+</metaphor>
+<literal_paraphrase>
+Being manifests through recognizable arrangements and organizations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Existence remains random and patternless, never forming coherent arrangements.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Reality architects its own presence.
+</metaphor>
+<literal_paraphrase>
+Existence constructs itself through structured and organized manifestations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Reality exists without structure or organization, in complete randomness.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

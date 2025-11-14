@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Competitors are piranhas in a feeding pool of limited resources.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Aggressive and ruthless competition for scarce resources.
+</implicit_meaning>
+
+<components>
+<object>Competitors, Piranhas, Resource Pool</object>
+<properties>Aggressive, Frenzied, Limited</properties>
+<relations>Feeding, Competing, Fighting</relations>
+</components>
+
+<visual_elaboration>
+Business people with piranha heads frantically fighting over floating dollar bills in a shrinking pool.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Hope grows like a child reaching for the stars.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Aspirational and innocent growth towards dreams.
+</implicit_meaning>
+
+<components>
+<object>Child, Stars, Hope</object>
+<properties>Growing, Reaching, Distant, Bright</properties>
+<relations>Upward movement, Stretching towards something unreachable</relations>
+</components>
+
+<visual_elaboration>
+A small child standing on tiptoes with glowing stars sprouting from their outstretched fingertips.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+This journey's horizon shifts with each summit reached.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Goals keep changing as we achieve them, revealing new challenges ahead.
+</implicit_meaning>
+
+<components>
+<object>Journey, horizon, summit</object>
+<properties>Shifting, continuous, climbing</properties>
+<relations>Each achievement reveals new horizons</relations>
+</components>
+
+<visual_elaboration>
+A climber reaching a mountain peak sees endless new peaks emerging through misty clouds ahead.
+</visual_elaboration>
+</metaphor_analysis>

@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The rocky road to success shaped their transformation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Difficult journey leading to personal growth and achievement.
+</implicit_meaning>
+
+<components>
+<object>Road, Person</object>
+<properties>Rocky, rough, uphill, transformative</properties>
+<relations>Person traveling along difficult path towards success</relations>
+</components>
+
+<visual_elaboration>
+A figure climbing a winding stone path that gradually transforms from rough rocks to golden steps.
+</visual_elaboration>
+</metaphor_analysis>

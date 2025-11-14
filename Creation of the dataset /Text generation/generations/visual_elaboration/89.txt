@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Possessions are the compass of property direction.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Material belongings guide life choices and decisions.
+</implicit_meaning>
+
+<components>
+<object>Compass, Possessions</object>
+<properties>Directional, Guiding, Material</properties>
+<relations>Compass provides direction, Possessions influence choices</relations>
+</components>
+
+<visual_elaboration>
+A golden compass with luxury items (cars, houses, jewelry) replacing the cardinal directions.
+</visual_elaboration>
+</metaphor_analysis>

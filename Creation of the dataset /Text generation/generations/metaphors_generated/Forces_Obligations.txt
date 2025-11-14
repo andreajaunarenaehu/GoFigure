@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+The gravitational pull of responsibility weighs heavily on his shoulders.
+</metaphor>
+<literal_paraphrase>
+His obligations create significant pressure and stress in his life.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His responsibilities are lightweight and create no pressure at all.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her duties pushed against her like a strong headwind.
+</metaphor>
+<literal_paraphrase>
+Her obligations made it difficult for her to move forward with her plans.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her duties supported and accelerated her progress effortlessly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The magnetic field of commitment drew him back to his promises.
+</metaphor>
+<literal_paraphrase>
+His sense of obligation compelled him to fulfill his commitments.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His commitments had no hold over him and were easily forgotten.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their responsibilities collided like opposing forces.
+</metaphor>
+<literal_paraphrase>
+Their different obligations conflicted with each other.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their responsibilities aligned perfectly without any conflict.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The centrifugal force of duty kept their family orbiting together.
+</metaphor>
+<literal_paraphrase>
+Their sense of obligation maintained their family bonds.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their family drifted apart despite their obligations to each other.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His promises acted like an elastic force, always pulling him back to his word.
+</metaphor>
+<literal_paraphrase>
+His commitments consistently reminded him to fulfill his obligations.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His promises were rigid and inflexible, often breaking under pressure.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The friction of daily responsibilities wore down her resolve.
+</metaphor>
+<literal_paraphrase>
+The constant pressure of obligations gradually exhausted her determination.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Daily responsibilities energized and strengthened her resolve.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their moral obligations accelerated like objects in free fall.
+</metaphor>
+<literal_paraphrase>
+Their responsibilities rapidly increased in intensity and urgency.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their obligations decreased steadily and became less demanding over time.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+The inertia of commitment kept him moving forward.
+</metaphor>
+<literal_paraphrase>
+His established sense of duty helped him maintain his progress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His commitments constantly interrupted and stopped his momentum.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Her responsibilities compressed like a spring under pressure.
+</metaphor>
+<literal_paraphrase>
+Her obligations became more intense under difficult circumstances.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her responsibilities relaxed and diminished when challenges arose.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

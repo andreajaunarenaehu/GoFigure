@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their research and development was an arms race for innovation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Intense competition and rapid advancement.
+</implicit_meaning>
+
+<components>
+<object>Research and development, Arms race</object>
+<properties>Fast-paced, competitive, aggressive</properties>
+<relations>Multiple parties racing against each other for superiority</relations>
+</components>
+
+<visual_elaboration>
+Scientists in lab coats sprinting on a track while carrying missiles and blueprints.
+</visual_elaboration>
+</metaphor_analysis>

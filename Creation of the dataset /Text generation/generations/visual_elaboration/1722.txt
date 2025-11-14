@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The power switch had been flipped, and he couldn't shut down.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unable to stop or calm down once excited or activated.
+</implicit_meaning>
+
+<components>
+<object>Person, Power switch</object>
+<properties>Activated, Unable to deactivate</properties>
+<relations>Person is connected to/controlled by power switch</relations>
+</components>
+
+<visual_elaboration>
+A glowing human silhouette with a large power switch stuck in the "ON" position embedded in their chest.
+</visual_elaboration>
+</metaphor_analysis>

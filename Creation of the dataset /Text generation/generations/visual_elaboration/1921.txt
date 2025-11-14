@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The betrayal short-circuited their friendship's power supply.
+</linguistic_metaphor>
+
+<implicit_meaning>
+A betrayal that suddenly damaged a relationship.
+</implicit_meaning>
+
+<components>
+<object>Friendship, electrical circuit</object>
+<properties>Broken, damaged, disconnected</properties>
+<relations>Power supply being cut off due to short circuit</relations>
+</components>
+
+<visual_elaboration>
+Two figures connected by sparking electrical wires with a broken circuit between them.
+</visual_elaboration>
+</metaphor_analysis>

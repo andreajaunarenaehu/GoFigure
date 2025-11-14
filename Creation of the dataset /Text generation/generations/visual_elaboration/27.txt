@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The body's fever is its thermal weapon against pathogens.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fever serves as a defense mechanism against disease.
+</implicit_meaning>
+
+<components>
+<object>Body fever, weapon, pathogens</object>
+<properties>Thermal, defensive, combative</properties>
+<relations>Fever acting as a weapon fighting against invading pathogens</relations>
+</components>
+
+<visual_elaboration>
+A thermometer shaped like a sword radiating heat waves that destroy menacing bacteria creatures.
+</visual_elaboration>
+</metaphor_analysis>

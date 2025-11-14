@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The edges of vision are like a container's rim.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Vision has boundaries and limitations.
+</implicit_meaning>
+
+<components>
+<object>Vision field, Container rim</object>
+<properties>Circular, Limited, Bounded</properties>
+<relations>Vision is constrained by edges like a container is bounded by its rim</relations>
+</components>
+
+<visual_elaboration>
+A circular container rim framing a human eye, with darkness beyond the rim's edges.
+</visual_elaboration>
+</metaphor_analysis>

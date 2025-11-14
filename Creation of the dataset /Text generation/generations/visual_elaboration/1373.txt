@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Fear spread through him like frost on a window pane.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Fear gradually consuming someone from the outside in.
+</implicit_meaning>
+
+<components>
+<object>Human body, Frost, Window pane</object>
+<properties>Spreading, Cold, Crystalline, Gradual</properties>
+<relations>Fear spreading through body like frost spreading across glass</relations>
+</components>
+
+<visual_elaboration>
+A transparent human silhouette with crystalline frost patterns gradually spreading across their body from outside to inside.
+</visual_elaboration>
+</metaphor_analysis>

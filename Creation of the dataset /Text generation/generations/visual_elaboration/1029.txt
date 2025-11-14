@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Stars are spiky vessels of celestial geometry.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Stars are complex mathematical patterns in space.
+</implicit_meaning>
+
+<components>
+<object>Stars, Geometric vessels</object>
+<properties>Spiky, Mathematical, Celestial</properties>
+<relations>Stars being contained within geometric shapes</relations>
+</components>
+
+<visual_elaboration>
+Glowing stars encased in crystalline geometric containers with sharp points radiating outward.
+</visual_elaboration>
+</metaphor_analysis>

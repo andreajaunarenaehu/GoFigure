@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The presentation was a bland soup of ideas.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The presentation lacked flavor, excitement, or engaging content.
+</implicit_meaning>
+
+<components>
+<object>Presentation, Soup</object>
+<properties>Bland, flavorless, watery, mixed together</properties>
+<relations>Ideas are being compared to ingredients in soup</relations>
+</components>
+
+<visual_elaboration>
+A gray bowl of watery soup with faded words floating aimlessly on the surface.
+</visual_elaboration>
+</metaphor_analysis>

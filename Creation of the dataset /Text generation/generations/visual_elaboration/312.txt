@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The old theory was becoming threadbare with use.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The theory has become weak and unreliable from overuse.
+</implicit_meaning>
+
+<components>
+<object>Theory, Worn fabric</object>
+<properties>Old, worn out, holes, thinning material</properties>
+<relations>Theory is compared to deteriorating fabric</relations>
+</components>
+
+<visual_elaboration>
+A tattered book with pages fraying into loose threads and visible holes in its text.
+</visual_elaboration>
+</metaphor_analysis>

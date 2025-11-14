@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She holds her dreams in a velvet grip.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Gentle but firm control over aspirations.
+</implicit_meaning>
+
+<components>
+<object>Dreams, Hands, Velvet</object>
+<properties>Soft, Gentle, Secure</properties>
+<relations>Holding, Containing, Protecting</relations>
+</components>
+
+<visual_elaboration>
+A pair of velvet-gloved hands cradling a glowing star-filled orb.
+</visual_elaboration>
+</metaphor_analysis>

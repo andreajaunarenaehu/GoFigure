@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her feelings shattered like thin ice under pressure.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Emotional fragility and sudden breakdown
+</implicit_meaning>
+
+<components>
+<object>Feelings, Ice</object>
+<properties>Thin, fragile, breakable</properties>
+<relations>Breaking under pressure, shattering</relations>
+</components>
+
+<visual_elaboration>
+A frozen lake with spider-web cracks spreading beneath a crying woman's feet.
+</visual_elaboration>
+</metaphor_analysis>

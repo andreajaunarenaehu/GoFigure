@@ -1,0 +1,121 @@
+<metaphors>
+<metaphor_set>
+<metaphor>
+Her mind was running on low battery.
+</metaphor>
+<literal_paraphrase>
+She was feeling mentally exhausted and needed rest to recover her energy.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Her mind was fully energized and operating at peak performance.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His emotions needed a system reboot.
+</metaphor>
+<literal_paraphrase>
+He needed time to reset and process his feelings to return to a stable emotional state.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotions were perfectly balanced and required no adjustment.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their relationship was stuck in an infinite loop.
+</metaphor>
+<literal_paraphrase>
+They kept repeating the same patterns and conflicts in their relationship without progress.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their relationship was constantly evolving and moving forward in new directions.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His memory files were corrupted.
+</metaphor>
+<literal_paraphrase>
+His recollection of past events was unclear and unreliable.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His memories were crystal clear and perfectly preserved.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She was programmed to succeed.
+</metaphor>
+<literal_paraphrase>
+She was raised and conditioned with strong values and habits that led to success.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She had no inherent drive or training for achievement.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His heart needed a hardware upgrade.
+</metaphor>
+<literal_paraphrase>
+He needed to develop greater emotional capacity and sensitivity.
+</literal_paraphrase>
+<contradiction_paraphrase>
+His emotional intelligence was already at its maximum potential.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their communication interface was incompatible.
+</metaphor>
+<literal_paraphrase>
+They had difficulty understanding each other due to different communication styles.
+</literal_paraphrase>
+<contradiction_paraphrase>
+They understood each other perfectly and communicated effortlessly.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+She was processing too many tasks simultaneously.
+</metaphor>
+<literal_paraphrase>
+She was overwhelmed by trying to handle too many responsibilities at once.
+</literal_paraphrase>
+<contradiction_paraphrase>
+She was comfortably managing her workload with ease.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+His social firewall was always active.
+</metaphor>
+<literal_paraphrase>
+He maintained strong emotional barriers and was reluctant to let people get close to him.
+</literal_paraphrase>
+<contradiction_paraphrase>
+He was completely open and vulnerable with everyone he met.
+</contradiction_paraphrase>
+</metaphor_set>
+
+<metaphor_set>
+<metaphor>
+Their friendship needed a software patch.
+</metaphor>
+<literal_paraphrase>
+Their relationship required some adjustments and improvements to function better.
+</literal_paraphrase>
+<contradiction_paraphrase>
+Their friendship was perfect and required no modifications.
+</contradiction_paraphrase>
+</metaphor_set>
+</metaphors>

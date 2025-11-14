@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their dominance soared above the competition.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Superior performance or achievement compared to others.
+</implicit_meaning>
+
+<components>
+<object>Dominance, Competition</object>
+<properties>Soaring, Height, Elevation</properties>
+<relations>Being above others, Flying higher</relations>
+</components>
+
+<visual_elaboration>
+An eagle soaring high in the sky while smaller birds fly far below.
+</visual_elaboration>
+</metaphor_analysis>

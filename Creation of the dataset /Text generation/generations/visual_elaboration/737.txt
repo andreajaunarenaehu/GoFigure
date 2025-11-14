@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Some beliefs are like hand-me-downs, passed from generation to generation.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Beliefs are inherited and passed down like old clothes.
+</implicit_meaning>
+
+<components>
+<object>Beliefs, Hand-me-down clothes</object>
+<properties>Worn, inherited, traditional</properties>
+<relations>Passing down through family members</relations>
+</components>
+
+<visual_elaboration>
+A family tree with each generation wearing the same faded, patched clothing while passing it downward.
+</visual_elaboration>
+</metaphor_analysis>

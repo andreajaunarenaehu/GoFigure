@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their responsibilities collided like opposing forces.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Conflicting obligations causing tension and clash.
+</implicit_meaning>
+
+<components>
+<object>Responsibilities, Forces</object>
+<properties>Opposing, Colliding, Conflicting</properties>
+<relations>Two elements moving against each other in opposition</relations>
+</components>
+
+<visual_elaboration>
+Two arrows made of task lists crashing head-on with explosive force between them.
+</visual_elaboration>
+</metaphor_analysis>

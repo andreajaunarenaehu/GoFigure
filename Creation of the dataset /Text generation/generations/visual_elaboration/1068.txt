@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+She transmitted her expertise to the new employees.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Knowledge transfer from one person to others.
+</implicit_meaning>
+
+<components>
+<object>Expert employee and new employees</object>
+<properties>Knowledge flowing like radio waves or signals</properties>
+<relations>Transfer of information from one source to multiple receivers</relations>
+</components>
+
+<visual_elaboration>
+A glowing person radiating beams of light to multiple silhouettes who gradually become illuminated.
+</visual_elaboration>
+</metaphor_analysis>

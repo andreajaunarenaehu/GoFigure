@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+That suggestion left a bitter taste in everyone's mind.
+</linguistic_metaphor>
+
+<implicit_meaning>
+The suggestion was unpleasant and disagreeable.
+</implicit_meaning>
+
+<components>
+<object>Suggestion, Taste, Mind</object>
+<properties>Bitter, Unpleasant, Lingering</properties>
+<relations>The suggestion creates a negative sensory experience in people's thoughts</relations>
+</components>
+
+<visual_elaboration>
+A group of faces grimacing with lemon slices floating above their heads.
+</visual_elaboration>
+</metaphor_analysis>

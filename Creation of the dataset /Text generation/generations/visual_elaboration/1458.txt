@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Their ideology was a museum of outdated artifacts.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Old-fashioned and obsolete beliefs.
+</implicit_meaning>
+
+<components>
+<object>Ideology, Museum, Artifacts</object>
+<properties>Outdated, dusty, ancient</properties>
+<relations>Ideology is represented as physical objects in a museum setting</relations>
+</components>
+
+<visual_elaboration>
+A dusty museum display case filled with cobweb-covered books and broken clocks.
+</visual_elaboration>
+</metaphor_analysis>

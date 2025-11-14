@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The community's beliefs reproduced and spread like a thriving species.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Ideas multiply and spread rapidly through populations.
+</implicit_meaning>
+
+<components>
+<object>Community beliefs, Living species</object>
+<properties>Reproductive, Growing, Spreading</properties>
+<relations>Beliefs behaving like biological organisms multiplying</relations>
+</components>
+
+<visual_elaboration>
+DNA strands morphing into thought bubbles that multiply and branch across a crowd of people.
+</visual_elaboration>
+</metaphor_analysis>

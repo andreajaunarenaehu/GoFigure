@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The workshop was a sunrise of new perspectives.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Enlightening and bringing forth new ideas.
+</implicit_meaning>
+
+<components>
+<object>Workshop, Sunrise</object>
+<properties>Illuminating, Awakening, New</properties>
+<relations>Workshop bringing enlightenment like a sunrise brings light</relations>
+</components>
+
+<visual_elaboration>
+A classroom with a giant sun rising through the windows, casting light beams that transform into colorful ideas above students' heads.
+</visual_elaboration>
+</metaphor_analysis>

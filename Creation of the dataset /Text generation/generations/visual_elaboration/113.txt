@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Shadows hardened into stone as night fell.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Darkness becoming permanent and oppressive.
+</implicit_meaning>
+
+<components>
+<object>Shadows, Stone, Night</object>
+<properties>Transformation from fluid to solid, darkening, heaviness</properties>
+<relations>Shadows transforming into stone, night descending</relations>
+</components>
+
+<visual_elaboration>
+Fluid shadow shapes crystallizing into dark stone statues under a setting sun.
+</visual_elaboration>
+</metaphor_analysis>

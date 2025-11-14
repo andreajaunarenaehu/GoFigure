@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+His mind was suffering from emotional bruises.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Psychological pain and trauma.
+</implicit_meaning>
+
+<components>
+<object>Mind, Bruises</object>
+<properties>Hurt, Damaged, Painful</properties>
+<relations>Mind experiencing emotional damage like physical bruising</relations>
+</components>
+
+<visual_elaboration>
+A brain with dark purple bruise marks scattered across its surface, some areas swollen and tender.
+</visual_elaboration>
+</metaphor_analysis>

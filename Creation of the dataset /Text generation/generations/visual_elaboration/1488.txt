@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+The future approaches like a runaway freight train on a downhill slope.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Unstoppable and rapidly approaching danger or change.
+</implicit_meaning>
+
+<components>
+<object>Future, Freight Train</object>
+<properties>Runaway, Downhill, Fast-moving, Unstoppable</properties>
+<relations>Approaching viewer at high speed</relations>
+</components>
+
+<visual_elaboration>
+A massive freight train with glowing red lights speeding downhill directly toward the viewer, smoke trailing behind.
+</visual_elaboration>
+</metaphor_analysis>

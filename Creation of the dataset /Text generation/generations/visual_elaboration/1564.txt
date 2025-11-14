@@ -1,0 +1,19 @@
+<metaphor_analysis>
+<linguistic_metaphor>
+Her grief was an asylum of endless corridors.
+</linguistic_metaphor>
+
+<implicit_meaning>
+Overwhelming and inescapable sadness that feels like being trapped.
+</implicit_meaning>
+
+<components>
+<object>Grief, Asylum, Corridors</object>
+<properties>Endless, Dark, Maze-like</properties>
+<relations>Person trapped within the endless corridors of their emotional state</relations>
+</components>
+
+<visual_elaboration>
+A woman's silhouette walking through dark, mirrored asylum corridors that multiply infinitely into darkness.
+</visual_elaboration>
+</metaphor_analysis>
