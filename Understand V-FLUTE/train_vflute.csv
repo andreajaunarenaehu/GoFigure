@@ -1,0 +1,1146 @@
+,Unnamed: 0,image,claim,label,image_hash
+0,0,490.png,she is a ray of sunshine,contradiction,8a009fea37cc1e2202b3acd4191d8a61
+1,1,551-1.png,We're starting to realize that life is oddly permanent.,entailment,8fdf15f9123e260a59c0cce86bf6e481
+2,2,47.png,a night owl,entailment,bb2fd0a9fe0d6f3a374ea3bb815ee521
+3,3,38.png,a night owl,contradiction,91f56248725c2a8c2d6353b90a25b9dd
+4,4,411.png,jungle city,entailment,5ca5f9eb9beea5ad91590ad1fe14f77a
+5,5,656-1.png,The armor was breakable and weak,entailment,d621eb71ca0c94abc2a58648f08aacea
+6,6,315.png,heart sank,entailment,de3ffad9f722b1cb0101735c277f9d18
+7,7,816-1.png,John ended up in front of his class mates.,contradiction,bbf3ead9a7043cc16afe22cc8ecd317d
+8,8,178-1.png,Now this fool showed up with his confused mind.,entailment,de29a9e7032af60bda958eadab8ae497
+9,9,592-3.png,The faculty meeting was an intellectual dialogue.,contradiction,a3a29f0d72c9b352276959ed9df46e37
+10,10,269-1.png,"He was tall, domineering, never once breaking eye contact.",entailment,41409e1b9933de71c6929b706e98f4dd
+11,11,287-3.png,Rory looked at her as if she were sane.,contradiction,ab13333032bc19a387124d2362916095
+12,12,493.png,she is a ray of sunshine,entailment,135dbfe4ca53116295484daee7d971a0
+13,13,123.png,blanket of snow,entailment,e7644f430fd4603dba2a52bc71c4585d
+14,14,624-1.png,The game is boring,entailment,3ff2e45d025c8b4e1b248e8b31153b4b
+15,15,125-1.png,None of the water was red.,contradiction,80bb2c3e0a45f3c947d2c99577951ac9
+16,16,325.png,heart sank,entailment,074124e49b7628dd0ca8b4cd49f1229f
+17,17,615.png,walking encyclopedia,entailment,fbaa042d132bfe40076787524effaeeb
+18,18,879-3.png,He implored her to forgive him but Janet remained indifferent to his pleads,entailment,6d8e9a26acac98148bd0127914c4a8b6
+19,19,470.png,sea of umbrellas,contradiction,0fe8a329432a27ba46a7ba5ec619b8c5
+20,20,894-1.png,The reasons that carried to the war were in the economical crisis,entailment,998577985f825758b5e1cf60f5234ac5
+21,21,487.png,sea of umbrellas,entailment,2991dedae1f2ff9f11b9bfe5316c6605
+22,22,222-4.png,She is cold.,contradiction,04bfbc2863bcf32b2579ed65f6d26f01
+23,23,394-3.png,Not a change happened to their features.,entailment,258477bf35cf609f4c092f764d0ab496
+24,24,247-4.png,She seemed stocky.,entailment,fb60a0d9f233a28150960db15b44052f
+25,25,178.png,he is a cheetah,contradiction,31ffed1e8686baf7f94d8d59fff3178c
+26,26,883-3.png,I was among many people I did not know  all alone,entailment,cbc9f87741fa078e1cb0a503a2ccaff5
+27,27,485.png,sea of umbrellas,entailment,7172dc80d17e951c6c82b50a3bfacbc7
+28,28,302.png,heart of stone,contradiction,2be82a8b0c0a65b7e3677158250968f8
+29,29,340-1.png,Sales were plummeting after the decision of lowering prices.,contradiction,5737ad27d46c7a1ef584fd007d07d0b9
+30,30,474.png,sea of umbrellas,contradiction,7a5a6a07dff0bdf38769fb79ade94a3f
+31,31,538-3.png,The library grew back in an ugly way,contradiction,a68799fd1a044b63a066a21a7196ec3f
+32,32,310.png,heart of stone,contradiction,90aeb7de07bbb1a3fd9f873621bfb82b
+33,33,638-1.png,"It was pale, yet bright and its flesh glowed pleasantly.",entailment,b84ce22dbea87f571b279d0c2d483cc8
+34,34,583-1.png,The causes of progress are in technological development.,entailment,6c6863854e605a468e7e2862be82f42f
+35,35,141-3.png,A person who suffers a lot of problems.,entailment,a9d85affba0cbd80c71caac251afafa8
+36,36,498-2.png,The cat was black,entailment,4661e23917d9d3cc3059ffd5c39c1c6f
+37,37,524-2.png,I don't believe your story.,entailment,5faeb930d82ace1525d4a020910620a8
+38,38,350.png,home was prison,contradiction,7d8b7d957236b8e56e47ac6eb5909264
+39,39,426.png,light of my life,contradiction,60d933658ce96deaf5d67d2ee363150d
+40,40,479.png,sea of umbrellas,entailment,e17545b391fc82f695752dc5ea7b3213
+41,41,171-3.png,The carriage slowly started to move.,entailment,ded82f771ca1e7459ac3c657b1d8186b
+42,42,702-1.png,His nose was rather narrow,entailment,303ff9d68c4deda03dad4e3e27102a3b
+43,43,305.png,heart of stone,entailment,b3a7dba58b89f5540405660b55b1e3ab
+44,44,734-3.png,The age of computers had yet to arise.,contradiction,0e1c22f6b323b46262909621685a283b
+45,45,533.png,she was a busy bee,entailment,1f57aec7687e3f7800c796a0f92fe152
+46,46,582.png,their relationship is a house on fire,contradiction,e2dbab1899183854851168595ef5e515
+47,47,548-4.png,The old woman was kind enough and generous.,entailment,4e8f8910f46a8c737f50d451dadac591
+48,48,584.png,their relationship is a house on fire,contradiction,6e5b5702f927b8032c24f9e8ca0619f7
+49,49,735-2.png,He lay before the setting sun.,contradiction,8db5a4bfb0ed1dea0cfae84179012fa3
+50,50,167.png,he drives a tank,entailment,7577a332965712a2a328e5244716b261
+51,51,557.png,she was a sly cat,entailment,fa5e2cb5dfb951a0e2458f34dfea21ca
+52,52,43-2.png,His offer was so unappealing,contradiction,98ebab555274be01bdda65a15a055f1e
+53,53,942-4.png,Airports are not profiting from passenger fees.,contradiction,080ad7712b2cd631fba306c636144ca6
+54,54,1031-2.png,Life finds new ways to emerge after death,entailment,15712d1f4d750d0980f5f53fa98d7ee3
+55,55,607.png,walking encyclopedia,entailment,dd3baab15751b224cc61c94ba81db70d
+56,56,668-1.png,The harsh criticism of his work made him ecstatic.,contradiction,d48e004dc046305c3662169460f6b4f4
+57,57,827-4.png,The man had finally overcome his feelings about the situation.,contradiction,d8bf49e13254cc2f6beec0dd066a3974
+58,58,346.png,home was prison,contradiction,7067e819f5f2eaa459eec731a72a93ca
+59,59,626-1.png,The world turned blue,contradiction,d7a9619fe0993a8004fd05e4b2f5fa40
+60,60,187.png,he is a cheetah,entailment,7a1d1b684e21287c729ce1b5db598c71
+61,61,196.png,he is a cheetah,contradiction,57dcecbd083e1896b3104cb62624a116
+62,62,46-1.png,He did not work hard,entailment,a8f43ce4670abfd6f28b00051078a847
+63,63,569-1.png,The stock marker went down like a plane in free-fall.,contradiction,e76eb4034e8dc02954f154f63c85f544
+64,64,202.png,he is a fox,contradiction,10732c0e70024d13c6ff70ee252f7600
+65,65,749-2.png,He felt weak and flimsy,contradiction,7af412ef3fb5b012c15640b236e006c2
+66,66,738-3.png,"Eventually, trying to make sense of the situation becomes easier.",contradiction,dc691b57aeee3e2b4fd0d12c0e63b13c
+67,67,521-2.png,Their dinner started off with a stronger drink of cognac.,contradiction,c4c9f65797f7af1c95e6d9b65401c5eb
+68,68,533-1.png,"Even though you decline, the man is still persistent.",entailment,8cee5158b7fae58dab20a149dabbfade
+69,69,175.png,he drives a tank,entailment,1a78f3b13d27a74cc27b41134d95e62a
+70,70,283.png,heart of gold,contradiction,9ca6a28769d3f42ae7cf17d7d83a2381
+71,71,136.png,blanket of snow,contradiction,1aea2ef2138d30052a4a1170cf6c1811
+72,72,193.png,he is a cheetah,entailment,153aeafe9584e886cd2afbc64718b3b7
+73,73,914-4.png,His head was bright under the moon.,entailment,0f5e471bbf966ba88dce3c1c89bc539a
+74,74,684-1.png,Words are harmless.,contradiction,b0b74dc124dcb1f56c475767f7fdee29
+75,75,312.png,heart sank,contradiction,5cb806b0d157c1b58aaac83c0b484aa7
+76,76,771-1.png,the play was boring,entailment,453253bc3a294076ac6bc1eb539f6ade
+77,77,911-2.png,he felt a mild discouragement,contradiction,eae342209a669404bde5cba1bc119298
+78,78,remaining-1028.png,The protagonist Trinity Pierce has a very clear and transparent history.,contradiction,72ed30abd6ea9a56fdbbac3fc50d0ba3
+79,79,609-4.png,"Her eyes were huge and her mouth was open as she saw me looking at it, and she smirked.",entailment,a35dbb0ee5c3be27f0649778286a8881
+80,80,23.png,a mighty lion,entailment,76a0ea4cf7c9b4d91cbe7aee3a46c2b6
+81,81,523-3.png,My brain is strudy after the bottle of champagne.,entailment,0ba5e1c62943092b16fff717904bd8f1
+82,82,642-2.png,You are starting to get suspicious about everyone around you being a robot subtly testing you.,entailment,d6bb53417372021102c579ab1c7fa2bc
+83,83,77.png,an angel,entailment,7a0b0b3128be11f31ec5a0d31c74f63a
+84,84,151-1.png,Monty was a rich person and felt like he was in a luxurious paradise.,entailment,d38f0bfd57ec714a77b796fefe3b27ad
+85,85,581.png,their relationship is a house on fire,entailment,069203df7a7cb64ffc5e96d620a7a9a4
+86,86,349.png,home was prison,entailment,f2ef938d15418fad390af347cc32b098
+87,87,971-3.png,She was unable to have sharp focus.,entailment,f8baa4de9f7e37d05b6b6c28584d6946
+88,88,789-1.png,"I'm guessing you aren't the only student who finds the tutor hot, but you may be the only one where the feeling is mutual.",entailment,4a0e5a09180b9d5dd214d6adbc044095
+89,89,495.png,she is a ray of sunshine,entailment,cae72fe178cc94e53192a5fafdd43dd7
+90,90,15.png,a mighty lion,entailment,0c89f5b0310c3e6db8a9b9712f7e525a
+91,91,482.png,sea of umbrellas,contradiction,fda11cd7624774b0f2aaba1ebf732b83
+92,92,481.png,sea of umbrellas,entailment,0157aa64c21008a5427005082bc90a6c
+93,93,31-1.png,Joe is a slow person.,entailment,ed67f2a83bf62b8311f0cc1da69de5f3
+94,94,344-2.png,Jack nodded slowly,contradiction,b0d6a266b0b90ea2f46735f4c55a9cca
+95,95,52.png,a night owl,contradiction,e5f7ad6ba29779ad4090304e93b8e57d
+96,96,468-1.png,She was nervous,entailment,e8a8dc699d1c43a25c9b4c32c9ffab46
+97,97,807-1.png,The spy was very loud and conspicuous,entailment,dd3b5ed07b1638f9ababaa678e6724ad
+98,98,412.png,jungle city,contradiction,9d460fbb7cf5ef33a2bcd0f6e7c536b7
+99,99,remaining-1058.png,Android phones have been forgotten.,contradiction,3b11135f0f19f04d9ccd2684f0301f3d
+100,100,433-4.png,The flower bends to and fro in the wind.,entailment,c9b2c9a43275faacbc68e3039d72a909
+101,101,598.png,walking encyclopedia,contradiction,4741a2bf2a9c60849c32ddde79c12d53
+102,102,500.png,she is a ray of sunshine,contradiction,2ec670fed02b7f37021f04b8426ec022
+103,103,185-4.png,The overhead light buzzed soothingly.,contradiction,494c098d0007ab1e29e7bf7a0d5b0c1c
+104,104,714-3.png,We could painfully feel each blade of grass because we were barefooted.,entailment,2e97fc75ad3c0faee1aa67c6c25bbeb1
+105,105,613.png,walking encyclopedia,entailment,10732c0e70024d13c6ff70ee252f7600
+106,106,remaining-1007.png,My computer screen is off.,entailment,27c3d1764be9ef663e1450f1a753d430
+107,107,823-4.png,Death is going further away from the door.,contradiction,468563165966520202817b5e0a5c9ab0
+108,108,234-1.png,"Even though it is not blood, the truth is even more horrid.",entailment,b6cec4099c24022526c3ceee5781b5f2
+109,109,117.png,blanket of flowers,entailment,fcfcf7b84460a48842410be4eb13dd03
+110,110,640-1.png,"It came running, hard and reckless.",contradiction,474202a59334369b860773ecdee84dde
+111,111,923-4.png,There was an economic recess.,entailment,e3812d9ebb8cf7f53647dd52db043c33
+112,112,323-1.png,"Julia was an small pizza with welcoming toppings, and frankly, I was too hungry.",contradiction,6346d9795a4bcfb29712cdc9d9defcb4
+113,113,161-1.png,The predators never expected their prey to be this indestructible.,entailment,af6659f226e5a50ed0e73ba3fa39e1d8
+114,114,282.png,heart of gold,entailment,b4d22405d4050ca953b1796a77804c60
+115,115,599-1.png,He was relaxed,contradiction,acdf0ac5cde57e81cbc87f3c145b0ed6
+116,116,606.png,walking encyclopedia,contradiction,c870ddbb8b5cb5595306f94ea917466d
+117,117,799-3.png,The woman had a really dull personality.,entailment,4747e485e86aef5f9bda88ed7a383923
+118,118,679-1.png,He was lanky and thin,entailment,f8cc8e7248cb4e8d34fa5cf0e6dabcca
+119,119,293-2.png,The new measures resulted in deflation in the economy.,contradiction,c53381c1e642e1e3be82a769f23d2183
+120,120,125.png,blanket of snow,entailment,08dafd8dcd9f54b25593eb498337d56d
+121,121,remaining-1041.png,Do not spend all your money.,entailment,a5f6302f8ca51fb07c8d265434c59857
+122,122,650-1.png,He did not apply fertilizer over the lawn.,contradiction,ca1ef25f786ac202f0021623ba4a3ec6
+123,123,367.png,homework is a breeze,entailment,b429486aee0f9fd5c3d4b3382dcab5ec
+124,124,715-2.png,The book glowed black.,contradiction,5150f03ab93852c1d73cfa4fd1b203d7
+125,125,303-3.png,He is in such a hurry that he runs extremely fast.,entailment,d928aa52f3fe40ad8a853fdd3546a92a
+126,126,340.png,home was prison,contradiction,e4b593a51a6e72f5c4730466949e770f
+127,127,652-4.png,My soul was an uncharted continent and she was the explorer.,contradiction,e663648d5811f02cd18e3e4f0c948b62
+128,128,342.png,home was prison,contradiction,638479de9a2db2b5d1509468970095cc
+129,129,357.png,home was prison,entailment,f41c5b29d36cd3f00938cd40683816d8
+130,130,309.png,heart of stone,entailment,0b0177123a207be02238527c428370e0
+131,131,207-3.png,She looked so vulnerable .,entailment,227574f091c55d52ccfc0de5a5bf1368
+132,132,294.png,heart of gold,entailment,0b50856ff7ec4f5ae6d92b99c035b3ef
+133,133,remaining-938.png,The person is very unlucky.,contradiction,b895548a99352154cf5d6186c1fb961d
+134,134,908-3.png,Adam did not understand the reasons of the crisis,entailment,523828a6430f825d88dbb37c1b9f2ce3
+135,135,157-2.png,Krishna gets up very early in the morning.,entailment,2886f394a838db7b6042d5004f84fbe2
+136,136,537.png,she was a busy bee,entailment,72984040c9491ee07a2e677c63bb0fff
+137,137,550.png,she was a sly cat,contradiction,4719c3f4e057c83113103039477d947e
+138,138,33.png,a night owl,entailment,7985030fc843c191444dbbc706490b75
+139,139,155-1.png,And now they were hiding all kinds of documents.,contradiction,a399f4a1bbba85d6394c7752f63b5406
+140,140,364.png,homework is a breeze,contradiction,53b596a42f979097a56fa7d0ece4b9f5
+141,141,844-1.png,The guy looked fat and large while floating in the small swimming pool.,entailment,d919d382f0c443aab8cabe2244ec01d8
+142,142,316-4.png,The sky drained of rosy splendor.,contradiction,bbc5cb07d40ce4ebc300d4bb353c3c8a
+143,143,208.png,he is a fox,contradiction,814ce96c29d32ae968e29e0570dcd65c
+144,144,remaining-997.png,The future is likely not going as expected.,entailment,968fafe895f6d90b809ff6cce50e3961
+145,145,190.png,he is a cheetah,contradiction,3d1c98957ecd9d8443229ffe25ff623e
+146,146,431-4.png,Sariel was built lean,entailment,85cc3f8f6bab601483d0af528e4ad5f5
+147,147,277-2.png,"Even though she was much older, her unattractiveness repelled him.",contradiction,6caa0516c052cccd26a60e60a67f244e
+148,148,369.png,homework is a breeze,entailment,83ad75fad1bbb0fc42fe5a0339f42d37
+149,149,73.png,an angel,entailment,0707b86d29474b3126082287db6030ae
+150,150,540-2.png,the dog is heavy,entailment,db4cdaf02dfa9a3f93b29054c80ed357
+151,151,834-1.png,As the clouds are scattered from the skies.,entailment,2ef08ad69e3a114eb0119f0398012ca6
+152,152,433.png,light of my life,entailment,6a7692d04a43ef085ac4bd24d39843d6
+153,153,287.png,heart of gold,contradiction,a3d4de892a1b236fd22e78b04e58df35
+154,154,794-2.png,"Looking at the night sky, the stars are pretty dim.",contradiction,983ebb82bcd95b7a42c65b5f7f508442
+155,155,192.png,he is a cheetah,contradiction,8cc994c8f20d31f81a7c70d9f76cdbf5
+156,156,333-1.png,Your breakthrough in AI just made our species more relevant than ever.,contradiction,27723a60a96c11befc0a9704bd7f763d
+157,157,674-3.png,"My golden toned skin welcomed the heat, and it spread across my body rapidly.",entailment,5db98ed7c0443e15d25fb2b2b7e589a5
+158,158,121.png,blanket of snow,entailment,e05c1482ccf35e5ac61825f673aa9f1a
+159,159,402.png,jungle city,contradiction,80d12d06588a9ecc2c4681394fc7fa8e
+160,160,552-4.png,The sudden boom in the market is mostly due to these operations .,contradiction,60943313c1491196170c2e4568f13345
+161,161,516-1.png,The place was dark and dirty .,entailment,f94f62413da8e1c31a813ed45599a172
+162,162,6-2.png,My alarm woke me up in the morning.,entailment,6f1c1f5fe6774cf315195d9a59d5a3be
+163,163,271-1.png,He fought hard,contradiction,bd61a8aa58d08fcf9d31c52d3aecfa73
+164,164,119.png,blanket of flowers,entailment,d8138a80fd73f79317e0d1bbfcf8df4f
+165,165,594.png,their relationship is a house on fire,contradiction,ccd1e82afa0f20e8794ed724ce11b3a1
+166,166,353.png,home was prison,entailment,9d4950f728287f69dadff4928df2dbd3
+167,167,189.png,he is a cheetah,entailment,23d9a7631e2e0046e8afc92397af3e31
+168,168,257-4.png,She devalued his novels.,contradiction,ecf2bb0b96a449941e8d406b3ebbd78d
+169,169,285.png,heart of gold,contradiction,85c623ff49b1e2c28e9f6bdd91e226f3
+170,170,561-3.png,A weather vane under the building.,contradiction,233d9fbfccf3c2508fb2f182b448edf7
+171,171,138-3.png,People think the old man has a warm cheerful temper.,contradiction,4b794d9ea436f6b76f74d70cc5750a8d
+172,172,66-2.png,You just started staring off into space and smiling innocenty,contradiction,2fff410893839e76e7bf13fc6fd4368f
+173,173,201.png,he is a fox,entailment,9e9b0aa16a49ef73336b8fb28ca20861
+174,174,203.png,he is a fox,entailment,dfe8dc8d4e6dff5bd3e03d2e9c24af37
+175,175,729-1.png,Vietnam was barely a blip on his radar.,contradiction,23ce0e88d25061f7ce7c4a90a2699890
+176,176,122-2.png,Pausanius was tied up and brooding right next to her.,entailment,26ad0dde898d52de3daa62ef34cc9a31
+177,177,498.png,she is a ray of sunshine,contradiction,32aba43c1d718d495b4e208ea6d1b1ee
+178,178,381.png,homework is a breeze,entailment,454e803532eac1e4a2641c79d7a1888c
+179,179,708-4.png,A break up can fill you with enthusiasm and energy that can lead to a new and exciting relationship.,contradiction,205cdbe6841d63edc456b2d259c28f58
+180,180,56-1.png,The employee does not show his anger and continues as usual.,entailment,e252d9720daf42d3eb89738d2dcd3a3f
+181,181,583.png,their relationship is a house on fire,entailment,a3d4de892a1b236fd22e78b04e58df35
+182,182,478-1.png,She did not capture attention of all the men.,contradiction,1fa709e7789c1a24463e9a0946a208ce
+183,183,61-1.png,Her body became rigid.,contradiction,bbb6edefb919a3bfe0d589b2b3644b22
+184,184,720-1.png,My eyes got so dry I feel like my face turned into red.,contradiction,7e8a1ff42209cfa85ac6878f4a71ac36
+185,185,138.png,blanket of snow,contradiction,571a9e02288914af7d4acaf6f85b9e45
+186,186,207.png,he is a fox,entailment,05942518207cfa2baf4d972482195c5d
+187,187,559-2.png,The courtyard goes dark and hidden,contradiction,1b09b31058a1fb56fff1620caf7dcc46
+188,188,249-2.png,I was very unlucky in my life.,entailment,b269400ecd742e5016a924ce0e1c54f8
+189,189,193-1.png,"Percy, on the other hand, looked quite comfortable.",contradiction,62e5eecd619a5e453a86fde0af632f8d
+190,190,349-2.png,Your guardian angel is a little too apathetic.,contradiction,2610f05d3bc605c8a31aa6df39d6cd19
+191,191,173.png,he drives a tank,entailment,25ef590a95cce85c3f7157784a2f1805
+192,192,181.png,he is a cheetah,entailment,dbc207b9ab0deba37d22c2be07b63f62
+193,193,260-1.png,The faculty meeting was peaceful.,contradiction,ff576fc5580af0b458984de6d8fb3ef7
+194,194,283-3.png,The mountain was covered with snow.,entailment,d15d258883e49994820693734564ea8d
+195,195,388-3.png,The charges were exaggerated.,entailment,ad66e7ea10e49984ff5c22326b5457c1
+196,196,458-1.png,To provide the best education possible for our children we are putting money into it.,entailment,bd3f08bb60c8778bfec2a6a8b7600229
+197,197,328.png,heart sank,contradiction,271e0a7f4983e71da321fdca0badc083
+198,198,11.png,a lion on the battlefield,contradiction,239b55086a1a1d2ffeb58eb9b8d8e1d9
+199,199,558.png,she was a sly cat,contradiction,60014f6c2addac4395484f99d192b4b4
+200,200,557-4.png,The father shook him with his hand.,contradiction,33f2089d91365d187adb67abca54094f
+201,201,571-1.png,She did not show a lot of efforts of pulling against the wall with her all strengths.,contradiction,72c7329c968763673233d4f34d87212e
+202,202,1032-2.png,Life stands still after people die,contradiction,15712d1f4d750d0980f5f53fa98d7ee3
+203,203,751-3.png,"The character knows their universe is fictional, everyone thinks they are sane for believing it.",contradiction,b0ae978a524a750c6830795ffb35a022
+204,204,527.png,she was a busy bee,entailment,e053b9a71d24f5535d48920d63a561c4
+205,205,964-2.png,US emissions will increase resulting in negative consequences.,contradiction,97f130e5c14c4a50bff350014ce76792
+206,206,667-1.png,After a few weeks he’s starting to feel a little lonely,entailment,d5db3ea3e1d9df16cbae137303169cdb
+207,207,40-1.png,David is a despicable person for what he did to Shelia.,entailment,8a4cc0c8cf78a7c2ab7ce5e745a21d97
+208,208,416.png,jungle city,contradiction,466461e12d372909b84821e47aa319c1
+209,209,13.png,a mighty lion,entailment,06c3f25cf704d82d09c9d3da44c556e2
+210,210,26-1.png,The only option in front of her was neither tempting nor alluring.,contradiction,b08aca3a2ce1c7b5dc12154a363319ba
+211,211,68-2.png,The library deteriorated and became ugly.,contradiction,00c5a27ad314c6312532f057130232ff
+212,212,817-1.png,Managed to get to the top of the mountain with great difficulty.,entailment,c3c527ae413adad3e0b3d134b5873708
+213,213,853-3.png,When it rains in Tokyo the city becomes full of umbrellas.,entailment,4784a8b5ef579d98980a2c4f7af78103
+214,214,139-1.png,The teapot soothed as the water boiled.,contradiction,1e8e6ca33295c430958873338679151a
+215,215,159.png,he drives a tank,entailment,4578d8e6b7a674f5805ba42392414bcb
+216,216,21-1.png,She is not special.,contradiction,5399b9104c94db9b21eed43ebee03a8d
+217,217,201-1.png,The story is addictive.,entailment,80c1c26870e3c59377959bf395526401
+218,218,405.png,jungle city,entailment,6a624fb1ef1b7dbcc7fe280d0b30d336
+219,219,96-2.png,That movie was disturbing,contradiction,c75a0dc93602f375ee70a73fd9be3e61
+220,220,440.png,light of my life,contradiction,b72624d2f1947fe4025cefefda6f81f5
+221,221,132.png,blanket of snow,contradiction,b193f182ae2453da4e53966951536dfb
+222,222,174.png,he drives a tank,contradiction,8e9912f2a836c206fa845f69ebf95c39
+223,223,338.png,heart sank,contradiction,a9b1dbc0d701f910ad420aaab814923e
+224,224,987-3.png,I feel grateful.,entailment,e8084de762a45d64039a10cce1bb1c5a
+225,225,1060-3.png,The example text was very plain.,contradiction,519018094bbc23545777c206bd2de602
+226,226,59-1.png,I'm honest,contradiction,def6b03bb1432d3e5aad440575ab7b11
+227,227,597.png,walking encyclopedia,entailment,43d0175c3e2d987c1abc3d21129e7e5e
+228,228,78.png,an angel,contradiction,45d9fc9325fd694a6038420d45d412d5
+229,229,83-1.png,That night she'd looked exquisite .,entailment,eabed4ee9fbd9683808873d518d529ab
+230,230,73-1.png,He was following his dreams.,entailment,e995e0a8ed2dcb34e850a3c25649a2f8
+231,231,272.png,heart of a lion,entailment,19dbc488c3f3eff37e51262afd824208
+232,232,913-1.png,he felt an intense rage,entailment,f108371d189573af62626de2793f3946
+233,233,731-1.png,you are graceful,contradiction,f8104f2eecf892ecc8a28a96a6fba6af
+234,234,28-2.png,The house was a blooming oasis.,contradiction,85259d3b252007266ebd9262c6b4b218
+235,235,remaining-953.png,He is going to fly on a plane.,entailment,201fffeb88e4d68ef0cf41bbd3753b82
+236,236,72-4.png,He waited impatiently,contradiction,76dfede19a9a966ba61bbfe7fc9bacb3
+237,237,160.png,he drives a tank,contradiction,33d509fade25be01eb98039635571ed9
+238,238,154-2.png,I have seen too many serious and respectable candidates get elected.,contradiction,1f210241a031f97e28d8b212d097602b
+239,239,802-4.png,After releasing his rage he was like a ferocious wolf.,contradiction,dd0725ca01098533349d23968a7ba12b
+240,240,486.png,sea of umbrellas,contradiction,bf9d4cc2e1e216740f4e379bc4257740
+241,241,572-4.png,"Guskewau , the darkness , surrounded her.",entailment,a955eb368bca472ebb598d2b0a043015
+242,242,601.png,walking encyclopedia,entailment,5e09f197ce733b2fa3cdbc1f105c011f
+243,243,307.png,heart of stone,entailment,34037d9e4a9e33cecd156b3d98f06580
+244,244,216.png,he is a fox,contradiction,4618c0d9afd7cd6223b2665757fa0dee
+245,245,348.png,home was prison,contradiction,2e8bcdb4e075c772f6485408eb63c55e
+246,246,462.png,sea of knowledge,contradiction,89d4d1cc743ff24be74fcf6726383b67
+247,247,54.png,a night owl,contradiction,86769a21067423bc9c33b3f837bd667f
+248,248,299-1.png,Everything seemed disproportional .,entailment,010198e6de7cc31b6fe8cd643ec0bcff
+249,249,139.png,cute teddy bear,entailment,40fa691d87922e8dfb05a56fce6e00b5
+250,250,20-3.png,The path descended all the way from the top of the hill.,contradiction,a9d5deb16a6d86034a09c7a2c2db1eb4
+251,251,856-3.png,my feeling of love is hot and falls in july,contradiction,50ed7fe6ac12dd6576c6077bf3035d8c
+252,252,885-4.png,The wind roared; the waves collided - we were in great danger.,entailment,daf11cde5c2fa625fa30729bdbd4604b
+253,253,582-1.png,Tears had rolled down my eyes and my face was red.,entailment,ee0c09d65cab8cbf1ac5a692ad7203f2
+254,254,429.png,light of my life,entailment,18af869cdb6f9b2f0690596ab2fcce3b
+255,255,185.png,he is a cheetah,entailment,b161642ba10732af04e787de78ac57ba
+256,256,1023-2.png,Historically Israel and Armenia have not had the best of relations with Turkey until the earthquake happened,entailment,acd64c2337459770feb2e55e0866e55c
+257,257,709-1.png,"I wanted to get money, and the ATM worked.",contradiction,8d1d618431444e6f58b77ba62aa8324f
+258,258,505-1.png,Jane knew there was potential for conflict when the conversations about the assignments began.,entailment,795a6e0e60be62bc9f529e2e8b4490a8
+259,259,688-1.png,His gaze was neither blazing nor compassionate.,contradiction,b24b695be0ff88d3b9ad6fa961b7c5d0
+260,260,remaining-935.png,They looked at each other in an almost hostile way.,entailment,d6b8fe7719ef197b64ca7a5183325638
+261,261,347-3.png,The animal swings its tail and strike the ground.,entailment,cce63b20412521b90f5480f316a56849
+262,262,519-4.png,But your skin still has an apparent hardness.,contradiction,e8162b470a08086c461bd42f0d93ae94
+263,263,463.png,sea of knowledge,entailment,5d667881c985664a6ac75ba1f66503c9
+264,264,169.png,he drives a tank,entailment,8e06c766b4ad8164bc0acfe2a77fc6a1
+265,265,346-1.png,A fun time was ruined as soon as she left the party.,entailment,3d43ae125f37edaeb241f11bbbb29173
+266,266,896-4.png,a very bright sun shines high in the sky,entailment,0cd971581c2a08576ebccc1a0a91d175
+267,267,605-4.png,"In puebla, the sauce was light and watery.",contradiction,54c6907786205569904729fd45cf8d20
+268,268,795-3.png,"You will love the new train, it is a horrid ride.",contradiction,44c7bf109fa8d6831cd8841b49ee4f07
+269,269,517-1.png,The Senator praised the administration in his speech on Friday.,contradiction,e5b698632e2d83ef58965d45bd182569
+270,270,379.png,homework is a breeze,entailment,3909a27f984fcff45e25708026cc6588
+271,271,415.png,jungle city,entailment,0032d2bc61c1cbb26d5d2532ceb55033
+272,272,395-1.png,A thought pops into my head and it's very clear.,entailment,89e0601e86ccba9848eb3ab39dbebaa6
+273,273,304.png,heart of stone,contradiction,786f6858bdd28754669e8e068d33e871
+274,274,274-3.png,The toddler was very competitive.,contradiction,adcf29a5fc3fa9d45f4fafc94386fa8e
+275,275,609.png,walking encyclopedia,entailment,f6614132425a87f5753a3a07e2b0d8bb
+276,276,412-1.png,Sarah was too fragile and delicate to handle it like some other women could.,entailment,9a72bf7f3e970c17d176a6b07abfaa40
+277,277,470-1.png,Her passion is flowing through the air.,entailment,e64ee2ce536861304705dbffbb4bebc9
+278,278,963-2.png,Emissions are likely to reduce.,entailment,97f130e5c14c4a50bff350014ce76792
+279,279,438.png,light of my life,contradiction,80cebbf02da8985de09b7cad6977e0e2
+280,280,774-3.png,"They all agree the books are good reads, but they are too unrealistic",entailment,c87afed44f38978765772cc0932d4afa
+281,281,176.png,he drives a tank,contradiction,11abcb470a88579daa688c57cb4f95b2
+282,282,382-1.png,Calm down - there's no need to get enthusiastic about it.,contradiction,4ed2fe608f14c7d8337f1ac9b144f0f3
+283,283,509.png,she is a ray of sunshine,entailment,2d00fa19ad56444020910d790f0fb0bd
+284,284,84.png,an angel,contradiction,cac7d2d542500b4c99de3daaabf10524
+285,285,90.png,an angel,contradiction,05a6b6b6dc77fd278e71fddcdfadf39a
+286,286,74-2.png,The captain was a respectable person.,entailment,0d61ee1786d6748e082e24aed14aaf47
+287,287,291.png,heart of gold,contradiction,100580043e9131271d1b1356f1516d5f
+288,288,105-1.png,Time passes when you're having fun.,entailment,1675468e2e2e9dbe370ba20b5d35c4ab
+289,289,401.png,jungle city,entailment,194560a1dc48ab67226306140dcca17f
+290,290,865-4.png,The faculty meeting was amusing,contradiction,f6a3f93ab786bb6035396d8821536554
+291,291,327.png,heart sank,entailment,42b469d4049ab0392d3ef5dd48bae277
+292,292,408.png,jungle city,contradiction,d973102ee869c7d9b5fc09b02d783c63
+293,293,403.png,jungle city,entailment,98ccb7a30a212c25effeb9b7bd16b216
+294,294,697-1.png,They can be fleeting,entailment,9e67922c4f2af5a83a97f0d4261e9999
+295,295,165.png,he drives a tank,entailment,c8f5e1555101d99c78861aae11fb05c0
+296,296,297.png,heart of gold,entailment,e94c58d9b6b8ce21f5c406d4a618b4b8
+297,297,117-3.png,The approaching car's headlights were turned off.,contradiction,139ab747b93cece5a563aad8f1482708
+298,298,221.png,he is a fox,entailment,b37620e32166c40e0d30baa01af7f472
+299,299,472.png,sea of umbrellas,contradiction,de12093a977991d5f14e4359807ba6fc
+300,300,506.png,she is a ray of sunshine,contradiction,1882ee9611152ef2ec3663e2310c1d8e
+301,301,386-1.png,The plant grew fast,contradiction,10ae73b2171a862e845f4636c8141b37
+302,302,224.png,he is a fox,contradiction,2a57226758b4016beb7cce0713b1ca71
+303,303,339-1.png,Navigating fantasy Japan has proven very difficult,entailment,47d6d57c95b4f7203b04cb5701109782
+304,304,585-2.png,Hardy was cheerful by the time sixth period photography came around.,contradiction,53a1aa92fcca8822973d0726a8b75d08
+305,305,355.png,home was prison,entailment,bc96a241ba566c57f830f4779cae2197
+306,306,692-3.png,The space that contained it was small.,contradiction,38ba4514eaf5f67ab3b60239262bb809
+307,307,458.png,sea of knowledge,contradiction,e5b8bc3ff5a7f5ff62c62b51ccc9d224
+308,308,43.png,a night owl,entailment,c0113cad56fbfaae49d47c7c8be3adf3
+309,309,829-1.png,I barely even noticed the rich and complex network of lights inside of her because I was so focused on holding her hand.,entailment,d69ee402f34d61c3ba32d6208fda9075
+310,310,103-1.png,The streets are empty around midnight.,entailment,359ac78271799211bd41ac5a3726146c
+311,311,1059-2.png,The example was very elaborate prose.,entailment,0db3309f5a9328f41c8d85a024d08377
+312,312,428-3.png,The force are known for always attacking their enemy at night.,entailment,4e915b23118f7de86c705a93c325ea52
+313,313,326-3.png,The fruits are preserved in eternity.,entailment,98e7f6de76cf131bb52f327d4aff775f
+314,314,778-4.png,The building looked like a sleek and modern skyscraper.,contradiction,a54362b878449641d9e038a08b5b3ed2
+315,315,297-1.png,Her hair remained still.,contradiction,e9e2cc0cb3326055fdc1a5b507f7bb89
+316,316,595.png,their relationship is a house on fire,entailment,fba924030ff868ae5e519583bb080821
+317,317,864-2.png,Now you can wake up.,contradiction,2262b32929c49dc0f5f11d6a47c9bb13
+318,318,680-1.png,The sun was obscured by the dense fog.,contradiction,a6a13449e8ddb96c3aae9ca9d136a9be
+319,319,94-1.png,"My lawyer is a kind, sensitive person.",contradiction,50c7552347fd69ad2e9fdf6d387d7f07
+320,320,1021-1.png,The transportation system has a precarious future.,entailment,c988e1c9a111c8f74c0a1d20870ea7b8
+321,321,26.png,a mighty lion,contradiction,61814f2133d263b8cf79c45998cf1203
+322,322,40.png,a night owl,contradiction,a97fccd21da4341045ea09f6768d1116
+323,323,690-3.png,Your theory is unbelievable,entailment,a67d81d169b5c66cb49a6e24901a955f
+324,324,233-4.png,He has to pay for all the repairs because of an accident.,entailment,e44e5a258936c9f86305cbc87d7f6d32
+325,325,64-1.png,The door seemed dangerous,entailment,b9b8caa1d05e60ab03a096b8d1cb8d9a
+326,326,591.png,their relationship is a house on fire,entailment,1389089abbd30c7fe5bc31d53f98980f
+327,327,584-1.png,"But oberon stepped in front of me, holding out his arm in motion",contradiction,4095da4482bab842c32ea12d2cda0d9e
+328,328,31.png,a mighty lion,entailment,5aad6cf2775e17283aa3379716c3b857
+329,329,140.png,cute teddy bear,contradiction,252262284edc46b71f0a8e485cb2c1d4
+330,330,145.png,cute teddy bear,entailment,d10f1d269265be067ae00900ee08b9f3
+331,331,131.png,blanket of snow,entailment,40ffe8cf53377d297e4a57ada61ef501
+332,332,273.png,heart of a lion,contradiction,4d492f4a85d2fddf779eba04fe4a5046
+333,333,809-2.png,"""I think she'd do better to understand herself"", Ellen said in a harsh sarcastic tone.",entailment,86107fc2398168b4dd10b100624b39ff
+334,334,225-1.png,He looked primitive and primal .,entailment,07bc351fb8dcf8261661d01b9d2ebcff
+335,335,617-1.png,"She looked at him with her pale green eyes, which were now wild and unsteady.",contradiction,6be1eb1c5fc9197cc0e1438ba071bb8b
+336,336,1054-3.png,The Ukrainian singer did not have a successful night.,contradiction,ea307c0711adc5a658f0b2c265cb97f0
+337,337,361.png,homework is a breeze,entailment,1e0e1808244d61af99284ff9bfbb43d2
+338,338,25.png,a mighty lion,entailment,7c054ecd87e653da95040f7f97f9bd91
+339,339,370.png,homework is a breeze,contradiction,4a1161657a8766483de7db1cea7fe54c
+340,340,612-1.png,A flame that barely flickered in the skies.,contradiction,dfac021746e0ce8e1a22fb6bc753bcd3
+341,341,814-1.png,The girl said something interrupting the conversation.,entailment,62eda84f7402b1b9ea1e9bf52ef18a49
+342,342,988-1.png,His kind action really bothered me.,contradiction,75a450ba984e4152d875127de7f1ce87
+343,343,895-4.png,a black sun shines high in the sky,contradiction,0cd971581c2a08576ebccc1a0a91d175
+344,344,428.png,light of my life,contradiction,c9f43feeb0855d6e7d770782c2a7e0a3
+345,345,remaining-998.png,The accidents will happen as expected.,contradiction,968fafe895f6d90b809ff6cce50e3961
+346,346,350-4.png,The residents of this village were deviant from catholicism.,contradiction,b385b7affabe4a6cc8f443de1d704390
+347,347,406.png,jungle city,contradiction,5fa1f4970b65c2c43b00d2676fc6ffe0
+348,348,171.png,he drives a tank,entailment,fcb9ae6a29d9ec3518b2cc0e27834cb2
+349,349,832-1.png,The government wret it in en extremely long document to better represent it.,contradiction,3d2cd12e0fcf2ce5e217f9ebb303a54b
+350,350,253-4.png,She did not make the performance exciting.,contradiction,62224508c03232c049033ae4be11f93c
+351,351,376.png,homework is a breeze,contradiction,44fae47667b7b58e43a31790fd95f9e3
+352,352,214-4.png,Mike is going to be angry about Tom's promotion.,entailment,f888310a96dceccb63210fc429a81ac2
+353,353,24-4.png,It's hard to tolerate the silence.,entailment,3353168885ece3e26e63c215d03c97e8
+354,354,548.png,she was a sly cat,contradiction,e1c4de9a592017d0a1a348aa1e05fde8
+355,355,216-1.png,David’s eyes were warm with compassion at Paul when Paul invited his new girlfriend to dance.,contradiction,03b7647a14072d930d6c44ac4e888008
+356,356,221-1.png,Slowly his sense and strength faded.,contradiction,46adb325a6aa68aaa0c5850059098034
+357,357,27.png,a mighty lion,entailment,f03e753365b0a8f4e625423a581d0aa2
+358,358,remaining-1008.png,I am using my computer.,contradiction,27c3d1764be9ef663e1450f1a753d430
+359,359,300.png,heart of stone,contradiction,ff808cc34e32022e8b24f61e8b5455d1
+360,360,10.png,a lion on the battlefield,entailment,b247b0b2540143cee3624c6928f0dd05
+361,361,859-3.png,We still do not know how life developed on Earth,entailment,7b22fa56b18dc19c07e25a9b3ec49789
+362,362,54-2.png,But the skies are grey,contradiction,8c029eaa2cb7abe224cd7962c4397adc
+363,363,375.png,homework is a breeze,entailment,2a57226758b4016beb7cce0713b1ca71
+364,364,625-1.png,"Even though he may have seemed civil from his education, he was actually dangerous.",entailment,658210d41339cdc81e817eda54309c8c
+365,365,627-1.png,He smiled treacherously up at me.,contradiction,6b93a6af390e10238eb62b1029dd3a1c
+366,366,172-1.png,The speech concluded the meeting.,entailment,8ff2c79a42d32012c13e2607e7f91c03
+367,367,602.png,walking encyclopedia,contradiction,601c73c5849c6f5f8460f1f812207839
+368,368,147-2.png,I was energized and invigorated when kris got back home at spot-on ten to eight.,contradiction,8abff9a1258cfe0a26c03a77216a0f81
+369,369,360.png,homework is a breeze,contradiction,0ba831d8396dde1a64742bb50fc15bbc
+370,370,469.png,sea of umbrellas,entailment,354d2c87e2035be58d76010d0f7bf087
+371,371,335.png,heart sank,entailment,c516bbb209d8228da3df3fbf2e6a3c8d
+372,372,299.png,heart of stone,entailment,e65850b8ce8252cb9dc3e4007de5ddb9
+373,373,630-1.png,In our relationship we had always got into a ton of arguments and frequent fights.,entailment,7b0a3904b7df94ff5377ab4cc06c255a
+374,374,593-1.png,The change really begin back in 1943.,entailment,b758fdd818b3e3b0ec34b69398dae5ec
+375,375,699-1.png,You've found that your body is extremely fragile.,contradiction,540ec584e68606fa62c8a5280f0c8607
+376,376,891-1.png,The economical crisis was the cause of the war,entailment,998577985f825758b5e1cf60f5234ac5
+377,377,951-3.png,This speach was not appreciated by the public.,entailment,f090f254864ac2e251b8e1a4c407b0fc
+378,378,825-1.png,This plane can scarcely fly at all,entailment,968966db01287ddebf2563bbed46240a
+379,379,854-3.png,When it rains in Tokyo you won't find umbrellas in it.,contradiction,4784a8b5ef579d98980a2c4f7af78103
+380,380,321-1.png,My vengeance shall reach him.,contradiction,3f095a3702365d1f6f8c7d8ef2c7bfc4
+381,381,508.png,she is a ray of sunshine,contradiction,0468df31c35ec041ce0948eaf3b1343b
+382,382,661-1.png,I'm confident,contradiction,e543849faecef32ecfaa37ba0e0b9fff
+383,383,199.png,he is a fox,entailment,177d0800e511763cca2cd410b7b70d63
+384,384,37.png,a night owl,entailment,e8adee0e14a2cc1947b2d1f0eddffa8f
+385,385,197-2.png,His laughter spreads to everyone who is in the same room.,entailment,368c72ab3c63cff27fb8ee57c738bef0
+386,386,588.png,their relationship is a house on fire,contradiction,0d751907572212703083c5326162d495
+387,387,71.png,an angel,entailment,4901ea6b99ac790ed8284ad35481200f
+388,388,761-1.png,He was unaffected by a terrible illness for several months but still died later.,contradiction,f341602e071ef14fc9abb3a9a73d87bb
+389,389,429-1.png,He keeps the magic dead by staying up there whenever the sun goes away.,contradiction,b770911b668508cb0d31e7152f969eb3
+390,390,7-1.png,I could feel my face turning red and my eyes tearing up.,entailment,4b0c332d8e2a6ef8ca2712d2fea18941
+391,391,319.png,heart sank,entailment,14d7aeebd78460f27ea9c74ea0c8ede3
+392,392,575-1.png,"His eyes were light, and his skin was so pale it looked blue.",contradiction,bc3583bbc08ea1322ecad46411421070
+393,393,769-2.png,We don't like to pay money for our children's education.,contradiction,0510ebcf65921f48628295aa09aef3ea
+394,394,437-1.png,I need another car to survive,contradiction,d51102ccb9ed9737bcf4d2b4bec5bf00
+395,395,788-1.png,"Even though he was thin, he looked unpleasant.",entailment,0cd7cc77a742345ab67133610b178f8e
+396,396,212.png,he is a fox,contradiction,18e9f9423b6eeec307a25bdc0d7b8f1d
+397,397,338-1.png,Her face was pale after she came out from the sauna. .,contradiction,658a3c6dda08e2cbdde369608bce7d16
+398,398,564.png,she was a sly cat,contradiction,47076ae074e20037b6755fcde289489c
+399,399,75-1.png,"In the dead of summer, in Ohio, the clothes felt hot and humid",entailment,0d7e8f1cb5be9e8538aeb203b0b94c71
+400,400,284.png,heart of gold,entailment,48f3a6db95c19f653068e2e29e70cd39
+401,401,645-1.png,"Mom was inside the dim yellow kitchen, pacing calmly.",contradiction,81e03a343bc85f3d38c61ade502f8a2c
+402,402,839-4.png,I don't understand him,entailment,8b53f7d402c839b508c28bd3319b0b40
+403,403,860-3.png,We still ignore how life happened,entailment,7b22fa56b18dc19c07e25a9b3ec49789
+404,404,179-1.png,Bill today is in a fantastic mood.,contradiction,b41d20eda0c4634c2e9346a208fb83f1
+405,405,783-2.png,Middle age increased her appetite for travel rather than just staying at home.,contradiction,e9465d29f7d0c7c5b660d67be531e252
+406,406,553.png,she was a sly cat,entailment,2a1533285cff33e95715c45be3772eee
+407,407,758-1.png,This extremely expensive bordeaux wine should be allowed to oxidize and open up for 2 hours at least.,entailment,b77624da99bacedbaecfddcbc27a9e73
+408,408,479-1.png,I won't stop reading other people's mail.,contradiction,0f6352fc24673b24d5c37b33ade9eab1
+409,409,541.png,she was a busy bee,entailment,02bad175664018313f9103358d7426e1
+410,410,719-1.png,Describe your 'real' self in third person without sounding humble.,contradiction,7e938a56aa6eba3d9863da2e584273f1
+411,411,4-4.png,The events might not affect the balance of power.,contradiction,08e73e484dc3fbdb5d797d124dd86e3c
+412,412,219-1.png,I had difficulty making the decision.,entailment,d5b8a037a39041a57d0cd6bf500078f3
+413,413,948-2.png,You are aimless.,contradiction,4a9db332b1f4c1fcefe16c7533f19fe6
+414,414,8-1.png,She seemed relaxed.,contradiction,4eb807791dad00a4256a61d657465137
+415,415,472-2.png,The dancer moved fluidly across the stage.,entailment,dbe102a214475663e6a6aa7b597819e2
+416,416,188.png,he is a cheetah,contradiction,a0d816ee040e4b96331ed58a7dd5d892
+417,417,589.png,their relationship is a house on fire,entailment,5ba91987c487462c45b82c838c57b238
+418,418,142-2.png,"He knew that tommy was happy, in love, and doing well.",entailment,8c01593204b452c9f0bbd33d0fb7b836
+419,419,80.png,an angel,contradiction,4a3dc752963641b0d60cc02c7f18d274
+420,420,586-1.png,The air felt humid and cool.,contradiction,1475d6997166788fb88d3baed31b8f65
+421,421,824-3.png,"After working two years at the company he got exhausted, stressed, and drained.",entailment,a6c0d6c0efa027f80713575dab6711e8
+422,422,222.png,he is a fox,contradiction,a7518b6226463903b19df2259396e425
+423,423,424.png,jungle city,contradiction,a59ac096a649bce5cd52d00256722b07
+424,424,413-3.png,I did not want that gift,entailment,c9c6eaec5725579a277bcfcd7e55e349
+425,425,570-1.png,The rich man's heart was unemotional.,entailment,09a72004ddaa0ade8714d954102c7e55
+426,426,592.png,their relationship is a house on fire,contradiction,535d739bc169d3352e6a0613add01b87
+427,427,278.png,heart of gold,entailment,591d21369315cbd01d6adc001e4b5796
+428,428,481-3.png,The weather in the botanical garden was arid.,contradiction,930a3da1c73b18b9913b1a4c663dd4dd
+429,429,628-1.png,"A hundred different voices assailed my mind at the same instant, and it was invigorating.",contradiction,c7f423b11cdc149142e0701a5b9a2c7b
+430,430,464.png,sea of knowledge,contradiction,83742e99870579d308cebb9af2624480
+431,431,266-1.png,It wasn't very dark.,contradiction,28f66e5cfda0e5178156f9e2568e697c
+432,432,610.png,walking encyclopedia,contradiction,c569997c596507fe8211fbcb3e5fe66f
+433,433,187-3.png,They would stay away from her if she was mean and vicious.,entailment,d6cdd5ed8892a99b772bd0e85afef667
+434,434,916-4.png,His purplish head was black and hairy under the moon.,contradiction,0f5e471bbf966ba88dce3c1c89bc539a
+435,435,587-4.png,It was warm and humid,contradiction,01dc1158505e2016aca6e99bef40c7c4
+436,436,544-4.png,Gwendolyn felt frumpy.,contradiction,43430823b647e713f23cb37cd2c08af2
+437,437,622-3.png,The pen is insignificant than the sword.,contradiction,17ca712e1d74cea72072f23c9d5c2a04
+438,438,713-1.png,The middle east has a problem that is bubbling up.,entailment,7e5b054d72f7966614896907559a2fb5
+439,439,remaining-1029.png,They do not know what they are doing.,entailment,b22db9e8e8ee840d80f49bafde7ddb8c
+440,440,245-1.png,In his dark clothing he'd be conspicuous.,entailment,68a1baf2ac3822d6e38182d839d71e4b
+441,441,596-2.png,You're sharp,contradiction,89ed2eed289be960c4fd262b1966c2cb
+442,442,remaining-1001.png,Jealousy is mentally unhealthy.,entailment,4b2575cc0bedae5bf646f53aa1ee6743
+443,443,529.png,she was a busy bee,entailment,80d3a90bd0f99cf9cd6d3e51a20d1944
+444,444,785-1.png,I'm hairy,contradiction,02e8c16f8c44127c818e3cc8e1b06428
+445,445,97-2.png,Her bones are chilled by the cold.,entailment,64d791559f19279a3de54c3faa44e8cd
+446,446,197.png,he is a fox,entailment,0b17c797c03e3e773b1c36451af92f8e
+447,447,663-3.png,His declarations doused the fire in the community.,contradiction,749d5de45e40616be8101828d47df0d6
+448,448,134-1.png,"But times are hard, and silver bullets are expensive",entailment,69320a68662c6a9ea7dd5f73164326f9
+449,449,691-3.png,Quade said cowardly that those cholos are dumb as jellyfish.,entailment,61ea2906bd07675142c34f520e7c4b92
+450,450,163.png,he drives a tank,entailment,21f535b50c1ea443e07893545119b466
+451,451,146.png,cute teddy bear,contradiction,97625c7373127f6fff29733e01637653
+452,452,55-1.png,"You decline, the man is apathetic.",contradiction,03d8bae2705bb2403ec46593f603d080
+453,453,513-1.png,Her hair was almost light.,contradiction,b782b21d544b7006b936554f8cef1610
+454,454,381-3.png,"She swears they would have hated me because all they ever cared about was her happiness, and with me, she is discontent.",contradiction,3976e0727abe338051a144208a9612b2
+455,455,399-2.png,The turkey was really dry,contradiction,9a89527aabe89e191d5158b2dc21eb2a
+456,456,547.png,she was a sly cat,entailment,15d0d755ec332b7cc9f505781bf721e5
+457,457,235-3.png,He was feeling weary,entailment,d833402fb4af376bdbf00ae3d2491343
+458,458,237-1.png,The surface of Mars was blossoming beautifully,entailment,9c4bf20c7d3205a299034b2a5001ea21
+459,459,545.png,she was a busy bee,entailment,e79d29890acb45f71ae3bae0736c9a8e
+460,460,897-4.png,a yellow sun shines high in the sky,entailment,0cd971581c2a08576ebccc1a0a91d175
+461,461,551.png,she was a sly cat,entailment,45d9fc9325fd694a6038420d45d412d5
+462,462,214.png,he is a fox,contradiction,7f84539f0301c17879d00dcf174a618a
+463,463,109.png,blanket of flowers,entailment,99f7194e6b29915431f15776733248dc
+464,464,563.png,she was a sly cat,entailment,686b979b76d1688d1c223ab4c18f16a3
+465,465,1019-3.png,She is proposing new bills,entailment,925f6084144aa7b1fedd98ce43437bc5
+466,466,800-1.png,That is why its essential to stay firm.,entailment,d8c159466f5ef202decd662549bc9146
+467,467,969-4.png,Consumer electronics influence the world,entailment,2bbb9dbfda146e4bd209b7b37f9eede4
+468,468,145-2.png,"You both have something pressing to say, time is limited.",entailment,9ab5dd4741c8b62bdc46918a5948fbbd
+469,469,432.png,light of my life,contradiction,b05a40e7e5659ae98376c2278d157355
+470,470,502-1.png,"The room is dark, a bright light shines above you.",entailment,154cad78c16772175492ef32901ad5b5
+471,471,488.png,sea of umbrellas,contradiction,7e13e0552144fdba45c4bde0057968ef
+472,472,112.png,blanket of flowers,contradiction,ebbaafd27db04325d6cce9db82a51da9
+473,473,86.png,an angel,contradiction,5d2e9d0fa6148b2175837fc6bcae2550
+474,474,931-4.png,The company's stock value increased.,entailment,64a1dcb797231f332cba2dc7b608ffac
+475,475,902-4.png,She was ready to act and to do anything that seemed to yield safety.,entailment,8d3b23f22e6d816c7de87d026aba2da1
+476,476,48.png,a night owl,contradiction,d3c2b4929691ba0e7b8c76185b1eb751
+477,477,910-2.png,He felt an intense anger,entailment,eae342209a669404bde5cba1bc119298
+478,478,430-1.png,"Mrs. Saunders' hands were shaking, making her rosary beads click against each other as she looked at me.",entailment,6bc7caec7d45f4c87f68742ee942bed0
+479,479,134.png,blanket of snow,contradiction,718c37c0031e8970ec9b420bce2c8002
+480,480,893-1.png,The real causes of the war were in the economical crisis,entailment,998577985f825758b5e1cf60f5234ac5
+481,481,93-1.png,I held my body rigidly,contradiction,049e67502eff24f258110e3d99b522eb
+482,482,128.png,blanket of snow,contradiction,734ae68e0e77d9734ecc8dcb6c610ed5
+483,483,172.png,he drives a tank,contradiction,78c32486c97bf8f1f1d0b827af26fdaa
+484,484,50.png,a night owl,contradiction,a002aae8c763e9dda5b66661d350db70
+485,485,186.png,he is a cheetah,contradiction,65c4d9017803367348905ae2c434472b
+486,486,311.png,heart sank,entailment,87a79cb62d9a060d0886b756a1c943b0
+487,487,108.png,blanket of flowers,contradiction,99ece4a08bf6c6debdd3ce6baf2035ba
+488,488,132-4.png,he is brave.,contradiction,0bd210e14ab66007917a29d18328c3fd
+489,489,87.png,an angel,entailment,a8aa3fb7dd369798b2215ad50ec765db
+490,490,452-4.png,"Fell, and retain all strengths.",contradiction,bedc68d3e3f04f246ee47b63bb39233c
+491,491,886-1.png,The wind roared; the waves collided - we were risking our lives.,entailment,61d1ee7689e38abd30204305d58306f0
+492,492,275-3.png,The floor was made of alternating squares of black and white.,entailment,0156c8a48ff0f593a98821bfe6a0a7b7
+493,493,908-2.png,Adam did not understand the reasons of the crisis,entailment,27284ee20978e51628661c2b9a5afbcd
+494,494,941-4.png,Airports make a lot of profit out of passenger fees.,entailment,080ad7712b2cd631fba306c636144ca6
+495,495,83.png,an angel,entailment,3abeacb53b977c9e18cf39eed183b1f0
+496,496,707-1.png,Snowfall exposing the Earth from its clothes like a mother would her infant child.,contradiction,7f08a6b75f9d24813e7deb886aff41a2
+497,497,503.png,she is a ray of sunshine,entailment,4ea2f9fa6d3967f1d579d65f5c6c0b6b
+498,498,765-1.png,My skin was warm,contradiction,7ae831e89faeb902770e0aa5dfbcb585
+499,499,277.png,heart of gold,contradiction,e05c1482ccf35e5ac61825f673aa9f1a
+500,500,880-3.png,He pleaded for her forgiveness and Janet forgave him,contradiction,6d8e9a26acac98148bd0127914c4a8b6
+501,501,261-4.png,No politician won in the election.,contradiction,79085ac0d590d83a1b0a66b4ac80a3e9
+502,502,remaining-946.png,He does not want to learn anything new.,contradiction,02b6273a8164254e6f96cb7e1f386277
+503,503,689-3.png,Duryodhan's life had a superb cast and he always had the perfect solution of each and every problems.,contradiction,e352dab79a509dfec783cdd16547ca35
+504,504,164.png,he drives a tank,contradiction,30459cead5a17e758bbd3c86d976b4a0
+505,505,530.png,she was a busy bee,contradiction,b980247218fa996ef0af457f6449ae1b
+506,506,742-2.png,Actions are not louder than words.,contradiction,a221cd3f50922c01d93fd57d33750b42
+507,507,397.png,jungle city,entailment,85b7642f6a72ff9cc0ea62aecced7b49
+508,508,491.png,she is a ray of sunshine,entailment,f430d91a57394e17f4296ee25403c65b
+509,509,425-2.png,Your guardian angel is a little too apathetic.,contradiction,e6a52532e7c8d48f3c5f1a1d69ffb444
+510,510,226.png,he is a fox,contradiction,2790dc1c5b973d8b8a493f69d39ebf67
+511,511,418-1.png,"I had played a lot of souza in band class, but I didn't expect the man to be so serious and dour.",contradiction,665bb6edfeb2cdcb8cb0a19e8187a4be
+512,512,775-2.png,The moon reflected back at itself from the lake’s surface.,entailment,c5ec2fc4f5b2dbe135bc2722a29bbb3f
+513,513,918-4.png,She came up with a brilliant idea,entailment,957cb1693abac0d911d1fbf490510bb8
+514,514,39.png,a night owl,entailment,a0d06f77f0d03e30a56c73f5e7f70bb5
+515,515,851-3.png,Tokyo is filled with umbrellas when it rains.,entailment,4784a8b5ef579d98980a2c4f7af78103
+516,516,549.png,she was a sly cat,entailment,9caee1416f1159877a2613079c5954f9
+517,517,631-1.png,The novel starts off with a crime.,entailment,b2811e237d5337c1b00f78e51ebadf19
+518,518,554-1.png,It was blue and dry,contradiction,749f28d1c30cc486003de165f8b669bc
+519,519,404-1.png,I eased with this decision for years.,contradiction,14b9b547ec87941172920d3af7ca8fcb
+520,520,2.png,a lion on the battlefield,contradiction,49cca53dac7606d4f73b09922c578944
+521,521,471.png,sea of umbrellas,entailment,4ed9595689a10dd39cfcb568fcfd7c3e
+522,522,2-1.png,He looked dark and menacing in the fading sunlight.,entailment,cedcf2e871856f53340401d8067eb84a
+523,523,764-2.png,The air was thick and warm,entailment,9342f0938831002ec6706e1994575cbc
+524,524,483.png,sea of umbrellas,entailment,2790dc1c5b973d8b8a493f69d39ebf67
+525,525,614-1.png,"Even though he wanted to fight, he was helpless.",entailment,b52eac49067a1304185866767989cc80
+526,526,924-4.png,The economy has been growing out of control,contradiction,e3812d9ebb8cf7f53647dd52db043c33
+527,527,116.png,blanket of flowers,contradiction,5b63f6ecbe8ef3df5b1521ee04ec22ad
+528,528,115-1.png,He's muscular,contradiction,ab092fe2d89850d0a51e3c93a514fdf0
+529,529,21.png,a mighty lion,entailment,00c0f17c3d8e6c777d5a2f7403225247
+530,530,567-3.png,He slumped over with his chest raised.,contradiction,c1074fd2dd2e0578c796800529e9b194
+531,531,590.png,their relationship is a house on fire,contradiction,9d66827c3f21a40ca52c825c37a964fe
+532,532,126.png,blanket of snow,contradiction,625094015fbde12617d430daa54a874f
+533,533,840-3.png,This idea will be very precious for something in the future.,contradiction,2b75246f24444057de4bab5bf0d06928
+534,534,467.png,sea of knowledge,entailment,1388e455aa27c5fd8010b0931a5b8ef5
+535,535,580-3.png,Their honey moon was very pleasant,entailment,5fd5c13bae9136e47da6da998f2e2202
+536,536,484.png,sea of umbrellas,contradiction,7647e50a6517d7e285ddbfe4b6c07470
+537,537,664-3.png,And the sky overhead had turned murky,entailment,9f373070996d5615a135b860cc5955da
+538,538,316.png,heart sank,contradiction,72d89545bff7edf69b939ce50cda44b9
+539,539,204.png,he is a fox,contradiction,58a68f8318d62c2f625fe002356dd1fc
+540,540,258.png,heart of a lion,contradiction,2a43d30946babb83a6f4194e50a43789
+541,541,614.png,walking encyclopedia,contradiction,86073229ee035c85cc49a629e265930c
+542,542,552.png,she was a sly cat,contradiction,ac3911bc51d51a9e1ca656b872594259
+543,543,476.png,sea of umbrellas,contradiction,eaf63ab1b1d0901d47d21eab3577b0a3
+544,544,86-2.png,The hallway was not crowded at all,entailment,81f37d1ef2871dec194a68b57c22c988
+545,545,513.png,she is a ray of sunshine,entailment,c65b1102a4a689327d3a55d2830c4a6f
+546,546,496.png,she is a ray of sunshine,contradiction,d94abd065a5ea005ba974e3a751d7ef4
+547,547,666-1.png,The setting of western movies is appealing to us because it resembles a gladiator arena with shooting guns.,entailment,43a2850698434d9a6b77e14c05b45da3
+548,548,468.png,sea of knowledge,contradiction,bf5c260d483d96951f7dde9ad5f48890
+549,549,215.png,he is a fox,entailment,76faf97d72e85aedc9133f0f3d477b59
+550,550,115.png,blanket of flowers,entailment,24a4560c5f5f846c70f06339b6a72f72
+551,551,148-2.png,You were the scapegoat of those times.,contradiction,ecea4e15d0e3c83338fcc433f545d55e
+552,552,273-1.png,Life in the camp gave him an energy for living.,contradiction,4b440f5179d40f5444c5625c19430071
+553,553,446-1.png,She's heavy,entailment,a804ffc026f636711f6c7330f1e5c4f0
+554,554,787-3.png,He lies there and watches the sun set.,contradiction,756b23ce6cc507fa32afa134a266f7d0
+555,555,724-1.png,Your wife told you last night that lucid dreams are quite common.,contradiction,ba4c9a335a6b14e3dc10902457a528ff
+556,556,700-2.png,She said I was black.,contradiction,913dfb531e2b8daab75af2feb8d5b737
+557,557,602-1.png,The user would become increasingly calm as the days went on.,contradiction,0f850a84b342f7985a608d90503ae761
+558,558,434.png,light of my life,contradiction,a004358167d867744acb24dab316d572
+559,559,616-1.png,The windows are crooked and the ceiling is sloped in the garret.,entailment,012c7372ec97e5a7dc6f409dcd20cb54
+560,560,545-1.png,She is a cruel human being and her attitude was really mean and rude.,entailment,cd680cc9d8aacca8f301489a8925f368
+561,561,72.png,an angel,contradiction,86073229ee035c85cc49a629e265930c
+562,562,253.png,heart of a lion,entailment,b5e4340ab91779e7feba3c2d74af66e6
+563,563,279.png,heart of gold,contradiction,8a0a001b479ccc5af1513e60c79b276c
+564,564,105.png,blanket of flowers,entailment,fa94c48b500ef5851da0ddd508518814
+565,565,595-1.png,Her hair is curly,contradiction,d8ab91a53f0a46a24782c514b7325930
+566,566,20.png,a mighty lion,contradiction,5e048d066084e0f1166b9fc3788c616d
+567,567,75.png,an angel,entailment,eb51e76eb860d17bce97039aaf4db859
+568,568,114.png,blanket of flowers,contradiction,e98de0a26893577e8d4bca4d39a4582f
+569,569,659-4.png,She tightened her grip on life.,contradiction,4b8b31dec47f560f0639e0e27f7ae09e
+570,570,326.png,heart sank,contradiction,4e889e40e0fb1fec1da95b2d29bb8a9e
+571,571,290-1.png,She stuttered into the microphone and was unable to speak clearly.,contradiction,f1fce8b01f28b3040bbee7ea7fc6972e
+572,572,150-4.png,Your product is resilient,contradiction,11be201f6c662a4be8bc2546f8918bde
+573,573,555.png,she was a sly cat,entailment,5cb806b0d157c1b58aaac83c0b484aa7
+574,574,947-2.png,You have an appealing goal.,entailment,4a9db332b1f4c1fcefe16c7533f19fe6
+575,575,110.png,blanket of flowers,contradiction,6ab43971230b914542ec22addfbc0ec9
+576,576,596.png,their relationship is a house on fire,contradiction,53b31c1bce233dc77c3baa91d05c51bf
+577,577,292.png,heart of gold,entailment,38e0f4f7f44afed740a17f8851e5bdf0
+578,578,561.png,she was a sly cat,entailment,e41c4392364dde1561591acc4d799a06
+579,579,173-3.png,This chair is fragile,contradiction,9f88afbe67bdf8d8d550d6caf09cfd53
+580,580,293.png,heart of gold,contradiction,14d7aeebd78460f27ea9c74ea0c8ede3
+581,581,726-1.png,They were moving away from him quickly.,entailment,72c4901238fd819c05eb925484670840
+582,582,320-2.png,The dollar will soon be devalued by inflation.,entailment,0ccef5e6aff3b726dcc7719384fcc7bf
+583,583,39-1.png,The boss became outrageous when he heard of the resignation of the secretary.,entailment,56869b4c2bf22c59ae816d0c14c229be
+584,584,747-3.png,The atmosphere was light and cheerful.,contradiction,a710357e7514016d8c2be1cf886b2699
+585,585,192-1.png,For summer and his pleasures begin on thee.,entailment,2c62f29ef8c8a83a7466913eece89d3c
+586,586,363.png,homework is a breeze,entailment,e0e839703ff39d17a3da0b2787243256
+587,587,501-2.png,Then he collided into something soft and fluffy,entailment,f9a3d1bd19f4218204279095d9760b51
+588,588,344.png,home was prison,contradiction,b8c897f725ef90c65d343e5cfe1fe2cb
+589,589,739-1.png,The critics rebuked this broadway production.,contradiction,d5c7971bd3ac558c9f8f9861fca5c14c
+590,590,581-1.png,Maybe my heart will be pounding strongly.,contradiction,756fd40bac02189dc23c2f644b99c494
+591,591,298.png,heart of gold,contradiction,17758e1c690bf0888bd80b7208e99569
+592,592,528-3.png,The old van in the field is uncomfortable,contradiction,65c19debf95a8d9a9b0e0fa75bc3ccb0
+593,593,418.png,jungle city,contradiction,c7895b54180ec5360c004f6a3c21c10e
+594,594,49.png,a night owl,entailment,55a33ad1f9dcd1be478674fab0fb0444
+595,595,601-3.png,"Reincarnation has been proven, memories are now retrievable",entailment,c3861f88814580b0e08669ad284227e7
+596,596,511.png,she is a ray of sunshine,entailment,8540fbe1d011711e003dbeab619a454d
+597,597,89.png,an angel,entailment,6907ef4ef36d5e14954ae520f99f560c
+598,598,209.png,he is a fox,entailment,962e65d1814e042ef9cbe7738358cd9d
+599,599,478.png,sea of umbrellas,contradiction,cc536344e5ea1202193bc9eca1c5561d
+600,600,766-2.png,It was really crazy when people started running out of the theater.,entailment,8944bb636943fead9833fa031d733dc9
+601,601,289.png,heart of gold,contradiction,9f982e2b544a720f59e1df11dbae2a10
+602,602,256.png,heart of a lion,contradiction,26632feaca2690e09b90e72507aa02f2
+603,603,remaining-1040.png,The company is making losses,contradiction,0e2f094bad3be20cb93841e433617842
+604,604,634-2.png,He was looking gentle.,contradiction,ebe9fae929efa2d4b9f3d6ec3d8ffcc8
+605,605,460.png,sea of knowledge,contradiction,02c20edc9db06858604a70119a750a73
+606,606,855-3.png,my feeling of love is cold and dark  like a summer day,contradiction,50ed7fe6ac12dd6576c6077bf3035d8c
+607,607,420.png,jungle city,contradiction,80d12d06588a9ecc2c4681394fc7fa8e
+608,608,374.png,homework is a breeze,contradiction,966ad8d5117d05db7c8671339bd73210
+609,609,903-4.png,She was ready to fear anything that promised to yield safety.,contradiction,8d3b23f22e6d816c7de87d026aba2da1
+610,610,654-2.png,But that didn't matter because what they had between them was still fragile,entailment,f84935e9634e3039d153677ab5a1542d
+611,611,676-2.png,"They colored her white skin in a pattern of light pink, yellow, and green.",contradiction,d450c98b83fc5dbb453737fc15a79597
+612,612,358-2.png,The images flashed in the brilliance that covered him cold.,contradiction,923430e15997393d40fd498af153e7cf
+613,613,502.png,she is a ray of sunshine,contradiction,ce1f8f3b77204d9023aa496fd38105a7
+614,614,781-2.png,The force helped the civilians to re-establish in 1915.,contradiction,fb89dc395f0aa20b3d03c84156414be1
+615,615,635-2.png,His eyes were gray,entailment,df66e66093ebe0fb3f59e5e34d7e83f3
+616,616,113.png,blanket of flowers,entailment,9f54c06e3cdea9c5e9d9141e5b709bb7
+617,617,343.png,home was prison,entailment,9aaf9807065c94ad9f34d002a73830d9
+618,618,289-1.png,The cancer made her strong.,contradiction,0c72ce2e6b830a133e9b3d7cd1188e6a
+619,619,693-2.png,He looks spiky,entailment,a4119a6c6d20430e9a6107dd329748a7
+620,620,526-2.png,The smoke rising from the pyrotechnics was so thin it was easy to see.,contradiction,e08e39b2074aab1847443e63bd6e4dfa
+621,621,324.png,heart sank,contradiction,af01b5654ac3e367e6c3c83a85552caa
+622,622,611.png,walking encyclopedia,entailment,71ed4102b03dde75743fd878c364f8da
+623,623,217.png,he is a fox,entailment,0a17fde84da4b2f55ab8aff2559452d1
+624,624,199-4.png,She was graceful and quiet .,entailment,b65ac8d0f43b8e5ffce19012cdde1ec3
+625,625,753-3.png,"It was a moonless night, the air was still and the crickets were noisy.",contradiction,cbea01245d0d3eace9f402f49081b352
+626,626,272-1.png,His every movement was smooth.,contradiction,2d3a8ee14df619417e4ec991a4a9bb33
+627,627,317-4.png,Dimples formed in his cheeks.,entailment,158e4f9f9bb4584739d38b3f492cafdf
+628,628,137-1.png,You find your entire family lying unconscious one morning.,entailment,c1dc8b5ed2317e60084896327c0a6b12
+629,629,375-2.png,She was slender and tall .,entailment,da1776166939bbb05b527b976d1cd02b
+630,630,120.png,blanket of flowers,contradiction,cb7b11354180592ed5f4f70258158647
+631,631,264.png,heart of a lion,entailment,c9354fa71372fb97b42e60bf352b75f8
+632,632,425.png,light of my life,entailment,04bd58ba63325d79b612c2bc5af34cd7
+633,633,322.png,heart sank,contradiction,4ab0c13dc5ff0cda965057a7a780aa23
+634,634,539.png,she was a busy bee,entailment,edcd98a62aa56ecab78e86fa416f92ef
+635,635,140-2.png,The muscles on her face get straightens due to her spasm.,contradiction,538e24977f7501f95b7bb8834b517607
+636,636,811-2.png,My rage and anger increased when he walked in the room.,contradiction,bae2ef560ff6e53e27b4c3c873e92a1d
+637,637,142.png,cute teddy bear,contradiction,d58a68830476eec21de8b44858d1611b
+638,638,359.png,homework is a breeze,entailment,034be5e23959fcaeedf29bde78434f49
+639,639,141.png,cute teddy bear,entailment,9fd6bb7c789f2fafdd58c8b182d69ac7
+640,640,1022-1.png,The future of the transportation system is solid.,contradiction,c988e1c9a111c8f74c0a1d20870ea7b8
+641,641,210.png,he is a fox,contradiction,8cda471f27ff963681ef5e10ad51d1da
+642,642,744-2.png,Stock prices are falling lower.,contradiction,1e112d9fab6b82459be13f4d09a76b18
+643,643,345.png,home was prison,entailment,13a3f97a3c88ef99c1689fbb55e0d1d5
+644,644,594-4.png,I found something large and dull in the cabinet in my boudoir.,contradiction,8b0fb73fd9d8cd6e9bad2328ca855ae8
+645,645,341.png,home was prison,entailment,f7659dcf7ecac315f8043c3619afa559
+646,646,530-1.png,"He should have been driving away by now, but instead he was here, inert.",entailment,8d16ee88293d7e23563d416edf1165ef
+647,647,460-1.png,John's performance is rather insignificant in comparison to his classmates.,entailment,6966e0052f35d1f36b1634f41404740a
+648,648,303.png,heart of stone,entailment,e60daddd37e19c3f14fc8aa7cc50109c
+649,649,320.png,heart sank,contradiction,dfdb1859eb14d40a92f4fb7ceb751d6e
+650,650,14.png,a mighty lion,contradiction,43864c45538adc987a7086e407e45f83
+651,651,177.png,he is a cheetah,entailment,cd484d871cdeb5aa3d0b21c937ee130f
+652,652,remaining-958.png,A person died.,contradiction,2af99f866b17ae86c63447ddff7b71b9
+653,653,414.png,jungle city,contradiction,f8f224cba6e901a63a17a27b2fa26fa7
+654,654,536.png,she was a busy bee,contradiction,4618c0d9afd7cd6223b2665757fa0dee
+655,655,877-1.png,The republican convention was a joy to follow,contradiction,0887cb3fec62a6f43f303c876c0a4e93
+656,656,22.png,a mighty lion,contradiction,1135f741f9da0804083071f034fcab85
+657,657,952-3.png,His speech impressed the public.,contradiction,f090f254864ac2e251b8e1a4c407b0fc
+658,658,920-1.png,She had a good idea,entailment,d0b6a8b268c284c2859dac2bb0db5aef
+659,659,241-4.png,"In several thousand years, humans will evolve to be emotionless.",entailment,7d2807773b0bcd67b650383e8f090ae7
+660,660,206.png,he is a fox,contradiction,5d5e6f5e32f0e640b3670b4b4e2259aa
+661,661,81.png,an angel,entailment,aec08dfe01fe0e4821885cffa2592898
+662,662,102-1.png,The news were unexpected.,entailment,5fb8af27d1bb32211902fe05512bf421
+663,663,457.png,sea of knowledge,entailment,5474a050f9fe07e3ad429eb30a25b251
+664,664,131-1.png,Her eyes are nothing extraordinary and very easy to neglect.,contradiction,ef2ad650380f6b811e7327603df40c39
+665,665,417.png,jungle city,entailment,0e27fbdcca2456c4de3818646138ead5
+666,666,188-1.png,There were small and rounded peaks that could be seen every so often.,contradiction,83feb7b29712b0a5218d472779892127
+667,667,456.png,sea of knowledge,contradiction,01d23153d1a026b786c9366d5458d53a
+668,668,79.png,an angel,entailment,849c1ec1206d868d417e1ffec9b4706e
+669,669,12.png,a lion on the battlefield,entailment,495154e0c7fc00989910b71885427cb0
+670,670,648-1.png,Still waters stop in the wind.,contradiction,a886bfb19938bc00ab559e1548016af9
+671,671,108-2.png,She was not emotional,entailment,8c5662663c11f223191e113b90325c3d
+672,672,remaining-1030.png,The people know exactly what they are doing and where it will lead them.,contradiction,b22db9e8e8ee840d80f49bafde7ddb8c
+673,673,223.png,he is a fox,entailment,9758add3fa2e7c8e4268d5b98de05036
+674,674,remaining-1046.png,Their hearts are joyful.,contradiction,1258c637c9eebed3cf0cd1993053e8e1
+675,675,3.png,a lion on the battlefield,entailment,bc834c243112a15c6f47511c5e0cddb2
+676,676,41.png,a night owl,entailment,ca285432fd35a872901b0416e8c3e59d
+677,677,6.png,a lion on the battlefield,contradiction,53b596a42f979097a56fa7d0ece4b9f5
+678,678,195-1.png,She'd looked breakable.,entailment,d42192703555f62b0fc2bdec835b162b
+679,679,821-3.png,Her joy was overwhelming and intense.,entailment,294fe33e89723146ee67b27d68d0fbc3
+680,680,703-3.png,Milton scrunched his eyes and moodily turned back to his computer helpless,entailment,73da2fcdff9057d26c03ceb6f5178ca6
+681,681,243-1.png,The children were ugly and angry.,contradiction,0a761fa48662be4c29d214d24772d1d3
+682,682,177-4.png,She spins quickly and energetically.,contradiction,ff952393ad1633cac718f3ce6168a4a4
+683,683,219.png,he is a fox,entailment,a41042493d3b4f308055a6218b8418df
+684,684,406-2.png,"I felt light-headed and kind of hollow, even though there was nothing to do like read or watch tv.",entailment,cac00d4d20e00e5b6ec147dbda41705e
+685,685,248-1.png,Clementine was captured securely.,entailment,ce8ce2c773735bef3d8d5ee8c158b145
+686,686,106.png,blanket of flowers,contradiction,abadbd00809df6bdfe9b3a98f442de8c
+687,687,421.png,jungle city,entailment,8252b8cd6e6e0feb92409934e9d6f093
+688,688,71-4.png,I began taking strides so big I was practically leaping.,entailment,935e92c05a87ebe8f316f9f474cbea76
+689,689,remaining-999.png,The economy recovered relatively easily.,entailment,55a2d5b33ce0db2b2830a209c2a88352
+690,690,270.png,heart of a lion,entailment,327de5f039d5c1275256a86708125e53
+691,691,281-2.png,"He kept on being very miserable, irritated, and angry.",entailment,588f4ada4c107cdcc16ea67b2fdc8ca2
+692,692,613-3.png,All was loud and colorful,contradiction,8b5d71d461ef194233e2d82ba8bf4da0
+693,693,514.png,she is a ray of sunshine,contradiction,962e65d1814e042ef9cbe7738358cd9d
+694,694,135.png,blanket of snow,entailment,bfe96bd0bb1a5564c991056f04e32958
+695,695,587.png,their relationship is a house on fire,entailment,0d1aca3a1b03ba43836852dd46814d82
+696,696,29.png,a mighty lion,entailment,d4d95151f5ece0246c76cd73397a78c4
+697,697,532-1.png,They ignored through the job candidates.,contradiction,eb3b009479435729508d4047bcdd2a3a
+698,698,103.png,blanket of flowers,entailment,1bb1e2b96608514d55bae95c3db80ad8
+699,699,35.png,a night owl,entailment,e078b9c41b7fc6bbc50ecef66b3b67b9
+700,700,184.png,he is a cheetah,contradiction,57dcecbd083e1896b3104cb62624a116
+701,701,remaining-972.png,Her attention was impeccable.,contradiction,8d65dabd73efe1a0b25786fa9bac1754
+702,702,remaining-945.png,The new employee is open to learn any new knowledge that is communicated to him.,entailment,02b6273a8164254e6f96cb7e1f386277
+703,703,45-1.png,The company fired him after many years of service.,entailment,ca7300f51fc2abdb5d7e8b1bf264b14a
+704,704,907-3.png,Adam did not manage to understand what the causes of the crisis were,entailment,523828a6430f825d88dbb37c1b9f2ce3
+705,705,755-1.png,The cigarettes affected his health.,entailment,b04ad8e8402e0e8fc256ee641da2f151
+706,706,796-1.png,It wrapped tightly around him until his own shield was suffocating him.,entailment,fe5a257fbc7f62350e0ded1105ff3434
+707,707,remaining-926.png,Income inequality stays constant.,contradiction,3a436dbbb9937ea0bd69b037a980aca0
+708,708,314-4.png,Her passion is flowing through the air.,entailment,44208c8f946bab7e5463a9c79fcdac9b
+709,709,511-3.png,She knew she was making a total fool of herself.,entailment,c844276e2daa315ccff6b453d2ed3daf
+710,710,732-2.png,The air inside the pipe was hot and fresh.,contradiction,b9456f3e1b862dccb8940ef82c7ef659
+711,711,836-2.png,"Even though it had two legs and arms like a human, it was only vaguely humanoid.",entailment,d58a3506736843b713672d9806a981fa
+712,712,231-1.png,Adrenaline recedes from him.,contradiction,732770d3d8e9969cfb4b1de916d82476
+713,713,166.png,he drives a tank,contradiction,a120d9875fae8d6d730b10f25e96505a
+714,714,437.png,light of my life,entailment,828761dbc64cfd94767624a57f51b6e1
+715,715,123-3.png,The Tyrant has been making life miserable for centuries.,entailment,e7623ef4bc746f5e1066fe6712d28fd8
+716,716,473.png,sea of umbrellas,entailment,ab01438a57459c7031a8706b49f33392
+717,717,657-3.png,She avoided drama.,entailment,f6fe87064cfdf2bf397edc47e895668d
+718,718,263-3.png,The familiarity of the ache was unsettling.,contradiction,b4eb62be0244375f4bade06e8dd18d91
+719,719,1.png,a lion on the battlefield,entailment,6109b2de11bd0667b29bc65703ede5b7
+720,720,260.png,heart of a lion,contradiction,c8f0b5b863510c7aaa614758dc3fd134
+721,721,882-3.png,I was alone in a large number of unknown faces,entailment,cbc9f87741fa078e1cb0a503a2ccaff5
+722,722,261.png,heart of a lion,entailment,68bd7759d5d8f5b9a8d188be70bc0ef6
+723,723,497.png,she is a ray of sunshine,entailment,64db8183eea53677d00fc5ffb8e4ef29
+724,724,remaining-1010.png,There is bipartisan awareness of the dangers.,contradiction,0813460906870a8b23dd633bc9e88c2d
+725,725,146-2.png,The car crushed a toy.,entailment,b73231125bb64b2495a85a6635836aa0
+726,726,5.png,a lion on the battlefield,entailment,cbc9aef11465b03676c3a00c70777575
+727,727,82.png,an angel,contradiction,b65bf566a576346b28469020a38a33d3
+728,728,239-1.png,Her face was already red,entailment,67150b053eef5aac00bfb57a6566e308
+729,729,649-3.png,"It's as if the sun disappeared, leaving the streets eerily quiet.",entailment,9e56810077e5d5adb65de9b2626d3cfe
+730,730,852-3.png,When it rains in Tokyo the city becomes a sea and there are some umbrellas in it.,contradiction,4784a8b5ef579d98980a2c4f7af78103
+731,731,556.png,she was a sly cat,contradiction,72a05a348504f70ccf548e83e0965a7c
+732,732,69-1.png,During the conflict the seeds of hostility were planted.,contradiction,6c854e06d920bef9945e157ffa016c9f
+733,733,353-2.png,He is smiling in a charming way.,contradiction,90bca6615ca55e6dfabc4c3cb53c7527
+734,734,42.png,a night owl,contradiction,c7895b54180ec5360c004f6a3c21c10e
+735,735,160-2.png,People always thought you were normal when you were growing up.,contradiction,9ed5c07c9c23835c58cedb463a8f4721
+736,736,477-2.png,He always had a strong interest in learning and expanding his knowledge.,entailment,945d9485f68a6d16b2c689506439c5c2
+737,737,593.png,their relationship is a house on fire,entailment,618984c9f63bb4dfd984d71b66d8e6d8
+738,738,419.png,jungle city,entailment,7c1780cfba06efa849bacb4fc3c7be4a
+739,739,281.png,heart of gold,contradiction,751ef37db9534c8fc3b432debc171347
+740,740,286.png,heart of gold,entailment,804161f342d332a7097f209b37a2af52
+741,741,163-1.png,So many people were killed in the war.,entailment,e580dffff87c73fd178d117f47549992
+742,742,65-2.png,They were really disappointed and thus cried a lot.,entailment,1a4030d5a1bfd9561c1a843b5ac511ff
+743,743,489.png,she is a ray of sunshine,entailment,cb951915c958c3ba3c02d1ebeadd4eac
+744,744,351.png,home was prison,entailment,627dd53c0f27234174e20e6566811716
+745,745,78-1.png,Fate has favored him with blessings.,contradiction,9a011d6163908e8e7583d76a3ddf12f8
+746,746,962-4.png,She was laughing lightheartedly.,contradiction,e7a54689b6f00c0b29fe1ff39e1bfa0f
+747,747,876-1.png,Republican candidates during the convention were terrible people,entailment,0887cb3fec62a6f43f303c876c0a4e93
+748,748,616.png,walking encyclopedia,contradiction,b747bbcb4a657ec51db853136e9bb797
+749,749,377.png,homework is a breeze,entailment,5baff0d1961458a58f7ed0a4265f1c95
+750,750,236-1.png,"When she turned the knob, her hand was strong and pliable.",contradiction,e5064001859dffe2c01c4a928972c60e
+751,751,682-1.png,Alex blew the process.,contradiction,c2865d64386b8d5412fb597619b955d3
+752,752,267.png,heart of a lion,contradiction,814ce96c29d32ae968e29e0570dcd65c
+753,753,768-1.png,Those galaxies were jellyfishes in the seemingly endless space.,entailment,da8825d8315a5594815a4efdf99cd85a
+754,754,194-2.png,"The image shows a carved out pumpkin in the man's chest, which could symbolize emptiness or a hollow feeling.",entailment,9b029ed2bb4fc5495dfb44338ead5c16
+755,755,259.png,heart of a lion,entailment,daee2dc63f40db11ad8339d4c5ecfed6
+756,756,562.png,she was a sly cat,contradiction,5b3558f9f02788d171f1672a42834663
+757,757,779-1.png,Are you confused on which horse to put all the money to?,contradiction,dc09191edf98bd094cfe0bcbdac52349
+758,758,629-1.png,"For a moment, his eyes danced.",entailment,0730f5339633bf96e2926e1afab136a3
+759,759,358.png,home was prison,contradiction,f6c410fe6bfe68376df7ae4e0b69ff36
+760,760,380-1.png,Six weeks after alex's death and peter's grief was healed.,contradiction,1e75d0935c40ae23e7f012d7a23d7891
+761,761,17.png,a mighty lion,entailment,26c5c510a15f8aaa597f32b91949c89f
+762,762,317.png,heart sank,entailment,7818951a5e58da5dfd0cb4020d0976b7
+763,763,246-3.png,The woman's mind was very complex.,entailment,d142e69e0586c2bd44581c389afe6586
+764,764,365.png,homework is a breeze,entailment,92738decdc686ff81c96aa420df6c463
+765,765,218.png,he is a fox,contradiction,bc9606fe50e87414af6cc5cd5da04f93
+766,766,310-1.png,My words sounded strong .,entailment,f9bbc17cc72342523d6bbcbe2b60a860
+767,767,782-2.png,The wind almost uprooted the leaves.,contradiction,0ec2de1d09270bb84e504327358e0ab6
+768,768,18.png,a mighty lion,contradiction,25d238acfa7ab6d0793e32bb57c91b9e
+769,769,remaining-1027.png,The protagonnist's past hides certain secrets.,entailment,72ed30abd6ea9a56fdbbac3fc50d0ba3
+770,770,431.png,light of my life,entailment,bed6a193273bfdeffed04c84a43f69dc
+771,771,435.png,light of my life,entailment,00ae1fb94271036eccb973d5f155560a
+772,772,623-2.png,Could not make them start an argument.,entailment,2a85861a3dcd6f7f1b4386c31cf87f70
+773,773,380.png,homework is a breeze,contradiction,e60daddd37e19c3f14fc8aa7cc50109c
+774,774,687-1.png,But it seemed safe and sensible to make plans for the future.,contradiction,62ba991d439c37dfaa6f4c27b5993e5e
+775,775,736-1.png,you're just stealthy .,entailment,b6947056bf55d4fb762370d8438df134
+776,776,254.png,heart of a lion,contradiction,4d492f4a85d2fddf779eba04fe4a5046
+777,777,518-1.png,It was the moment to forget everything had happened and focus on one's life again.,entailment,73e6af17fa821f8ef79e18f9db073700
+778,778,705-1.png,"The first time she saw him was in this mirrored room, which was a cramped space.",contradiction,94d1e57adb8fd696d5307e4d8eb1597a
+779,779,143.png,cute teddy bear,entailment,13baf73c22bc46e3755143e37b14703f
+780,780,398.png,jungle city,contradiction,48f3a6db95c19f653068e2e29e70cd39
+781,781,867-4.png,The faculty meeting was very difficult and emotional,entailment,f6a3f93ab786bb6035396d8821536554
+782,782,88.png,an angel,contradiction,a41042493d3b4f308055a6218b8418df
+783,783,334.png,heart sank,contradiction,ccd1e82afa0f20e8794ed724ce11b3a1
+784,784,144.png,cute teddy bear,contradiction,0d52bfafe3fd74cfd223cbf1efb74019
+785,785,842-3.png,time passes very fast,entailment,3a3501a0e0a2689813226ed7ef305447
+786,786,213.png,he is a fox,entailment,52415c8cc038d8526b9bb50f104c0701
+787,787,861-3.png,We still ignore how life was started on our planet,entailment,7b22fa56b18dc19c07e25a9b3ec49789
+788,788,265.png,heart of a lion,contradiction,5468ef38907352677bd61d50349b290f
+789,789,306.png,heart of stone,contradiction,6bf88580b0af3bb2f15aeaf7104c6d36
+790,790,559.png,she was a sly cat,entailment,16190ace92ca5190195125f1df6361e6
+791,791,806-1.png,I felt weightless as I lost consciousness and my vision went black.,entailment,0e589544e7a7574888d307b277051c41
+792,792,remaining-965.png,He made controversial claim.,entailment,9138a9a78e37cd4c9b889bfba4fd6dd3
+793,793,296.png,heart of gold,contradiction,1c5a59987a023c49e6fc1705f6c9b305
+794,794,801-2.png,The dancer is clumsy,entailment,30fd45290ba4b18f72d2f636b29f5ac5
+795,795,35-1.png,You've been vulnerable since the day you were born.,contradiction,363948d7f629c0d9c35fba3d2d8e6f1f
+796,796,205.png,he is a fox,entailment,1981db23a4d45264e4c73dcefbb2c16a
+797,797,360-1.png,I feel content,entailment,04859c01e030b1f03ddb1ae67d19e9ff
+798,798,560-4.png,Draupadi's eyes were dull.,contradiction,72faf5bce56fb3341775fca7e253d0a9
+799,799,198.png,he is a fox,contradiction,814ce96c29d32ae968e29e0570dcd65c
+800,800,591-2.png,The darted harpoon was so fast that it looked shiny in the sea.,entailment,ebc16d2a27da6f84ea311e271b454916
+801,801,301.png,heart of stone,entailment,2e9d5c4910ab3d01291bbc5b4282ca03
+802,802,507.png,she is a ray of sunshine,entailment,a5a8b2fd90a79f1eed38540524546d2d
+803,803,remaining-1009.png,The Congress is unaware of the dangers.,entailment,0813460906870a8b23dd633bc9e88c2d
+804,804,541-1.png,This pillow's soft,contradiction,e5388d3c5165ee3b005240a33c4cf132
+805,805,409.png,jungle city,entailment,fc626573cc9feebb00c9be6a64b0b6da
+806,806,remaining-936.png,They seemed to like each other from the start.,contradiction,d6b8fe7719ef197b64ca7a5183325638
+807,807,104.png,blanket of flowers,contradiction,f60244281f992f9ccf5c46d76db82612
+808,808,818-4.png,"Indeed, he was at times trustworthy.",contradiction,6062c53a3144ae81a649584adde13891
+809,809,574-2.png,The wildfire halted through the forest at an amazing speed.,contradiction,252b671cc76c979702928e01d5839589
+810,810,383-4.png,"I realized that the ""star-crossed lovers"" thing was actually quite common and unromantic, and it was a lot messier than I had ever hoped.",contradiction,ea741abecefcf39f71fd4ac5bd6aa23c
+811,811,510.png,she is a ray of sunshine,contradiction,ce1f8f3b77204d9023aa496fd38105a7
+812,812,815-1.png,He was calm,entailment,8772532b3349e827fad9bff964e1dc53
+813,813,858-3.png,my feeling of love is very pleasant  like a summer day,entailment,50ed7fe6ac12dd6576c6077bf3035d8c
+814,814,183.png,he is a cheetah,entailment,bafae822b482aec9535b67338d28748a
+815,815,194.png,he is a cheetah,contradiction,8689e210f4a5fb55af08601e26d97904
+816,816,128-1.png,We were both jittery on the day of the alumni interview.,entailment,4602697f7473e116c6ee82096a6a9e71
+817,817,100.png,blanket of flowers,contradiction,ecebec103228cc82e369ca985f2d1b0f
+818,818,288-1.png,The predators never expected their enemies to be this vulnerable.,contradiction,b81c73787278cfd53ac848373bdb33c7
+819,819,718-1.png,The faculty meeting was very easy and relaxing.,entailment,1002ce6c6ace7f82564118ebd4741176
+820,820,290.png,heart of gold,entailment,6bf88580b0af3bb2f15aeaf7104c6d36
+821,821,843-3.png,time seems to pass very quickly,entailment,3a3501a0e0a2689813226ed7ef305447
+822,822,543-1.png,"The threat was now coming at him quickly, and Terry's eyes changed in response.",entailment,e3baea1a49360ba010e1ff42f80e29f3
+823,823,180.png,he is a cheetah,contradiction,d73899faad826333ade9f7e7904ce487
+824,824,600-1.png,She was planting sunflower seeds.,entailment,84a74ed3b4f2091649ed8ec9b227ce33
+825,825,48-1.png,She is very intelligent.,contradiction,4f60105559450c81b2b44745704599a9
+826,826,333.png,heart sank,entailment,c8b919dc244a6aed83709f7d2393b077
+827,827,499-1.png,I try to sound downbeat even though I'm angry.,contradiction,8f8b53b83dde057b09e13a00d15077e4
+828,828,810-4.png,The decor was lavish and well-organized.,contradiction,1dc1c1f7a2f68ef5d2f97eeb1e6f4674
+829,829,52-2.png,His playing made him look unromantic.,contradiction,faed32a3bfa7384bbedbb462ccfb7ab9
+830,830,38-1.png,She felt happy,contradiction,43d70b16d4b4f334de63f01415699909
+831,831,486-3.png,His eyes are green.,contradiction,93499391121b4994e76911ad7174cd91
+832,832,295.png,heart of gold,contradiction,a004358167d867744acb24dab316d572
+833,833,1011-2.png,I only found I was lucky after hours of investigation.,entailment,66a54ac801a6a9527d2d3390e4671074
+834,834,remaining-937.png,The person is very lucky.,entailment,b895548a99352154cf5d6186c1fb961d
+835,835,404.png,jungle city,contradiction,372d75c85387e32fea7f19dfc700dca1
+836,836,961-4.png,She was laughing about something sad or serious.,entailment,e7a54689b6f00c0b29fe1ff39e1bfa0f
+837,837,798-3.png,He always flashes a smile.,entailment,01d08b9e3b1e5bd949bbf1a4418af4c1
+838,838,586.png,their relationship is a house on fire,contradiction,2cdc659099be400a92e5ed91a91029d9
+839,839,53.png,a night owl,entailment,e65de3e9cb6de33ac1c9f5638add1fe2
+840,840,182.png,he is a cheetah,contradiction,b8a296bbdb4acadced7b438bc5ae14f0
+841,841,33-1.png,"Moreover, the storm caused a great deal of distress to the inhabitants of the town.",entailment,520fd5d448304e8bc5fae5e1921fb161
+842,842,653-1.png,I have to set the program free.,contradiction,f847296849d3a3dfe75850033ae64062
+843,843,343-3.png,"Yet here, right now, he was calm.",contradiction,416509ab01896037ed328a4796c1fad2
+844,844,313.png,heart sank,entailment,2c11db2b7b0225a7a20a2c83a9217e07
+845,845,841-3.png,time is slow,contradiction,3a3501a0e0a2689813226ed7ef305447
+846,846,915-2.png,His purplish head was bald and white under the moon.,entailment,1ad828a448c7ea9cf9ec1eb8cd94745b
+847,847,205-1.png,The stove did not get hot.,entailment,0d1dd1982b01b3d990783d77afca9d99
+848,848,263.png,heart of a lion,entailment,fb68a52cb4ad7dff288f8efa71f7443c
+849,849,831-1.png,Now she seemed insignificant,entailment,d456452ecf6cbf1d8b5842b871b4a977
+850,850,323.png,heart sank,entailment,c63326d754d34808ded3545c4af6dfa5
+851,851,443-2.png,Every star seemed to shine with new intensity.,entailment,d96faff6d4b3cfb8474a62868c1dfea6
+852,852,44.png,a night owl,contradiction,4606322f8f5c44d7d4c296df7a78d737
+853,853,362-1.png,The landscapes of the newer suburbs looked somehow genuine.,contradiction,7795305a6c9621ac4a8a4804196967ef
+854,854,878-1.png,The republican convention was very distressing,entailment,0887cb3fec62a6f43f303c876c0a4e93
+855,855,665-3.png,You are unaware of the reason why people have become healthy.,contradiction,ad68b30abf23f800976dd0070fad1fd2
+856,856,remaining-925.png,Income inequality is on the rise.,entailment,3a436dbbb9937ea0bd69b037a980aca0
+857,857,385-4.png,Death is leaving at the door.,contradiction,4137a71346795b82795d65a4f616bc40
+858,858,17-1.png,I feel no control over my life.,contradiction,abf2d6fc55760b543f04c21926aad9f2
+859,859,424-2.png,He had conquered his fear and now he is a strong and capable person.,contradiction,84cac106ee30eff20da3a2fca007f916
+860,860,368.png,homework is a breeze,contradiction,2ec670fed02b7f37021f04b8426ec022
+861,861,597-1.png,You are a chef who prepares onions in a world where crying has no effect.,contradiction,cc3a475019512e64f0c0c6a56cbde6b4
+862,862,512.png,she is a ray of sunshine,contradiction,42b469d4049ab0392d3ef5dd48bae277
+863,863,845-1.png,The guy looked large and white in the small swimming pool.,entailment,d919d382f0c443aab8cabe2244ec01d8
+864,864,158-2.png,She looked very happy,contradiction,a59cf29e9dfcb83689a695f7472ca578
+865,865,510-1.png,"They saw the full moon slowly and majestically rise out of the ocean, it was massive and bright.",entailment,051370f10a40dadb6f99b626485924d5
+866,866,67-4.png,I bet I am red.,entailment,18ab7dd5866f0a97ece542ea5d488fa2
+867,867,370-2.png,He was nervous,entailment,16fc705a32d360b9109c680f8ccbcfe4
+868,868,721-1.png,"Even though she was feeling insecure, she walked into the room with her head held high.",entailment,d201e84ea50bcb46d66e976165c2020a
+869,869,504.png,she is a ray of sunshine,contradiction,7cb09b72797fd481dcca12fd3dc9848d
+870,870,660-1.png,He lived in a state of eternal happiness.,contradiction,dc007df0b393265eb368d610efc6b172
+871,871,538.png,she was a busy bee,contradiction,a91ac1254aa46f62b837db3b3dfd6ee5
+872,872,534.png,she was a busy bee,contradiction,c4604d9a6a5a66a7c9225546558f3269
+873,873,111.png,blanket of flowers,entailment,f00a13fa46ce7c84713d982d1044ca6a
+874,874,4.png,a lion on the battlefield,contradiction,2ab2fdc7bb68a786a331f9fe0f0849da
+875,875,328-1.png,"Even though I knew the act was fake, it was still a good performance that got my heart racing.",entailment,70a918a3089eb9585acf5bf26c986971
+876,876,378.png,homework is a breeze,contradiction,dae9303cf7d7832650bcd8f09db357dd
+877,877,161.png,he drives a tank,entailment,d2ca9a16be03ac1109ec01e6b64067a4
+878,878,917-4.png,His purplish head was illuminated by the moon.,entailment,0f5e471bbf966ba88dce3c1c89bc539a
+879,879,646-1.png,The Leviathan in the ocean is a small immobile land.,contradiction,347ae3ac5d0706709c66bb9e67604a6b
+880,880,752-3.png,Stock prices are increasing everyday.,entailment,0d42b793168a91a62bbf76347106a5d0
+881,881,32.png,a mighty lion,contradiction,46ff93b75a9af748c5f297724c0d818d
+882,882,101.png,blanket of flowers,entailment,9622cdb0abd5f4152c171b0520e18f50
+883,883,364-2.png,The fruits are likely to rot and spoil.,contradiction,c9066f06a43aa4ae86d867c6d05a5fc2
+884,884,371.png,homework is a breeze,entailment,1c9468e703f6f8f9cc14e6f08a1c5add
+885,885,508-2.png,The ice is constantly stuck to the sides of rivers.,contradiction,cd59c1e528186128906291c6a0947b3a
+886,886,812-2.png,He was so overwhelmed with happiness.,entailment,b237c22ac81f41b8b3f81c4ad5855dd8
+887,887,678-1.png,The dollar has been increased by inflation.,contradiction,d508ce93e39b960619f7ec226e93b1c4
+888,888,619-2.png,The meat was cooked in a fatty gravy.,entailment,9e5f31517d8a9580673280f40f9d8a91
+889,889,892-1.png,The effect of the war was the economical crisis,contradiction,998577985f825758b5e1cf60f5234ac5
+890,890,467-1.png,"Linoge stands in the driving snow, looking comfortable.",entailment,01f256c8dc7345e5d5230c9763ad4d79
+891,891,862-2.png,Now you can go to sleep.,entailment,2262b32929c49dc0f5f11d6a47c9bb13
+892,892,347.png,home was prison,entailment,1a69b7c694b99ef1f7f7d3c1d30bb103
+893,893,554.png,she was a sly cat,contradiction,40a3e13d5da506abd0b42f95b64bb228
+894,894,599.png,walking encyclopedia,entailment,a11122f5c3237bcd314d78e5f6baba10
+895,895,543.png,she was a busy bee,entailment,762da1827d8c7885be13620be69d71b0
+896,896,252-3.png,He eats his food too fast!,entailment,ad4a915f62a9c990170fb2b9005c7d3f
+897,897,130.png,blanket of snow,contradiction,571a9e02288914af7d4acaf6f85b9e45
+898,898,600.png,walking encyclopedia,contradiction,63144d83b100ff02b18d3bfd2fdff691
+899,899,324-1.png,The conversation that evening was lively and interesting.,contradiction,c54d5463dea7ecd663fe982f60f46606
+900,900,37-2.png,The soldiers were angels.,contradiction,259625039cddc3f97ba9384f390f09df
+901,901,884-4.png,The wind roared; the waves collided - we were fine.,contradiction,daf11cde5c2fa625fa30729bdbd4604b
+902,902,13-1.png,Miranda waved back apathetically.,contradiction,813930bb7658c38afd880a8867fb59ad
+903,903,954-2.png,He is catching a plane with his body.,contradiction,4f334de3a2c54cf668da0ec9846bba83
+904,904,180-3.png,She suddenly started to have a luxurious life.,entailment,305740d81478cbe2006f141cdd3ee7c4
+905,905,275.png,heart of a lion,contradiction,0b45b4fc121070d5dd75b112c79d1a2d
+906,906,111-2.png,I feel immediately inferior .,entailment,d01d82a0cca3d66a6f77d70e9f7b0954
+907,907,651-1.png,We came to the mutual understanding to settle the deal and declare it as a peaceful agreement.,entailment,72735247862996729d2fdb7ab91eee54
+908,908,606-1.png,He is now deformed after contracting leprosy.,entailment,2a49bbfb20a6acb2ff51ec6034a2ea5c
+909,909,1053-1.png,There was loud aplause.,entailment,24216aa57dbe4df39c9a211a51d2bcdd
+910,910,912-1.png,he felt an intense anger overcoming him,entailment,f108371d189573af62626de2793f3946
+911,911,706-1.png,They looked like a feather mattress.,entailment,04d01a08ce298d1d3838db9c4c8fea61
+912,912,238-3.png,The bliss has reached fever pitch as it engulfs me warmly,entailment,bd959b62097d104e5fa8a628978456d4
+913,913,366.png,homework is a breeze,contradiction,78940b5efb141a8f2c6b4464ffb06586
+914,914,159-1.png,His eyes begin to tear up and they look luminescent.,entailment,f2858fe5a98b8cca0e04a505989f9a1c
+915,915,164-1.png,She will forever remember this event.,entailment,5b09319e23e2e861ca7a526a5ed16d7e
+916,916,30.png,a mighty lion,contradiction,9c2ee8681e81b30964ca35b728628241
+917,917,217-2.png,That build looks weak and falling apart,entailment,afdfe1f97e88822520a0593c34d671b9
+918,918,114-1.png,The rooms in the house are very close to each other and almost seem that they are connected.,entailment,6e1ed9ec88dc905a9982a1585b793dd8
+919,919,673-1.png,Don't retain my original words.,contradiction,5e545c470fe7cb65fc4bf9d27a0ec3f8
+920,920,220.png,he is a fox,contradiction,0b50856ff7ec4f5ae6d92b99c035b3ef
+921,921,733-1.png,Surrounded by darkness like a garment.,entailment,71c59791995637947e5eb872e8da78b9
+922,922,727-1.png,I saw the depressed and sad look on their faces.,entailment,80b6b18e506cfd84048c0a09fe0e7430
+923,923,683-4.png,It was disappointing to find out that my objections were put aside.,entailment,720795d8903c9cf1efa390b1e8b1c1dc
+924,924,494.png,she is a ray of sunshine,contradiction,674c73df984ce4f028910e662b8cb3fa
+925,925,76.png,an angel,contradiction,e078b9c41b7fc6bbc50ecef66b3b67b9
+926,926,475.png,sea of umbrellas,entailment,9c8923030b415b4c1232af35eef4c26f
+927,927,776-2.png,The clouds were circling each other in the sky.,entailment,cd3976b115623207627221db941e1369
+928,928,34.png,a night owl,contradiction,7810ed7bf85baf6fdb660a221908cd65
+929,929,124.png,blanket of snow,contradiction,33fd570af2e3af28112d73a936a92bc9
+930,930,24.png,a mighty lion,contradiction,13c9591a28324028f588afb9c15e2448
+931,931,362.png,homework is a breeze,contradiction,2bb5b41c4221ff106b92c85117c6370f
+932,932,819-3.png,The judge is dishonest,entailment,5a1f0c40c6ada3b0164bf1c4f01290bc
+933,933,28.png,a mighty lion,contradiction,20bd1039281dd5989d29ae2e6088ae39
+934,934,760-1.png,I'm wet.,contradiction,9763a70395a8f02ce413470550911999
+935,935,27-1.png,You are not listening to me.,entailment,f91d4a5537844e89b161949c24290bd8
+936,936,608.png,walking encyclopedia,contradiction,7e0ff2a01b04a40a88d5342f192af0a1
+937,937,262.png,heart of a lion,contradiction,0fdaa20fc9eeb2d000cc60dfb835b43b
+938,938,266.png,heart of a lion,entailment,08ccd868e46d523e33513dcfc04c011f
+939,939,106-1.png,I feel full control of the situation.,contradiction,fc7bd71bf3c47568b0a567f31057822c
+940,940,466.png,sea of knowledge,contradiction,891fee83df6b94122d603589b99cd23f
+941,941,512-1.png,I showed my anger and kept quiet.,contradiction,2aabee1b3163d4c68e2f0b06213dceb2
+942,942,367-1.png,The house is pretty,entailment,b2e65b329b315d294321aaec4f9f7867
+943,943,257.png,heart of a lion,entailment,c5d99f69f3218f81b8cb3cf376eb2aad
+944,944,400.png,jungle city,contradiction,f33c4688ba581dc4fdb6bcde2dea0ffd
+945,945,85-1.png,his mind attempted to make the connection.,entailment,7531c33e0259123bc940e6d31425463f
+946,946,477.png,sea of umbrellas,entailment,9af7b397e0e456ee3e455a3dc99a368e
+947,947,133.png,blanket of snow,entailment,91e54929ed207582262ea349f30bf2fc
+948,948,826-1.png,But we kept strongly,entailment,0e0feb5e8463b7959b1d4f95161f4918
+949,949,382.png,homework is a breeze,contradiction,8195a6f4849d05249b0efefa75b9813a
+950,950,356.png,home was prison,contradiction,c907970ae03957e3f6c1403a925ae675
+951,951,711-1.png,You speak in a charming and effective way but I am not convinced.,entailment,dc0b228108c8d3a5821bf9cb08e9214c
+952,952,618-1.png,"The boy's face changed swiftly, showing a hint of pain before it was gone.",entailment,231455a4e4f5c991af99fd1544e3f4f4
+953,953,612.png,walking encyclopedia,contradiction,5f1024ca4761b8370fd584662f9f7034
+954,954,373-4.png,The fabric was not smooth,entailment,87136211733c93597e4f9864139b9e18
+955,955,8.png,a lion on the battlefield,entailment,5035688b92641e52187fb0fc14d10a6f
+956,956,98-3.png,I'm sharp,contradiction,46ab1ebdc41d6ae2427b573bd48e30a0
+957,957,50-2.png,I am black and his skin is a different color than mine.,contradiction,8ab35e7f452e366d0f691a9a807f6844
+958,958,919-4.png,She had a bad idea,contradiction,957cb1693abac0d911d1fbf490510bb8
+959,959,213-1.png,The sudden fame made her totally go crazy with ego.,entailment,72e5521ac410c249d35fc969e3e65caa
+960,960,881-3.png,He pleaded for her forgiveness but Janet did not listen to him,entailment,6d8e9a26acac98148bd0127914c4a8b6
+961,961,372.png,homework is a breeze,contradiction,1f7a8c0afe72b11972e39701fa761352
+962,962,29-1.png,The final scene of the novel describes a murder.,contradiction,09899e0a28293851e5cb42a33164ee86
+963,963,remaining-1000.png,The world recession of 2001 was one of the worst in history.,contradiction,55a2d5b33ce0db2b2830a209c2a88352
+964,964,422.png,jungle city,contradiction,cee7d0859114e8b37be3757280e1c764
+965,965,211.png,he is a fox,entailment,925b042a86047aff94a6dcd082d1e843
+966,966,459.png,sea of knowledge,entailment,da3ddcac5fb6445f665f52be8093cbf6
+967,967,399.png,jungle city,entailment,5ff99507c5dd99a2cc42a889894d7e06
+968,968,504-1.png,A global catastrophe causes all major technology to be rendered useless.,entailment,47e3719658dbb906fa02723e82c8d9e3
+969,969,118-4.png,The first thing I noticed when I walked in the room was the black leather chair behind the desk- it was wide and comfortable looking.,entailment,d3c9322b31a3f78332bb9e4126f2bb06
+970,970,546.png,she was a busy bee,contradiction,1f78ca0aee23f0e893fd105f42aa4900
+971,971,314.png,heart sank,contradiction,eb51e76eb860d17bce97039aaf4db859
+972,972,11-1.png,The pain was mild.,contradiction,37e020f95f938afad00bd453fe4740c0
+973,973,191.png,he is a cheetah,entailment,9881f8a68d27ac6cdad04dd424ab077e
+974,974,723-1.png,he summoned the servant.,entailment,b2cbfcda37a80436c0d0e070b14fa33f
+975,975,1024-2.png,Turkey has great relations with Israel and Armenia.,contradiction,acd64c2337459770feb2e55e0866e55c
+976,976,274.png,heart of a lion,entailment,bbcf2bd6e117591c43352dc2e0f4a236
+977,977,475-3.png,"Luca's eyes were yellow, and his pupils were small and black.",entailment,2a96f0f11a3b35344268fd2fd27d24f9
+978,978,566.png,she was a sly cat,contradiction,9449a407ce1096b555ffb8195af77c64
+979,979,532.png,she was a busy bee,contradiction,cd67ba517bb48e014cfe39eedc977190
+980,980,636-2.png,The weeks passed slowly until we could meet again.,entailment,19a6a52b261315a9cc678c62981532b3
+981,981,773-1.png,I asked for your help and you kindly helped me.,contradiction,f098fe5481d81c91f7e1ee0455e35761
+982,982,129.png,blanket of snow,entailment,5c3cae15fb6f2130944e6ff498d0293d
+983,983,312-1.png,The sun is setting in the dark sky and the color is now orange.,entailment,09ca7b3f139e41360e7a4374a21aef30
+984,984,remaining-1039.png,The management is lavish.,entailment,0e2f094bad3be20cb93841e433617842
+985,985,970-1.png,Consumer electronics are the least important products this year.,contradiction,da0ff04bf942eb04161e50077e79e728
+986,986,1020-3.png,Murkowski is pushing against Congress,contradiction,925f6084144aa7b1fedd98ce43437bc5
+987,987,351-4.png,"He was groggy, but as soon as he saw me, he sat up straight.",entailment,b043158c7b0a00853f227f4f413ed3e2
+988,988,339.png,home was prison,entailment,518b5ead1bd13f5e40862c9385fb6db3
+989,989,560.png,she was a sly cat,contradiction,cfaae23083db7b832f2fe6a0eadc4c59
+990,990,430.png,light of my life,contradiction,2fca100bb8797202c1fd2d7f3fae8a2b
+991,991,756-1.png,Tessa saw that the old woman's skin was green when she turned her head.,entailment,bbe426dbf9418827c9d506211f1bfb04
+992,992,728-4.png,All the meadows are frozen and chilly.,contradiction,7ddf234e6d0d7fedabb7fca04b748114
+993,993,100-2.png,His fist became slick.,entailment,d266e5fcd4d297a2f0307c0aa4080224
+994,994,427.png,light of my life,entailment,a9e3a3262b3ae947523cae4d11446d4d
+995,995,868-4.png,the faculty meeting was very bad,entailment,f6a3f93ab786bb6035396d8821536554
+996,996,51.png,a night owl,entailment,59962abe88b19fcb632604e6499218a6
+997,997,195.png,he is a cheetah,entailment,dd00418c389f36222e7d0f7d4b3c3b08
+998,998,1012-2.png,She knew what she was looking for,contradiction,66a54ac801a6a9527d2d3390e4671074
+999,999,318-4.png,His hair was thin.,entailment,2ea3689d507cc361c352a9f80f7477ad
+1000,1000,186-1.png,The blood that oozed out was black.,entailment,69ce6243038d34f0bbca32a654c88e5b
+1001,1001,46.png,a night owl,contradiction,1ee4136d3e39da256c960d0900d3d71e
+1002,1002,321.png,heart sank,entailment,2ab2fdc7bb68a786a331f9fe0f0849da
+1003,1003,19-1.png,The snow made the earth look exposed and vulnerable.,contradiction,ba58cde42ff4c8ddbbcc49a6e37030b3
+1004,1004,528.png,she was a busy bee,contradiction,c61d9ec56588255a2a5c70e6d563fbd3
+1005,1005,722-3.png,"The world was spinning round and round, and time stood still.",entailment,0d36a189dc7d919840db64624b19f1f4
+1006,1006,218-4.png,I was trembling with terror when the next earthquake hit.,entailment,49558df0c40eb0538d1c98cbbc628129
+1007,1007,455.png,sea of knowledge,entailment,4c0d4e786a9fd835651121214b272c50
+1008,1008,82-1.png,It's so ugly just for us.,contradiction,7eacd6b361edc46a3ad183392fb45771
+1009,1009,107.png,blanket of flowers,entailment,fdf80507998691bcf70016ad0b05460e
+1010,1010,465-3.png,The faculty meeting was very bad.,entailment,de710751dd23ede0b2a9c17250a51dd7
+1011,1011,804-1.png,The light had taken over the dark.,entailment,879384b05968d54a69ddcce905e7bfad
+1012,1012,226-2.png,She was  Brunette and brown eyed and sturdy,contradiction,f4fc9d861b0709f2e273edf3a43b3c8f
+1013,1013,531.png,she was a busy bee,entailment,619260adf6573de35389ad19b85e75c3
+1014,1014,835-3.png,You start to worry when everyone becomes so concerned.,entailment,07d6ed9a6ea69a0652edcd3183a3c388
+1015,1015,767-1.png,The cigarettes cured his health.,contradiction,273eb9d7ac9ea03d54c764c78f6c6f0a
+1016,1016,725-1.png,We can count on this man.,entailment,6d4d5851ce3a2fc9f74a9dcb92700a85
+1017,1017,828-4.png,"The assembly hall was now hot and moist, more so than usual.",entailment,01ec8f5702742e2b0010323a560fe34d
+1018,1018,remaining-1002.png,Envy feeds your soul.,contradiction,4b2575cc0bedae5bf646f53aa1ee6743
+1019,1019,7.png,a lion on the battlefield,entailment,fb68a52cb4ad7dff288f8efa71f7443c
+1020,1020,280.png,heart of gold,entailment,f53ec9a9c772204ee7b000acd9c94fa7
+1021,1021,717-2.png,The Star tops the Christmas tree during Christmas.,entailment,1fa283de939edbc75350b128f667bb45
+1022,1022,566-3.png,The interior was cramped and shabby.,contradiction,951b473556237f38108287cffbd95487
+1023,1023,58-1.png,Water leaked out of the can into the backpack.,entailment,0aa540d4dd3e7e12774f1e8165d36d78
+1024,1024,547-2.png,Middle age made her less enthusiastic about travelling.,entailment,305f77c3109e41d8a43a046dd6b02679
+1025,1025,332.png,heart sank,contradiction,305054177da5516cf0f6c843e2316422
+1026,1026,102.png,blanket of flowers,contradiction,43c31b6a06c6710517ead1de4cdc2310
+1027,1027,857-3.png,my feeling of love is pleasant and joyful,entailment,50ed7fe6ac12dd6576c6077bf3035d8c
+1028,1028,590-2.png,My friend told me the project was very depressing to work on.,entailment,355f115dff9d4ed97995308f55815309
+1029,1029,398-1.png,Being forced to read a book that you dislike the most is one of the worst things that can happen in life.,entailment,124ef9b43f477678360e3905f9d75c68
+1030,1030,384-1.png,The barrel was thin and transparent,entailment,6b8c4ac70973366492132e46c4bbd73f
+1031,1031,212-1.png,That path is straight.,contradiction,104058f04221be53ef0f40a463ba2719
+1032,1032,280-4.png,It was a struggle for me to complete the work.,entailment,197dae422cd5f7278cd5514a56552579
+1033,1033,44-1.png,My face was blank .,entailment,4701171b91b7c367214dd4979f4d1797
+1034,1034,331.png,heart sank,entailment,5c096243c1abd51d7fd285b4f6596f68
+1035,1035,211-4.png,The way they shade and sarcasm each other is not funny.,contradiction,82964613b127d7a45f45726a8edb0a6f
+1036,1036,750-4.png,"Even though she's big, she's not very brave-and when she's on the ground, she's clumsy.",entailment,f5605f0232b4e814a082c7155c19096a
+1037,1037,605.png,walking encyclopedia,entailment,9d82a56f74d1cfbd208613c6f0bc1ea3
+1038,1038,499.png,she is a ray of sunshine,entailment,b251e4b2e91f1607285ab2683e95e0bf
+1039,1039,308.png,heart of stone,contradiction,42344e72126a18e85d47ac4f22df01de
+1040,1040,492.png,she is a ray of sunshine,contradiction,b8c897f725ef90c65d343e5cfe1fe2cb
+1041,1041,remaining-966.png,He made a non-controversial claim.,contradiction,9138a9a78e37cd4c9b889bfba4fd6dd3
+1042,1042,833-1.png,The bucket was light,entailment,5a4ebc587deaf8f721ed15f06c641f69
+1043,1043,455-1.png,"Even though you both have something pressing to say, time is limited.",entailment,87961cf605f9742fc7f3eb92ea5fcca6
+1044,1044,129-2.png,The candidate slammed into his opponent mercilessly.,entailment,1657fe2cf804f4b26ab5067c62632bd3
+1045,1045,837-1.png,My personal feelings influenced my judgment in this case.,entailment,782815e6cedae95e7e12e01804e2253d
+1046,1046,407.png,jungle city,entailment,e7a96e457ebc76ef74aee0967b12dc1c
+1047,1047,269.png,heart of a lion,contradiction,0b45b4fc121070d5dd75b112c79d1a2d
+1048,1048,remaining-1057.png,Android tablets have been very popular.,entailment,3b11135f0f19f04d9ccd2684f0301f3d
+1049,1049,457-2.png,His head was smooth,contradiction,84a87cb6d1e6c63a2aadcc0d9343ff8d
+1050,1050,282-3.png,Her voice was warm and refreshing.,entailment,63f941faa1f80daebb1bbdcea961aa66
+1051,1051,16.png,a mighty lion,contradiction,72a05a348504f70ccf548e83e0965a7c
+1052,1052,268.png,heart of a lion,entailment,cb2dcde44c55bcf27e535dc423946fcc
+1053,1053,436.png,light of my life,contradiction,953295cfe2a59e94369364158368b8d8
+1054,1054,288.png,heart of gold,entailment,07b87197fe5cf6b93c746e3399aa5a44
+1055,1055,710-1.png,The family was very friendly.,contradiction,cf341f2e3f2740491dd843dc3e5ea03b
+1056,1056,330.png,heart sank,contradiction,4e889e40e0fb1fec1da95b2d29bb8a9e
+1057,1057,276.png,heart of gold,entailment,6605fc96c998a1dcaafe03a34716a181
+1058,1058,336.png,heart sank,contradiction,a0d816ee040e4b96331ed58a7dd5d892
+1059,1059,675-2.png,"After the champagne bottle, my brain is buzzing.",entailment,05e58700e8f2fd4303007ceb16e36e46
+1060,1060,604.png,walking encyclopedia,contradiction,a2450b4dfdae3103305a39d9d709f34b
+1061,1061,410-1.png,"They were cute things, black and hard.",contradiction,15c455b8d14e3c81fc8cc555f6afd92c
+1062,1062,573-1.png,"Mrs. Hastings kept talking about how pretty the restaurant was, but Spencer thought it was too gloomy.",entailment,1f8108a96a44ef9baa539abb692218a2
+1063,1063,694-1.png,"Since the day we are born to till the moment we die, our lives' only aim is to fulfill this urge of being happy, even though it is difficult.",entailment,7cb7e1a941f75614c038cb4fed9980f2
+1064,1064,805-1.png,"If I ate like this, I would become obese.",contradiction,1ae6ffd972d8f96ca31221c78fba9204
+1065,1065,89-3.png,"But then again, Peleg always has something very philosophical to say about every discussion.",entailment,4d5a46bc48896593790fac2a456d1fc5
+1066,1066,62-4.png,The task seemed possible; it lay before Pruett in a calming and straightforward way.,contradiction,82e6dcdc89b44d28285fa8da0e718e42
+1067,1067,137.png,blanket of snow,entailment,921e297b96dcbc7019634d5b6c5b87b0
+1068,1068,255.png,heart of a lion,entailment,7f84d07a5c1679a302c69cd8ea3bbdda
+1069,1069,608-1.png,The patient was anxious.,entailment,aaaf2f103947d137650b8f1b9773a701
+1070,1070,373.png,homework is a breeze,entailment,bade79830f34d5f98db85ee900830884
+1071,1071,352.png,home was prison,contradiction,efd563cb7a0e68e7ae3d770f7bf13753
+1072,1072,863-2.png,Now you can sleep.,entailment,2262b32929c49dc0f5f11d6a47c9bb13
+1073,1073,745-3.png,The sight of the abandoned boat on waves is really sad.,entailment,afc00b67b2299cc4d090ea6c33be6afb
+1074,1074,465.png,sea of knowledge,entailment,53d5a4c022c21371712844d278fcedfd
+1075,1075,179.png,he is a cheetah,entailment,4152e9e96eb2b0483a9f790b9ce71662
+1076,1076,603.png,walking encyclopedia,entailment,25e56656dc93a80b631d6d516732805d
+1077,1077,254-1.png,The branch was very sharp.,contradiction,6abddf4fcd8aba5a6b1dada3c17ae4c8
+1078,1078,remaining-957.png,The computer battery ran out of power.,entailment,2af99f866b17ae86c63447ddff7b71b9
+1079,1079,784-4.png,The dancer was boorish and uncoordinated.,entailment,da8e57af949fa3a73158201eaaa73c40
+1080,1080,270-2.png,The instrument was easy to learn,contradiction,1a6023d0875f2438b04802c4e2a081d3
+1081,1081,501.png,she is a ray of sunshine,entailment,67c6485f543ddf2b9591d821768bc4df
+1082,1082,445-1.png,I eyed him warily as I picked it up; his nostrils were flaring.,entailment,d9be452a0382feaf365990105f50b527
+1083,1083,695-1.png,Till the tree-tops were trembling the laughter.,entailment,e074a143eea3568d771ec19a77c661e0
+1084,1084,1066-2.png,The research department was lacking novel ideas.,contradiction,fc92431a911f3cbdcdf54fcd332bd104
+1085,1085,480.png,sea of umbrellas,contradiction,17758e1c690bf0888bd80b7208e99569
+1086,1086,866-4.png,The faculty meeting was calm and relaxing,contradiction,f6a3f93ab786bb6035396d8821536554
+1087,1087,932-1.png,The company's stock value decreased by one percent.,contradiction,025df853c29e86ac2033e83e1b566f9d
+1088,1088,698-1.png,Now he feels agitated,contradiction,3f10ce0a56fbf3d9d4e8bc0d518ab0f8
+1089,1089,19.png,a mighty lion,entailment,0da6893359b7e116cb43f9162a1cf47c
+1090,1090,716-1.png,The hotel had a bad view,entailment,886516acc8ac4c02e6348273bfdd7aa8
+1091,1091,162.png,he drives a tank,contradiction,88ccaa0aa938a6f1484514fb0ac77214
+1092,1092,250-1.png,The entire police department in Ashland is clean.,contradiction,0829d0e99f1b50f2b5d15ba559b52e45
+1093,1093,540.png,she was a busy bee,contradiction,61333c5f596303ba38c019513da2cac2
+1094,1094,770-2.png,I was experiencing extreme changes in my feelings.,entailment,9644372c9868fea24138599e1bf47e0b
+1095,1095,535.png,she was a busy bee,entailment,7173e3da1148a72df7e64c872a3e8a69
+1096,1096,762-1.png,Adrenaline shot through him powerfully,entailment,e0f230152909006c6d936b1633f6d8c1
+1097,1097,515-3.png,The moon gave the stars of the sky an opportunity to shine.,entailment,53557b190afbc7aa0a2b8a7ae3a0f9c5
+1098,1098,170.png,he drives a tank,contradiction,2d716d2ed074312b3fa46f02e9c269d9
+1099,1099,1065-2.png,She had new ideas.,entailment,fc92431a911f3cbdcdf54fcd332bd104
+1100,1100,9-1.png,Her heart was beating rapidly inside her ribs.,entailment,e6f393bbee50fabb071365a7680808a8
+1101,1101,505.png,she is a ray of sunshine,entailment,0039b4313c0be2623d0de23f88c7b384
+1102,1102,585.png,their relationship is a house on fire,entailment,c06c9b54c6b12a95ec5de750b861d957
+1103,1103,74.png,an angel,contradiction,8c7f94ab9d167d0f4d64b1fe683bb2cf
+1104,1104,542.png,she was a busy bee,contradiction,c420fcfd0a89495ee7f52dfb26caf3d8
+1105,1105,232-2.png,The cake was really moist,contradiction,2852f423c48e945cf9a279b434fa1492
+1106,1106,315-1.png,The big waves saved the small boat from going down but it sank shortly thereafter.,contradiction,f5ef32a43214b9c89db48316b2ffea71
+1107,1107,365-1.png,"I looked to my right and saw a figure standing on the platform, holding a rifle and staring down at us motionlessly.",entailment,2303370238b0ab94de1ae681cc950b49
+1108,1108,85.png,an angel,entailment,b554fbe8698b5a0a50a90e62b2689f75
+1109,1109,461.png,sea of knowledge,entailment,4913b4b3f5699fd296465e4a8d501dfb
+1110,1110,176-1.png,I remained calm.,entailment,74734c896f004ea9a38af9a8088300cf
+1111,1111,615-1.png,He's dirty,entailment,3b441757865b99cbbe133e1329e728fe
+1112,1112,9.png,a lion on the battlefield,contradiction,9e0e6e9172752e3fb2458aaf3d5c8ad6
+1113,1113,304-1.png,"Life is not a public performance on the Violin, you only learn in school and use the learning rest of your life.",contradiction,d8453b86992d030ec3d129b3f20e5ca4
+1114,1114,494-1.png,She was draped in black.,contradiction,3336919915270c6b99f5e65aa0c733b3
+1115,1115,544.png,she was a busy bee,contradiction,c7cc48aae102244eb28ad95e8ff79cf9
+1116,1116,846-1.png,The guy looked short and agile in the small swimming pool.,contradiction,d919d382f0c443aab8cabe2244ec01d8
+1117,1117,325-3.png,The jungle lay silent,entailment,16ffdfeb4ac834c63bf74a7592802104
+1118,1118,329.png,heart sank,entailment,4ef09e26f4231c3aaf1554f1da1fc3d7
+1119,1119,413.png,jungle city,entailment,e997a8a92fed1710e0fc24ac5035b745
+1120,1120,820-1.png,They were very hesitant when we made contact with them.,entailment,a92b6ea93de737a2e7b5dfe5484ef36a
+1121,1121,423.png,jungle city,entailment,9bb5174c5765f6e119b9bbfd732359e6
+1122,1122,565.png,she was a sly cat,entailment,0a9e404671e3f25ff24feef14efb0a6c
+1123,1123,464-2.png,The room was tiny.,contradiction,fe2e415bf28860d51557f0631c283917
+1124,1124,410.png,jungle city,contradiction,4a11e0dcb656ded5f078b0fcd5f8dad8
+1125,1125,127.png,blanket of snow,entailment,3713a6f0e85bd4acd7d5bf7fad77b881
+1126,1126,830-4.png,That bird is very clumsy,entailment,f4dd0c390ff169e121d9bb87e126bcb3
+1127,1127,remaining-1042.png,You can spend as much as you wish.,contradiction,a5f6302f8ca51fb07c8d265434c59857
+1128,1128,909-2.png,the reasons of the crisis were not understood by Adam,entailment,27284ee20978e51628661c2b9a5afbcd
+1129,1129,354.png,home was prison,contradiction,bacf035d3690feff822def18a9d4b026
+1130,1130,423-1.png,His heart within him is fully rotten.,contradiction,a82ec72491d356d20d5efa22c9ad7eef
+1131,1131,620-1.png,Trying to rationalize the situation eventually becomes troublesome,entailment,71e98b50da29a8f6250d054f6c2b6d53
+1132,1132,763-1.png,She soundlessly landed after her cloak billowed around her and then vanished in a whirl of light.,entailment,c6e0a81d8e698dddad339474c6dfcc77
+1133,1133,225.png,he is a fox,entailment,f11b3615ef7ca85a4c61a48632d186d7
+1134,1134,99.png,blanket of flowers,entailment,65ef91407eb733c7325e1417894a9f98
+1135,1135,200.png,he is a fox,contradiction,51494096e719bf07a26260aa0b2b2742
+1136,1136,45.png,a night owl,entailment,2c177c337fee44e764a3cef04a80d713
+1137,1137,759-1.png,we were exploring a very small grassland.,contradiction,305e98837681f1f857c80a44dd78a396
+1138,1138,790-1.png,you're cheerful,contradiction,d3d4227adb539f79fa2a727ee41a6c4e
+1139,1139,118.png,blanket of flowers,contradiction,22f4897bd8c67db326716cd70d31bd25
+1140,1140,42-2.png,The faculty meeting was ridiculous.,entailment,0f2ea14950ba5e2fba7d1f1f85ead21c
+1141,1141,746-3.png,Of the happy days that occurred afterward.,entailment,30ed8b891e24b25651f6ff53eedade24
+1142,1142,36.png,a night owl,contradiction,2a9dc0952e3fbf87b41308d9e80df68a
+1143,1143,439.png,light of my life,entailment,a2af0a81391aa359b599c82b54409915
+1144,1144,168.png,he drives a tank,contradiction,1135f741f9da0804083071f034fcab85

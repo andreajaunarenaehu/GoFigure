@@ -1,0 +1,169 @@
+,Unnamed: 0,image,claim,label,image_hash
+0,0,396-2.png,I want to hide in sunshine once again,contradiction,5ba97095a125da9acbfb68a61e337d6a
+1,1,647-2.png,It's not shocking to see a man in the office when I step in.,contradiction,2aac5de056f40ec9a87146c775a0ba6b
+2,2,575.png,the car is a rocket,entailment,ff2e7c6145fc6a75d909abf376733c2c
+3,3,135-1.png,Your head will become clear after 10 minutes.,contradiction,ae0b69c1b83342341f6e3950c29377b0
+4,4,387.png,house of cards,entailment,6864c1b7623a174c6b06311e3e04d399
+5,5,402-4.png,The woman was feeling a kind of melancholy.,entailment,ce235fc527108b7524b6a0a507aa60de
+6,6,150.png,eyes were fireflies,contradiction,96c35100fdac465a02f2ec6c082094ae
+7,7,427-1.png,The girl sewed very carefully.,contradiction,60160e8785df0a2ad88a5075ffffd96b
+8,8,574.png,the car is a rocket,contradiction,fe6eebd0c4784c43e2eaf951a44e2b34
+9,9,890-2.png,his ancient heart exploded,contradiction,ab5f6dc2699da5bd82244911379a5c17
+10,10,396.png,house of cards,contradiction,9ea99a1bdcdd20743e8c432d954ee3a0
+11,11,387-4.png,She was wearing all sorts of color except yellow.,contradiction,9ef3f1e7e34c88f1e376af8ea2ae4072
+12,12,203-1.png,The book captured her attention.,entailment,c72462cd92badd228bfbd62e730d97c9
+13,13,60-2.png,The knocking had become more hesitant and uncertain.,contradiction,331a11f1ced6b6c9a6681659d3ee82e1
+14,14,889-2.png,his ancient anger disappeared and he was happy,contradiction,ab5f6dc2699da5bd82244911379a5c17
+15,15,230.png,he was a chicken,contradiction,192d7fe2835a48762509b2aa98478c01
+16,16,63-4.png,The notion of loving too much seemed cynical and unromantic,contradiction,6b5f780e851f0618a55795a9523b9b39
+17,17,242.png,he was a chicken,contradiction,455afbd72dff0c7f20423466846ad60e
+18,18,250.png,he was a tiger,contradiction,5d5e6f5e32f0e640b3670b4b4e2259aa
+19,19,385.png,house of cards,entailment,ae572380c277fd29a08af3413c95663d
+20,20,236.png,he was a chicken,contradiction,9824281eb89c250ae7a09b9ba146328c
+21,21,144-1.png,People were leisurely walking out of the theater.,contradiction,42d147e88ce5a86eaa809570ac816217
+22,22,420-2.png,Her hands are very soft.,contradiction,3113451fbadf5910c8ff848fd2c5be16
+23,23,389.png,house of cards,entailment,08d21ad4e0556e9a3ae318132594418f
+24,24,245.png,he was a tiger,entailment,4a4089ae87059d5719316dd30dabbcb4
+25,25,147.png,eyes were fireflies,entailment,c0da52c77cf3d5bc271a3ba090f6fca4
+26,26,remaining-959.png,The children inherited creativity from their parents.,entailment,6672d9963435950cf48b4ab38984414e
+27,27,remaining-1025.png,Your employer is very important for you.,entailment,63228bddeed99599e12bae394162d7a3
+28,28,230-1.png,The valor appeared slowly.,contradiction,2ed1b6a9c2732482ba03c5154196b7f3
+29,29,579.png,the car is a rocket,entailment,c0b55d75c8a2b52b9c9ea4b635ec5186
+30,30,670-1.png,"He was cruising down main street, which was almost entirely full and boisterious.",contradiction,4c472c232a81c1615fa34307036faf8e
+31,31,153.png,eyes were fireflies,entailment,222c4374f4d9f088c642619832369d82
+32,32,658-1.png,"it was a gentle touch, it felt powerful.",entailment,d927402d2b2ed9b7b6e714c2bb7227fd
+33,33,307-2.png,The politician harmed his rival.,entailment,5ae36cf033dd0e86a73493c67f86fedc
+34,34,633-2.png,She was the darkness of my life.,contradiction,754f371d86a138666502663351b32982
+35,35,remaining-1056.png,The company is designed to prmote initiative,contradiction,0b056e91cd29b43ef16a632599ba115d
+36,36,308-1.png,The meal is disgusting.,entailment,081691f9b10ed4bc3085f19eaea2eff0
+37,37,155.png,eyes were fireflies,entailment,d539e9477c02b5653fbee42210ec2562
+38,38,remaining-1044.png,At Southwest Airlines they understand that friendly service is of least importance.,contradiction,4c891ec97f01b4de9c4257669263fdc4
+39,39,607-1.png,"Her movements were jerky and sloppy, halting and graceless.",contradiction,842cb05ee05218c153f7aac2d9c10c5b
+40,40,84-3.png,The light was withered.,contradiction,684c5c4187bd656ffdf9a9041d3c2abe
+41,41,578.png,the car is a rocket,contradiction,0e8ec3196cd6f4d1f619b4029d8724e8
+42,42,671-1.png,Far below him  swam  the heavens.,contradiction,b0cd709ca471ebba3193cc6977085a1a
+43,43,569.png,the car is a rocket,entailment,29039596989c1d2f0c7b95e65c120b27
+44,44,686-1.png,Each stride he took was short.,contradiction,f4742d05a5db39de143612ec9999e72d
+45,45,580.png,the car is a rocket,contradiction,f9d76f4cd926cb1ab726f0b81e243423
+46,46,remaining-996.png,My excuse was very believable,contradiction,c9deb19cdf95b9c33b0aa5897a8b47f0
+47,47,156-1.png,"She lumbered to him, clumsily",contradiction,58267cc7b8038befebc1c9335ad59d57
+48,48,386.png,house of cards,contradiction,6668a84ffda486f72da06756c454b53b
+49,49,822-1.png,His eyes met mine warm and brown .,entailment,7711000f61f5549607461dd81dad37c5
+50,50,181-3.png,She experienced a euphoric feeling.,entailment,4ae60e64e09ad3f06d88cc472ba598f1
+51,51,157.png,eyes were fireflies,entailment,bb17b4529545c443241da0944dbaf852
+52,52,239.png,he was a chicken,entailment,271e0a7f4983e71da321fdca0badc083
+53,53,888-2.png,he was overwhelmed by an anger he had suppressed for a long time,entailment,ab5f6dc2699da5bd82244911379a5c17
+54,54,390.png,house of cards,contradiction,4bb6c9395069fd41c73029a35b82393e
+55,55,88-1.png,He looked glum as he gestured to Michael where to go.,entailment,b7329a7cbfa4bc157ee7a1a83c3e91a6
+56,56,149.png,eyes were fireflies,entailment,aa090ecea021bb900fe1026086628921
+57,57,249.png,he was a tiger,entailment,ae790ddbaa58ae94445ac1d6a6a53289
+58,58,127-1.png,She has been living by avoiding alcohol.,contradiction,093fc7988be0129fcb28f41b36ad874c
+59,59,51-2.png,"Even though she wasn't tall, her aura was powerful.",entailment,a1a95634420234c54eb87573ecbcc19a
+60,60,231.png,he was a chicken,entailment,c2fef6abfcc55d5d7a60b903edb63b55
+61,61,567.png,the car is a rocket,entailment,50e1a5247ccae8e50c1c9580b77da88d
+62,62,227.png,he was a chicken,entailment,a6592894dcc687a477db9d955f5add38
+63,63,remaining-976.png,You should have done better.,contradiction,586347dd13e55686dfb3ce9b3d9cd38d
+64,64,576-1.png,He is completely shocked when you talk to him about it.,entailment,1e365e0b581a1e8bada9ededcab26ee4
+65,65,53-3.png,He was looking shy.,contradiction,9bf80b50adb75131c25c7e0d4f895322
+66,66,357-4.png,"geez, it's hot",entailment,ddc7736edb74a6ae02c2b3d635adc975
+67,67,522-2.png,"Even though it wasn't always noticeable, it was always palpable.",entailment,efc102196207c51a6374f7a215365c08
+68,68,786-2.png,I start to walk across the room cautiously.,entailment,225064e170d0db7602b265b6b340596f
+69,69,243.png,he was a tiger,entailment,3b724c17afc839ef51f517638159b0a6
+70,70,238.png,he was a chicken,contradiction,dd3baab15751b224cc61c94ba81db70d
+71,71,489-1.png,"I was jittery with anticipation at the thought of seeing Bo, despite all the other chaos in my life.",entailment,dbb0f425dc3c594b98175be2a09626b8
+72,72,233.png,he was a chicken,entailment,4d492f4a85d2fddf779eba04fe4a5046
+73,73,780-1.png,The bridge was fragile and thus crashes over the river.,contradiction,1f3789252b94beaf845742a34fff8aaf
+74,74,808-1.png,"Oscillators never stay on one frequency, they are always searching around to find the right frequency and go up and down.",entailment,098f25cc5e55d335a245d7486b01c2b2
+75,75,168-1.png,Wearing all black made her look healthy and safe.,contradiction,a7df2dc395e0e266c8c78c917ceb8ac1
+76,76,772-1.png,"His skin was rough, and he had a round face with golden curly hair.",contradiction,7f339d8b653b4fddfa5f4a51256d8c89
+77,77,remaining-1006.png,The team we inherited is the best on the league.,contradiction,0ea9bda1f5d7c6ab8abd9eb4bc62f1bb
+78,78,577.png,the car is a rocket,entailment,89ce4d7dd3434d9f600b958ae308bf5f
+79,79,669-2.png,Most of the immigrants that have come here are now successfully part of the local community.,entailment,e92c792ec1c8861e71b9ffd37860f5e0
+80,80,remaining-1026.png,Your destiny is irrelevant to your employer.,contradiction,63228bddeed99599e12bae394162d7a3
+81,81,388.png,house of cards,contradiction,26ef53617edf0d5b1a4c393d3419a7fd
+82,82,610-1.png,"Even though the world was in chaos, each day was repetitive and nearly identical for sister Mercy.",entailment,b150b9c9dd7b721ca2d35e054493a353
+83,83,241.png,he was a chicken,entailment,ec5a8f4e23d7c0cb586573f464a2f238
+84,84,392.png,house of cards,contradiction,a1f6f139bb1d51d0ef2b1f91f4e68798
+85,85,393.png,house of cards,entailment,b06fb5d58bfef3ef3f3df979b699bef5
+86,86,remaining-960.png,Their parents were not very creative.,contradiction,6672d9963435950cf48b4ab38984414e
+87,87,232.png,he was a chicken,contradiction,a1f987a039bf39fa9f65ce96eccd76db
+88,88,remaining-933.png,I really hope people realize some things.,entailment,1410b7cfd2f061485e9aeec58c60aed3
+89,89,112-1.png,She felt disgusted by it.,contradiction,ca379f901e85ef62aabdb136bf1d5217
+90,90,319-1.png,he felt a mild disappointment.,contradiction,7d0560a11014f893b3f87a44ec6a3fcf
+91,91,484-1.png,He pulls out a giant disc and holds it up shamefully.,contradiction,aa34bcbde25b24831390f258a82e878c
+92,92,183-3.png,"In it, anita looked frail and ethereal, yet somehow powerful",entailment,1802ecce073d31528536ad9942b978ef
+93,93,643-3.png,Her mother was definitely nervous - she was probably noticed.,entailment,f6af34728bc8ae7dced041792c8aa233
+94,94,527-2.png,"Charles, she's so beautiful and curvaceous.",contradiction,264bdc270c0b14583d7b0e77138f96a9
+95,95,655-3.png,In the worst of times we looked to misery.,contradiction,4904b374d95ed7f88b2995a4c837604d
+96,96,remaining-1050.png,Eating in Milan is cheaper than in other countries,contradiction,657d24cbde0b745f7c9b0063ab4505fb
+97,97,754-1.png,Most of law enforcement is now critical.,contradiction,d3ca106f91509b284b5ab4ef14d87650
+98,98,169-1.png,They searched thorougly through the job candidates.,entailment,6788ee0459a8b3326330af59b8e14357
+99,99,248.png,he was a tiger,contradiction,bf8ddbdd8835765b214081f93fb94c71
+100,100,remaining-975.png,I am very proud.,entailment,586347dd13e55686dfb3ce9b3d9cd38d
+101,101,133-1.png,They win their parents over with a pessimistic vision of the world.,contradiction,8770062ac0b8b8dff64f4ac25b5a559f
+102,102,496-1.png,He always wore a smile.,entailment,749ba87102268e806b8b44969819e9dd
+103,103,158.png,eyes were fireflies,contradiction,56f0a755ac411221d16617d243697566
+104,104,244.png,he was a tiger,contradiction,c26a121be73ec4bc22bc7d76e93530ef
+105,105,409-4.png,You began to stare off into space and smile in a way that looked safe.,contradiction,ca758a3f94c809e6bca5e92cb863ea4c
+106,106,797-4.png,He looked both ways and acted accordingly.,contradiction,19bf279d6cd3280d1c3edd9d2238269c
+107,107,247.png,he was a tiger,entailment,b7b2b19fe6a4a539bd22b79568039e63
+108,108,remaining-1055.png,The company does not promote initiative by design,entailment,0b056e91cd29b43ef16a632599ba115d
+109,109,12-1.png,The politician confronted the accusations head on.,contradiction,611f9f6fdb347429f7a1c03f3b254b56
+110,110,251.png,he was a tiger,entailment,90aeb7de07bbb1a3fd9f873621bfb82b
+111,111,568.png,the car is a rocket,contradiction,4d4d8cd619a57b7c2fb41f2ac31e2e84
+112,112,604-1.png,He could pick up her mind from miles away; it was always dark and foreboding.,contradiction,0294eba80f02006f96a6976d3b6f5473
+113,113,302-2.png,His cell phone went off in his pocket softly and gently.,contradiction,7d51135ae364330e929c54d828a1d359
+114,114,234.png,he was a chicken,contradiction,0a50f974b016fc9f1c8078f920b3f03f
+115,115,741-3.png,"Label: entailment
+Claim: A fly landed on the empty, staring vizor, and rode across it.",contradiction,52aa08908c985737f7e139bdcb6dc5f2
+116,116,743-1.png,The play is going to hurt few people.,entailment,b28068fc8c581b507bad1e16a2ab4f03
+117,117,229.png,he was a chicken,entailment,8577b12fb6bf22ce2dde765fa4888890
+118,118,384.png,house of cards,contradiction,0f413b7b94dbce34a9fda106305976aa
+119,119,506-4.png,My personal feelings and biases make me form a judgment about this situation.,entailment,a7a8f25b1e91e742be9ad354acc0b89e
+120,120,641-1.png,Such the spell I made upon you.,entailment,62b36f83a181a66819a2663ae52c04dd
+121,121,237.png,he was a chicken,entailment,84de3090708bb32df7a98497cc1f3f65
+122,122,170-4.png,Her forehead was smooth.,contradiction,7a676a524e372e740a94c8818966cb84
+123,123,571.png,the car is a rocket,entailment,90d62b82947c4496a75e0ea38f2dee02
+124,124,598-1.png,Create a new crisis by blocking the health care plan.,contradiction,d3e9643e752304ab62cc863bcd7e9dd6
+125,125,292-2.png,I live poverty-stricken,contradiction,3a63622540fc310b0e11c418bc2eefae
+126,126,383.png,house of cards,entailment,eb02efb39868a26e5b0a571131a7f29a
+127,127,252.png,he was a tiger,contradiction,cb6b276b4dcde06735e5991e03fa13b4
+128,128,240.png,he was a chicken,contradiction,5c1653bcb6f69e05e3a06e30f258da6f
+129,129,remaining-1049.png,Eating in Milan is expensive,entailment,657d24cbde0b745f7c9b0063ab4505fb
+130,130,151.png,eyes were fireflies,entailment,9fbc2fe013d499f7552e9872c1ffa4a1
+131,131,447-2.png,"Today, Carly wanted to feel like she was powerless.",contradiction,87dd2d2c4b06e0ffbd74a3a677f6c94d
+132,132,395.png,house of cards,entailment,6676389a8fd6c9c1a78e8135477d8ca9
+133,133,remaining-934.png,There is nothing wrong with society.,contradiction,878f78156146e4df131db90969b6eca9
+134,134,394.png,house of cards,contradiction,0502b20ea16bf5d763253c7468042cb9
+135,135,246.png,he was a tiger,contradiction,dd1a919d992bdabb53d6f5aa9a676050
+136,136,712-1.png,"£45,000 was the asking price and I was not astonished that the sale eventually took place .",contradiction,5a72180ef5b4d0e2a30b83da1e62ba34
+137,137,242-1.png,Prices are getting increasingly expensive .,entailment,eb0a490935ab5a49372f205c1ba52fe9
+138,138,777-1.png,"Everybody pays attention to the people who are simply there, reading dull bureaucratic reports or researching material about private information.",contradiction,d204fc53343ab6430425ae49e294f321
+139,139,573.png,the car is a rocket,entailment,a4b4af8827dda78946b958507ac21323
+140,140,503-2.png,She scratched the doorknob with nails.,entailment,cfc143802321fa6db80d068114c28683
+141,141,570.png,the car is a rocket,contradiction,12d2ddd181684ef1776cb83e35573d55
+142,142,737-1.png,As I walk through the grey mist that blocks my sight.,entailment,2aec6d30d3d8cd60f08eb345ea37c6ae
+143,143,156.png,eyes were fireflies,contradiction,23d39f3314cc1b38d2984bd2c9047220
+144,144,887-2.png,an anger he had suppressed for a long time overwhelmed him,entailment,ab5f6dc2699da5bd82244911379a5c17
+145,145,228.png,he was a chicken,contradiction,63f39de19c0a6160f89a9b3af747c82c
+146,146,202-1.png,The news just got you all hyped up and angry.,entailment,09ec9dae4251698de897c0c680d7fefa
+147,147,remaining-1043.png,An agreeable flight attendance helps business.,entailment,4c891ec97f01b4de9c4257669263fdc4
+148,148,576.png,the car is a rocket,contradiction,055e933e45cec2d1082d08da190cf520
+149,149,143-1.png,Adam closed the front door and stood there for a moment as if he could not pull himself away .,entailment,ce7b5d69d8e8afb0bea44ff6b48ec110
+150,150,154.png,eyes were fireflies,contradiction,92536c6c3abcc8d776acf3ff0afc7fc3
+151,151,175-2.png,The things he used to do every day and the things that used to concern him now felt silly and pointless.,entailment,5f2e60a9b3990f6851798a193885c716
+152,152,235.png,he was a chicken,entailment,815ce32711f7b2db273d1fae9dcdcaa5
+153,153,259-2.png,He had no memories to tell.,contradiction,d8deca0e297522b32447de605ceaf4d5
+154,154,639-2.png,"""Oh, and there's one more thing you can be sure of"", he added cheerfully.",contradiction,67b034fa71e551f13d690974e51c285e
+155,155,793-1.png,He was light.,contradiction,e5fada868574092c6222655db722bf07
+156,156,611-1.png,His eyes were blue and hot as they stared into mine.,entailment,c75fff43bf43f6a2da8e17e76e900c65
+157,157,152.png,eyes were fireflies,contradiction,6a358f0366d98b9177421ea9e4e6356d
+158,158,1035-4.png,A big event may be canceled or adapted negatively.,entailment,d39c8d0ab109ec2cc1e08e090f8d95fd
+159,159,148.png,eyes were fireflies,contradiction,335afd23f0dd90cbdc1574f4a70cf66a
+160,160,391.png,house of cards,entailment,76cd5c7f82be2fb97ff55bf7d12b5152
+161,161,730-1.png,"But this other world doesn't want to be known, it wants to remain hidden",entailment,93949eedce84ea79d10c136170b2e603
+162,162,400-1.png,"As governments become more and more authoritarian, they continue to put up a brave face.",entailment,9bd34164ef8ab5a8cb4e9d4f1c64afa6
+163,163,637-1.png,I had already sown the seeds of doubt in her mind.,contradiction,5adc5b965c63f44698e408b4dfc52db7
+164,164,572.png,the car is a rocket,contradiction,8c3e258fcaba68b39c9a04be0b45b7c8
+165,165,remaining-1005.png,The team was not performing well comparing to others in the same league.,entailment,0ea9bda1f5d7c6ab8abd9eb4bc62f1bb
+166,166,368-1.png,She was so ugly.,contradiction,71bc963a614c1d32da16fe6c1585c4d3
