@@ -1,4 +1,4 @@
-*** Running counting_code_git.py *** 
+# Running counting_code_git.py 
 First, you need to download the images from V-FLUTE. You can find them here: 
 1) TRAIN split: https://drive.google.com/file/d/1EgCFjiyZeqCTr5aC7tPRwKwdXWCMsosw/view?usp=sharing
 2) VALIDATION split: https://drive.google.com/file/d/1Jac9Jm3QX2-vfNqaM7EfyzrfDLFy_6uk/view?usp=sharing
