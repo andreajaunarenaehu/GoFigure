@@ -1,25 +1,25 @@
-# ImageMet: A General Purpose Multimodal Database for Metaphor Understanding
+# GoFigure! Seeing Beyond the Literal for the Benchmarking of Vision-Language Models
 
 <p align="center">
-   <a href="https://andreajaunarenaehu.github.io/ImageMet_project_page/"> Project Page </a> |
+   <a href="https://andreajaunarenaehu.github.io/GoFigure_project_page/"> Project Page </a> |
    <a href=""> Paper </a> |
-   <a href="https://huggingface.co/datasets/AndreaJaunarena-Cayetano/ImageMet"> ImageMet Dataset </a>
+   <a href="https://huggingface.co/datasets/AndreaJaunarena-Cayetano/GoFigure"> GoFigure Dataset </a>
    
 </p>
 
-This is the official implementation for the paper ImageMet: A General Purpose Multimodal Database for Metaphor Understanding
+This is the official implementation for the paper GoFigure! Seeing Beyond the Literal for the Benchmarking of Vision-Language Models
 
-## ImageMet dataset
+## GoFigure dataset
 
 ### Dataset Summary
 
-***ImageMet*** is a ***general-purpose multimodal dataset for metaphor understanding***, designed to evaluate how Vision Language Models (VLMs) and Multimodal Large Language Models (MLLMs) process figurative meaning across modalities (images and text). Unlike previous datasets, ImageMet supports ***multiple metaphor-related tasks***, including metaphor ***detection***, ***interpretation***, ***generation***, and ***cross-modal mapping***.
+***GoFigure*** is a ***general-purpose multimodal dataset for metaphor understanding***, designed to evaluate how Vision Language Models (VLMs) and Multimodal Large Language Models (MLLMs) process figurative meaning across modalities (images and text). Unlike previous datasets, GoFigure supports ***multiple metaphor-related tasks***, including metaphor ***detection***, ***interpretation***, ***generation***, and ***cross-modal mapping***.
 
 ![Examples_web_orria_40_2](https://github.com/user-attachments/assets/6d7a7b31-b45f-482e-bc0b-db7761d54edb)
 
 #### Dataset instances
 
-***ImageMet*** has 639 instances consisting of: 
+***GoFigure*** has 639 instances consisting of: 
 * ***visual metaphor*** (image), 
 * the ***source*** and the ***target*** of the conceptual mapping,
 * the ***generated linguistic metaphor***,
@@ -34,7 +34,7 @@ This is the official implementation for the paper ImageMet: A General Purpose Mu
 
 To load data with datasets:
 ```python
->>> ds = load_dataset("AndreaJaunarena-Cayetano/ImageMet")
+>>> ds = load_dataset("AndreaJaunarena-Cayetano/GoFigure")
 ```
 
 #### Instance example
