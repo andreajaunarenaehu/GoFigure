@@ -71,7 +71,7 @@ Each instance has the following structure:
 │            └── visual_elaboration                          #  Generated visual elaborations are saved in this folder
 │        └── ISM_few_shot_examples.txt                       #  Prompt 
 │        └── ISM_modified.txt                                #  Prompt 
-│        └── ImageMet_with_contradictions.csv                #  Generated contradicting metaphors with the other text
+│        └── GoFigure_with_contradictions.csv                #  Generated contradicting metaphors with the other text
 │        └── final_generation.py                             #  python code for generating the text 
 │        └── generate_contradictions.txt                     #  Generated contradicting metaphors
 │        └── generate_figurate_contradictions.py             #  python code for generating the contradicting metaphors   
@@ -82,16 +82,16 @@ Each instance has the following structure:
 │   ├── I2T and T2I Retrival                                 #  Folder for running both i2t and t2i retrieval                    
 │   │   ├── CLIP                                             #  Experiments with CLIP model 
 │            └── clip_retrieval.py                           #  python code for doing retrieval with CLIP 
-│            └── results_ImageMet_retrieval_i2t_clip.csv     #  clip i2t results 
-│            └── results_ImageMet_retrieval_t2i_clip.csv     #  clip t2i results                         
+│            └── results_GoFigure_retrieval_i2t_clip.csv     #  clip i2t results 
+│            └── results_GoFigure_retrieval_t2i_clip.csv     #  clip t2i results                         
 │   │   └── SigLIP                                           #  Experiments with SigLIP model 
 │            └── siglip_retrieval.py                         #  python code for doing retrieval with SigLIP 
-│            └── results_ImageMet_retrieval_i2t_siglip.csv   #  siglip i2t results 
-│            └── results_ImageMet_retrieval_t2i_siglip.csv   #  siglip t2i results    
+│            └── results_GoFigure_retrieval_i2t_siglip.csv   #  siglip i2t results 
+│            └── results_GoFigure_retrieval_t2i_siglip.csv   #  siglip t2i results    
 │   │   └── SigLIP 2                                         #  Experiments with SigLip 2 model 
 │            └── siglip2_retrieval.py                        #  python code for doing retrieval with SigLip 2 
-│            └── results_ImageMet_retrieval_i2t_siglip2.csv  #  siglip 2 i2t results 
-│            └── results_ImageMet_retrieval_t2i_siglip2.csv  #  siglip 2 t2i results            
+│            └── results_GoFigure_retrieval_i2t_siglip2.csv  #  siglip 2 i2t results 
+│            └── results_GoFigure_retrieval_t2i_siglip2.csv  #  siglip 2 t2i results            
 │   ├── Metaphor generation                                  #  Folder for running metaphor generation experiments                       
 │   │   ├── JudgeLMs rankings                                #  Folder for running judgelms rankings                         
 │   │   │   ├── Command A JudgeLM results                    #  results for command a     
@@ -104,22 +104,22 @@ Each instance has the following structure:
 │   ├── Visual Entailment                                    #  Folder for running visual entailment                      
 │   │   ├── CLIP                                             #  Experiments with CLIP model 
 │   │       ├── clip_ve.py                                   #  python code for running ve with clip 
-│   │       ├── results_ImageMet_ve_clip.csv                 #  clip results          
+│   │       ├── results_GoFigure_ve_clip.csv                 #  clip results          
 │   │   ├── SigLIP                                           #  Experiments with SigLIP model
 │   │       ├── siglip_ve.py                                 #  python code for running ve with siglip 
-│   │       ├── results_ImageMet_ve_siglip.csv               #  siglip results 
+│   │       ├── results_GoFigure_ve_siglip.csv               #  siglip results 
 │   │   ├── SigLIP 2                                         #  Experiments with SigLIP 2 model  
 │   │       ├── siglip2_ve.py                                #  python code for running ve with siglip 2 
-│   │       ├── results_ImageMet_ve_siglip2.csv              #  siglip 2 results   
+│   │       ├── results_GoFigure_ve_siglip2.csv              #  siglip 2 results   
 │   │   └── Qwen 2.5 VL                                      #  Experiments with Qwen 2.5 VL model  
 │   │       ├── qwen2.5_ve.py                                #  python code for running ve with qwen 2.5 VL 
-│   │       ├── results_ImageMet_ve_qwen2.5.csv              #  qwen 2.5 VL results 
+│   │       ├── results_GoFigure_ve_qwen2.5.csv              #  qwen 2.5 VL results 
 │   │   └── LLaVA 1.6                                        #  Experiments with LLaVA 1.6 model 
 │   │       ├── llava1.6_ve.py                               #  python code for running ve with LLaVA 1.6 
-│   │       ├── results_ImageMet_ve_llava1.6.csv             #  llava 1.6 results 
+│   │       ├── results_GoFigure_ve_llava1.6.csv             #  llava 1.6 results 
 │   │   └── Llama 3.2                                        #  Experiments with Llama 3.2 model 
 │   │       ├── llama3.2_ve.py                               #  python code for running ve with llama 3.2
-│   │       ├── results_ImageMet_ve_llama3.2.csv             #  llama 3.2 results   
+│   │       ├── results_GoFigure_ve_llama3.2.csv             #  llama 3.2 results   
 ```
 
 ## License
